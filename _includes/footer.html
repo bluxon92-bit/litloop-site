@@ -1,0 +1,45 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-inner">
+
+      <div class="footer-brand">
+        <img src="{{ '/assets/images/litloop-logo.png' | relative_url }}" alt="Litloop" class="footer-logo-img">
+        <p>Because books are better shared. Track your reading, send personal recommendations, and have real conversations about the stories you love.</p>
+        <a href="{{ '/#waitlist' | relative_url }}" class="btn btn-primary" style="margin-top:1.25rem; display:inline-flex;">Join the waitlist</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>Explore</h4>
+        <a href="{{ '/blog/' | relative_url }}">All posts</a>
+        <a href="{{ '/genres/fantasy/' | relative_url }}">Fantasy</a>
+        <a href="{{ '/genres/sci-fi/' | relative_url }}">Science fiction</a>
+        <a href="{{ '/genres/horror/' | relative_url }}">Horror</a>
+        <a href="{{ '/genres/dystopian/' | relative_url }}">Dystopian</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <a href="{{ '/tools/fantasy-prompts/' | relative_url }}">Fantasy prompts</a>
+        <a href="{{ '/tools/scifi-prompts/' | relative_url }}">Sci-fi prompts</a>
+        <a href="{{ '/tools/horror-prompts/' | relative_url }}">Horror prompts</a>
+        <a href="{{ '/tools/name-generator/' | relative_url }}">Name generator</a>
+        <a href="{{ '/tools/quiz/' | relative_url }}">What should I read?</a>
+        <a href="{{ '/free-downloads/' | relative_url }}">Free sci-fi stories</a>
+        <a href="{{ '/free-downloads/horror/' | relative_url }}">Free horror stories</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>Litloop</h4>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/terms/' | relative_url }}">Terms &amp; conditions</a>
+        <a href="{{ '/cookie-policy/' | relative_url }}">Privacy &amp; cookies</a>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: "%Y" }} Litloop. All rights reserved.</p>
+      <p>Formerly <a href="https://cabbagetreebooks.com" style="color:rgba(255,255,255,0.4);">Cabbage Tree Books</a></p>
+    </div>
+  </div>
+</footer>

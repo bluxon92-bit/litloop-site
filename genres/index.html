@@ -1,0 +1,43 @@
+---
+layout: default
+title: "Browse by genre"
+description: "Explore book recommendations, reviews and reading guides by genre."
+permalink: /genres/
+---
+
+<div class="genre-header">
+  <div class="container">
+    <h1>Browse by genre</h1>
+    <p>Sci-fi, fantasy, horror, dystopian — find your next read.</p>
+  </div>
+</div>
+
+<div class="container" style="padding:3rem 0;">
+  <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:1.5rem;">
+
+    <a href="{{ '/genres/fantasy/' | relative_url }}" style="display:block; background:var(--cream); border-radius:var(--radius-lg); padding:2rem; text-decoration:none; transition:box-shadow 0.2s, transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 8px 24px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='';this.style.boxShadow=''">
+      <div style="font-size:2rem; margin-bottom:0.75rem;">⚔️</div>
+      <h3 style="color:var(--navy); font-size:1.125rem; margin-bottom:0.4rem;">Fantasy</h3>
+      <p style="font-size:0.875rem; color:var(--text-muted);">Epic worlds, magic systems, and unforgettable characters.</p>
+    </a>
+
+    <a href="{{ '/genres/sci-fi/' | relative_url }}" style="display:block; background:var(--cream); border-radius:var(--radius-lg); padding:2rem; text-decoration:none; transition:box-shadow 0.2s, transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 8px 24px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='';this.style.boxShadow=''">
+      <div style="font-size:2rem; margin-bottom:0.75rem;">🚀</div>
+      <h3 style="color:var(--navy); font-size:1.125rem; margin-bottom:0.4rem;">Science Fiction</h3>
+      <p style="font-size:0.875rem; color:var(--text-muted);">Big ideas, far futures, and speculative worlds.</p>
+    </a>
+
+    <a href="{{ '/genres/horror/' | relative_url }}" style="display:block; background:var(--cream); border-radius:var(--radius-lg); padding:2rem; text-decoration:none; transition:box-shadow 0.2s, transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 8px 24px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='';this.style.boxShadow=''">
+      <div style="font-size:2rem; margin-bottom:0.75rem;">🕯️</div>
+      <h3 style="color:var(--navy); font-size:1.125rem; margin-bottom:0.4rem;">Horror</h3>
+      <p style="font-size:0.875rem; color:var(--text-muted);">Psychological dread, gothic atmosphere, and the uncanny.</p>
+    </a>
+
+    <a href="{{ '/genres/dystopian/' | relative_url }}" style="display:block; background:var(--cream); border-radius:var(--radius-lg); padding:2rem; text-decoration:none; transition:box-shadow 0.2s, transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 8px 24px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='';this.style.boxShadow=''">
+      <div style="font-size:2rem; margin-bottom:0.75rem;">🌆</div>
+      <h3 style="color:var(--navy); font-size:1.125rem; margin-bottom:0.4rem;">Dystopian</h3>
+      <p style="font-size:0.875rem; color:var(--text-muted);">Societies at the edge, futures gone wrong.</p>
+    </a>
+
+  </div>
+</div>

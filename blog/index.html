@@ -1,0 +1,139 @@
+---
+layout: default
+title: "Blog — Book reviews, recommendations & reading guides"
+description: "Fantasy, sci-fi, horror and beyond. Book reviews, author guides and reading lists from the Litloop team."
+permalink: /blog/
+---
+
+<div class="blog-header">
+  <div class="container">
+    <h1>Reading guides &amp; reviews</h1>
+    <p>Fantasy, sci-fi, horror and beyond — reviews, author guides, and reading lists.</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="blog-layout">
+
+    <!-- ── LEFT SIDEBAR ─────────────────────── -->
+    <aside class="blog-sidebar">
+
+      <div class="sidebar-block">
+        <label for="blog-search" class="sidebar-block-label">Search</label>
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" width="16" height="16"><circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.5"/><path d="M13 13l3.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+          <input type="search" id="blog-search" class="search-input" placeholder="Search posts…" aria-label="Search posts">
+        </div>
+      </div>
+
+      <div class="sidebar-cta">
+        <p class="sidebar-cta-eyebrow">Coming soon</p>
+        <h3>Talk about books with friends.</h3>
+        <p>Litloop is a reading app built for conversation — track, recommend, and discuss the books you love.</p>
+        <a href="{{ '/#waitlist' | relative_url }}" class="btn btn-primary" style="width:100%; justify-content:center;">Join the waitlist</a>
+        <p class="sidebar-cta-micro">No spam. First access at launch.</p>
+      </div>
+
+    </aside>
+
+    <!-- ── MAIN CONTENT ──────────────────────── -->
+    <div class="blog-main">
+
+      <!-- Filter bar above posts -->
+      <div class="blog-filter-bar">
+        <div class="blog-filter-group">
+          <button class="filter-pill active" data-filter="all">All</button>
+          <button class="filter-pill" data-filter="Book Reviews">Reviews</button>
+          <button class="filter-pill" data-filter="Book Recommendations">Recommendations</button>
+          <button class="filter-pill" data-filter="Author Profiles">Author profiles</button>
+        </div>
+        <div class="blog-filter-group">
+          <button class="genre-pill active" data-genre="all">All genres</button>
+          <button class="genre-pill" data-genre="Fantasy">Fantasy</button>
+          <button class="genre-pill" data-genre="Science Fiction">Sci-fi</button>
+          <button class="genre-pill" data-genre="Horror">Horror</button>
+        </div>
+      </div>
+
+      <div class="blog-results-bar">
+        <span id="results-count"></span>
+        <span id="no-results" style="display:none; color:var(--text-muted); font-style:italic;">No posts found — try a different search.</span>
+      </div>
+
+      <div class="blog-grid" id="posts-list">
+        {% for post in site.posts %}
+        <article class="post-card"
+          data-category="{{ post.category | default: 'Book Recommendations' }}"
+          data-genre="{{ post.genre | default: '' }}"
+          data-title="{{ post.title | downcase }}"
+          data-excerpt="{{ post.excerpt | strip_html | downcase | truncate: 200 }}">
+          <div class="post-card-image">
+            {% if post.image and post.image != "" %}
+            <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+            {% else %}
+            <div class="post-card-no-image" style="background:var(--navy);">✦</div>
+            {% endif %}
+          </div>
+          <div class="post-card-body">
+            {% if post.category %}
+            <div class="post-card-meta">{{ post.category }}</div>
+            {% endif %}
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+            <div class="post-card-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function() {
+  var searchInput  = document.getElementById('blog-search');
+  var filterPills  = document.querySelectorAll('.filter-pill');
+  var genrePills   = document.querySelectorAll('.genre-pill');
+  var posts        = document.querySelectorAll('#posts-list .post-card');
+  var count        = document.getElementById('results-count');
+  var noResults    = document.getElementById('no-results');
+  var activeCategory = 'all';
+  var activeGenre    = 'all';
+  var searchTerm     = '';
+  function update() {
+    var visible = 0;
+    posts.forEach(function(post) {
+      var matchCat    = activeCategory === 'all' || post.dataset.category === activeCategory;
+      var matchGenre  = activeGenre === 'all' || post.dataset.genre === activeGenre;
+      var matchSearch = !searchTerm || post.dataset.title.includes(searchTerm) || post.dataset.excerpt.includes(searchTerm);
+      if (matchCat && matchGenre && matchSearch) { post.style.display = ''; visible++; }
+      else { post.style.display = 'none'; }
+    });
+    count.textContent = visible + ' post' + (visible !== 1 ? 's' : '');
+    noResults.style.display = visible === 0 ? '' : 'none';
+    count.style.display = visible === 0 ? 'none' : '';
+  }
+  filterPills.forEach(function(pill) {
+    pill.addEventListener('click', function() {
+      filterPills.forEach(function(p) { p.classList.remove('active'); });
+      pill.classList.add('active');
+      activeCategory = pill.dataset.filter;
+      update();
+    });
+  });
+  genrePills.forEach(function(pill) {
+    pill.addEventListener('click', function() {
+      genrePills.forEach(function(p) { p.classList.remove('active'); });
+      pill.classList.add('active');
+      activeGenre = pill.dataset.genre;
+      update();
+    });
+  });
+  searchInput.addEventListener('input', function() {
+    searchTerm = searchInput.value.toLowerCase().trim();
+    update();
+  });
+  update();
+})();
+</script>

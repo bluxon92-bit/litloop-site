@@ -1,0 +1,69 @@
+---
+layout: default
+title: Dystopian Fiction — The Complete Guide
+description: The best dystopian novels from 1984 to Station Eleven — dark futures, authoritarian nightmares, and cautionary tales.
+permalink: /genres/dystopian/
+---
+
+<div class="genre-hub-hero genre-hub-hero--dystopian">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Dystopian <em>Fiction</em></h1>
+    <p>Dark futures, authoritarian nightmares, and cautionary tales for the present. Essential dystopian fiction from 1984 to Station Eleven.</p>
+    <div class="hero-tags">
+      <span>Classic Dystopia</span><span>Post-Apocalyptic</span><span>Political Fiction</span><span>Speculative</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Dystopian</em> Fiction</h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;">Dystopian fiction holds up a mirror to the present — the best of it isn't prediction but diagnosis. These stories ask what happens when the worst tendencies of human society go unchecked.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The classics:</strong> Orwell's <em>Nineteen Eighty-Four</em> and Huxley's <em>Brave New World</em> remain essential — not because they predicted the future, but because they named things that needed naming.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For modern dystopia:</strong> Margaret Atwood's <em>The Handmaid's Tale</em> is the defining modern text. Kazuo Ishiguro's <em>Never Let Me Go</em> is quieter and more devastating.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For post-apocalyptic:</strong> Cormac McCarthy's <em>The Road</em> strips everything back to what matters. Emily St. John Mandel's <em>Station Eleven</em> is the more hopeful counterpoint.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"><strong>Underrated:</strong> Ursula K. Le Guin's <em>The Dispossessed</em> is the most genuinely political — and philosophically rigorous — dystopian novel ever written.</p>
+    <a href="{{ '/blog/?category=Book+Recommendations' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+{% assign dys_posts = site.posts | where: "genre", "Dystopian" %}
+{% if dys_posts.size > 0 %}
+<section class="section" style="background:var(--white); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Dystopian <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in dys_posts limit:3 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image">
+          <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+        </div>
+        {% else %}
+        <div class="blog-card-image" style="background:linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); display:flex; align-items:center; justify-content:center;">
+          <span style="font-family:var(--font-display); font-size:2rem; color:rgba(255,255,255,0.15);">⚠</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

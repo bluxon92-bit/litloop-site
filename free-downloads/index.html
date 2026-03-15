@@ -1,0 +1,96 @@
+---
+layout: default
+title: Free Sci-Fi Short Stories — Download
+description: Get Ben Luxon's original science fiction short stories free. Enter your email and we'll send them straight to you.
+permalink: /free-downloads/
+---
+
+<div class="tool-hero tool-hero--scifi">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Free Download</span>
+    </div>
+    <h1>Free Sci-Fi<br><em>Short Stories</em></h1>
+    <p>Original science fiction from Ben Luxon — spanning hard SF, space opera, and speculative fiction. Enter your email and get instant access.</p>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:680px;">
+
+    <div class="lead-gen-card">
+
+      <!-- STEP 1: Email form (shown by default) -->
+      <div class="lead-gen-step" id="lg-step1">
+
+        <div class="lead-gen-book-preview lead-gen-book-preview--scifi">
+          <div class="book-preview-icon">◈</div>
+          <div class="book-preview-meta">
+            <h2>Sci-Fi Short Story Collection</h2>
+            <p>Original short fiction by <strong>Ben Luxon</strong></p>
+          </div>
+        </div>
+
+        <ul class="download-features" style="margin-bottom:2rem;">
+          <li>Multiple original stories</li>
+          <li>Hard SF, space opera &amp; speculative fiction</li>
+          <li>Instant access — sent straight to your inbox</li>
+        </ul>
+
+        <div class="lead-gen-form-wrap">
+          <p class="lead-gen-label">Enter your email to get instant access:</p>
+          <div class="ml-embedded" data-form="0hveDb"></div>
+          <p class="lead-gen-small">No spam. You'll also receive occasional book recommendations from Litloop. Unsubscribe any time.</p>
+        </div>
+
+        <div class="lead-gen-divider">
+          <span>or</span>
+        </div>
+
+        <p class="lead-gen-direct-link">
+          Already subscribed? <button class="btn-text-link" id="lg-scifi-show-direct">Click here to go straight to the download →</button>
+        </p>
+
+      </div>
+
+      <!-- STEP 2: Thank you + download link (hidden until form submit) -->
+      <div class="lead-gen-step lead-gen-thankyou" id="lg-step2" style="display:none;">
+        <div class="thankyou-icon">✦</div>
+        <h2>You're all set!</h2>
+        <p>Check your inbox — the stories are on their way. While you wait, you can also download directly below.</p>
+        <!-- Replace href with actual PDF URL when ready -->
+        <a href="{{ site.scifi_download_url | default: '#' }}" class="btn-download btn-download--large" download>
+          <span class="btn-download-icon">↓</span>
+          Download Now (PDF)
+        </a>
+        <p class="lead-gen-small" style="margin-top:1rem;">Also available at <a href="{{ site.sister_site.url }}" target="_blank" rel="noopener">benluxonauthor.com</a></p>
+      </div>
+
+    </div>
+
+    <div style="margin-top:3rem;">
+      <h3 style="font-family:var(--font-display); font-size:1.2rem; margin-bottom:1rem;">You might also enjoy</h3>
+      <div style="display:flex; gap:1rem; flex-wrap:wrap;">
+        <a href="{{ '/genres/sci-fi/' | relative_url }}" class="btn btn-outline">Sci-Fi Reading Guide →</a>
+        <a href="{{ '/tools/scifi-prompts/' | relative_url }}" class="btn btn-outline">Sci-Fi Prompt Generator →</a>
+        <a href="{{ '/free-downloads/horror/' | relative_url }}" class="btn btn-outline">Free Horror Stories →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+// Show download directly if user clicks "already subscribed"
+document.getElementById('lg-scifi-show-direct')?.addEventListener('click', function() {
+  document.getElementById('lg-step1').style.display = 'none';
+  document.getElementById('lg-step2').style.display = 'block';
+});
+
+// Listen for MailerLite successful submission, then reveal download
+document.addEventListener('ml-form-success', function() {
+  document.getElementById('lg-step1').style.display = 'none';
+  document.getElementById('lg-step2').style.display = 'block';
+});
+</script>

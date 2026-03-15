@@ -1,0 +1,329 @@
+---
+layout: default
+title: Horror Writing Prompt Generator
+description: Free horror writing prompt generator. Generate prompts for psychological horror, gothic fiction, supernatural terror, and more. Beat writer's block instantly.
+permalink: /tools/horror-prompts/
+---
+
+<div class="tool-hero tool-hero--horror">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Horror Writing<br><em>Prompt Generator</em></h1>
+    <p>Beat writer's block instantly. Generate prompts for psychological horror, gothic fiction, supernatural terror, and body horror — from unsettling to terrifying.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="prompt-gen-card">
+
+      <div class="prompt-controls">
+        <div class="control-group">
+          <label>Category</label>
+          <div class="pill-group" id="hp-category">
+            <button class="pill active" data-value="plot">Plot</button>
+            <button class="pill" data-value="character">Character</button>
+            <button class="pill" data-value="setting">Setting</button>
+            <button class="pill" data-value="supernatural">Supernatural</button>
+            <button class="pill" data-value="psychological">Psychological</button>
+            <button class="pill" data-value="opening">Opening Line</button>
+          </div>
+        </div>
+
+        <div class="control-group">
+          <label>Tone</label>
+          <div class="tone-slider-wrap">
+            <span class="tone-label tone-label--left">😰 Unsettling</span>
+            <input type="range" id="hp-tone" min="0" max="2" step="1" value="1" class="tone-slider">
+            <span class="tone-label tone-label--right">💀 Terrifying</span>
+          </div>
+          <div class="tone-display" id="hp-tone-display">Dread-filled</div>
+        </div>
+
+        <button class="btn-generate btn-generate--horror" id="hp-generate">
+          <span class="btn-generate-icon">☽</span>
+          Generate Prompt
+        </button>
+      </div>
+
+      <div class="prompt-output" id="hp-output">
+        <p class="ng-placeholder">Select a category and tone, then hit Generate Prompt.</p>
+      </div>
+
+      <div class="prompt-actions" id="hp-actions" style="display:none;">
+        <button class="btn-copy" id="hp-copy">Copy prompt</button>
+        <button class="btn-save" id="hp-save">Save ♡</button>
+        <button class="btn-regen" id="hp-regen">New prompt ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="saved-prompts-card" id="hp-saved-wrap" style="display:none;">
+        <h4>Saved prompts <button class="btn-clear" id="hp-clear-saved">Clear all</button></h4>
+        <div id="hp-saved-list"></div>
+      </div>
+      <div class="sidebar-card">
+        <h3>Writing horror that works</h3>
+        <ul>
+          <li>The unseen is almost always scarier than the seen — delay the reveal</li>
+          <li>Ground horror in the mundane; a familiar setting made wrong is more disturbing than an alien one</li>
+          <li>Give your monster a logic — even if the reader never fully understands it</li>
+          <li>Psychological horror lives in doubt — your character should never be fully certain</li>
+          <li>The best horror endings don't resolve the dread — they deepen it</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--dark">
+        <h3>Also on Cabbage Tree</h3>
+        <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" class="sidebar-link">Fantasy Prompt Generator →</a>
+        <a href="{{ '/tools/scifi-prompts/' | relative_url }}" class="sidebar-link">Sci-Fi Prompt Generator →</a>
+        <a href="{{ '/genres/horror/' | relative_url }}" class="sidebar-link">Explore Horror Books →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+const toneLabels = ['Unsettling', 'Dread-filled', 'Terrifying'];
+document.getElementById('hp-tone').addEventListener('input', e => {
+  document.getElementById('hp-tone-display').textContent = toneLabels[e.target.value];
+});
+
+const prompts = {
+  plot: {
+    0: [
+      "A woman begins to notice that her neighbours all pause at the same moment every evening — just for a second, mid-sentence, mid-movement — then continue as if nothing happened. She has never paused. They have started to notice.",
+      "A small-town librarian discovers that every book returned in the past year has had a single page rewritten — not printed differently, but handwritten in the margins, in a script she almost recognises.",
+      "A family moves into a new house and discovers a room that doesn't appear on any floor plan. It's clean, furnished, and clearly lived in. There is a calendar on the wall. Today's date is circled.",
+      "A woman keeps finding photographs of herself in places she's never been — inside old photo albums at estate sales, tucked into library books, in charity shop shoeboxes. She looks the same age in all of them.",
+      "A man discovers that his shadow doesn't always match his movements. Only occasionally. Only when he thinks no one is watching.",
+      "A grief counsellor starts receiving calls from a number she doesn't recognise. The caller never speaks — but she can hear breathing, and occasionally a voice that sounds like her late sister.",
+      "A new neighbour bakes the whole street a welcome cake. By the following week, everyone who ate it has started keeping their curtains closed during the day.",
+      "A woman house-sitting for a friend finds a logbook in the kitchen drawer. Previous house-sitters have been logging things they heard at night. The entries stop two weeks ago. She arrived two weeks ago.",
+    ],
+    1: [
+      "A detective investigating a series of disappearances discovers that all the missing people shared one thing: they had all, at some point, reported the same recurring dream. She had the dream last night.",
+      "A night-shift security guard at a museum begins to document the movements of the exhibits after hours. The footage is never wrong. The exhibits are never where they should be. Something else always is.",
+      "A couple buys a house at auction and discovers a locked basement room. Inside is a mattress, a toilet, and a wall covered in tally marks — recent ones. The previous owners claim to know nothing about it.",
+      "A woman helping to clear her deceased mother's house discovers a second set of her mother's diaries — covering the same years as the ones she knew, but describing an entirely different life.",
+      "A coastal village holds an annual ceremony that nobody will explain to outsiders. A journalist who moves there to investigate disappears before she can file her story. Her notes arrive at the newspaper three weeks later, in someone else's handwriting.",
+      "A children's hospital reports that patients on one ward are all dreaming the same dream. The children who recover from it stop speaking. The ones who don't recover still wake up.",
+      "A man inherits a farmhouse and finds that every clock in it is stopped at the same time. Not the same model, not bought together — every clock, going back a hundred years, stopped at 3:17.",
+      "A true crime podcaster researching a cold case receives an anonymous tip that leads her to the original detective's private notes. The notes suggest the case was closed deliberately. The original detective left one final entry, dated the day before he died: 'Don't look any further than this.'",
+    ],
+    2: [
+      "A paramedic notices she has been called to the same address six times in the past year — different incidents, different patients. The address is her childhood home. She grew up somewhere else.",
+      "A support group for insomnia attracts a new member who claims she hasn't slept in four years. She appears in the group's twelve-year-old archive photographs, looking identical. She doesn't remember being there.",
+      "A woman wakes in a hospital with no memory of how she arrived. She is told she was found outside, unharmed, in the clothes she wore the night she disappeared — fourteen years ago.",
+      "A man begins finding evidence that he has lived his current life before. Not déjà vu — physical evidence. Notes in his own handwriting he doesn't remember writing. Each set ends the same way.",
+      "A forensic anthropologist identifies human remains matching no missing persons case, because the DNA matches a living person. The living person has no twin. The bones are twenty years old. The living person is twenty years old.",
+      "A woman discovers she has been sleepwalking to the same location every night for three months. She sets up a camera. On the third night, something is standing next to her. It isn't there on the other nights. It watches her the entire time.",
+      "A man wakes up on the wrong side of his bed every morning for a week. Not the wrong side of his bed — the wrong side of a bed in a different house, a different town, returning to his own life with no memory of how he got there.",
+      "A woman agrees to participate in a sleep study. The study ends abruptly after two days. She is paid in full and told her results were inconclusive. She finds her own name in the study's published findings three years later — listed under subjects who did not complete the trial.",
+    ]
+  },
+  character: {
+    0: [
+      "A child who insists, with total calm, that she has an invisible friend — but the friend has been leaving physical evidence. The child seems more worried about her parents' reaction than about the friend itself.",
+      "An elderly man who has lived in the same house for sixty years begins leaving notes for himself on the fridge. His daughter, visiting for the first time in years, realises the notes are warnings — and some are dated next week.",
+      "A nurse who has worked nights for thirty years and claims she has never been afraid. On her last shift before retirement, she sees something in the east wing that she recognises. She first saw it when she was eight.",
+      "A folklorist documenting rural traditions in a remote community begins to notice the locals behave differently when they think she has stopped recording. She is always recording.",
+      "A man who sleepwalks so regularly that he has installed locks, alarms, and cameras throughout his house. He reviews the footage every morning. Last night, he didn't sleepwalk. Something else opened the door from outside and watched him sleep.",
+    ],
+    1: [
+      "A grief-stricken father who, six months after his daughter's death, begins receiving text messages from her old phone — which was buried with her. The messages know things only she would know. He responds.",
+      "A hospice nurse who has sat with hundreds of dying patients. They all, without exception, look at the same corner of the room in their final moments. She has arranged her schedule to always work the night shift. She needs to see what they see.",
+      "A woman who discovers she cannot be photographed. Not that cameras malfunction — she simply doesn't appear. She has found photographs going back thirty years. She is in none of them. She remembers being there.",
+      "A child psychologist treating a seven-year-old for night terrors. The child draws the same figure in every session — tall, featureless, standing at a window. After three months, the psychologist recognises the window. It's in her own house.",
+      "A man who works as a professional house-clearer — emptying the homes of the deceased. He has started keeping objects from the houses. He isn't sure why. He has started talking to them.",
+    ],
+    2: [
+      "A woman who has survived three separate incidents that should have killed her. She knows she should feel lucky. The thing that walks beside her doesn't feel lucky. It feels patient.",
+      "A psychiatrist treating a patient who claims to have memories of being someone else — someone who died violently, recently, in a city the patient has never visited. The case details match perfectly. The patient starts describing things not yet made public.",
+      "A man who realises, gradually and then all at once, that he has no memories before the age of twelve. Not trauma-suppressed — simply absent. He hires a private investigator. The investigator calls once, in a panic, and then disappears.",
+      "A woman institutionalised three times for the same delusion: that something is living in her house that isn't human and isn't there all the time. She has been discharged, medicated, declared well. She has stopped reporting what she sees. She has not stopped seeing it.",
+      "A documentarian filming a man who claims to be the last practitioner of a dying folk tradition. The more footage she reviews, the more certain she becomes that the man in the footage is not the same man she interviews. They are identical. They are not the same.",
+    ]
+  },
+  setting: [
+    "A lighthouse on a coast where no ships have sailed for forty years. The light still turns. The keeper's log is still being written. The keeper disappeared in 1987.",
+    "A hotel that has been closed for renovation for eleven years. The renovation crew quit in the first week. No one has gone back. Guests still check in online. They leave reviews.",
+    "A perfectly preserved village in a valley that doesn't appear on any map made after 1953. The villagers are friendly and speak of events from seventy years ago as if they happened last week.",
+    "A hospital wing sealed after an incident in the 1970s. The official record was expunged. The unofficial one — written by the only nurse who worked there — turns up in an estate sale box.",
+    "A forest that local children are warned away from with a specificity that suggests recent, personal knowledge. Not 'don't go into the forest' — 'don't go past the second oak, never before dusk, and always tell someone exactly where you're going.'",
+    "A terraced house on an ordinary street. The house on the left has been empty for three years. The house on the right has been empty for three years. The family in the middle has never met their neighbours. They've heard them, though.",
+    "A university archive room containing documents never formally catalogued. The most recent items are dated this year. The collection was sealed in 1962.",
+    "A small town where the local church has been locked for twenty years after the entire congregation left overnight. The town built a new church. No one talks about why.",
+    "A rural road that everyone in the area knows not to take after dark — not because of crime or poor conditions, but because of what happens when you count the mile markers. There are always too many.",
+    "A family home that passes from owner to owner every few years. Each owner leaves quickly, under different circumstances. The estate agent who keeps selling it is the same person. She has been the same age for thirty years.",
+  ],
+  supernatural: {
+    0: [
+      "A ghost that doesn't know it's dead, and is slowly beginning to suspect. Write the moment of realisation.",
+      "A haunting that is entirely benign — the ghost just wants to finish something left undone. Write the living person who keeps getting in the way.",
+      "A creature that has been watching a family for three generations. It has never intervened. Something has changed that makes intervention feel necessary.",
+      "A witch who has been making a deal with something every decade for two hundred years. The deals have always been fair. This decade's deal isn't.",
+      "A place that was cursed so long ago that no one remembers the cause. The curse has become tradition. The person who tries to end it discovers why it was necessary.",
+    ],
+    1: [
+      "Something has been living in a family's house since before the house was built. It is patient. It has learned that patience is more effective than hunger.",
+      "A ghost tied not to a place but to an object — an ordinary object that has passed through dozens of hands. Write the person who finally notices.",
+      "A demon that collects not souls but specific memories — only the ones people most want to keep. Write the person who realises what has been taken.",
+      "A haunted mirror that shows not the future or the past but a parallel present — one where a single decision was made differently. The person looking into it cannot stop.",
+      "A creature that takes the shape of whoever you most want to see. It is perfect. It is always slightly wrong. The wrongness is impossible to name and impossible to ignore.",
+    ],
+    2: [
+      "Something old has woken because the thing keeping it dormant has finally died. That thing was a person. They knew, and made a choice. Write what happens when the family finds their journals.",
+      "A god forgotten so long it has become something else — something that doesn't remember what worship felt like. Write its first encounter with someone who believes.",
+      "A haunting so old it has outlasted everyone who knew what it was or why it started. The current residents are the tenth family. They have found notes left by the others. The notes contradict each other on everything except one detail.",
+      "A creature that feeds not on fear or flesh but on certainty — specifically the certainty that the world is ordered and comprehensible. It leaves its victims alive. It leaves them wrong.",
+      "Something summoned so many times, by so many people, for so many reasons, that it no longer knows what it originally was. It has started asking the people who summon it. They never have an answer.",
+    ]
+  },
+  psychological: {
+    0: [
+      "A woman keeps losing small stretches of time — never more than an hour. She has started keeping a detailed diary. The diary has entries she doesn't remember writing.",
+      "A man absolutely certain that his wife is not his wife. Not delusional — he knows how it sounds. He has evidence. He doesn't know what to do with it.",
+      "A woman who has started to believe everyone around her is reading from a script — conversations are prepared, reactions performed. She has found evidence that might prove it. She can't be sure the evidence is real.",
+      "A therapist who suspects her patient is not describing their own experiences, but hers. Events the patient describes have not yet happened to the therapist. They have all happened by the following week.",
+      "A man afraid of the dark in the way only adults can be — not childhood fear, but something acquired, something earned. He has never told anyone what happened. Write the night he realises it is happening again.",
+    ],
+    1: [
+      "A woman told, by multiple people, that she said something to them — something specific, something she has no memory of saying. The things she allegedly said have all come true.",
+      "A man who hires a private investigator to look into gaps in his own memory. The investigator refuses to share what they found and returns the advance. He receives, by post, a photograph of himself in a place he has never been, doing something he cannot explain.",
+      "A woman who moves to a new city to start over and discovers her new neighbours already know her. Not her name — her. Details about her life that no one here could possibly know. They act as if this is entirely normal.",
+      "A psychiatrist who realises, reviewing session notes, that three separate patients have described the same figure in their recurring nightmares. A figure he has been seeing in his own dreams for the past month.",
+      "A woman certain she is being stalked but unable to find any evidence or identify any specific incident. She is not paranoid. She knows the difference. She is beginning to doubt the difference.",
+    ],
+    2: [
+      "A man who survives a traumatic event and then begins to feel that he didn't — that the person who came back is not the person who was there. He cannot explain what he means. The explanation is in the part of him that isn't him.",
+      "A woman who begins to suspect her entire life — her childhood, her relationships, her memories — was constructed for her. Not by a conspiracy. By something that wanted her to be exactly who she is, in exactly this place, at exactly this moment.",
+      "A therapist who has been treating the same patient for six years. In their most recent session, the patient describes in perfect detail the therapist's childhood home — a place the patient has never visited, a place the therapist has never described.",
+      "A man who has spent twenty years certain he killed someone. He didn't — there's evidence. He knows he didn't do it. He cannot stop being certain that he did. Something is sustaining that certainty. Something needs him to believe it.",
+      "A woman who discovers, going through her late mother's belongings, a second diary covering the same years as the one she knew — but in which the woman herself does not exist. The family is the same. The events are the same. She is simply absent from every entry.",
+    ]
+  },
+  opening: {
+    0: [
+      "The house had been empty for three years, which was why she didn't understand whose light was on.",
+      "The dog had been staring at the corner of the room for six hours. She'd checked. The corner was empty.",
+      "She found the door in the wall on a Tuesday, which somehow made it worse.",
+      "The voicemail was from her own number. She hadn't left it. She'd never been to the place it described.",
+      "The child had had an imaginary friend for two years before anyone else saw it.",
+      "The smell of her grandmother's perfume was strongest in the rooms her grandmother had never been allowed to enter.",
+      "It wasn't that the house was cold. It was that one room was always exactly the same temperature as outside.",
+    ],
+    1: [
+      "The last thing she remembered was locking the door. The first thing she noticed, standing outside in the dark, was that she had no shoes.",
+      "The photograph was forty years old. She was in it. She was exactly the age she was now.",
+      "There were seven locks on the cellar door. She had put them there herself. She didn't remember why. She remembered, very clearly, that it hadn't been enough.",
+      "The new house came with a list of rules. The estate agent said they were quirks of the previous owner. The previous owner had been the third family in five years.",
+      "He had been hearing his name called for three weeks before he found the source. By then, it knew his voice too.",
+      "She moved to the village to write. She finished the book in four days. It took her three weeks to get there.",
+    ],
+    2: [
+      "By the time I understood what the house wanted, I had already given it what it needed.",
+      "The thing under the floorboards had been patient for thirty years. I was the fourth person to find it. I was the first one it let leave.",
+      "I don't remember the first week. What I remember is waking on the eighth day with clean hands and the complete certainty that whatever I'd done was necessary.",
+      "My sister went missing in 1987. Last month, she left a voicemail on my landline. I don't have a landline.",
+      "The investigation was closed because there was no body. There was a body. I helped move it. I was not alone. I have never been able to find the person who was with me.",
+      "I have lived in this house my whole life. Last year I found a room I had never been in. The room had photographs of me — not of the house, of me, outside, at moments I remembered. The most recent one was from yesterday.",
+    ]
+  }
+};
+
+function getPrompt(category, tone) {
+  const bank = prompts[category];
+  if (!bank) return null;
+  if (Array.isArray(bank)) return bank[Math.floor(Math.random() * bank.length)];
+  const toneBank = bank[tone];
+  return toneBank[Math.floor(Math.random() * toneBank.length)];
+}
+
+let currentCategory = 'plot';
+let savedPrompts = [];
+
+document.getElementById('hp-category').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#hp-category .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  currentCategory = pill.dataset.value;
+});
+
+function generate() {
+  const tone = parseInt(document.getElementById('hp-tone').value);
+  const prompt = getPrompt(currentCategory, tone);
+  if (!prompt) return;
+
+  const output = document.getElementById('hp-output');
+  output.innerHTML = '';
+
+  const catLabel = currentCategory.charAt(0).toUpperCase() + currentCategory.slice(1);
+  const toneLabel = toneLabels[tone];
+
+  const meta = document.createElement('div');
+  meta.className = 'prompt-meta';
+  meta.innerHTML = `<span class="prompt-tag">${catLabel}</span><span class="prompt-tone">${toneLabel}</span>`;
+
+  const text = document.createElement('p');
+  text.className = 'prompt-text';
+  text.textContent = prompt;
+
+  output.appendChild(meta);
+  output.appendChild(text);
+  output.dataset.current = prompt;
+
+  document.getElementById('hp-actions').style.display = 'flex';
+}
+
+document.getElementById('hp-generate').addEventListener('click', generate);
+document.getElementById('hp-regen').addEventListener('click', generate);
+
+document.getElementById('hp-copy').addEventListener('click', () => {
+  const prompt = document.getElementById('hp-output').dataset.current;
+  if (!prompt) return;
+  navigator.clipboard.writeText(prompt).then(() => {
+    const btn = document.getElementById('hp-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy prompt', 1500);
+  });
+});
+
+document.getElementById('hp-save').addEventListener('click', () => {
+  const prompt = document.getElementById('hp-output').dataset.current;
+  if (!prompt || savedPrompts.includes(prompt)) return;
+  savedPrompts.unshift(prompt);
+  if (savedPrompts.length > 10) savedPrompts = savedPrompts.slice(0, 10);
+  updateSaved();
+  const btn = document.getElementById('hp-save');
+  btn.textContent = 'Saved ♥';
+  setTimeout(() => btn.textContent = 'Save ♡', 1500);
+});
+
+document.getElementById('hp-clear-saved').addEventListener('click', () => {
+  savedPrompts = [];
+  updateSaved();
+});
+
+function updateSaved() {
+  const wrap = document.getElementById('hp-saved-wrap');
+  const list = document.getElementById('hp-saved-list');
+  if (savedPrompts.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  savedPrompts.forEach(p => {
+    const item = document.createElement('div');
+    item.className = 'saved-item';
+    item.innerHTML = `<p>${p.substring(0, 80)}…</p><button onclick="navigator.clipboard.writeText('${p.replace(/'/g, "\\'")}')">Copy</button>`;
+    list.appendChild(item);
+  });
+}
+
+generate();
+</script>

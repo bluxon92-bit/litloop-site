@@ -1,0 +1,39 @@
+title: Litloop
+tagline: Because books are better shared
+description: Track what you're reading, send personal recommendations, and have real conversations about the books you love with the people you care about most.
+url: "https://www.litloop.co"
+baseurl: ""
+
+author:
+  name: Ben Luxon
+
+mailerlite:
+  account_id: "2148788"
+  waitlist_form_url: "YOUR_LITLOOP_WAITLIST_FORM_URL_HERE"
+
+# Google Analytics
+google_analytics: "G-XXXXXXXXXX"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:slug/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - MIGRATION_PLAN.md

@@ -1,0 +1,260 @@
+---
+layout: default
+title: Fantasy Name Generator
+description: Generate unique fantasy names for characters, places, weapons, and more. Free tool for fantasy writers.
+permalink: /tools/name-generator/
+---
+
+<div class="tool-hero">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Fantasy Name <em>Generator</em></h1>
+    <p>Generate names for characters, places, weapons, spells and more. Built for fantasy writers who need inspiration fast.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="name-gen-card">
+
+      <div class="name-gen-controls">
+        <div class="control-group">
+          <label for="ng-category">Category</label>
+          <select id="ng-category">
+            <optgroup label="Characters">
+              <option value="elf">Elf</option>
+              <option value="dwarf">Dwarf</option>
+              <option value="orc">Orc</option>
+              <option value="human">Human</option>
+              <option value="vampire">Vampire</option>
+              <option value="werewolf">Werewolf</option>
+              <option value="angel">Angel</option>
+              <option value="demon">Demon</option>
+              <option value="dragon">Dragon</option>
+            </optgroup>
+            <optgroup label="Places">
+              <option value="town">Town / City</option>
+              <option value="forest">Forest</option>
+              <option value="mountain">Mountain</option>
+            </optgroup>
+            <optgroup label="Objects & Magic">
+              <option value="weapon">Weapon</option>
+              <option value="artifact">Artifact</option>
+              <option value="spell">Spell</option>
+            </optgroup>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="ng-count">How many?</label>
+          <select id="ng-count">
+            <option value="1">1 name</option>
+            <option value="3" selected>3 names</option>
+            <option value="5">5 names</option>
+            <option value="10">10 names</option>
+          </select>
+        </div>
+
+        <button class="btn-generate" id="ng-generate">
+          <span class="btn-generate-icon">✦</span>
+          Generate
+        </button>
+      </div>
+
+      <div class="name-gen-output" id="ng-output">
+        <p class="ng-placeholder">Your names will appear here — select a category and hit Generate.</p>
+      </div>
+
+      <div class="name-gen-actions" id="ng-actions" style="display:none;">
+        <button class="btn-copy" id="ng-copy">Copy all</button>
+        <button class="btn-regen" id="ng-regen">Regenerate ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="sidebar-card">
+        <h3>Tips for using generated names</h3>
+        <ul>
+          <li>Use as a starting point — tweak spellings to fit your world's phonetics</li>
+          <li>Combine parts from two results to make something unique</li>
+          <li>Keep a list of favourites as you go — inspiration is cumulative</li>
+          <li>For place names, think about what the name might mean to the people who live there</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--teal">
+        <h3>Also on Cabbage Tree</h3>
+        <p>Stuck on the story itself? Try the writing prompt generators.</p>
+        <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" class="sidebar-link">Fantasy Prompt Generator →</a>
+        <a href="{{ '/tools/scifi-prompts/' | relative_url }}" class="sidebar-link">Sci-Fi Prompt Generator →</a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- History -->
+  <div class="name-history-wrap" id="ng-history-wrap" style="display:none;">
+    <div class="name-history-inner">
+      <h4>Recent names <button id="ng-clear-history" class="btn-clear">Clear</button></h4>
+      <div class="name-history-list" id="ng-history"></div>
+    </div>
+  </div>
+
+</section>
+
+<script>
+const nameParts = {
+  elf: {
+    first: ["Ael","El","Lor","Syl","Fa","Ith","Aer","Quel","Fin","Thal","Ara","Elen","Luth","Myr","Nim","Ser","Cele","Eir","Alu","Var","Bel","Iri","Rae","Sil","Ela","Ori","Cael","Thea","Nael","Vael"],
+    second: ["ric","drin","ien","dor","wen","las","ion","thil","nor","mir","thal","driel","lian","noril","rial","thien","sian","riel","dril","fiel","niel","tiel","len","vian","dorin","loth","gorn","wyn","aris","elis"],
+    space: false
+  },
+  dwarf: {
+    first: ["Thor","Bal","Dur","Gim","Dain","Bof","Grum","Thra","Kili","Borin","Rurik","Farn","Krag","Drogan","Orin","Sten","Ror","Varr","Morn","Brum","Grom","Harg","Ulf","Gar","Vik","Bram","Nori","Dori","Bifur","Groin"],
+    second: ["in","an","or","im","un","ak","grim","dil","mund","rik","var","thor","lin","gar","dor","uk","und","bin","nil","dus","rin","eth","gorn","skar","lok","farr","dag","mir","bur","nar"],
+    space: false
+  },
+  orc: {
+    first: ["Gor","Ur","Morg","Grak","Brak","Zog","Krug","Ruk","Snar","Harg","Brug","Drok","Vorg","Thok","Zug","Krag","Grom","Fang","Shak","Drak","Rog","Blok","Trug","Zor","Grub","Skul","Marg","Gash","Krul","Zurk"],
+    second: ["bag","gan","ash","rag","ok","zul","thor","mak","gash","nak","dush","lok","ruk","mash","nuk","thag","zag","dur","mog","kar","zan","kul","ragh","mok","var","lug","zor","brog","nak","gur"],
+    space: false
+  },
+  dragon: {
+    first: ["Sma","Dra","Igni","Pyro","Aero","Fira","Ember","Blaze","Scorch","Flare","Cinder","Vulc","Smolder","Infer","Solar","Nova","Celest","Draco","Tempest","Crimson","Obsid","Lunar","Lava","Rage","Verm","Glaci","Abyss","Shade","Storm","Void"],
+    second: ["ug","kon","nis","flare","wing","scale","claw","heart","fire","tail","storm","breath","fang","roar","soul","spine","ash","burn","smoke","scorch","lash","tempest","spark","gaze","glow","fume","ember","wraith","fury","crest"],
+    space: false
+  },
+  human: {
+    first: ["Eli","Cath","Mar","Alex","Sam","Ben","Leo","Kay","Vic","Nate","Jas","Ray","Tom","Ivy","Finn","Zoe","Soren","Rowan","Cass","Blake","Ellis","Maren","Dex","Petra","Luca","Sable","Orion","Wren","Cian","Lyra"],
+    second: ["as","rine","ander","uel","opher","iel","ton","bert","son","don","ley","ford","field","wick","man","well","den","stead","burn","wood","brook","dell","rick","ham","bourne","vale","stone","croft","holm","shaw"],
+    space: false
+  },
+  vampire: {
+    first: ["Luc","Sel","Alu","Vlad","Drac","Mort","Noct","Ser","Raven","Sangu","Val","Kor","Bel","Casp","Dam","Sin","Ebon","Nyx","Hex","Shade","Dusk","Rook","Fang","Grim","Mord","Cass","Lys","Vex","Thane","Crim"],
+    second: ["ian","ene","card","imir","or","en","is","dor","thal","voss","lore","nox","dark","shade","night","grim","bain","mere","vire","zan","lux","mar","drus","sor","ven","lar","des","rax","theon","bael"],
+    space: false
+  },
+  werewolf: {
+    first: ["Fen","Lyc","Wolf","Lup","Howl","Moon","Grim","Rend","Scar","Fang","Blood","Night","Claw","Thorn","Bram","Dire","Wol","Murk","Shade","Drake","Rift","Hawk","Rex","Grey","Ash","Stone","Moor","Dusk","Rust","Bane"],
+    second: ["rir","cus","ar","fang","in","er","claw","bane","roar","bite","maw","snarl","growl","scar","tusk","wail","lash","rend","slash","crush","tear","pierce","clench","grip","snatch","maul","hide","pelt","howl","kin"],
+    space: false
+  },
+  angel: {
+    first: ["Gab","Uri","Sar","Rap","Zad","Cher","Eli","Aur","Seraph","Ishar","Ezan","Lum","Alph","Celest","Oran","Evan","Zeph","Arc","Oph","Ana","Eron","Sera","Phan","Lior","Joph","Eden","Azur","Caph","Rael","Thur"],
+    second: ["riel","iel","uel","azor","ielin","arael","yon","elor","on","ara","eon","ethiel","siel","nor","zen","dria","rielon","liel","rielus","asiel","afriel","driel","ciel","mael","phael","niel","kiel","vael","dael","tiel"],
+    space: false
+  },
+  demon: {
+    first: ["Aza","Lil","Bel","Mor","Dru","Zar","Vex","Kor","Nef","Seth","Rav","Noct","Tham","Dre","Sorn","Grim","Baal","Ereb","Xar","Pox","Hex","Lurk","Shade","Dusk","Rok","Mord","Lich","Mal","Necr","Abys"],
+    second: ["zel","lith","bial","gon","moth","dus","rak","nus","tor","nix","vex","grim","mar","var","dusk","rax","zul","sor","carn","thrax","mon","lorn","vorn","bex","mord","nir","reth","scorn","dread","fear"],
+    space: false
+  },
+  town: {
+    first: ["Eldo","Raven","Dun","Stone","Silver","Golden","Iron","Mist","Oak","Wind","Bright","Shadow","Green","Wolf","Crystal","River","Sun","Moon","Thunder","Star","Steel","Red","Black","White","Blue","Dark","High","Amber","Ash","Ember"],
+    second: ["ria","holm","wich","ford","ton","vale","dale","shire","burg","stead","port","borough","field","haven","crest","side","keep","point","moor","croft","bridge","grove","hill","run","mark","ridge","delta","reach","cross","gate"],
+    space: true
+  },
+  forest: {
+    first: ["Shadow","Elden","Silver","Whisper","Mystic","Ancient","Green","Moon","Twilight","Glimmer","Mossy","Hidden","Frost","Cinder","Emerald","Verdant","Enchanted","Dusk","Aurora","Bramble","Misty","Sunlit","Gossamer","Lush","Oak","Fern","Hollow","Willow","Tangled","Dim"],
+    second: ["Grove","Wood","Pine","Forest","Vale","Shade","Heart","Hollow","Glade","Bloom","Briar","Song","Brook","Meadow","Valley","Moss","Cliff","Creek","Cove","Reach","Spine","Whisper","Echo","Weald","Canopy","Thicket","Copse","Mere","Fen","Lea"],
+    space: true
+  },
+  mountain: {
+    first: ["Frost","Dragon","Storm","Iron","Rock","Skye","Thunder","Grim","High","Granite","Stone","Crest","Peak","Summit","Boulder","Mighty","Rugged","Cliff","Moss","Canyon","Sable","Steep","Cobalt","Shale","Cinder","Shadow","Ridge","Bleak","Dire","Lone"],
+    second: ["Peak","Spire","Crag","Ridge","Cliff","Mount","Holm","Pass","Brow","Ledge","Slope","Edge","Tor","Summit","Cave","Gorge","Drop","Plateau","Knoll","Ascent","Butte","Spur","Basin","Bank","Hollow","Crown","Brow","Horn","Fang","Back"],
+    space: true
+  },
+  weapon: {
+    first: ["Doom","Storm","Shadow","Flame","Frost","Thunder","Night","Blood","Iron","Death","Skull","Venom","Savage","Razor","Grim","Sunder","Revenant","Sable","Vortex","Phantom","Wrath","Blight","Feral","Rift","Edge","Bane","Gore","Spite","Ruin","Dread"],
+    second: ["blade","breaker","fang","edge","strike","cleaver","slicer","reaver","sword","smite","shard","slash","crush","pierce","smash","scythe","whisper","sunder","rend","split","lance","burn","howl","cry","gash","maul","bite","tear","fury","wail"],
+    space: true
+  },
+  artifact: {
+    first: ["Celestial","Eldara's","Void","Ancient","Mystic","Enchanted","Divine","Forgotten","Sacred","Arcane","Lost","Eternal","Shattered","Crimson","Obsidian","Radiant","Emerald","Phantom","Mythic","Seraphic","Infinite","Fabled","Shadowed","Glorious","Cursed","Eclipse","Sundered","Dread","Undying","Hollow"],
+    second: ["Orb","Crystal","Amulet","Ring","Shield","Talisman","Relic","Medallion","Crown","Scepter","Chalice","Codex","Gem","Icon","Shard","Seal","Sigil","Stone","Scroll","Pendant","Mirror","Key","Crest","Banner","Emblem","Tome","Fang","Heart","Eye","Skull"],
+    space: true
+  },
+  spell: {
+    first: ["Inferno","Arcane","Mystic","Whispering","Blazing","Ethereal","Storm","Frozen","Radiant","Spectral","Divine","Celestial","Abyssal","Temporal","Vortex","Luminous","Gale","Nova","Enigmatic","Phantom","Searing","Vibrant","Obscure","Glacial","Ember","Sonic","Chilling","Howling","Seething","Withering"],
+    second: ["Blast","Shield","Wind","Strike","Bolt","Wave","Touch","Burst","Flare","Surge","Nova","Spike","Ray","Arc","Flux","Pulse","Crush","Spark","Rush","Slam","Hammer","Flash","Gush","Eruption","Fury","Tempest","Cascade","Torrent","Flicker","Rend"],
+    space: true
+  }
+};
+
+const pick = arr => arr[Math.floor(Math.random() * arr.length)];
+let history = [];
+
+function generateNames() {
+  const cat = document.getElementById('ng-category').value;
+  const count = parseInt(document.getElementById('ng-count').value);
+  const parts = nameParts[cat];
+  const names = [];
+
+  for (let i = 0; i < count; i++) {
+    const sep = parts.space ? ' ' : '';
+    names.push(pick(parts.first) + sep + pick(parts.second));
+  }
+
+  const output = document.getElementById('ng-output');
+  output.innerHTML = '';
+
+  names.forEach(name => {
+    const el = document.createElement('div');
+    el.className = 'ng-name';
+    el.textContent = name;
+    el.addEventListener('click', () => copyOne(name, el));
+    el.title = 'Click to copy';
+    output.appendChild(el);
+    history.unshift({ name, cat });
+  });
+
+  if (history.length > 30) history = history.slice(0, 30);
+
+  document.getElementById('ng-actions').style.display = 'flex';
+  updateHistory();
+}
+
+function copyOne(name, el) {
+  navigator.clipboard.writeText(name).then(() => {
+    el.classList.add('copied');
+    setTimeout(() => el.classList.remove('copied'), 1200);
+  });
+}
+
+function updateHistory() {
+  const wrap = document.getElementById('ng-history-wrap');
+  const list = document.getElementById('ng-history');
+  if (history.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  history.forEach(({ name, cat }) => {
+    const tag = document.createElement('span');
+    tag.className = 'history-tag';
+    tag.innerHTML = `${name} <em>${cat}</em>`;
+    tag.addEventListener('click', () => navigator.clipboard.writeText(name));
+    list.appendChild(tag);
+  });
+}
+
+document.getElementById('ng-generate').addEventListener('click', generateNames);
+document.getElementById('ng-regen').addEventListener('click', generateNames);
+document.getElementById('ng-copy').addEventListener('click', () => {
+  const names = [...document.querySelectorAll('.ng-name')].map(el => el.textContent).join('\n');
+  navigator.clipboard.writeText(names).then(() => {
+    const btn = document.getElementById('ng-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy all', 1500);
+  });
+});
+document.getElementById('ng-clear-history').addEventListener('click', () => {
+  history = [];
+  updateHistory();
+});
+
+// Generate on load
+generateNames();
+</script>

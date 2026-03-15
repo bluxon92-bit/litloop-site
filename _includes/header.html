@@ -1,0 +1,92 @@
+<header class="site-header">
+  <div class="container">
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}" class="header-logo">
+        <img src="{{ '/assets/images/litloop-logo.png' | relative_url }}" alt="Litloop" class="header-logo-img">
+      </a>
+
+      <nav class="header-nav" id="main-nav" aria-label="Main navigation">
+
+        <a href="{{ '/blog/' | relative_url }}" class="nav-link">Blog</a>
+
+        <!-- Explore dropdown -->
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-trigger" aria-expanded="false">Explore <span class="nav-caret">▾</span></button>
+          <div class="nav-dropdown-panel">
+            <div class="nav-dropdown-section">
+              <p class="nav-dropdown-label">Genre hubs</p>
+              <a href="{{ '/genres/fantasy/' | relative_url }}" class="nav-dropdown-link">
+                <span><strong>Fantasy</strong><em>Epic, grimdark, high fantasy</em></span>
+              </a>
+              <a href="{{ '/genres/sci-fi/' | relative_url }}" class="nav-dropdown-link">
+                <span><strong>Science Fiction</strong><em>Space opera, hard sci-fi, cyberpunk</em></span>
+              </a>
+              <a href="{{ '/genres/horror/' | relative_url }}" class="nav-dropdown-link">
+                <span><strong>Horror</strong><em>Gothic, cosmic, psychological</em></span>
+              </a>
+              <a href="{{ '/genres/dystopian/' | relative_url }}" class="nav-dropdown-link">
+                <span><strong>Dystopian</strong><em>Dark futures, broken societies</em></span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Resources dropdown -->
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-trigger" aria-expanded="false">Resources <span class="nav-caret">▾</span></button>
+          <div class="nav-dropdown-panel nav-dropdown-panel--wide">
+            <div class="nav-dropdown-col">
+              <div class="nav-dropdown-section">
+                <p class="nav-dropdown-label">Writing tools</p>
+                <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Fantasy prompts</strong><em>Story starter generator</em></span>
+                </a>
+                <a href="{{ '/tools/scifi-prompts/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Sci-fi prompts</strong><em>Ideas for speculative fiction</em></span>
+                </a>
+                <a href="{{ '/tools/horror-prompts/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Horror prompts</strong><em>Dark story starters</em></span>
+                </a>
+                <a href="{{ '/tools/name-generator/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Name generator</strong><em>Fantasy &amp; sci-fi character names</em></span>
+                </a>
+                <a href="{{ '/tools/quiz/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>What should I read?</strong><em>Find your next book</em></span>
+                </a>
+              </div>
+            </div>
+            <div class="nav-dropdown-col nav-dropdown-col--border">
+              <div class="nav-dropdown-section">
+                <p class="nav-dropdown-label">Free downloads</p>
+                <a href="{{ '/free-downloads/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Sci-fi short stories</strong><em>Free original fiction</em></span>
+                </a>
+                <a href="{{ '/free-downloads/horror/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Horror short stories</strong><em>Free original fiction</em></span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <a href="{{ '/#waitlist' | relative_url }}" class="btn btn-primary">Join waitlist</a>
+      </nav>
+
+      <button class="header-menu-toggle" aria-label="Toggle menu" id="menu-toggle">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+<script>
+document.querySelectorAll('.nav-dropdown').forEach(function(dd){
+  dd.querySelector('.nav-dropdown-trigger').addEventListener('click',function(e){
+    e.stopPropagation();
+    var open=dd.classList.contains('open');
+    document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');d.querySelector('.nav-dropdown-trigger').setAttribute('aria-expanded','false');});
+    if(!open){dd.classList.add('open');this.setAttribute('aria-expanded','true');}
+  });
+});
+document.addEventListener('click',function(){document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');});});
+document.getElementById('menu-toggle').addEventListener('click',function(){document.getElementById('main-nav').classList.toggle('open');});
+</script>

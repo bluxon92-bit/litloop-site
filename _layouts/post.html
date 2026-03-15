@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | strip_html | truncate: 160 | escape }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Litloop",
+    "url": "{{ site.url }}"
+  },
+  "url": "{{ site.url }}{{ page.url }}"{% if page.image %},
+  "image": "{{ page.image }}"{% endif %}
+}
+</script>
+
+<article>
+  <header class="post-header">
+    <div class="container">
+      {% if page.category %}
+      <span class="category-tag">{{ page.category }}</span>
+      {% endif %}
+      <h1>{{ page.title }}</h1>
+      <p class="post-meta">
+        By {{ site.author.name }} &middot; {{ page.date | date: "%B %-d, %Y" }}
+        {% if page.genre %} &middot; {{ page.genre }}{% endif %}
+      </p>
+    </div>
+  </header>
+
+  <div class="post-content">
+    <div class="container">
+      <div class="text-container">
+        {{ content }}
+      </div>
+
+      <!-- Post-article waitlist CTA -->
+      <div class="waitlist-inline" style="margin-top:3rem; border-radius:22px;">
+        <h2>Love books? You'll love Litloop.</h2>
+        <p>Track your reading, send personal recs, and have real conversations about the books you love.</p>
+        <div class="ml-embedded" data-form="{{ site.mailerlite.waitlist_form_url }}"></div>
+        <p class="cta-microcopy" style="margin-top:0.75rem;">No spam. Early access. Unsubscribe any time.</p>
+      </div>
+    </div>
+  </div>
+</article>

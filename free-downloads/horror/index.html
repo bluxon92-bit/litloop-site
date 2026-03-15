@@ -1,0 +1,95 @@
+---
+layout: default
+title: Free Horror Short Story Collection — Download
+description: Get Ben Luxon's original horror short stories free. Enter your email and get instant access to atmospheric, unsettling fiction.
+permalink: /free-downloads/horror/
+---
+
+<div class="tool-hero" style="background:linear-gradient(135deg, #1a0a0a 0%, #2d1010 100%);">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Free Download</span>
+    </div>
+    <h1>Free Horror<br><em>Short Stories</em></h1>
+    <p>Original horror short fiction from Ben Luxon — gothic atmosphere, psychological dread, and the quietly uncanny. Enter your email and get instant access.</p>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:680px;">
+
+    <div class="lead-gen-card lead-gen-card--horror">
+
+      <!-- STEP 1: Email form -->
+      <div class="lead-gen-step" id="lg-horror-step1">
+
+        <div class="lead-gen-book-preview lead-gen-book-preview--horror">
+          <div class="book-preview-icon" style="color:#8b0000;">🕯</div>
+          <div class="book-preview-meta">
+            <h2>Horror Short Story Collection</h2>
+            <p>Original dark fiction by <strong>Ben Luxon</strong></p>
+          </div>
+        </div>
+
+        <ul class="download-features" style="margin-bottom:2rem;">
+          <li>Multiple original stories</li>
+          <li>Gothic, psychological &amp; quietly uncanny fiction</li>
+          <li>Instant access — sent straight to your inbox</li>
+        </ul>
+
+        <div class="lead-gen-form-wrap">
+          <p class="lead-gen-label">Enter your email to get instant access:</p>
+          <div class="ml-embedded" data-form="9Immkh"></div>
+          <p class="lead-gen-small">No spam. You'll also receive occasional book recommendations from Litloop. Unsubscribe any time.</p>
+        </div>
+
+        <div class="lead-gen-divider">
+          <span>or</span>
+        </div>
+
+        <p class="lead-gen-direct-link">
+          Already subscribed? <button class="btn-text-link" id="lg-horror-show-direct">Click here to go straight to the download →</button>
+        </p>
+
+      </div>
+
+      <!-- STEP 2: Thank you + download -->
+      <div class="lead-gen-step lead-gen-thankyou" id="lg-horror-step2" style="display:none;">
+        <div class="thankyou-icon" style="color:#8b0000;">🕯</div>
+        <h2>You're all set!</h2>
+        <p>Check your inbox — the stories are on their way. While you wait, you can also download directly below.</p>
+        <!-- Replace href with actual PDF URL when ready -->
+        <a href="{{ site.horror_download_url | default: '#' }}" class="btn-download btn-download--large btn-download--dark" download>
+          <span class="btn-download-icon">↓</span>
+          Download Now (PDF)
+        </a>
+        <p class="lead-gen-small" style="margin-top:1rem;">Also available at <a href="{{ site.sister_site.url }}" target="_blank" rel="noopener">benluxonauthor.com</a></p>
+      </div>
+
+    </div>
+
+    <div style="margin-top:3rem;">
+      <h3 style="font-family:var(--font-display); font-size:1.2rem; margin-bottom:1rem;">You might also enjoy</h3>
+      <div style="display:flex; gap:1rem; flex-wrap:wrap;">
+        <a href="{{ '/genres/horror/' | relative_url }}" class="btn btn-outline">Horror Reading Guide →</a>
+        <a href="{{ '/free-downloads/' | relative_url }}" class="btn btn-outline">Free Sci-Fi Stories →</a>
+        <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" class="btn btn-outline">Writing Prompt Generator →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+document.getElementById('lg-horror-show-direct')?.addEventListener('click', function() {
+  document.getElementById('lg-horror-step1').style.display = 'none';
+  document.getElementById('lg-horror-step2').style.display = 'block';
+});
+
+// Listen for MailerLite successful submission, then reveal download
+document.addEventListener('ml-form-success', function() {
+  document.getElementById('lg-horror-step1').style.display = 'none';
+  document.getElementById('lg-horror-step2').style.display = 'block';
+});
+</script>

@@ -1,0 +1,182 @@
+---
+layout: default
+title: Fantasy Books — The Complete Guide
+description: The best fantasy books across every sub-genre — from epic high fantasy to grimdark, urban fantasy, and portal worlds.
+permalink: /genres/fantasy/
+---
+
+<div class="genre-hub-hero genre-hub-hero--fantasy">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Fantasy</h1>
+    <p>Epic high fantasy, grimdark, urban fantasy, and portal worlds. Reading lists for every kind of fantasy reader — from Tolkien to Abercrombie.</p>
+    <div class="hero-tags">
+      <span>Epic Fantasy</span><span>Grimdark</span><span>Urban Fantasy</span><span>High Fantasy</span><span>Portal Worlds</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Fantasy</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;">Fantasy is the oldest form of storytelling — myths, legends, and tales of impossible things have been with us since before writing. The modern genre stretches from Tolkien's foundational world-building to Joe Abercrombie's brutal deconstruction of its tropes.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For epic fantasy:</strong> Begin with Tolkien's <em>The Lord of the Rings</em>, then move to Brandon Sanderson's <em>The Way of Kings</em> for modern world-building at its most ambitious.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For grimdark:</strong> Joe Abercrombie's <em>The Blade Itself</em> is the genre's defining text. Follow it with Mark Lawrence's <em>Prince of Thorns</em> or John Gwynne's <em>Malice</em>.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For character-driven fantasy:</strong> Robin Hobb's <em>Assassin's Apprentice</em> is one of the finest character studies in any genre. Patrick Rothfuss's <em>The Name of the Wind</em> is stunning prose in a fantasy setting.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"><strong>For short fantasy:</strong> Ursula K. Le Guin's <em>The Wind's Twelve Quarters</em> remains the benchmark for short-form fantasy.</p>
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+<section class="free-download-strip free-download-strip--fantasy">
+  <div class="section-inner">
+    <div class="free-download-content">
+      <div class="free-download-text">
+        <div class="section-label" style="color:rgba(255,255,255,0.6);">Free Download</div>
+        <h3>Free Sci-Fi Short Stories</h3>
+        <p>Enjoy Ben Luxon's original science fiction short stories — free to download. No sign-up required.</p>
+      </div>
+      <div class="free-download-action">
+        <a href="{{ '/free-downloads/' | relative_url }}" class="btn-download">
+          <span class="btn-download-icon">↓</span>
+          Download Free
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tools</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Fantasy Writing <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Stuck on a story? Generate a prompt to get you started.</p>
+
+    <div class="tool-embed" style="margin-bottom:1.5rem;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem; flex-wrap:wrap; gap:0.75rem;">
+        <h4 style="font-family:var(--font-display); font-size:1.1rem; font-weight:600;">Writing Prompt Generator</h4>
+        <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" style="font-size:0.78rem; color:var(--teal);">Full generator →</a>
+      </div>
+      <div class="pill-group" id="hub-fp-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="world">World</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <div style="display:flex; gap:0.75rem; align-items:center; flex-wrap:wrap; margin-bottom:1rem;">
+        <span style="font-size:0.72rem; color:var(--ink-muted); letter-spacing:0.12em;">TONE:</span>
+        <button class="pill active" id="hub-tone-cosy" onclick="setHubTone(0,this)">Cosy</button>
+        <button class="pill" id="hub-tone-mid" onclick="setHubTone(1,this)">Balanced</button>
+        <button class="pill" id="hub-tone-grim" onclick="setHubTone(2,this)">Grimdark</button>
+      </div>
+      <button class="btn-generate" id="hub-fp-gen">✦ Generate Prompt</button>
+      <div class="prompt-output" id="hub-fp-output" style="margin-top:1rem;">
+        <p class="ng-placeholder">Hit Generate to get a fantasy writing prompt.</p>
+      </div>
+    </div>
+</section>
+
+{% assign fp_bucket = site.posts | where: "genre", "Fantasy" %}
+
+{% if fp_bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Fantasy <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in fp_bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image">
+          <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+        </div>
+        {% else %}
+        <div class="blog-card-image" style="background:linear-gradient(135deg, var(--teal) 0%, #1a3a2a 100%); display:flex; align-items:center; justify-content:center;">
+          <span style="font-family:var(--font-display); font-size:2rem; color:rgba(255,255,255,0.15);">⚔</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<script>
+const hubFPData = {
+  plot: {
+    0: ["A retired knight runs a small bakery. When a child brings in a loaf of bread containing a prophecy, she's pulled back into a world she left behind.", "A hedge witch discovers her cottage has been slowly moving through the forest for years. It's been heading somewhere specific. She's almost arrived.", "Two rival mapmakers discover they've both been independently mapping the same imaginary country — which turns out not to be imaginary."],
+    1: ["A thief hired to steal an artifact discovers it was stolen from his own people three generations ago.", "An empire has maintained peace for a century by making one small sacrifice every year. The new empress discovers the sacrifice isn't as small as the histories claim.", "Two assassins from rival guilds are sent to kill the same target on the same night. The target is already dead when they arrive — body still warm."],
+    2: ["A general wins a war by making a deal no one else was willing to make. Ten years later, the other party comes to collect.", "The prophecy has been fulfilled. The dark lord is dead. The heroes return to a world that spent twenty years preparing for the aftermath — and they are now the most dangerous people in it.", "A rebellion succeeds. The leader reads the tyrant's private journals. The tyrant was right about everything."]
+  },
+  character: {
+    0: ["An elderly wizard whose power has faded but whose reputation hasn't must bluff through a magical duel using nothing but confidence and a very convincing staff.", "A royal food-taster who built up immunity to every known poison has also become mildly addicted to several of them. Write her first day of retirement."],
+    1: ["A spy who has spent so long undercover they no longer remember their original name must return to their childhood village.", "A healer who secretly hates the people she saves — the nobility who start the wars that fill her tent with broken soldiers."],
+    2: ["A war criminal considered a hero by half the world and a monster by the other. Neither side is wrong.", "A king who has done terrible things to keep his people alive — and it has worked. He meets someone from the country he sacrificed."]
+  },
+  world: ["Magic in this world is inherited — but not by bloodline. It passes to whoever was present at a mage's death. The most powerful mages are veteran battlefield surgeons.", "The ocean in this world is not water but a vast, slow-moving creature. It has been asleep for three hundred years. It's beginning to stir.", "Language in this world is magic. New words have to be invented carefully — once a word exists, the thing it describes becomes real.", "Every person in this world is born with a visible mark that shows their cause of death — not when, just how."],
+  opening: {
+    0: ["The map showed three roads. There were four.", "She had been baking the same spell into her bread for forty years before she realised it was working.", "The old wizard died on a Tuesday, which was inconvenient for everyone waiting for him to do it on a Wednesday."],
+    1: ["The letter was addressed to my grandfather, dated forty years after he died, and it was in his handwriting.", "The city had stood for a thousand years. The wall surrounding it had stood for longer — and it faced inward."],
+    2: ["The revolution succeeded. That was the problem.", "The empire had lasted three hundred years. The emperor, alone in his study, knew exactly when it would end: in forty-six days, at roughly two in the afternoon."]
+  }
+};
+let hubFPCat = 'plot';
+let hubTone = 0;
+function setHubTone(val, btn) {
+  hubTone = val;
+  ['hub-tone-cosy','hub-tone-mid','hub-tone-grim'].forEach(id => document.getElementById(id).classList.remove('active'));
+  btn.classList.add('active');
+}
+document.getElementById('hub-fp-cat').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#hub-fp-cat .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  hubFPCat = pill.dataset.value;
+});
+document.getElementById('hub-fp-gen').addEventListener('click', () => {
+  const bank = hubFPData[hubFPCat];
+  const arr = Array.isArray(bank) ? bank : (bank[hubTone] || bank[1] || bank[0]);
+  const prompt = arr[Math.floor(Math.random() * arr.length)];
+  document.getElementById('hub-fp-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+});
+const hubNames = {
+  elf:{first:["Ael","El","Lor","Syl","Ith","Aer","Fin","Thal","Ara","Elen","Luth","Myr","Nim","Ser","Cele","Eir"],second:["ric","drin","ien","dor","wen","las","ion","thil","nor","mir","thal","driel","lian","riel","wyn"],space:false},
+  dwarf:{first:["Thor","Bal","Dur","Gim","Dain","Grum","Kili","Rurik","Krag","Orin","Sten","Morn","Brum"],second:["in","an","or","im","grim","dil","mund","rik","thor","lin","gar","gorn"],space:false},
+  orc:{first:["Gor","Ur","Morg","Grak","Krug","Ruk","Harg","Brug","Vorg","Thok","Krag","Grom"],second:["bag","gan","ash","ok","zul","mak","nak","lok","mash","thag","dur","kar"],space:false},
+  human:{first:["Eli","Cath","Mar","Alex","Sam","Ben","Leo","Kay","Nate","Finn","Zoe","Soren","Rowan","Cass","Blake"],second:["as","rine","ander","uel","iel","ton","bert","son","don","ford","wick","man","dell","rick","shaw"],space:false},
+  dragon:{first:["Sma","Dra","Igni","Ember","Blaze","Cinder","Crimson","Obsid","Lunar","Rage","Storm"],second:["ug","kon","fang","wing","scale","claw","fire","breath","roar","soul","spine"],space:false},
+  town:{first:["Eldo","Raven","Stone","Silver","Iron","Mist","Oak","Wind","Bright","Shadow","Green","Wolf"],second:["ria","holm","ford","vale","dale","shire","burg","haven","crest","moor","bridge","ridge"],space:true},
+  weapon:{first:["Doom","Storm","Shadow","Flame","Frost","Night","Blood","Iron","Sunder","Phantom","Wrath","Bane"],second:["blade","breaker","fang","edge","cleaver","reaver","shard","scythe","rend","lance"],space:true}
+};
+document.getElementById('hub-ng-gen').addEventListener('click', () => {
+  const cat = document.getElementById('hub-ng-cat').value;
+  const parts = hubNames[cat];
+  const output = document.getElementById('hub-ng-output');
+  output.innerHTML = '';
+  for (let i = 0; i < 4; i++) {
+    const sep = parts.space ? ' ' : '';
+    const name = parts.first[Math.floor(Math.random()*parts.first.length)] + sep + parts.second[Math.floor(Math.random()*parts.second.length)];
+    const el = document.createElement('div');
+    el.className = 'ng-name'; el.textContent = name; el.title = 'Click to copy';
+    el.addEventListener('click', () => { navigator.clipboard.writeText(name); el.classList.add('copied'); setTimeout(()=>el.classList.remove('copied'),1200); });
+    output.appendChild(el);
+  }
+});
+</script>

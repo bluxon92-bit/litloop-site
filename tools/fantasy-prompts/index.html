@@ -1,0 +1,320 @@
+---
+layout: default
+title: Fantasy Writing Prompt Generator
+description: Free fantasy writing prompt generator for writers. Generate prompts for characters, worlds, magic systems, plots and more. Beat writer's block instantly.
+permalink: /tools/fantasy-prompts/
+---
+
+<div class="tool-hero tool-hero--fantasy">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Fantasy Writing<br><em>Prompt Generator</em></h1>
+    <p>Beat writer's block instantly. Generate prompts for characters, worlds, magic systems, and plots — from cosy to grimdark.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="prompt-gen-card">
+
+      <div class="prompt-controls">
+        <div class="control-group">
+          <label>Category</label>
+          <div class="pill-group" id="fp-category">
+            <button class="pill active" data-value="plot">Plot</button>
+            <button class="pill" data-value="character">Character</button>
+            <button class="pill" data-value="world">World</button>
+            <button class="pill" data-value="magic">Magic System</button>
+            <button class="pill" data-value="conflict">Conflict</button>
+            <button class="pill" data-value="opening">Opening Line</button>
+          </div>
+        </div>
+
+        <div class="control-group">
+          <label>Tone</label>
+          <div class="tone-slider-wrap">
+            <span class="tone-label tone-label--left">☀️ Cosy</span>
+            <input type="range" id="fp-tone" min="0" max="2" step="1" value="1" class="tone-slider">
+            <span class="tone-label tone-label--right">🩸 Grimdark</span>
+          </div>
+          <div class="tone-display" id="fp-tone-display">Mid-range</div>
+        </div>
+
+        <button class="btn-generate" id="fp-generate">
+          <span class="btn-generate-icon">✦</span>
+          Generate Prompt
+        </button>
+      </div>
+
+      <div class="prompt-output" id="fp-output">
+        <p class="ng-placeholder">Select a category and tone, then hit Generate Prompt.</p>
+      </div>
+
+      <div class="prompt-actions" id="fp-actions" style="display:none;">
+        <button class="btn-copy" id="fp-copy">Copy prompt</button>
+        <button class="btn-save" id="fp-save">Save ♡</button>
+        <button class="btn-regen" id="fp-regen">New prompt ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="saved-prompts-card" id="fp-saved-wrap" style="display:none;">
+        <h4>Saved prompts <button class="btn-clear" id="fp-clear-saved">Clear all</button></h4>
+        <div id="fp-saved-list"></div>
+      </div>
+      <div class="sidebar-card">
+        <h3>How to use writing prompts</h3>
+        <ul>
+          <li>Don't feel bound to the prompt literally — let it spark a direction</li>
+          <li>Combine two prompts for something more complex</li>
+          <li>Use character prompts for side characters, not just protagonists</li>
+          <li>World prompts work great for building lore and backstory</li>
+          <li>Set a timer — 20 minutes, one prompt, no editing</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--teal">
+        <h3>Also on Cabbage Tree</h3>
+        <a href="{{ '/tools/name-generator/' | relative_url }}" class="sidebar-link">Fantasy Name Generator →</a>
+        <a href="{{ '/tools/scifi-prompts/' | relative_url }}" class="sidebar-link">Sci-Fi Prompt Generator →</a>
+        <a href="{{ '/genres/fantasy/' | relative_url }}" class="sidebar-link">Explore Fantasy Books →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+// Tone labels
+const toneLabels = ['Cosy & Whimsical', 'Mid-range', 'Grimdark'];
+document.getElementById('fp-tone').addEventListener('input', e => {
+  document.getElementById('fp-tone-display').textContent = toneLabels[e.target.value];
+});
+
+// ── PROMPT BANK ────────────────────────────────────────────────────────────
+const prompts = {
+  plot: {
+    0: [ // Cosy
+      "A travelling merchant arrives in a sleepy village carrying a map that shows a door that doesn't exist yet. The local cartographer's apprentice recognises the symbols — and knows they shouldn't.",
+      "A retired knight spends her days running a small bakery. When a child brings in a loaf of bread containing a prophecy baked into the crumb, she's pulled back into a world she left behind.",
+      "Every autumn, the village holds a harvest festival where the old stories are re-enacted. This year, one of the actors begins to notice that the story is changing — and it's changing around them.",
+      "A hedge witch discovers that her cottage has been slowly moving through the forest for years. It's been heading somewhere specific. She's almost arrived.",
+      "A young librarian cataloguing an estate sale finds a correspondence between two wizards spanning four hundred years — and realises the last letter was written yesterday.",
+      "A travelling theatre troupe accepts a commission to perform at a cursed manor. The family's wish: that their ancestor's ghost finally gets to see the play written for him — three hundred years too late.",
+      "The village baker accidentally bakes a wish into every loaf. The town's wishes are small and sweet, until one morning a child wishes for her father to come home from the war.",
+      "Two rival mapmakers discover they've both been independently mapping the same imaginary country — which turns out not to be imaginary at all.",
+    ],
+    1: [ // Mid
+      "A soldier returns from a decade-long war to find her homeland has been rebuilt without her. A stranger is living in her house. They know things about her only the dead would know.",
+      "A thief hired to steal an artifact discovers it was stolen from his own people three generations ago. Returning it means betraying his employer. Keeping it means betraying his bloodline.",
+      "An empire has maintained peace for a century by making one small sacrifice every year. The new empress discovers the sacrifice isn't as small as the histories claim.",
+      "A cartographer is commissioned to map the underworld. She sets out with one rule: never look back. She's already broken it twice.",
+      "A city is divided between those who remember the war and those who were born after it. A discovery beneath the city's foundations forces them to confront which version of history is true.",
+      "Two assassins from rival guilds are sent to kill the same target on the same night. The target is already dead when they arrive — and the body is still warm.",
+      "A forgotten deity wakes to find the world has moved on without them. Their temples are museums. Their priests are historians. They must decide whether to reclaim their power or disappear entirely.",
+      "A knight who swore an oath to a dead king finds that the oath has kept her alive far longer than she should be. She's still bound to serve — but the kingdom is long gone.",
+    ],
+    2: [ // Grimdark
+      "A general wins a war by making a deal no one else was willing to make. Ten years later, the other party comes to collect. The price is everything she spent the war protecting.",
+      "A healer who can absorb wounds discovers that the wounds don't disappear — they migrate. Someone else in the city is carrying what she takes. She doesn't know who.",
+      "A young prince is told that the kingdom's prosperity is tied to the suffering of its prisoners. He frees them. The crops fail. He must decide whether to re-imprison them or watch his people starve.",
+      "The prophecy has been fulfilled. The dark lord is dead. But the heroes return to a world that has spent twenty years preparing for the aftermath — and they are now the most dangerous people in it.",
+      "A rebellion succeeds. The tyrant is overthrown. The leader of the rebellion discovers, reading the tyrant's private journals, that the tyrant was right about everything.",
+      "A mercenary takes a contract to protect a village. She fulfils it. Then discovers the village's survival required something she didn't know about — something that will follow her.",
+      "The last dragon is dying. Its blood can power the kingdom's industry for a century. The character who raised it from an egg must decide whether to sell it or let it die in peace and watch the kingdom fall.",
+      "A prisoner who has been in gaol for thirty years is released and discovers the crime she confessed to — the one she didn't commit — has become foundational to the country's mythology.",
+    ]
+  },
+  character: {
+    0: [
+      "A gentle giant who speaks to plants and has spent forty years growing a garden that tells the story of everyone who ever visited. Write the first scene where a stranger arrives who the garden doesn't recognise.",
+      "A travelling merchant who collects not objects but memories — people pay her to take away their worst ones. She has been doing this for so long she has forgotten who she is.",
+      "An elderly wizard whose power has faded but whose reputation hasn't. She must bluff her way through a magical duel using nothing but confidence and a very convincing staff.",
+      "A half-faerie child who can see glamours — the disguises the fae use in the mortal world. He has never told anyone. He has been watching his whole life. Write the day someone finally notices him watching.",
+      "A royal food-taster who has slowly built up an immunity to every known poison. She has also become mildly addicted to several of them. Write her first day of retirement.",
+    ],
+    1: [
+      "A disgraced general offered a chance at redemption, but only if she leads an army she doesn't believe in, to a victory that would serve a cause she fought against her whole life.",
+      "A spy who has spent so long undercover they no longer remember their original name. A mission requires them to return to their childhood village. Someone there recognises them.",
+      "A healer who secretly hates the people she saves — the nobility who start the wars that fill her tent with broken soldiers. Write the day she saves someone she genuinely wants to let die.",
+      "A prince raised to be ruthless who falls in love with someone who only knows kindness. He must decide whether to let the kindness change him — or protect her from what he's becoming.",
+      "An archivist who has spent their life recording history discovers a room in the archive that records the future. The most recent entry is about them.",
+    ],
+    2: [
+      "A war criminal who is considered a hero by half the world and a monster by the other half. Neither side is wrong. Write the scene where they meet the one survivor who refuses to judge them.",
+      "A torturer who believes in the cause they serve — genuinely, completely. Write the day the cause fails and they must reckon with everything they did in its name.",
+      "A soldier who survived a massacre by hiding. They are the only witness. They have been asked to testify. Write the night before the trial, when they are alone with what they know.",
+      "A king who has done terrible things to keep his people alive, and it has worked. His people are alive. He is beloved. Write the day he meets someone from the country he sacrificed.",
+      "An assassin who discovers their most recent target was also an assassin — and the same person hired both of them.",
+    ]
+  },
+  world: [
+    "Magic in this world is inherited — but not by bloodline. It passes to whoever was present at a mage's death. The most powerful mages in the world are veteran battlefield surgeons.",
+    "The ocean in this world is not water but a vast, slow-moving creature. Nations have built their entire civilisations on its back. It has been asleep for three hundred years. It's beginning to stir.",
+    "Time moves differently in different parts of this world — a direct consequence of a magical catastrophe five centuries ago. Some regions experience a week per day. One island is still living through the catastrophe itself.",
+    "All cities in this world are built atop the ruins of older cities. Archaeologists know that this pattern goes deeper than anyone has excavated. The deepest layer found so far predates humanity.",
+    "In this world, death is not the end — the dead linger as echoes for a generation before fading. Society has been built around this: inheritance, justice, and relationships all function differently when the dead are still present.",
+    "Language in this world is magic. New words have to be invented carefully — once a word exists, the thing it describes becomes real. The linguists are the most feared people in the world.",
+    "The world has two suns. The gap between them — the Hours of Dark — lasts six minutes each day. Every living thing in the world evolved around those six minutes. Humans included.",
+    "The world's forests are a single organism. They communicate through the root system. The elves learned to speak their language three thousand years ago and have been translating ever since. The forests have strong opinions about recent events.",
+    "Every person in this world is born with a visible mark that shows their cause of death — not when, just how. Society has arranged itself entirely around these marks. A person born with a war-mark is treated very differently from one born with an age-mark.",
+    "Mountains in this world are sleeping giants. They have been sleeping since before recorded history. Three have woken in the last decade.",
+  ],
+  magic: [
+    "Magic is powered by sleep. The deeper and longer you sleep, the more power you accumulate. But magic use depletes your sleep — overuse leads to insomnia, then hallucinations, then something worse.",
+    "Magic works by trading. You can change anything, but only by swapping it with something of equal value. The most powerful mages spend years building up stores of tradeable material. The black market trades in human memories.",
+    "Spells have to be sung perfectly — pitch, rhythm, and intention all matter. Tone-deaf people can't use magic at all. The most powerful mages are the ones who can sustain a song under pressure. Battle-mages train in screaming.",
+    "Magic requires the caster to believe completely in what they're doing. Doubt kills a spell. The most powerful mages are therefore either extremely disciplined — or dangerously unquestioning.",
+    "Magic leaves a scar on the world — a visible mark where it was used. Old battlefields are maps of what happened there. Experienced trackers can read the land like a crime scene. Mages leave fingerprints.",
+    "In this world magic is democratic — anyone can use it, but it costs physical years of your life. The poor use it for survival and die young. The rich use it for luxury and do the same. The only long-lived people are those who refuse to use it.",
+    "Each mage can only ever learn one spell, perfectly. They spend their whole life mastering it. The diversity of what constitutes a 'spell' is staggering — some people can stop time for three seconds, others can make bread never go stale.",
+    "Magic is contagious. Spend too long near a mage and you start to develop abilities — but also their particular obsessions, fears, and patterns of thought. The most powerful mages are therefore the most isolated.",
+  ],
+  conflict: {
+    0: [
+      "Two neighbouring villages share a magic well that grants one wish per generation. It's this generation's turn. Both villages have a different wish — and the well can only grant one.",
+      "A wizard's tower has been protected by a forcefield for a hundred years. The wizard inside has just died. Their apprentices must work out how to bring it down without knowing what the wizard was keeping in.",
+      "A peace treaty between two kingdoms requires both royal heirs to marry. The heirs have met. They despise each other. They are also the only two people who know about the third faction that will destroy both kingdoms if the treaty fails.",
+      "An enchanted forest grants wishes — but only grants each one to a different person. The village at the forest's edge has been managing a waiting list for decades. Someone has jumped the queue.",
+    ],
+    1: [
+      "A rebellion has been building for twenty years. The moment the rebels are ready to strike, they discover their most trusted leader has been a spy — but their intelligence is also correct.",
+      "A city is divided between those who want to use a discovered ancient weapon to end a war quickly, and those who know what the weapon actually does. Both sides have good reasons.",
+      "Two factions claim the same prophecy. Both interpretations are internally consistent. The prophecy will be fulfilled in six months. The choice of interpretation will determine what it means when it is.",
+      "A plague has a cure — but the cure requires an ingredient that is also the only thing keeping a fragile peace between three nations. Using it will save thousands and start a war.",
+    ],
+    2: [
+      "A warlord has spent thirty years building a just society — through unjust means. The people prosper. The methods are monstrous. A new generation has grown up in the prosperity and discovered the methods.",
+      "The only way to defeat an invading army is to collapse the border — which will also destroy three towns on the wrong side of it. The commander has twelve hours and no other options.",
+      "Two sides in a civil war discover they share a common enemy. Working together will mean winning. It will also mean one side legitimises the other's claim. Both sides would rather lose to the enemy.",
+      "A hero discovers that the monster they've been hunting has been systematically destroyed an empire that committed genocide three hundred years ago. The monster is the last survivor of what was destroyed.",
+    ]
+  },
+  opening: {
+    0: [
+      "The map showed three roads. There were four.",
+      "She had been baking the same spell into her bread for forty years before she realised it was working.",
+      "The dragon had been living in the attic for twelve years and they'd only just noticed.",
+      "Every door in the village was painted red, except for the new one.",
+      "The apprentice had been told the library had one hundred thousand books. She had counted. There were one hundred thousand and one.",
+      "The old wizard died on a Tuesday, which was inconvenient for everyone who had been waiting for him to do it on a Wednesday.",
+    ],
+    1: [
+      "The letter was addressed to my grandfather, dated forty years after he died, and it was in his handwriting.",
+      "I was three hours into burying the body when I found another one underneath it.",
+      "The city had stood for a thousand years. The wall surrounding it had stood for longer — and it faced inward.",
+      "The treaty had held for sixty years. It took eleven words to break it.",
+      "She knew the signs of a haunting. She had been the one who taught people what to look for. This was different.",
+      "The prisoner in cell seven had predicted every major event for the past three years. Today she predicted nothing, which terrified the warden more than anything she'd said before.",
+    ],
+    2: [
+      "The revolution succeeded. That was the problem.",
+      "She'd been hired to find the missing girl. She found her. The job was simpler before she understood why the girl was hiding.",
+      "The last honest man in the kingdom died at dawn, and by noon three people had claimed the title.",
+      "The healer had saved ten thousand lives. She had also, by her own count, ended forty-seven — and she remembered every one of them with more clarity than she remembered the ten thousand.",
+      "The empire had lasted three hundred years. The emperor, alone in his study, knew exactly when it would end: in forty-six days, at roughly two in the afternoon.",
+      "I survived the war by being willing to do things the others weren't. I spent the peace trying to become the kind of person who didn't know how to do those things anymore. I failed.",
+    ]
+  }
+};
+
+function getPrompt(category, tone) {
+  const bank = prompts[category];
+  if (!bank) return null;
+  // World and magic are tone-independent arrays
+  if (Array.isArray(bank)) {
+    return bank[Math.floor(Math.random() * bank.length)];
+  }
+  // Others have tone sub-arrays
+  const toneBank = bank[tone];
+  return toneBank[Math.floor(Math.random() * toneBank.length)];
+}
+
+let currentCategory = 'plot';
+let savedPrompts = [];
+
+// Pill group selection
+document.getElementById('fp-category').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#fp-category .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  currentCategory = pill.dataset.value;
+});
+
+function generate() {
+  const tone = parseInt(document.getElementById('fp-tone').value);
+  const prompt = getPrompt(currentCategory, tone);
+  if (!prompt) return;
+
+  const output = document.getElementById('fp-output');
+  output.innerHTML = '';
+
+  const catLabel = currentCategory.charAt(0).toUpperCase() + currentCategory.slice(1).replace('-', ' ');
+  const toneLabel = toneLabels[tone];
+
+  const meta = document.createElement('div');
+  meta.className = 'prompt-meta';
+  meta.innerHTML = `<span class="prompt-tag">${catLabel}</span><span class="prompt-tone">${toneLabel}</span>`;
+
+  const text = document.createElement('p');
+  text.className = 'prompt-text';
+  text.textContent = prompt;
+
+  output.appendChild(meta);
+  output.appendChild(text);
+  output.dataset.current = prompt;
+
+  document.getElementById('fp-actions').style.display = 'flex';
+}
+
+document.getElementById('fp-generate').addEventListener('click', generate);
+document.getElementById('fp-regen').addEventListener('click', generate);
+
+document.getElementById('fp-copy').addEventListener('click', () => {
+  const prompt = document.getElementById('fp-output').dataset.current;
+  if (!prompt) return;
+  navigator.clipboard.writeText(prompt).then(() => {
+    const btn = document.getElementById('fp-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy prompt', 1500);
+  });
+});
+
+document.getElementById('fp-save').addEventListener('click', () => {
+  const prompt = document.getElementById('fp-output').dataset.current;
+  if (!prompt || savedPrompts.includes(prompt)) return;
+  savedPrompts.unshift(prompt);
+  if (savedPrompts.length > 10) savedPrompts = savedPrompts.slice(0, 10);
+  updateSaved();
+  const btn = document.getElementById('fp-save');
+  btn.textContent = 'Saved ♥';
+  setTimeout(() => btn.textContent = 'Save ♡', 1500);
+});
+
+document.getElementById('fp-clear-saved').addEventListener('click', () => {
+  savedPrompts = [];
+  updateSaved();
+});
+
+function updateSaved() {
+  const wrap = document.getElementById('fp-saved-wrap');
+  const list = document.getElementById('fp-saved-list');
+  if (savedPrompts.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  savedPrompts.forEach((p, i) => {
+    const item = document.createElement('div');
+    item.className = 'saved-item';
+    item.innerHTML = `<p>${p.substring(0, 80)}…</p><button onclick="navigator.clipboard.writeText('${p.replace(/'/g, "\\'")}')">Copy</button>`;
+    list.appendChild(item);
+  });
+}
+
+// Generate on load
+generate();
+</script>

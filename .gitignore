@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+__MACOSX
+Thumbs.db
+.jekyll-cache/
+.jekyll-metadata
+_site/
+.sass-cache/
+Gemfile.lock
+.bundle/
+vendor/

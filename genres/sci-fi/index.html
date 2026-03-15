@@ -1,0 +1,136 @@
+---
+layout: default
+title: Science Fiction Books — The Complete Guide
+description: The best science fiction books across every sub-genre — from classic hard sci-fi to space opera, cyberpunk, and first contact stories.
+permalink: /genres/sci-fi/
+---
+
+<div class="genre-hub-hero genre-hub-hero--scifi">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Science <em>Fiction</em></h1>
+    <p>The complete guide to sci-fi — from golden age classics to the best new releases. Space opera, hard sci-fi, cyberpunk, first contact, and everything in between.</p>
+    <div class="hero-tags">
+      <span>Hard Sci-Fi</span><span>Space Opera</span><span>Cyberpunk</span><span>First Contact</span><span>Dystopian</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Sci-Fi</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;">Science fiction is arguably the most important genre of the last century — it's where we process our anxieties about technology, explore what it means to be human, and imagine radically different futures.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For hard sci-fi:</strong> Start with Arthur C. Clarke's <em>Rendezvous with Rama</em> or Kim Stanley Robinson's <em>Red Mars</em>. Both take the science seriously without sacrificing story.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For space opera:</strong> Iain M. Banks' Culture novels (start with <em>Consider Phlebas</em>) or Alastair Reynolds' <em>Revelation Space</em>. Both are vast, intelligent, and utterly transportive.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For cyberpunk:</strong> William Gibson's <em>Neuromancer</em> invented the genre and still reads like the future. Neal Stephenson's <em>Snow Crash</em> is the funniest important book in sci-fi.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"><strong>For short stories:</strong> Ted Chiang's <em>Stories of Your Life and Others</em> is the gold standard of modern sci-fi short fiction. Each story is a precisely constructed thought experiment.</p>
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+<section class="free-download-strip free-download-strip--scifi">
+  <div class="section-inner">
+    <div class="free-download-content">
+      <div class="free-download-text">
+        <div class="section-label" style="color:rgba(255,255,255,0.6);">Free Download</div>
+        <h3>Free Sci-Fi Short Stories</h3>
+        <p>A curated collection of original science fiction short stories — free to download. No sign-up required.</p>
+      </div>
+      <div class="free-download-action">
+        <a href="{{ '/free-downloads/' | relative_url }}" class="btn-download">
+          <span class="btn-download-icon">↓</span>
+          Download Free
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Sci-Fi Writing <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Inspired to write? Generate a sci-fi prompt to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-sp-cat">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="world">World</button>
+        <button class="pill" data-value="technology">Technology</button>
+        <button class="pill" data-value="firstcontact">First Contact</button>
+      </div>
+      <button class="btn-generate" id="hub-sp-gen" style="margin-top:1rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-sp-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a sci-fi writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/scifi-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+{% assign sf_posts = site.posts %}
+{% assign sf_bucket = site.posts | where: "genre", "Science Fiction" %}
+
+{% if sf_bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Sci-Fi <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in sf_bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image">
+          <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+        </div>
+        {% else %}
+        <div class="blog-card-image" style="background:linear-gradient(135deg, #0d1b2a 0%, #0077b6 100%); display:flex; align-items:center; justify-content:center;">
+          <span style="font-family:var(--font-display); font-size:2rem; color:rgba(255,255,255,0.15);">◈</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<script>
+const hubSFPrompts = {
+  plot: ["A ship's AI has been keeping a secret from the crew for eleven years. The voyage ends in six days.", "Two astronauts on a fourteen-month solo mission discover, six months in, that only one of them was supposed to be on the flight.", "A woman who donated her memories to science wakes to find the donation was incomplete — she still has half of them.", "Every civilisation in the galaxy has disappeared at exactly the same stage of technological development. Humanity has just reached that stage.", "A generation ship travelling for 400 years finds the crew's descendants have developed a religion centred on arrival — but navigation shows they already passed their destination."],
+  character: ["An engineer maintaining life support on a long-haul freighter realises someone has been sabotaging her work — carefully, one system at a time, over months.", "A xenolinguist who spent thirty years decoding alien languages discovers the first message decoded was mistranslated. The correct translation changes everything.", "The last person who remembers what the world was like before the Shift is 140 years old, kept alive by technology she philosophically opposes.", "A civil rights lawyer specialising in AI personhood cases takes on a client who is neither human nor AI — something the law has no category for."],
+  world: ["A world where digital and physical space merged thirty years ago: everyone has a persistent augmented layer visible to all — social status, criminal record, emotional state — visible by default.", "A post-scarcity Earth where automated systems produce everything anyone needs has discovered a new form of scarcity: meaning.", "A generation ship travelling for 600 years has developed such distinct internal cultures between its twelve sections that inhabitants no longer share a common language.", "Faster-than-light travel was invented 200 years ago. Earth is no longer the centre of anything. Write what Earth is now."],
+  technology: ["A technology that allows perfect memory recall has been widely adopted. It has also made forgiveness structurally impossible.", "A diagnostic AI has a better track record than any human doctor, but cannot explain its reasoning. No one can explain what it knows.", "Brain-computer interfaces have been standard for twenty years. A security vulnerability allows anyone to read thoughts. It's been in the code since the beginning.", "A cheap, reliable lie detector has been in widespread use for thirty years. People have learned not to believe what they feel, only what they can verify they feel."],
+  firstcontact: ["First contact occurs not with a message or ship, but with a mathematical proof — left inside a prime number, waiting to be found.", "An alien ship lands and makes no attempt at communication. It sits for nine years. Then it opens. It contains a museum of Earth.", "Humanity makes contact and discovers the galaxy is busy — thousands of civilisations. Humanity was the last to be included. The actual reason is being kept quiet.", "An alien species asks one question: 'Do you want to know what happened to all the others?'"]
+};
+let hubSFCat = 'plot';
+document.getElementById('hub-sp-cat').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#hub-sp-cat .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  hubSFCat = pill.dataset.value;
+});
+document.getElementById('hub-sp-gen').addEventListener('click', () => {
+  const bank = hubSFPrompts[hubSFCat] || hubSFPrompts.plot;
+  const prompt = bank[Math.floor(Math.random() * bank.length)];
+  document.getElementById('hub-sp-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+});
+</script>
