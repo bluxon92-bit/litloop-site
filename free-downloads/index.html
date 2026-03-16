@@ -16,65 +16,57 @@ permalink: /free-downloads/
   </div>
 </div>
 
-<section class="section" style="background:var(--paper);">
+<section class="section" style="background:var(--cream);">
   <div class="section-inner" style="max-width:680px;">
 
     <div class="lead-gen-card">
 
-      <!-- STEP 1: Email form (shown by default) -->
+      <!-- STEP 1: Form -->
       <div class="lead-gen-step" id="lg-step1">
 
-        <div class="lead-gen-book-preview lead-gen-book-preview--scifi">
-          <div class="book-preview-icon">◈</div>
+        <div class="lead-gen-book-preview lead-gen-book-preview--scifi" style="background:var(--navy);">
+          <div class="book-preview-icon" style="color:var(--amber-light);">◈</div>
           <div class="book-preview-meta">
-            <h2>Sci-Fi Short Story Collection</h2>
-            <p>Original short fiction by <strong>Ben Luxon</strong></p>
+            <h2 style="color:white;">Sci-Fi Short Story Collection</h2>
+            <p style="color:rgba(255,255,255,0.6);">Original short fiction by <strong style="color:rgba(255,255,255,0.9);">Ben Luxon</strong></p>
           </div>
         </div>
 
-        <ul class="download-features" style="margin-bottom:2rem;">
+        <ul class="download-features">
           <li>Multiple original stories</li>
           <li>Hard SF, space opera &amp; speculative fiction</li>
           <li>Instant access — sent straight to your inbox</li>
         </ul>
 
-        <div class="lead-gen-form-wrap">
+        <div class="lead-gen-form-wrap" style="margin-top:1.75rem;">
           <p class="lead-gen-label">Enter your email to get instant access:</p>
           <div class="ml-embedded" data-form="0hveDb"></div>
           <p class="lead-gen-small">No spam. You'll also receive occasional book recommendations from Litloop. Unsubscribe any time.</p>
         </div>
 
-        <div class="lead-gen-divider">
-          <span>or</span>
-        </div>
-
-        <p class="lead-gen-direct-link">
-          Already subscribed? <button class="btn-text-link" id="lg-scifi-show-direct">Click here to go straight to the download →</button>
-        </p>
+        <div class="lead-gen-divider"><span>or</span></div>
 
       </div>
 
-      <!-- STEP 2: Thank you + download link (hidden until form submit) -->
+      <!-- STEP 2: Success -->
       <div class="lead-gen-step lead-gen-thankyou" id="lg-step2" style="display:none;">
-        <div class="thankyou-icon">✦</div>
+        <div class="thankyou-check">✓</div>
         <h2>You're all set!</h2>
         <p>Check your inbox — the stories are on their way. While you wait, you can also download directly below.</p>
-        <!-- Replace href with actual PDF URL when ready -->
-        <a href="{{ site.scifi_download_url | default: '#' }}" class="btn-download btn-download--large" download>
-          <span class="btn-download-icon">↓</span>
-          Download Now (PDF)
+        <a href="{{ site.scifi_download_url | default: '#' }}" class="btn btn-primary btn-download--large" download>
+          ↓ &nbsp;Download Now (PDF)
         </a>
-        <p class="lead-gen-small" style="margin-top:1rem;">Also available at <a href="{{ site.sister_site.url }}" target="_blank" rel="noopener">benluxonauthor.com</a></p>
+        <p class="lead-gen-small" style="margin-top:1.25rem;">Questions? Get in touch via the <a href="{{ '/about/' | relative_url }}" style="color:var(--teal);">About page</a>.</p>
       </div>
 
     </div>
 
-    <div style="margin-top:3rem;">
-      <h3 style="font-family:var(--font-display); font-size:1.2rem; margin-bottom:1rem;">You might also enjoy</h3>
-      <div style="display:flex; gap:1rem; flex-wrap:wrap;">
-        <a href="{{ '/genres/sci-fi/' | relative_url }}" class="btn btn-outline">Sci-Fi Reading Guide →</a>
-        <a href="{{ '/tools/scifi-prompts/' | relative_url }}" class="btn btn-outline">Sci-Fi Prompt Generator →</a>
-        <a href="{{ '/free-downloads/horror/' | relative_url }}" class="btn btn-outline">Free Horror Stories →</a>
+    <div style="margin-top:2.5rem;">
+      <h3 style="font-family:var(--font-display); font-size:1.1rem; color:var(--navy); margin-bottom:1rem;">You might also enjoy</h3>
+      <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+        <a href="{{ '/genres/sci-fi/' | relative_url }}" class="btn-outline">Sci-Fi Reading Guide →</a>
+        <a href="{{ '/tools/scifi-prompts/' | relative_url }}" class="btn-outline">Sci-Fi Prompt Generator →</a>
+        <a href="{{ '/free-downloads/horror/' | relative_url }}" class="btn-outline">Free Horror Stories →</a>
       </div>
     </div>
 
@@ -82,15 +74,16 @@ permalink: /free-downloads/
 </section>
 
 <script>
-// Show download directly if user clicks "already subscribed"
 document.getElementById('lg-scifi-show-direct')?.addEventListener('click', function() {
   document.getElementById('lg-step1').style.display = 'none';
   document.getElementById('lg-step2').style.display = 'block';
+  document.getElementById('lg-step2').scrollIntoView({ behavior: 'smooth', block: 'start' });
 });
-
-// Listen for MailerLite successful submission, then reveal download
-document.addEventListener('ml-form-success', function() {
-  document.getElementById('lg-step1').style.display = 'none';
-  document.getElementById('lg-step2').style.display = 'block';
+document.addEventListener('ml-form-success', function(e) {
+  if (document.getElementById('lg-step1')) {
+    document.getElementById('lg-step1').style.display = 'none';
+    document.getElementById('lg-step2').style.display = 'block';
+    document.getElementById('lg-step2').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
 });
 </script>

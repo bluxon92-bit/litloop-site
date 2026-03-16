@@ -177,7 +177,7 @@ em { font-style: italic; }
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 0.25rem;
+    gap: 0.75rem;
     position: absolute;
     top: 64px; left: 0; right: 0;
     background: white;
@@ -770,6 +770,10 @@ em { font-style: italic; }
   overflow: hidden;
 }
 .nav-dropdown.open .nav-dropdown-panel { display: block; }
+.nav-dropdown-panel--wide {
+  left: auto;
+  right: 0;
+}
 
 .nav-dropdown-section { padding: 0.75rem; }
 .nav-dropdown-section--border { border-top: 1px solid var(--border); }
@@ -1589,12 +1593,11 @@ em { font-style: italic; }
    NAV DROPDOWN — wide two-column panel
    ============================================================ */
 .nav-dropdown-panel--wide {
-  display: none;
   min-width: 460px;
   flex-direction: row;
 }
 .nav-dropdown.open .nav-dropdown-panel--wide {
-  display: flex;
+  display: flex !important;
 }
 .nav-dropdown-col {
   flex: 1;
@@ -1823,7 +1826,7 @@ em { font-style: italic; }
     position: static;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 0.25rem;
+    gap: 0.75rem;
   }
   .legal-toc-label { width: 100%; }
   .legal-content { padding: 1.5rem; }
@@ -2040,4 +2043,177 @@ em { font-style: italic; }
   .quiz-shell { padding: 1.5rem; }
   .quiz-results-grid { grid-template-columns: 1fr; }
   .quiz-q-num { font-size: 2rem; }
+}
+
+/* ============================================================
+   FIXES — March 2026 update
+   ============================================================ */
+
+/* Nav spacing — items further apart */
+.header-nav { gap: 0.5rem; }
+.header-nav .btn { margin-left: 0.5rem; }
+
+/* Prompt generator — spacing between tone display and pill group */
+.tone-display { margin-top: 0.625rem; }
+.control-group { gap: 0.75rem; }
+
+/* Sidebar cards — white background replacing teal/green */
+.sidebar-card--litloop {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.375rem;
+}
+.sidebar-card--litloop h3 { color: var(--navy); margin-bottom: 0.5rem; font-size: 1rem; }
+.sidebar-card--litloop p { color: var(--text-mid); font-size: 0.875rem; line-height: 1.55; margin-bottom: 0.875rem; }
+.sidebar-card--litloop .sidebar-link { color: var(--teal); font-size: 0.875rem; font-weight: 500; display: block; margin-bottom: 0.3rem; }
+.sidebar-card--litloop .sidebar-link:hover { color: var(--navy); text-decoration: underline; }
+
+/* btn-outline used on free download pages */
+.btn-outline {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.6rem 1.25rem;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-pill);
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--navy);
+  background: white;
+  text-decoration: none;
+  transition: all 0.15s;
+}
+.btn-outline:hover { border-color: var(--teal); color: var(--teal); background: rgba(42,107,95,0.04); }
+
+/* Lead gen / free download cards */
+.lead-gen-card {
+  background: white;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  padding: 2rem 2.5rem;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+}
+.lead-gen-card--horror {
+  border-top: 4px solid #8b0000;
+}
+.lead-gen-book-preview {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.25rem;
+  background: var(--cream);
+  border-radius: var(--radius-md);
+  margin-bottom: 1.75rem;
+}
+.lead-gen-book-preview--horror { background: #1a0505; }
+.lead-gen-book-preview--horror h2 { color: white; }
+.lead-gen-book-preview--horror p { color: rgba(255,255,255,0.6); }
+.lead-gen-book-preview--horror strong { color: rgba(255,255,255,0.9); }
+.book-preview-icon {
+  font-size: 2.5rem;
+  width: 56px;
+  text-align: center;
+  flex-shrink: 0;
+}
+.book-preview-meta h2 { font-size: 1.1rem; color: var(--navy); margin-bottom: 0.25rem; }
+.book-preview-meta p { font-size: 0.875rem; color: var(--text-muted); margin: 0; }
+
+.download-features {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.download-features li {
+  font-size: 0.9375rem;
+  color: var(--text-mid);
+  padding-left: 1.5rem;
+  position: relative;
+}
+.download-features li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--teal);
+  font-weight: 600;
+}
+
+.lead-gen-label {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-mid);
+  margin-bottom: 0.75rem;
+}
+.lead-gen-small {
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  margin-top: 0.75rem;
+  line-height: 1.55;
+}
+.lead-gen-divider {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  color: var(--text-muted);
+  font-size: 0.8125rem;
+}
+.lead-gen-divider::before,
+.lead-gen-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+.lead-gen-direct-link { font-size: 0.875rem; color: var(--text-muted); }
+.btn-text-link {
+  background: none;
+  border: none;
+  color: var(--teal);
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Thank you / success state */
+.lead-gen-thankyou {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+.thankyou-icon { font-size: 3rem; margin-bottom: 1rem; }
+.lead-gen-thankyou h2 { color: var(--navy); margin-bottom: 0.75rem; }
+.lead-gen-thankyou p { color: var(--text-mid); max-width: 420px; margin: 0 auto 1.5rem; line-height: 1.65; }
+.btn-download--large {
+  font-size: 1rem;
+  padding: 1rem 2rem;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+.btn-download--dark { background: var(--navy); color: white; }
+.btn-download--dark:hover { background: var(--navy-dark); }
+
+/* MailerLite popup — all waitlist buttons */
+a.ml-onclick-form,
+.btn-waitlist-popup {
+  cursor: pointer;
+}
+
+/* ── Download success state ───────────────────────────── */
+.thankyou-check {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--teal);
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1.25rem;
 }
