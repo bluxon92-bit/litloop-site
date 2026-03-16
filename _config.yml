@@ -12,7 +12,7 @@ mailerlite:
   waitlist_form_url: "YOUR_LITLOOP_WAITLIST_FORM_URL_HERE"
 
 # Google Analytics
-google_analytics: "G-XXXXXXXXXX"
+google_analytics: "G-K2KKT53B8N"
 
 markdown: kramdown
 highlighter: rouge
