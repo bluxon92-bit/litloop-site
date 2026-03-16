@@ -11,7 +11,7 @@ permalink: /blog/best-books-about-greek-mythology/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/banner-greek-mythology-1-_hjhles.png)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
@@ -23,7 +23,7 @@ The work of the likes of Homer (alive around the 8th century BCE), formed a pivo
 
 In this article, we explore some of the best Greek mythology books fiction has to offer, perfect for seasoned Greek mythology enthusiasts and newcomers alike.
 
-**You might also like:** [9 Dystopian Novels That Will Change How You View The World ](https://www.www.litloop.co/blog/9-dystopian-novels-to-read)
+**You might also like:** [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
 
 ## Books About Greek Mythology
 
@@ -55,7 +55,7 @@ Eventually, she discovers a power for witchcraft and after creating a god and th
 
 As a result, Zeus punishes Circe with banishment. In some ways she enjoys her solitude on the deserted island, she hones her craft and waits. During the novel, she encounters some of the most famous figures in mythology, such as the Minotaur, Daedalus and Icarus, Medea, and cunning Odysseus.
 
-This is a story [of men and gods and wrath](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath), of power and revenge, and of love. Circe's story is an epic celebration of family rivalry, palace intrigue, and above all, the unbreakable strength of women in a world dominated by men. Circe is a triumph of storytelling and a must-read for fans of Greek mythology.
+This is a story [of men and gods and wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath), of power and revenge, and of love. Circe's story is an epic celebration of family rivalry, palace intrigue, and above all, the unbreakable strength of women in a world dominated by men. Circe is a triumph of storytelling and a must-read for fans of Greek mythology.
 
 [**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3A4QxyK)
 
@@ -105,7 +105,7 @@ The novel follows Theseus on his journey from Troizen to Eleusis, where he faces
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381461/lion-of-macedon_mefnvw.webp)
 
-Regular readers of this blog will know that no list is complete without an entry from one of my favourite authors, David Gemmel. He write a few [fantasy fiction](https://www.www.litloop.co/blog/29-best-fantasy-books) books set in ancient Greece, with his Troy series, starting with [Lord of the Silver Bow](https://amzn.to/41sFZ8X), becoming highly acclaimed.
+Regular readers of this blog will know that no list is complete without an entry from one of my favourite authors, David Gemmel. He write a few [fantasy fiction](https://www.litloop.co/blog/29-best-fantasy-books) books set in ancient Greece, with his Troy series, starting with [Lord of the Silver Bow](https://amzn.to/41sFZ8X), becoming highly acclaimed.
 
 However, my favourite of his books set in ancient Greece is The Lion of Macedon. This novel follows the character of Parmenion from his birthplace in Sparta where he learns strategy from the famous Athenian and student of Socrates, [Xenophon](https://www.masterclass.com/articles/xenophon-life-and-philosophy). From there he travels to Thebes and finally to Macedonia where he meets Phillip of Macedon and lays the foundation for the conquest of Alexander the Great.
 
@@ -113,7 +113,7 @@ He’s a mighty warrior, an unbeatable strategist, and hated by the gods. Along 
 
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3mHw5RI)
 
-**Related**: [How To Read David Gemmell's Drenai Series](https://www.www.litloop.co/blog/david-gemmells-drenai-series)
+**Related**: [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)
 
 ---
 
@@ -219,17 +219,17 @@ One of the most exceptional aspects of this romantic and dazzlingly detailed gra
 
 ## Books About Greek Mythology: Final Words
 
-Greek mythology continues to captivate readers with its fascinating tales of gods, heroes, and [monsters](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond). The books listed in this article offer a variety of perspectives and interpretations of these ancient myths, from classic retellings to modern reimaginings. Perfect for mythology enthusiasts or someone just looking for a good story filled with adventure, drama, and romance.
+Greek mythology continues to captivate readers with its fascinating tales of gods, heroes, and [monsters](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond). The books listed in this article offer a variety of perspectives and interpretations of these ancient myths, from classic retellings to modern reimaginings. Perfect for mythology enthusiasts or someone just looking for a good story filled with adventure, drama, and romance.
 
 From Stephen Fry's historical "Mythos", to Madeline Miller's sensitive alternate perspective in "Circe", to the more comedic "The Minotaur Takes a Cigarette Break," by  Steven Sherrill. Each book offers a unique and captivating look into the world of Greek mythology. So, sit back, grab your favourite book, and immerse yourself in the timeless tales of gods and mortals that continue to inspire us today.
 
 ### You Might Also Like
 
 -
-  [12 Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 -
-  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
+  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
 -
-  [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+  [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 -
-  [The 10 Best Isaac Asimov Books To Read Today](https://www.www.litloop.co/blog/best-isaac-asimov-books)
+  [The 10 Best Isaac Asimov Books To Read Today](https://www.litloop.co/blog/best-isaac-asimov-books)

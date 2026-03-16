@@ -28,7 +28,7 @@ Verity by Colleen Hoover revolves around the protagonist Lowen Ashleigh who is a
 
 Right from the first line [Verity](https://amzn.to/3PNOacR) delivers jolting shocks that have you flicking through the pages to uncover the book’s secrets. The secondary protagonists are a rich and engaging cast. I found the book on the whole very well-paced and entertaining, albeit with some predictability setting in during the final third.
 
-Without revealing too much the plot’s promise is that Lowen finds herself tasked with completing a book series for a renowned author. Her journey takes her to the home of the author's husband, where she delves into his notes to gain a deeper understanding of how to finish the remaining books but uncovers a [horrifying](https://www.www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king) truth.
+Without revealing too much the plot’s promise is that Lowen finds herself tasked with completing a book series for a renowned author. Her journey takes her to the home of the author's husband, where she delves into his notes to gain a deeper understanding of how to finish the remaining books but uncovers a [horrifying](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king) truth.
 
 Colleen Hoover may not excel in intricate prose, but her story was definitely engaging and largely kept me guessing until the final pages. The novel verity instils you with a growing and constant sense of unease from those first pages. Additionally, if the book doesn't resonate with you, it's worth noting that it is relatively short - I finished it over just a couple of sittings - so you won't have to wait long to move on to your next read.
 
@@ -51,10 +51,10 @@ Because of this, Verity will either ‘blow your mind’ or potentially just lea
 ### You Might Also Like
 
 -
-  [Book Review: The Song of Achilles by Madeline Miller](https://www.www.litloop.co/blog/book-review-the-song-of-achilles-by-madeline-miller)
+  [Book Review: The Song of Achilles by Madeline Miller](https://www.litloop.co/blog/book-review-the-song-of-achilles-by-madeline-miller)
 -
-  [Book Review: Assassin's Apprentice by Robin Hobb](https://www.www.litloop.co/blog/book-review-assassins-apprentice-by-robin-hobb)
+  [Book Review: Assassin's Apprentice by Robin Hobb](https://www.litloop.co/blog/book-review-assassins-apprentice-by-robin-hobb)
 -
-  [40+ Spine-Tingling Horror Short Stories](https://www.www.litloop.co/blog/horror-short-stories)
+  [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories)
 -
-  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
+  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)

@@ -5,12 +5,12 @@ date: 2025-03-02
 category: Book Recommendations
 genre: Fantasy
 excerpt: "The complete Throne of Glass reading order — all 7 books plus novellas, in the order that makes the most sense, with a quick hook for each."
-image: ""
+image: "https://m.media-amazon.com/images/I/81TQb9xuHoL._SL1500_.jpg"
 ---
 
 ![Throne of Glass Series in Order]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -32,7 +32,7 @@ Start here. Celaena Sardothien, the kingdom's most feared assassin, gets yanked 
 
 ### 2. Crown of Midnight
 
-This is where the series genuinely begins. If book one felt a bit too YA for your taste, book two answers that concern within the first fifty pages. The plot thickens, the stakes get real, and Celaena's true nature starts to emerge. [Read our full review here.](https://www.www.litloop.co/blog/crown-of-midnight-review)
+This is where the series genuinely begins. If book one felt a bit too YA for your taste, book two answers that concern within the first fifty pages. The plot thickens, the stakes get real, and Celaena's true nature starts to emerge. [Read our full review here.](https://www.litloop.co/blog/crown-of-midnight-review)
 
 [**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/crownofmidnight)
 
@@ -48,7 +48,7 @@ Five stories set before the main series, following a younger Celaena. You *can* 
 
 ### 4. Heir of Fire
 
-The world doubles in size. Celaena travels to a new kingdom, trains with Fae warriors, and grapples with a secret she's been carrying the entire series. This is the book where Maas hits her stride. [Full review here.](https://www.www.litloop.co/blog/heir-of-fire-review)
+The world doubles in size. Celaena travels to a new kingdom, trains with Fae warriors, and grapples with a secret she's been carrying the entire series. This is the book where Maas hits her stride. [Full review here.](https://www.litloop.co/blog/heir-of-fire-review)
 
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/heiroffire)
 
@@ -96,11 +96,7 @@ The main series runs to around 4,800 pages across eight volumes including the no
 
 ### You Might Also Like
 
-- [Sarah J. Maas Books in Order](https://www.www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [Crown of Midnight Review](https://www.www.litloop.co/blog/crown-of-midnight-review)
-- [Heir of Fire Review](https://www.www.litloop.co/blog/heir-of-fire-review)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
+- [Crown of Midnight Review](https://www.litloop.co/blog/crown-of-midnight-review)
+- [Heir of Fire Review](https://www.litloop.co/blog/heir-of-fire-review)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)

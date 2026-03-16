@@ -10,7 +10,7 @@ image: ""
 
 ![Sarah J. Maas Books in Order]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -38,13 +38,13 @@ Be aware: this first book is lighter than what comes after. Some readers find it
 
 ### 2. Crown of Midnight
 
-This is where the series properly takes off. Stakes escalate, the world opens up, and Celaena becomes considerably more interesting. If you're on the fence after book one, [Crown of Midnight](https://www.www.litloop.co/blog/crown-of-midnight-review) is the one that turns doubters into devotees.
+This is where the series properly takes off. Stakes escalate, the world opens up, and Celaena becomes considerably more interesting. If you're on the fence after book one, [Crown of Midnight](https://www.litloop.co/blog/crown-of-midnight-review) is the one that turns doubters into devotees.
 
 [**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/crownofmidnight)
 
 ### 3. Heir of Fire
 
-The scope expands dramatically. New lands, new magic, and a protagonist grappling with who she really is. [Heir of Fire](https://www.www.litloop.co/blog/heir-of-fire-review) is where Maas starts writing at the level she became famous for.
+The scope expands dramatically. New lands, new magic, and a protagonist grappling with who she really is. [Heir of Fire](https://www.litloop.co/blog/heir-of-fire-review) is where Maas starts writing at the level she became famous for.
 
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/heiroffire)
 
@@ -156,11 +156,7 @@ Just clear your schedule first.
 
 ### You Might Also Like
 
-- [Throne of Glass Series in Order](https://www.www.litloop.co/blog/throne-of-glass-series-in-order)
-- [Crown of Midnight Review](https://www.www.litloop.co/blog/crown-of-midnight-review)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Throne of Glass Series in Order](https://www.litloop.co/blog/throne-of-glass-series-in-order)
+- [Crown of Midnight Review](https://www.litloop.co/blog/crown-of-midnight-review)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

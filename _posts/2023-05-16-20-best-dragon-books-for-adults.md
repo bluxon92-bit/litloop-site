@@ -11,7 +11,7 @@ permalink: /blog/best-dragon-books/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/best-dragon-books-1-_r8b1jh.png)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
@@ -137,7 +137,7 @@ However, she has a secret to keep: she is, in fact, a half-dragon! Seraphina mus
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/game-of-thrones-1-_gby0bz.jpg)
 
-One of the most popular series featuring dragons ever, A Song of Ice and Fire is a complex and bloody [grimdark](https://www.www.litloop.co/blog/grimdark-fantasy-books) series set in the seven kingdoms where the powerful noble houses all vie for the Iron Throne. the series is full of betrayal, blood, sex, and vengeance.
+One of the most popular series featuring dragons ever, A Song of Ice and Fire is a complex and bloody [grimdark](https://www.litloop.co/blog/grimdark-fantasy-books) series set in the seven kingdoms where the powerful noble houses all vie for the Iron Throne. the series is full of betrayal, blood, sex, and vengeance.
 
 However, dragons have been extinct for centuries. That is untl Danarys, the last of mad the Targaryen house, hatches three dragon eggs. Can dragons tip the balance of power once more?
 
@@ -149,7 +149,7 @@ However, dragons have been extinct for centuries. That is untl Danarys, the last
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381490/the-farseer-trilogy-robin-hobb-copy-1-1-_ajke9p.webp)
 
-[Robin Hobb’s epic Elderling series](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond) set spans multiple trilogies starting with the incredible Farseer Trilogy. While each series focuses on different characters and plot arcs, read as a whole, you can begin to see how they come together, exploring an intricate world where dragons, once extinct, are finally returning.
+[Robin Hobb’s epic Elderling series](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond) set spans multiple trilogies starting with the incredible Farseer Trilogy. While each series focuses on different characters and plot arcs, read as a whole, you can begin to see how they come together, exploring an intricate world where dragons, once extinct, are finally returning.
 
 However, while their reemergence promises a nostalgic return to the time of the Elderlings, of incredible magic and wondor, dragons are proud, dangerous, and terrifying creatures, and they have suffered under the hands of humans. Against all the odds the cast of characters must uncover the secrets to the mysterious Elderling civilization and the reason behind the sudden disappearance of the dragons all those centuries ago.
 
@@ -269,17 +269,17 @@ As they prepare for their next mission, a shadowy figure from Laurence's past ap
 
 The 20 titles on this list of the best dragon books are a great starting point for any reader looking to explore the world of dragons in literature however, there are a few notable exclusions.
 
-For example, I haven’t included Tolkien’s The Hobbit, Christopher Paolini’s wildly successful Eragon (a personal favourite of mine in my teen years), or even [Harry Potter,](https://www.www.litloop.co/blog/books-like-harry-potter) the fourth volume The Goblet of Fire for example features dragons as one of the main challenges that Harry has to overcome as part of the Triwizard cup. The reason I left these off is that everyone’s heard of these - they are ubiquitous, almost synonymous when you think about magical fantasy featuring dragons.
+For example, I haven’t included Tolkien’s The Hobbit, Christopher Paolini’s wildly successful Eragon (a personal favourite of mine in my teen years), or even [Harry Potter,](https://www.litloop.co/blog/books-like-harry-potter) the fourth volume The Goblet of Fire for example features dragons as one of the main challenges that Harry has to overcome as part of the Triwizard cup. The reason I left these off is that everyone’s heard of these - they are ubiquitous, almost synonymous when you think about magical fantasy featuring dragons.
 
-My personal favourites on the above list are Temeraire and [Robin Hobbs's Realm of the Elderling series](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond). But, each of these books listed stands out for different reasons and there should be something to cater to every taste. So, whether you're looking for epic battles or heartwarming relationships between dragons and humans, there's a dragon book out there for you.
+My personal favourites on the above list are Temeraire and [Robin Hobbs's Realm of the Elderling series](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond). But, each of these books listed stands out for different reasons and there should be something to cater to every taste. So, whether you're looking for epic battles or heartwarming relationships between dragons and humans, there's a dragon book out there for you.
 
 ### You Might Also Like
 
 -
-  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
+  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
 -
-  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.www.litloop.co/blog/books-like-harry-potter)
+  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)
 -
-  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.www.litloop.co/blog/best-books-about-greek-mythology)
+  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology)
 -
-  [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
+  [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)

@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/time-travelers-wife-co
 
 ![The Time Traveler's Wife by Audrey Niffenegger](https://res.cloudinary.com/dnkddcxrt/image/upload/time-travelers-wife-cover_udxrox.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -56,11 +56,7 @@ Anyone who wants a love story that takes love seriously, rendered in a structure
 
 ### You Might Also Like
 
-- [Daughter of Smoke and Bone Review](https://www.www.litloop.co/blog/daughter-of-smoke-and-bone-review)
-- [The Long Way to a Small, Angry Planet Review](https://www.www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
-- [Becky Chambers Books in Order](https://www.www.litloop.co/blog/becky-chambers-books-in-order)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review)
+- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
+- [Becky Chambers Books in Order](https://www.litloop.co/blog/becky-chambers-books-in-order)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

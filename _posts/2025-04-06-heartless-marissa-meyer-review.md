@@ -5,13 +5,13 @@ date: 2025-04-06
 category: Book Reviews
 genre: Fantasy
 excerpt: "Heartless by Marissa Meyer reviewed — the Queen of Hearts origin story done right. Dark fairy-tale YA fantasy at its best."
-image: ""
+image: "https://m.media-amazon.com/images/I/81DU-kSrJgL._SL1500_.jpg"
 permalink: /blog/heartless-review/
 ---
 
 ![Heartless by Marissa Meyer]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -65,11 +65,7 @@ Readers who love fairy-tale retellings. Fans of Meyer's *Lunar Chronicles* who w
 
 ### You Might Also Like
 
-- [Harry Potter and the Cursed Child Review](https://www.www.litloop.co/blog/cursed-child-review)
-- [Daughter of Smoke and Bone Review](https://www.www.litloop.co/blog/daughter-of-smoke-and-bone-review)
-- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.www.litloop.co/blog/books-like-harry-potter)
-- [Sarah J. Maas Books in Order](https://www.www.litloop.co/blog/sarah-j-maas-books-in-order)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Harry Potter and the Cursed Child Review](https://www.litloop.co/blog/cursed-child-review)
+- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review)
+- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)

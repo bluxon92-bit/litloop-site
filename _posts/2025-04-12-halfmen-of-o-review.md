@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/halfmen-of-o-cover_ioa
 
 ![The Halfmen of O by Maurice Gee](https://res.cloudinary.com/dnkddcxrt/image/upload/halfmen-of-o-cover_ioavtv.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -60,11 +60,7 @@ Adults who loved Narnia and Tolkien as children and want something with the same
 
 ### You Might Also Like
 
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [Epic Fantasy: The Best of the Genre](https://www.www.litloop.co/blog/epic-fantasy-best-of-genre)
-- [The Elfstones of Shannara Review](https://www.www.litloop.co/blog/the-elfstones-of-shannara-review)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre)
+- [The Elfstones of Shannara Review](https://www.litloop.co/blog/the-elfstones-of-shannara-review)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

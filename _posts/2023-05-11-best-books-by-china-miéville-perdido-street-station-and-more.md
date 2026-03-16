@@ -13,7 +13,7 @@ redirect_from:
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381495/china-mieville-2-_kjtcb5.webp)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
@@ -23,11 +23,11 @@ Miéville made his literary debut in 2000 with the publication of King Rat, a fa
 
 Since then, Miéville has published numerous other novels, including The Scar, Iron Council, The City & The City, and Embassy Town. His work is known for its complex world-building, fully-realised characters, and vivid and evocative writing style.
 
-Miéville is widely respected within the sci-fi and fantasy community and is considered one of the foremost writers in the genre, [pushing the boundaries of science fiction and fantasy](https://www.www.litloop.co/blog/grimdark-fantasy-books).
+Miéville is widely respected within the sci-fi and fantasy community and is considered one of the foremost writers in the genre, [pushing the boundaries of science fiction and fantasy](https://www.litloop.co/blog/grimdark-fantasy-books).
 
 I will say, that Miéville's books can be hard to work. His ideas are complex and it often seems that language is insufficient to convey them. This can be a bit off-putting for some. However, if you stick to it you’ll find his work incredibly rewarding. My favourites, and the ones we’re going to be looking at in this article, are Perdido Street Station, The Scar, and Embassy Town.
 
-**You might also like** [15+ Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+**You might also like** [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 
 ---
 
@@ -77,7 +77,7 @@ Embassy Town is a thought-provoking and imaginative novel, with a richly-detaile
 
 [**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3MlVZEn)
 
-**Fans of China Miéville might also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+**Fans of China Miéville might also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
 
 ---
 
@@ -127,12 +127,12 @@ For first-timers, his best-known work, Perdido Street Station, is a great place 
 ### You Might Also Like
 
 -
-  [The 10 Best Isaac Asimov Books To Read Today](https://www.www.litloop.co/blog/best-isaac-asimov-books)
+  [The 10 Best Isaac Asimov Books To Read Today](https://www.litloop.co/blog/best-isaac-asimov-books)
 -
-  [Review: The City and The Stars by Arthur C Clarke](https://www.www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
+  [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
 -
-  [9 Dystopian Novels That Will Change How You View The World ](https://www.www.litloop.co/blog/9-dystopian-novels-to-read)
+  [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
 -
-  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.www.litloop.co/blog/10-sci-fi-authors)
+  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
 -
   [Joe Abercrombie Books in Order: A Complete Reading Guide](https://springtail-aqua-9brd.squarespace.com/blog/joe-abercrombie-books-in-order)

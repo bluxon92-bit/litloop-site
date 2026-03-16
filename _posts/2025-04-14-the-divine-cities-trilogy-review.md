@@ -5,12 +5,12 @@ date: 2025-04-14
 category: Book Reviews
 genre: Fantasy
 excerpt: "The Divine Cities Trilogy by Robert Jackson Bennett reviewed — the most underrated fantasy series of the decade, bar none."
-image: ""
+image: "https://m.media-amazon.com/images/I/8133kfQrF8L._SL1500_.jpg"
 ---
 
 ![The Divine Cities by Robert Jackson Bennett]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -70,11 +70,7 @@ Genuinely unclear. The trilogy is critically praised, well-constructed, and emot
 
 ### You Might Also Like
 
-- [The Blacktongue Thief Review](https://www.www.litloop.co/blog/the-blacktongue-thief-review)
-- [Senlin Ascends Review](https://www.www.litloop.co/blog/senlin-ascends-review)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Blacktongue Thief Review](https://www.litloop.co/blog/the-blacktongue-thief-review)
+- [Senlin Ascends Review](https://www.litloop.co/blog/senlin-ascends-review)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

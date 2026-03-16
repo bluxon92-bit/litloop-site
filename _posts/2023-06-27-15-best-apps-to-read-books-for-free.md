@@ -12,7 +12,7 @@ If you don't own a dedicated ebook reader, don't worry! There are numerous ebook
 
 Regardless of whether you prefer Mobi, EPUB, or PDF formats, you'll find there are plenty of apps for reading books for free that are perfectly suited to your needs. Keep reading to discover the top recommendations for your convenience.
 
-[**Get Your Free Copy 10 Classic Sci-Fi Short Stories To Read →**](https://www.www.litloop.co/free-short-stories)** **
+[**Get Your Free Copy 10 Classic Sci-Fi Short Stories To Read →**](https://www.litloop.co/free-short-stories)** **
 
 ## 1. Amazon Kindle App
 
@@ -22,7 +22,7 @@ Regardless of whether you prefer Mobi, EPUB, or PDF formats, you'll find there a
 
 When reading, you have the flexibility to customise various aspects including colour, font, text size, line spacing, and more. You can also make annotations and highlights on text passages, utilise the X-ray feature to delve deeper into character details and other elements, bookmark your current page, and search for specific text. If you come across an unfamiliar word, simply highlight it, and a dictionary or Wikipedia entry will appear to provide its definition.
 
-**You might also like:** [What is Audible, How Does it Work, And Is It Worth it?](https://www.www.litloop.co/blog/is-audible-worth-it)
+**You might also like:** [What is Audible, How Does it Work, And Is It Worth it?](https://www.litloop.co/blog/is-audible-worth-it)
 
 ## 2. Google Play Books
 
@@ -56,7 +56,7 @@ Within the app, you have the ability to customise the text size, lighting, and b
 
 Libby offers a user-friendly ebook reading experience, empowering you to borrow and enjoy books from your local library in a convenient digital format.
 
-**You might also like:** [How To Send Ebooks To Your Kindle](https://www.www.litloop.co/blog/how-to-send-ebooks-to-your-kindle)
+**You might also like:** [How To Send Ebooks To Your Kindle](https://www.litloop.co/blog/how-to-send-ebooks-to-your-kindle)
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381462/library-readin-app-1-_yel0gs.webp)
 
@@ -112,7 +112,7 @@ Over the years, Wattpad has solidified its reputation and earned its rightful pl
 
 ## 13. Litsy
 
-[Litsy](https://www.litsy.com) is less of a reading app and more of a place where you can [find great book recommendations](https://www.www.litloop.co). Its a vibrant community of readers, authors, and influencers who can come together to share brief posts, known as "reading moments," that are intricately linked to specific books. These posts encompass engaging blurbs, captivating images, inspiring quotations, and insightful reviews.
+[Litsy](https://www.litsy.com) is less of a reading app and more of a place where you can [find great book recommendations](https://www.litloop.co). Its a vibrant community of readers, authors, and influencers who can come together to share brief posts, known as "reading moments," that are intricately linked to specific books. These posts encompass engaging blurbs, captivating images, inspiring quotations, and insightful reviews.
 
 To foster connections within the community, Litsy employs a unique approach. Users are required to request usernames from their friends and manually locate them using the search feature in order to follow one another. This personal touch adds a sense of exclusivity and allows users to curate their reading circle with individuals they genuinely resonate with.
 
@@ -130,7 +130,7 @@ Inkitt presents an excellent platform for book enthusiasts to discover new autho
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381458/lore-olympus_ssytrq.webp)
 
-[Webtoon](https://www.webtoons.com/en/) is something a little bit different to the rest of this list offering access to a vast collection of free webcomics. Including break-out successes like [Tower of God by Lee Jong-hui](https://www.webtoons.com/en/fantasy/tower-of-god/list?page=1&title_no=95) and [Lore Olympus by by Rachel Smythe](https://www.www.litloop.co/blog/best-books-about-greek-mythology), Webtoon, offers access to a vast collection of incredible stories with stunning artwork. From romance and fantasy to action and comedy, there is something for every reader's taste.
+[Webtoon](https://www.webtoons.com/en/) is something a little bit different to the rest of this list offering access to a vast collection of free webcomics. Including break-out successes like [Tower of God by Lee Jong-hui](https://www.webtoons.com/en/fantasy/tower-of-god/list?page=1&title_no=95) and [Lore Olympus by by Rachel Smythe](https://www.litloop.co/blog/best-books-about-greek-mythology), Webtoon, offers access to a vast collection of incredible stories with stunning artwork. From romance and fantasy to action and comedy, there is something for every reader's taste.
 
 One of the most remarkable aspects of this app is its seamless online reading experience. You can easily dive into the world of webcomics and enjoy them directly on your device, without the need for additional downloads. The user-friendly interface and intuitive navigation make it a breeze to explore different series, catch up on episodes, and discover new favourites.
 
@@ -147,10 +147,10 @@ So, why wait? Embrace the power of technology and embark on a reading journey li
 ### You Might Also Like
 
 -
-  [The 25 Best Space Opera Books Ever Written](https://www.www.litloop.co/blog/best-space-opera-books)
+  [The 25 Best Space Opera Books Ever Written](https://www.litloop.co/blog/best-space-opera-books)
 -
-  [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)
+  [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)
 -
-  [6 Books Like The Alchemist You're Sure To Love](https://www.www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
+  [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
 -
-  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.www.litloop.co/blog/books-like-harry-potter)
+  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)

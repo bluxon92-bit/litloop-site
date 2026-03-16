@@ -5,12 +5,12 @@ date: 2025-03-18
 category: Book Reviews
 genre: Fantasy
 excerpt: "Prince of Thorns by Mark Lawrence reviewed — the Broken Empire's brutal, brilliant opening. Grimdark fantasy at its darkest."
-image: ""
+image: "https://m.media-amazon.com/images/I/51v8SS2H0-L.jpg"
 ---
 
 ![Prince of Thorns by Mark Lawrence]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -50,7 +50,7 @@ The mystery of the world's real nature is one of the pleasures of the trilogy, a
 
 Is Jorg redeemable? Should we want him to be? Lawrence doesn't make this easy, and the trilogy doesn't offer a simple answer. By book three, *Emperor of Thorns*, you'll have a more complicated feeling about Jorg than almost any other protagonist in fantasy — and that's exactly the point.
 
-Readers who loved *The Blade Itself* for Glokta's moral complexity will find something similar here, in a more extreme register. [Abercrombie](https://www.www.litloop.co/blog/the-blade-itself-review) is darker than Tolkien. Lawrence is darker than Abercrombie.
+Readers who loved *The Blade Itself* for Glokta's moral complexity will find something similar here, in a more extreme register. [Abercrombie](https://www.litloop.co/blog/the-blade-itself-review) is darker than Tolkien. Lawrence is darker than Abercrombie.
 
 ---
 
@@ -58,7 +58,7 @@ Readers who loved *The Blade Itself* for Glokta's moral complexity will find som
 
 If you're comfortable with the content warning at the top of this review and want to read something genuinely unlike most epic fantasy — yes. If you prefer your protagonists to have some recognisable moral foundation — skip it, and try *The Blade Itself* instead, which handles moral complexity with more handholds for the reader.
 
-For readers who love it, *Prince of Thorns* is the beginning of one of the genre's great trilogies. See the [Mark Lawrence reading guide](https://www.www.litloop.co/blog/mark-lawrence-books-in-order) for where to go next.
+For readers who love it, *Prince of Thorns* is the beginning of one of the genre's great trilogies. See the [Mark Lawrence reading guide](https://www.litloop.co/blog/mark-lawrence-books-in-order) for where to go next.
 
 **Rating: 4/5**
 
@@ -66,11 +66,7 @@ For readers who love it, *Prince of Thorns* is the beginning of one of the genre
 
 ### You Might Also Like
 
-- [Mark Lawrence Books in Order](https://www.www.litloop.co/blog/mark-lawrence-books-in-order)
-- [The Blade Itself Review](https://www.www.litloop.co/blog/the-blade-itself-review)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.www.litloop.co/blog/grimdark-fantasy-books)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Mark Lawrence Books in Order](https://www.litloop.co/blog/mark-lawrence-books-in-order)
+- [The Blade Itself Review](https://www.litloop.co/blog/the-blade-itself-review)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)

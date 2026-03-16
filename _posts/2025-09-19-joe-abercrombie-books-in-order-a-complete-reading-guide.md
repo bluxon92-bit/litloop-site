@@ -51,7 +51,7 @@ The finale, every thread from the previous books comes crashing together, but no
 
 Characters who looked like they were headed for redemption spiral instead; victories taste bitter; and just when you think someone might catch a break, Abercrombie yanks it away. I don’t think I’ve ever read an ending so bleak and yet so *right*. It left me both exhausted and desperate for more.
 
-*If you’re looking for something a little more hopeful with heroes and hard moral codes, check out our article on *[*David Gemmell’s Drenai Series*](https://www.www.litloop.co/blog/how-to-read-david-gemmells-drenai-series)
+*If you’re looking for something a little more hopeful with heroes and hard moral codes, check out our article on *[*David Gemmell’s Drenai Series*](https://www.litloop.co/blog/how-to-read-david-gemmells-drenai-series)
 
 ## First Law Standalone Novels
 
@@ -75,7 +75,7 @@ Told from multiple points of view, including a battle-worn veteran determined to
 
 Blending the aesthetics of a Western with Abercrombie’s trademark grimdark style, *Red Country* follows Shy South on a desperate quest to rescue her kidnapped siblings. Accompanied by her hesitant stepfather and a reluctant rogue, Shy journeys across unforgiving frontiers—through scorched outposts, lawless towns gripped by gold fever, and into the remoteness of uncharted mountains. Here, the past refuses to remain buried, and redemption must be won through a relentless fight against both external enemies and internal demons.
 
-*You Might Also Like: *[*The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath*](https://www.www.litloop.co/blog/the-best-of-john-gwynne-gods-giants-angels-malice-and-wrath)
+*You Might Also Like: *[*The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath*](https://www.litloop.co/blog/the-best-of-john-gwynne-gods-giants-angels-malice-and-wrath)
 
 ## Short Stories
 
@@ -113,7 +113,7 @@ The climactic finale of the Age of Madness trilogy, *The Wisdom of Crowds* thrus
 
 This novel challenges the very nature of power and legacy. Abercrombie’s incisive wit and brutal realism shine through, leaving you to ponder whether salvation comes at the price of eternal sacrifice.
 
-*You Might Also Like: *[*Best Books by China Miéville: Perdido Street Station and More*](https://www.www.litloop.co/blog/best-books-by-china-miéville-perdido-street-station-and-more)
+*You Might Also Like: *[*Best Books by China Miéville: Perdido Street Station and More*](https://www.litloop.co/blog/best-books-by-china-miéville-perdido-street-station-and-more)
 
 ## The Shattered Sea Trilogy (Young Adult)
 
@@ -139,7 +139,7 @@ The tumultuous conclusion to the Shattered Sea trilogy, *Half a War* raises the 
 
 Alliances shatter and new foes arise, the characters must navigate treacherous battlefields where survival depends on both cunning intellect and deadly combat. In a world where every victory is stained with loss, *Half a War* brings Yarvi’s epic journey to a heart-pounding close—and asks whether revenge and redemption can truly coexist.
 
-*You Might Also Like: *[*10 Books Like The Name of the Wind*](https://www.www.litloop.co/blog/books-like-name-of-the-wind)
+*You Might Also Like: *[*10 Books Like The Name of the Wind*](https://www.litloop.co/blog/books-like-name-of-the-wind)
 
 ## Final Thoughts: Joe Abercrombie Books In Order
 

@@ -11,7 +11,7 @@ permalink: /blog/david-gemmells-drenai-series/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/drenai-series-banner_h2ybfk.png)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
@@ -19,7 +19,7 @@ permalink: /blog/david-gemmells-drenai-series/
 
 The Drenai series is a heroic fantasy series by British author David Gemmell. The series focuses on a selection of heroes, mainly from the Drenai lands, and their fight against evil, whether that's a personal enemy, an existential demonic threat, or barbarian hordes.
 
-There are 11 books in the Drenai series with two additional ones set before the rise of the Drenai. These [books](https://www.www.litloop.co/blog/9-dystopian-novels-to-read) focus on singular characters and the epic quests they undertake, quests in which they will have to risk everything to succeed and that will make them legends across the lands.
+There are 11 books in the Drenai series with two additional ones set before the rise of the Drenai. These [books](https://www.litloop.co/blog/9-dystopian-novels-to-read) focus on singular characters and the epic quests they undertake, quests in which they will have to risk everything to succeed and that will make them legends across the lands.
 
 ## The Best Reading Order of the Drenai Series
 
@@ -29,7 +29,7 @@ I always generally suggest reading a series in publication order, simply because
 
 However, several of the books in this series can be read as standalone books, and for those of you not willing to commit to reading all 13, I've also picked my favourite (must-reads) towards the bottom of this article.
 
-**You Might Like:** [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.www.litloop.co/blog/10-sci-fi-authors)
+**You Might Like:** [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
 
 ## The Iron Code of Druss The Legend
 
@@ -141,7 +141,7 @@ Angostin invaders have surged through the highlands, laying waste to everything 
 
 [**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3mIEkgs)
 
-**Fans of David Gemmell may also like our article on **[Grimdark Fantasy books](https://www.www.litloop.co/blog/grimdark-fantasy-books).
+**Fans of David Gemmell may also like our article on **[Grimdark Fantasy books](https://www.litloop.co/blog/grimdark-fantasy-books).
 
 ---
 
@@ -227,24 +227,21 @@ Waylander is an enigmatic assassin. By all accounts, he should be a villain. But
 
 ## Final Words
 
-For [the best reading](https://www.www.litloop.co) experience, I’d suggest sticking with the publishing order of the Drenai series. With that being said, that’s quite a lot of books, which is why I’ve also offered the character groupings and my personal recommendations.
+For [the best reading](https://www.litloop.co) experience, I’d suggest sticking with the publishing order of the Drenai series. With that being said, that’s quite a lot of books, which is why I’ve also offered the character groupings and my personal recommendations.
 
-I’ve no doubt though, that once you get started you’ll want to read them all. David Gemmell fans may also want to check out the authors, [Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson), [John Gwynne](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath), and [Robin Hobb](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond).
+I’ve no doubt though, that once you get started you’ll want to read them all. David Gemmell fans may also want to check out the authors, [Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson), [John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath), and [Robin Hobb](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond).
 
 #### **You Might Like **
 
 -
-  [12 Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 -
-  [29 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
+  [29 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+  [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 -
-  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
+  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
 -
-  [Joe Abercrombie Books in Order: A Complete Reading Guide](https://www.www.litloop.co/blog/joe-abercrombie-books-in-order-a-complete-reading-guide)
+  [Joe Abercrombie Books in Order: A Complete Reading Guide](https://www.litloop.co/blog/joe-abercrombie-books-in-order-a-complete-reading-guide)
 [
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
-](https://www.www.litloop.co/sci-fi-short-stories)
+](https://www.litloop.co/sci-fi-short-stories)

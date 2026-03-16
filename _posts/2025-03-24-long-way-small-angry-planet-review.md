@@ -11,7 +11,7 @@ permalink: /blog/the-long-way-to-a-small-angry-planet-review/
 
 ![The Long Way to a Small, Angry Planet by Becky Chambers](https://res.cloudinary.com/dnkddcxrt/image/upload/long-way-small-angry-planet-cover_gxmyta.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -63,7 +63,7 @@ That turns out to be harder than it sounds.
 
 ## The Series
 
-The Wayfarers series now runs to five books, all set in the same galaxy but following different characters. Each is standalone. The reading order is flexible — [see our Becky Chambers guide](https://www.www.litloop.co/blog/becky-chambers-books-in-order) for recommendations.
+The Wayfarers series now runs to five books, all set in the same galaxy but following different characters. Each is standalone. The reading order is flexible — [see our Becky Chambers guide](https://www.litloop.co/blog/becky-chambers-books-in-order) for recommendations.
 
 **Rating: 4.5/5**
 
@@ -71,11 +71,7 @@ The Wayfarers series now runs to five books, all set in the same galaxy but foll
 
 ### You Might Also Like
 
-- [Becky Chambers Books in Order](https://www.www.litloop.co/blog/becky-chambers-books-in-order)
-- [Empire of Silence Review](https://www.www.litloop.co/blog/empire-of-silence-review)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Becky Chambers Books in Order](https://www.litloop.co/blog/becky-chambers-books-in-order)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

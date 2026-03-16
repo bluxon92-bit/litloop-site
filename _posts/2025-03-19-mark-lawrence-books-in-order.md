@@ -10,7 +10,7 @@ image: ""
 
 ![Mark Lawrence Books in Order]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -32,7 +32,7 @@ Lawrence's debut. Set in a far-future world where civilisation has collapsed int
 
 ### 1. Prince of Thorns (2011)
 
-The introduction to Jorg and the Broken Empire world. Violent, beautifully written, deliberately provocative. See our [full review here](https://www.www.litloop.co/blog/prince-of-thorns-review).
+The introduction to Jorg and the Broken Empire world. Violent, beautifully written, deliberately provocative. See our [full review here](https://www.litloop.co/blog/prince-of-thorns-review).
 
 [**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/princeofthorns)
 
@@ -126,11 +126,7 @@ All five series take place in the same universe, though you don't need to read t
 
 ### You Might Also Like
 
-- [Prince of Thorns Review](https://www.www.litloop.co/blog/prince-of-thorns-review)
-- [The Blade Itself Review](https://www.www.litloop.co/blog/the-blade-itself-review)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.www.litloop.co/blog/grimdark-fantasy-books)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Prince of Thorns Review](https://www.litloop.co/blog/prince-of-thorns-review)
+- [The Blade Itself Review](https://www.litloop.co/blog/the-blade-itself-review)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)

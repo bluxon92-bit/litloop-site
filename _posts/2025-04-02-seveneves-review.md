@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/seveneves-cover_cevldr
 
 ![Seveneves by Neal Stephenson](https://res.cloudinary.com/dnkddcxrt/image/upload/seveneves-cover_cevldr.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -66,11 +66,7 @@ If you love hard science fiction and have patience for technical depth in prose:
 
 ### You Might Also Like
 
-- [Empire of Silence Review](https://www.www.litloop.co/blog/empire-of-silence-review)
-- [The Long Way to a Small, Angry Planet Review](https://www.www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
-- [Becky Chambers Books in Order](https://www.www.litloop.co/blog/becky-chambers-books-in-order)
-- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
+- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
+- [Becky Chambers Books in Order](https://www.litloop.co/blog/becky-chambers-books-in-order)
+- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)

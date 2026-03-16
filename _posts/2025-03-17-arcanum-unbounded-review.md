@@ -5,12 +5,12 @@ date: 2025-03-17
 category: Book Reviews
 genre: Fantasy
 excerpt: "Arcanum Unbounded collects Sanderson's Cosmere novellas in one volume. Here's our review — and whether you should read it before or after the main series."
-image: ""
+image: "https://m.media-amazon.com/images/I/518BNeXGm2L._SY445_SX342_ML2_.jpg"
 ---
 
 ![Arcanum Unbounded by Brandon Sanderson]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -66,11 +66,7 @@ The collection is uneven by nature — it's nine different pieces of different l
 
 ### You Might Also Like
 
-- [Words of Radiance Review](https://www.www.litloop.co/blog/words-of-radiance-review)
-- [Rhythm of War Review](https://www.www.litloop.co/blog/rhythm-of-war-review)
-- [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Words of Radiance Review](https://www.litloop.co/blog/words-of-radiance-review)
+- [Rhythm of War Review](https://www.litloop.co/blog/rhythm-of-war-review)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)

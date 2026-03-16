@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/death-troopers-cover_v
 
 ![Death Troopers by Joe Schreiber](https://res.cloudinary.com/dnkddcxrt/image/upload/death-troopers-cover_v2rjdb.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -60,11 +60,7 @@ Star Wars fans who are also horror readers — this is obviously made for you. H
 
 ### You Might Also Like
 
-- [Seveneves Review](https://www.www.litloop.co/blog/seveneves-review)
-- [Heart-Shaped Box by Joe Hill Review](https://www.www.litloop.co/blog/heart-shaped-box-review)
-- [Last Days by Adam Nevill Review](https://www.www.litloop.co/blog/last-days-review)
-- [The Dog Stars Review](https://www.www.litloop.co/blog/the-dog-stars-review)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Seveneves Review](https://www.litloop.co/blog/seveneves-review)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)
+- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review)
+- [The Dog Stars Review](https://www.litloop.co/blog/the-dog-stars-review)

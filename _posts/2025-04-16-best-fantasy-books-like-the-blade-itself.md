@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/books-like-blade-itsel
 
 ![Books Like The Blade Itself](https://res.cloudinary.com/dnkddcxrt/image/upload/books-like-blade-itself_oeibik.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -22,7 +22,7 @@ Here are ten books that get closest.
 
 ## 1. The Prince of Thorns — Mark Lawrence
 
-The most extreme end of the morally complex protagonist spectrum. Jorg Ancrath is younger and more disturbing than Glokta, operating in a post-apocalyptic world dressed as medieval fantasy. Not for everyone but the prose is genuinely excellent. [Full review here.](https://www.www.litloop.co/blog/prince-of-thorns-review)
+The most extreme end of the morally complex protagonist spectrum. Jorg Ancrath is younger and more disturbing than Glokta, operating in a post-apocalyptic world dressed as medieval fantasy. Not for everyone but the prose is genuinely excellent. [Full review here.](https://www.litloop.co/blog/prince-of-thorns-review)
 
 [**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/princeofthorns)
 
@@ -30,7 +30,7 @@ The most extreme end of the morally complex protagonist spectrum. Jorg Ancrath i
 
 ## 2. The Farseer Trilogy — Robin Hobb
 
-Morally complex from a different angle — FitzChivalry is victimised and compromised rather than cynical, and Hobb's emotional depth goes places Abercrombie doesn't attempt. The grimdark is in the hopelessness rather than the violence. [Full Robin Hobb guide here.](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+Morally complex from a different angle — FitzChivalry is victimised and compromised rather than cynical, and Hobb's emotional depth goes places Abercrombie doesn't attempt. The grimdark is in the hopelessness rather than the violence. [Full Robin Hobb guide here.](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
 
 [**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/assassinsapprentice)
 
@@ -38,7 +38,7 @@ Morally complex from a different angle — FitzChivalry is victimised and compro
 
 ## 3. The Blacktongue Thief — Christopher Buehlman
 
-Morally complex, darkly funny, set in a world that's survived a catastrophic war and is still picking up the pieces. The voice is the closest to Abercrombie in feeling — sardonic, specific, aware of its own genre. [Full review here.](https://www.www.litloop.co/blog/the-blacktongue-thief-review)
+Morally complex, darkly funny, set in a world that's survived a catastrophic war and is still picking up the pieces. The voice is the closest to Abercrombie in feeling — sardonic, specific, aware of its own genre. [Full review here.](https://www.litloop.co/blog/the-blacktongue-thief-review)
 
 [**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/blacktonguethief)
 
@@ -54,7 +54,7 @@ Yes, more Abercrombie — but this first book of The Age of Madness trilogy is s
 
 ## 5. The City of Stairs — Robert Jackson Bennett
 
-A different flavour — more mystery than grimdark — but the same commitment to political complexity and characters who are neither heroes nor villains in any simple sense. The world-building is extraordinary and the tone has that Abercrombie quality of being simultaneously serious and wryly funny. [Full Divine Cities review here.](https://www.www.litloop.co/blog/the-divine-cities-trilogy-review)
+A different flavour — more mystery than grimdark — but the same commitment to political complexity and characters who are neither heroes nor villains in any simple sense. The world-building is extraordinary and the tone has that Abercrombie quality of being simultaneously serious and wryly funny. [Full Divine Cities review here.](https://www.litloop.co/blog/the-divine-cities-trilogy-review)
 
 [**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/cityofstairs)
 
@@ -70,7 +70,7 @@ The First Law standalone that most closely shares *The Blade Itself*'s DNA — a
 
 ## 7. Kings of the Wyld — Nicholas Eames
 
-Lighter in tone but sharing Abercrombie's awareness of genre conventions and his affection for characters who are past their heroic prime. Where Abercrombie deconstructs the hero, Eames shows what happens to heroes after the story ends. [Full review here.](https://www.www.litloop.co/blog/kings-of-the-wyld-review)
+Lighter in tone but sharing Abercrombie's awareness of genre conventions and his affection for characters who are past their heroic prime. Where Abercrombie deconstructs the hero, Eames shows what happens to heroes after the story ends. [Full review here.](https://www.litloop.co/blog/kings-of-the-wyld-review)
 
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/kingsofthewyld)
 
@@ -78,7 +78,7 @@ Lighter in tone but sharing Abercrombie's awareness of genre conventions and his
 
 ## 8. The Faithful and the Fallen — John Gwynne
 
-The opposite of grimdark in some ways — Gwynne writes genuine heroes — but the violence is real, the world is dark, and the moral stakes are taken seriously. If Abercrombie showed you heroism was complicated, Gwynne argues it's worth attempting anyway. Start with [*Malice*.](https://www.www.litloop.co/blog/malice-by-john-gwynne-review)
+The opposite of grimdark in some ways — Gwynne writes genuine heroes — but the violence is real, the world is dark, and the moral stakes are taken seriously. If Abercrombie showed you heroism was complicated, Gwynne argues it's worth attempting anyway. Start with [*Malice*.](https://www.litloop.co/blog/malice-by-john-gwynne-review)
 
 [**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/malicegwynne)
 
@@ -86,7 +86,7 @@ The opposite of grimdark in some ways — Gwynne writes genuine heroes — but t
 
 ## 9. A Song of Ice and Fire — George R.R. Martin
 
-The obvious comparison, and it holds up. Martin's political complexity, his subversion of fantasy heroism, his willingness to punish good people and reward bad ones — all of this shares DNA with Abercrombie's approach. Martin arrived first; Abercrombie refined and concentrated what Martin spread across five enormous novels. [Full GRRM guide here.](https://www.www.litloop.co/blog/george-rr-martin-books-in-order)
+The obvious comparison, and it holds up. Martin's political complexity, his subversion of fantasy heroism, his willingness to punish good people and reward bad ones — all of this shares DNA with Abercrombie's approach. Martin arrived first; Abercrombie refined and concentrated what Martin spread across five enormous novels. [Full GRRM guide here.](https://www.litloop.co/blog/george-rr-martin-books-in-order)
 
 [**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/gameofthrones)
 
@@ -100,11 +100,7 @@ Locke Lamora is morally grey in a different register — a thief rather than a k
 
 ### You Might Also Like
 
-- [The Blade Itself Review](https://www.www.litloop.co/blog/the-blade-itself-review)
-- [Joe Abercrombie Books in Order](https://www.www.litloop.co/blog/joe-abercrombie-books-in-order)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.www.litloop.co/blog/grimdark-fantasy-books)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Blade Itself Review](https://www.litloop.co/blog/the-blade-itself-review)
+- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)

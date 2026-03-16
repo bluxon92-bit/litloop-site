@@ -11,7 +11,7 @@ permalink: /blog/cursed-child-review/
 
 ![Harry Potter and the Cursed Child](https://res.cloudinary.com/dnkddcxrt/image/upload/cursed-child-cover_ztjxpq.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -67,11 +67,7 @@ If you ever get the chance to see the stage production — do that rather than r
 
 ### You Might Also Like
 
-- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.www.litloop.co/blog/books-like-harry-potter)
-- [Heartless by Marissa Meyer Review](https://www.www.litloop.co/blog/heartless-review)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)
+- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

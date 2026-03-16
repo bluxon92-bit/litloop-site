@@ -5,12 +5,12 @@ date: 2025-03-13
 category: Book Reviews
 genre: Fantasy
 excerpt: "The Blacktongue Thief is the fantasy debut that caught everyone by surprise. Here's our review of Christopher Buehlman's gripping, voice-driven opener."
-image: ""
+image: "https://m.media-amazon.com/images/I/8143vHubDLL._SL1500_.jpg"
 ---
 
 ![The Blacktongue Thief by Christopher Buehlman]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -68,11 +68,7 @@ Yes. Particularly if you've been finding recent fantasy a bit samey, or if you w
 
 ### You Might Also Like
 
-- [The Blade Itself Review](https://www.www.litloop.co/blog/the-blade-itself-review)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.www.litloop.co/blog/grimdark-fantasy-books)
-- [Kings of the Wyld Review](https://www.www.litloop.co/blog/kings-of-the-wyld-review)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Blade Itself Review](https://www.litloop.co/blog/the-blade-itself-review)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books)
+- [Kings of the Wyld Review](https://www.litloop.co/blog/kings-of-the-wyld-review)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

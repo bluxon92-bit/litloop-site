@@ -11,13 +11,13 @@ permalink: /blog/bone-chilling-horror-short-story-collections-by-stephen-king/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/scary-short-story-2-1-_f94dp0.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
 Stephen King is a master of the horror genre, and his short stories are no exception. From "The Raft" to "The Mist," King has proven time and time again that he can terrify readers in just a few pages. His ability to create suspense and build tension is unparalleled, and his vivid descriptions of grotesque creatures and supernatural phenomena make his stories both horrifying and captivating.
 
-What makes King's short stories truly frightening, however, is his ability to tap into our deepest fears and insecurities, leaving readers with a sense of dread long after the final page. Whether you're a seasoned horror fan or a newcomer to the genre, Stephen King's [horror short stories](https://www.www.litloop.co/blog/horror-short-stories) are sure to leave you feeling haunted.
+What makes King's short stories truly frightening, however, is his ability to tap into our deepest fears and insecurities, leaving readers with a sense of dread long after the final page. Whether you're a seasoned horror fan or a newcomer to the genre, Stephen King's [horror short stories](https://www.litloop.co/blog/horror-short-stories) are sure to leave you feeling haunted.
 
 In this article, we take a look at some of his classic horror short story collections and where you should start with the modern master of horror.
 
@@ -63,9 +63,9 @@ Despite its sometimes gruesome subject matter, the collection is not without its
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381516/bazaar-of-bad-dreams-1-_ozarlx.webp)
 
-The Bazaar of Bad Dreams: Stories is a gripping [page-turner](https://www.www.litloop.co/blog/29-best-fantasy-books) that contains twenty stories, some of which have been previously published but with new endings. The book delves deep into human emotions such as love, loss, greed, and revenge. King's writing style is masterful and he has an excellent ability to create characters that readers can relate to.
+The Bazaar of Bad Dreams: Stories is a gripping [page-turner](https://www.litloop.co/blog/29-best-fantasy-books) that contains twenty stories, some of which have been previously published but with new endings. The book delves deep into human emotions such as love, loss, greed, and revenge. King's writing style is masterful and he has an excellent ability to create characters that readers can relate to.
 
-There are [supernatural](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson) elements and twists in the stories that keep readers on edge. Each story has its own unique voice and leaves readers with something to think about. The Bazaar of Bad Dreams is another excellent read for horror enthusiasts and fans of Stephen King's work.
+There are [supernatural](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson) elements and twists in the stories that keep readers on edge. Each story has its own unique voice and leaves readers with something to think about. The Bazaar of Bad Dreams is another excellent read for horror enthusiasts and fans of Stephen King's work.
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/45qnwfD)
 
 
@@ -105,10 +105,10 @@ The book is another must-read for all Stephen King fans and fans of short horror
 ### You Might Also Like
 
 -
-  [40+ Spine-Tingling Horror Short Stories](https://www.www.litloop.co/blog/horror-short-stories)
+  [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories)
 -
-  [9 Dystopian Novels That Will Change How You View The World ](https://www.www.litloop.co/blog/9-dystopian-novels-to-read)
+  [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
 -
-  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.www.litloop.co/blog/fantasy-short-stories)
+  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
 -
-  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)

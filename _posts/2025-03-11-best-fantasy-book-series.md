@@ -11,7 +11,7 @@ permalink: /blog/best-fantasy-series/
 
 ![The Best Fantasy Book Series of All Time](https://res.cloudinary.com/dnkddcxrt/image/upload/best-fantasy-series_yzp4gm.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -35,7 +35,7 @@ Yes, it's first. It has to be. Tolkien didn't just write a great fantasy series 
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/first-law-cover_l5tuxn.jpg)
 
-The series that dragged fantasy kicking and screaming into moral ambiguity. Abercrombie's First Law trilogy takes everything you expect from the genre — the quest, the warrior, the tortured inquisitor — and uses them to ask uncomfortable questions about heroism, power, and whether people actually change. Glokta alone is worth the price of admission, but the whole trilogy is exceptional. Read [our review of The Blade Itself](https://www.www.litloop.co/blog/the-blade-itself-review) if you need convincing.
+The series that dragged fantasy kicking and screaming into moral ambiguity. Abercrombie's First Law trilogy takes everything you expect from the genre — the quest, the warrior, the tortured inquisitor — and uses them to ask uncomfortable questions about heroism, power, and whether people actually change. Glokta alone is worth the price of admission, but the whole trilogy is exceptional. Read [our review of The Blade Itself](https://www.litloop.co/blog/the-blade-itself-review) if you need convincing.
 
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/bladeitself)
 
@@ -51,7 +51,7 @@ Sanderson is the most ambitious fantasy writer working today and *The Stormlight
 
 ## 4. The Farseer Trilogy — Robin Hobb
 
-If you want to know what it feels like to have your heart broken by a fantasy series, read [Robin Hobb](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond). The Farseer Trilogy follows FitzChivalry Farseer — bastard son, assassin's apprentice, man perpetually done dirty by everyone who claims to care about him — across one of the most emotionally intelligent fantasy series ever written. Devastating. Perfect.
+If you want to know what it feels like to have your heart broken by a fantasy series, read [Robin Hobb](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond). The Farseer Trilogy follows FitzChivalry Farseer — bastard son, assassin's apprentice, man perpetually done dirty by everyone who claims to care about him — across one of the most emotionally intelligent fantasy series ever written. Devastating. Perfect.
 
 [**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/assassinsapprentice)
 
@@ -59,7 +59,7 @@ If you want to know what it feels like to have your heart broken by a fantasy se
 
 ## 5. The Kingkiller Chronicle — Patrick Rothfuss
 
-Two books and a decade of waiting, and it's still on this list. *The Name of the Wind* and *The Wise Man's Fear* are among the most beautifully written fantasy novels in the genre. Kvothe is an extraordinary creation and Rothfuss' prose is genuinely unlike anyone else's. The wait for Book 3 is agony, but what exists is worth reading twice while you wait. See our [full reading guide here](https://www.www.litloop.co/blog/patrick-rothfuss-books-in-order).
+Two books and a decade of waiting, and it's still on this list. *The Name of the Wind* and *The Wise Man's Fear* are among the most beautifully written fantasy novels in the genre. Kvothe is an extraordinary creation and Rothfuss' prose is genuinely unlike anyone else's. The wait for Book 3 is agony, but what exists is worth reading twice while you wait. See our [full reading guide here](https://www.litloop.co/blog/patrick-rothfuss-books-in-order).
 
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/nameofthewind)
 
@@ -75,7 +75,7 @@ Books one through three of ASOIAF are as good as fantasy gets — complex, bruta
 
 ## 7. The Faithful and the Fallen — John Gwynne
 
-Gwynne's four-book series is the best modern successor to Gemmell's heroic fantasy tradition. The Banished Lands feel real, the battles are extraordinary, and the characters — Corban, Maquin, the incomparable Fidele — earn their place in the story. If you love [David Gemmell](https://www.www.litloop.co/blog/david-gemmells-drenai-series) and want something with more contemporary scale, start with [*Malice*](https://www.www.litloop.co/blog/malice-by-john-gwynne-review).
+Gwynne's four-book series is the best modern successor to Gemmell's heroic fantasy tradition. The Banished Lands feel real, the battles are extraordinary, and the characters — Corban, Maquin, the incomparable Fidele — earn their place in the story. If you love [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series) and want something with more contemporary scale, start with [*Malice*](https://www.litloop.co/blog/malice-by-john-gwynne-review).
 
 [**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/malicegwynne)
 
@@ -91,7 +91,7 @@ The original trilogy is the perfect entry point to Sanderson's Cosmere. A heist 
 
 ## 9. The Drenai Saga — David Gemmell
 
-Gemmell invented heroic fantasy as we understand it, and the Drenai Saga is his finest work. *Legend* alone — the story of an aging, dying warrior who chooses to go down fighting rather than rot on a mountaintop — is one of the most emotionally powerful fantasy novels ever written. If you haven't read Gemmell, our [full guide to the Drenai series](https://www.www.litloop.co/blog/david-gemmells-drenai-series) is the place to start.
+Gemmell invented heroic fantasy as we understand it, and the Drenai Saga is his finest work. *Legend* alone — the story of an aging, dying warrior who chooses to go down fighting rather than rot on a mountaintop — is one of the most emotionally powerful fantasy novels ever written. If you haven't read Gemmell, our [full guide to the Drenai series](https://www.litloop.co/blog/david-gemmells-drenai-series) is the place to start.
 
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/drenaigemmell)
 
@@ -111,11 +111,7 @@ A list of ten can't hold everything. Worth knowing about: *The Wheel of Time* (R
 
 ### You Might Also Like
 
-- [Epic Fantasy: The Best of the Genre](https://www.www.litloop.co/blog/epic-fantasy-best-of-genre)
-- [Joe Abercrombie Books in Order](https://www.www.litloop.co/blog/joe-abercrombie-books-in-order)
-- [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre)
+- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

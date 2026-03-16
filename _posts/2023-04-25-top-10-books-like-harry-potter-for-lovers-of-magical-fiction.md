@@ -11,7 +11,7 @@ permalink: /blog/books-like-harry-potter/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/harry-potter-1-_rm3zw9.webp)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
@@ -39,9 +39,9 @@ Though a more mature and edgier story than Harry Potter, "The Magicians" is a go
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381488/percy-jackson-1-_dhxmbm.webp)
 
-"Percy Jackson and the Olympians" by Rick Riordan is a popular young adult fantasy series that's often compared to Harry Potter due to the fact it features a hidden magical world layered over the top of our contemporary one. The difference though is that instead of a wizarding world, the [Greek gods](https://www.www.litloop.co/blog/best-books-about-greek-mythology) of Olympus are real, and living above New York.
+"Percy Jackson and the Olympians" by Rick Riordan is a popular young adult fantasy series that's often compared to Harry Potter due to the fact it features a hidden magical world layered over the top of our contemporary one. The difference though is that instead of a wizarding world, the [Greek gods](https://www.litloop.co/blog/best-books-about-greek-mythology) of Olympus are real, and living above New York.
 
-The series follows Percy Jackson who discovers he’s a demigod, the son of Poseidon no less. With this discovery made he is thrust into a dangerous world of [gods and monsters](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) and intrigue. And just like any great story, he must embark on a quest to save the world. The series is action-packed, full of humour, and features a lovable cast of characters.
+The series follows Percy Jackson who discovers he’s a demigod, the son of Poseidon no less. With this discovery made he is thrust into a dangerous world of [gods and monsters](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) and intrigue. And just like any great story, he must embark on a quest to save the world. The series is action-packed, full of humour, and features a lovable cast of characters.
 
 [**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3oy37nW)
 
@@ -51,7 +51,7 @@ The series follows Percy Jackson who discovers he’s a demigod, the son of Pose
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381477/hunger-games-1-_wxcfub.webp)
 
-Like Harry Potter, "The Hunger Games" by Suzanne Collins sets up a strong good vs evil dichotomy and presents a young hero who must overcome adversity to reshape the world for the better aided only by a few faithful allies. However, these two series also have some striking differences. "Harry Potter" takes place in a magical wizarding world, while "The Hunger Games" is set in [a dystopian future](https://www.www.litloop.co/blog/9-dystopian-novels-to-read).
+Like Harry Potter, "The Hunger Games" by Suzanne Collins sets up a strong good vs evil dichotomy and presents a young hero who must overcome adversity to reshape the world for the better aided only by a few faithful allies. However, these two series also have some striking differences. "Harry Potter" takes place in a magical wizarding world, while "The Hunger Games" is set in [a dystopian future](https://www.litloop.co/blog/9-dystopian-novels-to-read).
 
 Katniss Everdeen is a teenager who is chosen to compete in a televised battle to the death - for some, the battle is a chance to glory, but for most, it’s a tool of terror designed to control them. Katniss, becomes the figurehead for a revolution and must overcome the dark forces working in the background. The book deals with themes of survival, love, and rebellion, making it an excellent choice for Harry Potter fans looking for a darker, grittier story.
 
@@ -75,7 +75,7 @@ The series features an expansive and imaginative [world-building](https://www.be
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381469/narnia-1-_lrlhnu.webp)
 
-"The Chronicles of Narnia" by C.S. Lewis is a [classic fantasy series](https://www.www.litloop.co/blog/29-best-fantasy-books) that's often compared to Harry Potter because of its magical world and epic adventures.
+"The Chronicles of Narnia" by C.S. Lewis is a [classic fantasy series](https://www.litloop.co/blog/29-best-fantasy-books) that's often compared to Harry Potter because of its magical world and epic adventures.
 
 The series follows the Pevensie siblings as they journey to the magical land of Narnia and encounter mythical creatures, witches, and talking animals. The series is timeless, enchanting, and full of wonder.
 
@@ -89,7 +89,7 @@ The series follows the Pevensie siblings as they journey to the magical land of 
 
 Known as the father of fantasy J.R.R. Tolkien’s classic “The Hobbit” is an adventure of epic proportions with a hero of diminutive stature. Though better known for the Lord of The Rings trilogy, J.R.R Tolikien’s The Hobbit is a more fun-sized novel depicting the incredible journey of Bilbo Baggins as he travels with Gandalf and his troop of Dwarves to the Misty Mountains.
 
-With trolls and goblins, [dragons](https://www.www.litloop.co/blog/best-dragon-books) and wizards, shapeshifters and giant spiders, this story has inspired countless works of fiction, including Harry Potter.
+With trolls and goblins, [dragons](https://www.litloop.co/blog/best-dragon-books) and wizards, shapeshifters and giant spiders, this story has inspired countless works of fiction, including Harry Potter.
 
 [**Rated 4.7 Stars, Buy on Amazon.**](https://amzn.to/41reQDg)
 
@@ -99,9 +99,9 @@ With trolls and goblins, [dragons](https://www.www.litloop.co/blog/best-dragon-b
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381498/eragon-1-_vxgfe3.webp)
 
-Though on the surface the book isn’t obviously like Harry Potter, it definitely captures a similar magical excitement. The first book in the Inheritance cycle, "Eragon" by Christopher Paolini is a young adult fantasy novel that follows Eragon, a farm boy who discovers a dragon egg. However, this world of magic, of elves and dwarves and [dragons](https://www.www.litloop.co/blog/best-dragon-books) is ruled by a tyrant of insurmountable power.
+Though on the surface the book isn’t obviously like Harry Potter, it definitely captures a similar magical excitement. The first book in the Inheritance cycle, "Eragon" by Christopher Paolini is a young adult fantasy novel that follows Eragon, a farm boy who discovers a dragon egg. However, this world of magic, of elves and dwarves and [dragons](https://www.litloop.co/blog/best-dragon-books) is ruled by a tyrant of insurmountable power.
 
-When Eragon discovers the dragon egg though, he becomes a target of the evil king and he must go on a quest to become strong enough to one day face evil head-on as the last free dragon rider. The [book features dragons](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond), magic, elves and dwarves, and epic battles, making it an excellent choice for Harry Potter fans who enjoy action-packed fantasy stories.
+When Eragon discovers the dragon egg though, he becomes a target of the evil king and he must go on a quest to become strong enough to one day face evil head-on as the last free dragon rider. The [book features dragons](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond), magic, elves and dwarves, and epic battles, making it an excellent choice for Harry Potter fans who enjoy action-packed fantasy stories.
 
 [**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3LhBeJt)
 
@@ -169,17 +169,17 @@ As they make their way back to Wall, Tristan and Yvaine fall in love and must na
 
 The Harry Potter series has become a fantasy cornerstone, offering a marvellous escape into the twisting, exciting and original world of wizards that we can almost imagine is real. It deals with complex themes but is at its heart a classic tale of good vs evil.
 
-While, as we said before there is no way to truly recapture the magic of Harry Potter, these 10 books like Harry Potter certainly give it a good go. Offering adventure, magic, monster, and [dragons](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond) these emotional and formative books will capture your imagination and swing you off into a whole new world (at least for a little bit).
+While, as we said before there is no way to truly recapture the magic of Harry Potter, these 10 books like Harry Potter certainly give it a good go. Offering adventure, magic, monster, and [dragons](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond) these emotional and formative books will capture your imagination and swing you off into a whole new world (at least for a little bit).
 
 So, whether you're looking for a magical school setting, a dystopian adventure, or a journey through a fantastical world, these books like Harry Potter are sure to satisfy your cravings. Additionally, once you’re done with the books, most of the above-listed stories have T.V. or film adaptations which are worth watching (aside from the Eragon movie which I’d give a skip if I were you).
 
 #### You Might Also Like
 
 -
-  [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
+  [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+  [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 -
-  [The Best Sci-Fi Books by Ursula K Le Guin](https://www.www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+  [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
 -
-  [13 Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [13 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)

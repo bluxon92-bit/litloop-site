@@ -29,7 +29,7 @@ Each of the series by John Gwynne stands independent of the other, meaning you d
 
 For my part, I would recommend The Shadow of the Gods as your first stop - simply because it’s my favourite. However, the Bloodsworn Saga is not yet finished - though, if his publishing pattern to date is any indication we can expect the third instalment sometime during 2023. If you’re looking for a completed series you can sit down and devour from end to end, then start with Malice from The Faithful and the Fallen.
 
-**Readers that like John Gwynne and epic fantasy may also like** [David Gemmel and his Drenai Series.](https://www.www.litloop.co/blog/david-gemmells-drenai-series)
+**Readers that like John Gwynne and epic fantasy may also like** [David Gemmel and his Drenai Series.](https://www.litloop.co/blog/david-gemmells-drenai-series)
 
 ## Publication Order of John Gwynne’s Books
 
@@ -59,7 +59,7 @@ There are three books in the Blood & Bone series. Set in the same world as the F
 
 ### The Bloodsworn Saga
 
-The Bloodsworn Saga is a Norse-inspired [dark fantasy](https://www.www.litloop.co/blog/grimdark-fantasy-books) tale. Set in a new fantasy world, one that lies broken by the last battle between the gods, gods that now lie dead or in slumber. The bones of the dead gods hold great power for those brave enough - or desperate enough to seek them out. And those not dead threaten to awaken and ravage the world once more. The story is filled with monsters, warbands and powered humans tainted by their divine ancestors.
+The Bloodsworn Saga is a Norse-inspired [dark fantasy](https://www.litloop.co/blog/grimdark-fantasy-books) tale. Set in a new fantasy world, one that lies broken by the last battle between the gods, gods that now lie dead or in slumber. The bones of the dead gods hold great power for those brave enough - or desperate enough to seek them out. And those not dead threaten to awaken and ravage the world once more. The story is filled with monsters, warbands and powered humans tainted by their divine ancestors.
 
 The first book, The Shadow of the Gods, follows in the footsteps of three people: a huntress on a dangerous quest, a noblewoman who has rejected privilege in pursuit of battle fame, and a thrall who seeks vengeance among the famed mercenaries known as the Bloodsworn. All three will shape the fate of the world as it once more falls under the shadow of the gods
 
@@ -76,7 +76,7 @@ The first book, The Shadow of the Gods, follows in the footsteps of three people
 
 ### Malice by John Gwynne (2012)
 
-Malice by John Gwynne is set in [a broken world](https://www.www.litloop.co/blog/9-dystopian-novels-to-read). The Banished Lands, is a place of violence where men and giants battle, and the earth remembers their blood. Now, monsters stir, and those who can still read the signs see a danger far worse than all that has come before.
+Malice by John Gwynne is set in [a broken world](https://www.litloop.co/blog/9-dystopian-novels-to-read). The Banished Lands, is a place of violence where men and giants battle, and the earth remembers their blood. Now, monsters stir, and those who can still read the signs see a danger far worse than all that has come before.
 
 Some of the main characters include Corban, Evnis, Veradis, and Nathair. Corban has grand ideals of heroism. He wants to be a warrior, to protect and serve. But bloodshed is rarely heroic. Evnis wants the power to rule, a power that will soon be in his grasp, and he will do anything to get it. Veradis one of the most skilled swordsmen to have ever lived exists in his brother's shadow. Prince Nathair has plans, but these plans largely don’t involve his father the High King, in fact, they largely disagree with him.
 
@@ -132,7 +132,7 @@ Yet even the might of the Bloodsworn and Battle-Grim cannot stand alone against 
 
 Their hope lies within the mad writings of a chained god. A book of forbidden magic with the power to raise the wolf god Ulfrir from the dead and bring about a battle that will shake the foundations of the earth.
 
-**Readers looking for books containing dragons might like:** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+**Readers looking for books containing dragons might like:** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
 
 ### Is the Bloodsworn Saga set in the same universe as the Faithful and the Fallen?
 
@@ -144,21 +144,21 @@ Here, the dread dragon god, Lik-Rifa the soul-stealer, shall be released from he
 
 There are currently two books in the Bloodsworn saga with the third expected to be published later in 2023.
 
-**You might also like **[20 Best Dragon Books For Adults](https://www.www.litloop.co/blog/best-dragon-books).
+**You might also like **[20 Best Dragon Books For Adults](https://www.litloop.co/blog/best-dragon-books).
 
 ## Final Words: John Gwynne and Epic Fantasy
 
 In conclusion, John Gwynne is an exceptional author for readers seeking a gripping and fast-paced epic fantasy. His novels are renowned for their exploration of complex characters who navigate the murky waters between good and evil, all while facing the looming threat of powerful and terrifying monsters, demons, and gods.
 
-Through his vivid and detailed [world-building](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building), Gwynne has crafted a rich and immersive universe in both the Banished Lands and Vigrid, the setting for the Bloodsworn Saga. His stories will keep you engaged from start to finish. His ability to combine action, intrigue and compelling character development makes his novels a must-read [for fans of the fantasy genre](https://www.www.litloop.co/blog/fantasy-short-stories). Gwynne's work is a testament to the enduring popularity of epic fantasy and the power of skilled storytelling. His work has won numerous awards including several [David Gemmel](https://www.www.litloop.co/blog/david-gemmells-drenai-series) awards.
+Through his vivid and detailed [world-building](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building), Gwynne has crafted a rich and immersive universe in both the Banished Lands and Vigrid, the setting for the Bloodsworn Saga. His stories will keep you engaged from start to finish. His ability to combine action, intrigue and compelling character development makes his novels a must-read [for fans of the fantasy genre](https://www.litloop.co/blog/fantasy-short-stories). Gwynne's work is a testament to the enduring popularity of epic fantasy and the power of skilled storytelling. His work has won numerous awards including several [David Gemmel](https://www.litloop.co/blog/david-gemmells-drenai-series) awards.
 
 ### You Might Like
 
 -
-  [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+  [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 -
-  [How To Read David Gemmell's Drenai Series](https://www.www.litloop.co/blog/david-gemmells-drenai-series)
+  [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)
 -
-  [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
+  [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
+  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)

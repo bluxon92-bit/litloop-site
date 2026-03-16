@@ -5,12 +5,12 @@ date: 2025-03-08
 category: Book Reviews
 genre: Fantasy
 excerpt: "At 848 pages, The Priory of the Orange Tree is a commitment. Here's why it's worth it — and whether you're the right reader for Samantha Shannon's epic."
-image: ""
+image: "https://m.media-amazon.com/images/I/915LK1Y5k9L._SL1500_.jpg"
 ---
 
 ![The Priory of the Orange Tree by Samantha Shannon]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -66,11 +66,7 @@ If you're in the market for a vast, beautifully built fantasy world that doesn't
 
 ### You Might Also Like
 
-- [20 Best Dragon Books for Adults](https://www.www.litloop.co/blog/best-dragon-books)
-- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
-- [Sarah J. Maas Books in Order](https://www.www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [20 Best Dragon Books for Adults](https://www.litloop.co/blog/best-dragon-books)
+- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

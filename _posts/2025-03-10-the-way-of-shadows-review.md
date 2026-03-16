@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/way-of-shadows-cover_i
 
 ![The Way of Shadows by Brent Weeks](https://res.cloudinary.com/dnkddcxrt/image/upload/way-of-shadows-cover_ivrjbs.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -48,7 +48,7 @@ Compared to Abercrombie, who was writing at a very high level from his first boo
 
 ## Should You Read It?
 
-If you want a fast, dark, emotionally engaging fantasy that doesn't take itself too seriously — yes. If you want elegant prose and moral complexity at Abercrombie's level — start with [*The Blade Itself*](https://www.www.litloop.co/blog/the-blade-itself-review) instead. If you want both in your reading life, read both.
+If you want a fast, dark, emotionally engaging fantasy that doesn't take itself too seriously — yes. If you want elegant prose and moral complexity at Abercrombie's level — start with [*The Blade Itself*](https://www.litloop.co/blog/the-blade-itself-review) instead. If you want both in your reading life, read both.
 
 *The Way of Shadows* is not the most literary fantasy novel you'll read this year. It might be the most entertaining.
 
@@ -58,11 +58,7 @@ If you want a fast, dark, emotionally engaging fantasy that doesn't take itself 
 
 ### You Might Also Like
 
-- [The Blade Itself Review](https://www.www.litloop.co/blog/the-blade-itself-review)
-- [Joe Abercrombie Books in Order](https://www.www.litloop.co/blog/joe-abercrombie-books-in-order)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Blade Itself Review](https://www.litloop.co/blog/the-blade-itself-review)
+- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

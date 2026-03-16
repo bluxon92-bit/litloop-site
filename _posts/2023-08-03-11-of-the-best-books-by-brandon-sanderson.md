@@ -11,7 +11,7 @@ permalink: /blog/11-best-books-by-brandon-sanderson/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
@@ -21,7 +21,7 @@ Brandon Sanderson is one of the best-selling fantasy authors of our time. With a
 
 With that being said, while some, like the Stormlight Archive, are vast and sprawling multi-volume series, many of the novels are excellent stand-alone fantasy books - so, where do you start? In this article, we take a look at 11 of the best Brandon Sanderson books to help guide you on the next step in your journey exploring this fantastic fantasy author.
 
-**Readers that like Brandon Sanderson may also like** [David Gemmell's Drenai Series](https://www.www.litloop.co/blog/david-gemmells-drenai-series).
+**Readers that like Brandon Sanderson may also like** [David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series).
 
 ## 11 Best Brandon Sanderson Books
 
@@ -57,7 +57,7 @@ Governments collapse in the face of this new power and the Epics become the rule
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/arcanum-1_ug3dks.png)
 
-Arcanum Unbounded is a collection of nine [fantasy short stories](https://www.www.litloop.co/blog/fantasy-short-stories). These stories will give you a sense of Sanderson's voice and style and are a great starting point for people not yet ready to dive into his larger epics.
+Arcanum Unbounded is a collection of nine [fantasy short stories](https://www.litloop.co/blog/fantasy-short-stories). These stories will give you a sense of Sanderson's voice and style and are a great starting point for people not yet ready to dive into his larger epics.
 
 [**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/41WHdcv)
 
@@ -75,7 +75,7 @@ Legion is one of Sanderson’s first explorations into mental illness in his cha
 
 [**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/41wBaew)
 
-**Readers who like Brandon Sanderson may also like** [John Gwynne and his Bloodsworn Saga](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
+**Readers who like Brandon Sanderson may also like** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
 
 ### 7. The Rithmatist
 
@@ -85,7 +85,7 @@ Rithmatics is a type of magic that can be wielded through chalk and geometric sh
 
 ### 8. Skyward
 
-Skyward diverges from Sanderson’s usual fantasy approach with a [sci-fi](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read) twist.
+Skyward diverges from Sanderson’s usual fantasy approach with a [sci-fi](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read) twist.
 
 The remnants of the human race have been defeated, crushed and chased across the stars. They are now trapped on a planet that is constantly harried and attacked by mysterious alien starfighters.
 
@@ -93,7 +93,7 @@ This story follows Spensa, a teenage girl that longs to be a pilot, longs to bat
 
 [**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/3mIOWvw)
 
-***Fans of Sci-fi may also enjoy**** *[*Sunset In The East. A collection of mind-bending science fiction short stories by Ben Luxon.*](https://amzn.to/3kIwfr7)[ ](https://www.www.litloop.co/sci-fi-short-stories)
+***Fans of Sci-fi may also enjoy**** *[*Sunset In The East. A collection of mind-bending science fiction short stories by Ben Luxon.*](https://amzn.to/3kIwfr7)[ ](https://www.litloop.co/sci-fi-short-stories)
 
 ### 9. Alcatraz Versus the Evil Librarians
 
@@ -131,7 +131,7 @@ The Way of Kings is a masterclass in originality. This epic fast-paced series is
 
 [**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/41DUM01)
 
-**Fans of epic fantasy might also like the **[14 Best Books About Greek Mythology](https://www.www.litloop.co/blog/best-books-about-greek-mythology).
+**Fans of epic fantasy might also like the **[14 Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology).
 
 ## Which is Better: The Mistborn Series or Stormlight Archives?
 
@@ -154,15 +154,12 @@ For lovers of epic fantasies though, you might want to start with either The Way
 ### You Might Like
 
 -
-  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.www.litloop.co/blog/fantasy-short-stories)
+  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
 -
-  [The Farseer Trilogy and Beyond: Robin Hobb's Books and Reading Order Explained](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+  [The Farseer Trilogy and Beyond: Robin Hobb's Books and Reading Order Explained](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
 -
-  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.www.litloop.co/blog/10-sci-fi-authors)
+  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
 -
-  [12 Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 [
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
-](https://www.www.litloop.co/sci-fi-short-stories)
+](https://www.litloop.co/sci-fi-short-stories)

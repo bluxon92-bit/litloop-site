@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/george-rr-martin-books
 
 ![George R.R. Martin Books in Order](https://res.cloudinary.com/dnkddcxrt/image/upload/george-rr-martin-books_r5tuoy.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -76,7 +76,7 @@ A gorgeous illustrated encyclopedia of Westerosi history, co-written with Elio G
 
 ### Fire and Blood (2018)
 
-A chronicle of House Targaryen's first 150 years of rule, written as in-world history. The Dance of the Dragons section — the Targaryen civil war — is the source material for *House of the Dragon*. [Full review here.](https://www.www.litloop.co/blog/fire-and-blood-review)
+A chronicle of House Targaryen's first 150 years of rule, written as in-world history. The Dance of the Dragons section — the Targaryen civil war — is the source material for *House of the Dragon*. [Full review here.](https://www.litloop.co/blog/fire-and-blood-review)
 
 [**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/fireandblood)
 
@@ -114,11 +114,7 @@ For most readers: **A Game of Thrones → A Clash of Kings → A Storm of Swords
 
 ### You Might Also Like
 
-- [Fire and Blood Review](https://www.www.litloop.co/blog/fire-and-blood-review)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.www.litloop.co/blog/grimdark-fantasy-books)
-- [Joe Abercrombie Books in Order](https://www.www.litloop.co/blog/joe-abercrombie-books-in-order)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Fire and Blood Review](https://www.litloop.co/blog/fire-and-blood-review)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books)
+- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order)

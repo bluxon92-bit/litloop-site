@@ -31,7 +31,7 @@ Few books have influenced popular culture as much as *1984*. Orwell’s dystopia
 
 A chilling vision of a dystopian future, *The Handmaid’s Tale* explores a society where women’s rights have been stripped away and reproduction is tightly controlled by the state. Atwood’s novel remains a powerful cautionary tale about authoritarianism, gender oppression, and resistance.
 
-**Related**: [9 Dystopian Novels That Will Change How You View The World ](https://www.www.litloop.co/blog/9-dystopian-novels-to-read)
+**Related**: [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
 
 ### War and Human Resilience in Modern Classic Books
 
@@ -69,7 +69,7 @@ A philosophical and surreal tale, *Life of Pi* follows a boy stranded at sea wit
 
 A novella about an ordinary man witnessing extraordinary change in early 20th-century America. Johnson’s spare yet poetic prose makes this story of isolation and resilience an unforgettable modern classic.
 
-**Related**: [6 Books Like The Alchemist You're Sure To Love](https://www.www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
+**Related**: [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/modern-classic-literature-1-_kufiw1.webp)
 
@@ -129,14 +129,11 @@ A poignant exploration of humanity and ethics, *Never Let Me Go* presents a dyst
 
 This post-apocalyptic tale of a father and son’s journey through a desolate landscape is both harrowing and deeply moving. McCarthy’s sparse yet powerful prose makes *The Road* an unforgettable meditation on love, survival, and humanity.
 
-**Related**: [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.www.litloop.co/blog/10-sci-fi-authors)
+**Related**: [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
 
 ## Modern Classics: Where to Start?
 
 With so many modern classic books to choose from, where do you begin? That depends on what you’re looking for. Want something that’ll mess with your mind? Try Slaughterhouse-Five or Kafka on the Shore. Looking for a gut-wrenching emotional journey? Beloved and Atonement will hit hard. Prefer a bit of humor with your existential dread? Catch-22 or The Hitchhiker’s Guide to the Galaxy have got you covered.
 
 No matter what you pick, these books are more than just great reads—they’re stories that will challenge you, move you, and stay with you long after you close the cover. So grab a book, settle in, and get ready to experience some of the most unforgettable literature of the last century.[
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
 ](/sci-fi-short-stories)

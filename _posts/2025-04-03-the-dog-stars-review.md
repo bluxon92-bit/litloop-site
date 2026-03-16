@@ -5,12 +5,12 @@ date: 2025-04-03
 category: Book Reviews
 genre: Science Fiction
 excerpt: "The Dog Stars by Peter Heller reviewed — post-apocalyptic fiction written with a poet's precision. Quiet, devastating, essential."
-image: ""
+image: "https://m.media-amazon.com/images/I/A1k-pMs6UPL._SL1500_.jpg"
 ---
 
 ![The Dog Stars by Peter Heller]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -60,11 +60,7 @@ When Hig follows the radio signal and discovers there are people beyond his rang
 
 ### You Might Also Like
 
-- [Seveneves Review](https://www.www.litloop.co/blog/seveneves-review)
-- [The Long Way to a Small, Angry Planet Review](https://www.www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
-- [Empire of Silence Review](https://www.www.litloop.co/blog/empire-of-silence-review)
-- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Seveneves Review](https://www.litloop.co/blog/seveneves-review)
+- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
+- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)

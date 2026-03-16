@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/rhythm-of-war-cover_ds
 
 ![Rhythm of War by Brandon Sanderson](https://res.cloudinary.com/dnkddcxrt/image/upload/rhythm-of-war-cover_dsgkez.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -60,11 +60,7 @@ If you've read the first three Stormlight books, this is not optional. Read it.
 
 ### You Might Also Like
 
-- [Words of Radiance Review](https://www.www.litloop.co/blog/words-of-radiance-review)
-- [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [Empire of Silence Review](https://www.www.litloop.co/blog/empire-of-silence-review)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Words of Radiance Review](https://www.litloop.co/blog/words-of-radiance-review)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)

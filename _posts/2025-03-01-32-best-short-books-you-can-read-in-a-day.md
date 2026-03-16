@@ -127,7 +127,7 @@ In this surreal and whimsical novella, a young boy is trapped in a bizarre libra
 *Page Count: 224
 *Morrison’s debut novel tells the heartbreaking story of Pecola Breedlove, a young Black girl who longs for blue eyes and the acceptance they represent. It’s a powerful exploration of race, beauty, and the effects of systemic racism.
 
-**Related**: [15+ Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+**Related**: [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 
 ## Best Short Books With Profound Narratives
 
@@ -152,7 +152,7 @@ Page Count: 209 pages
 
 A landmark in African literature, *Things Fall Apart* chronicles the life of Okonkwo, a respected leader and warrior in a Nigerian Igbo village. The novel explores the clash between traditional African society and the forces of European colonialism, delving into themes of identity, cultural change, and the devastating impacts of colonization.
 
-**Related**: [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)
+**Related**: [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)
 
 ## Best Short Memoirs and Non-Fiction
 
@@ -171,7 +171,7 @@ A landmark in African literature, *Things Fall Apart* chronicles the life of Oko
 *Page Count: 96
 *Gibran’s poetic prose offers spiritual and philosophical wisdom on various aspects of life, from love and marriage to work and freedom. This timeless classic continues to inspire readers with its profound reflections on the human experience.
 
-**Related**: [40+ Spine-Tingling Horror Short Stories](https://www.www.litloop.co/blog/horror-short-stories)
+**Related**: [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories)
 
 ## Best Short Contemporary Books
 
@@ -196,7 +196,7 @@ A landmark in African literature, *Things Fall Apart* chronicles the life of Oko
 
 Set in the early 20th century American West, *Train Dreams* follows the life of Robert Grainier, a day labourer who experiences profound personal loss and witnesses the transformation of the American landscape. Johnson’s novella blends history, myth, and the supernatural, capturing the essence of the American frontier spirit and the haunting solitude of life on the margins.
 
-**Related**: [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.www.litloop.co/blog/fantasy-short-stories)
+**Related**: [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
 
 ## Best Short Books Of Poetry and Short Stories
 
@@ -225,7 +225,4 @@ From the harrowing isolation in William Golding's Pincher Martin to the lyrical 
 
 
       [
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
 ](/sci-fi-short-stories)

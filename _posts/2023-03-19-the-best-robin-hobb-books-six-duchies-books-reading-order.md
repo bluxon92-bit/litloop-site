@@ -11,13 +11,13 @@ permalink: /blog/robin-hobb-farseer-and-beyond/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-trilogy-1-_gf4uhi.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
 Robin Hobb is a beloved author in the fantasy genre, known for her richly imagined worlds and [complex characters](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation). One of her most significant contributions to the genre is the Farseer Trilogy. These books introduce readers to the realm of the Six Duchies and the character of FitzChivalry Farseer, and they’re personally my favourite of her work.
 
-Since publishing the Farseer trilogy, Robin Hobb has published multiple series set in the same world, including the Liveship Traders Trilogy, the Tawny Man Trilogy, and the Fitz and the Fool Trilogy. In this article, we explore Robin Hobb’s Farseer Trilogy as well as her wider body of work, discussing the importance of reading order and the impact of her writing on [the fantasy genre](https://www.www.litloop.co/blog/29-best-fantasy-books).
+Since publishing the Farseer trilogy, Robin Hobb has published multiple series set in the same world, including the Liveship Traders Trilogy, the Tawny Man Trilogy, and the Fitz and the Fool Trilogy. In this article, we explore Robin Hobb’s Farseer Trilogy as well as her wider body of work, discussing the importance of reading order and the impact of her writing on [the fantasy genre](https://www.litloop.co/blog/29-best-fantasy-books).
 
 ## The Farseer Trilogy: An Overview
 
@@ -37,9 +37,9 @@ On top of being the bastard son of the beloved Chivalry (a man who in all other 
 
 The Wit (also known as "Old Blood") on the other hand, is a shunned magic, despised and feared. It allows people to telepathically to communicate and bond with animals. Fitz bonds with a young wolf who becomes his constant companion. However, within the Six Duchies legends have it that practitioners of the Wit slowly lose their humanity to become more animal than man.
 
-The three books that make up the trilogy (Assassin's Apprentice, Royal Assassin, and Assassin's Quest) are an epic journey of self-discovery, of [dragons](https://www.www.litloop.co/blog/best-dragon-books), Elderlings, and ancient barely understood [magic](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson). A story of the underdog fighting against all the odds to save a world that hates and fears him.
+The three books that make up the trilogy (Assassin's Apprentice, Royal Assassin, and Assassin's Quest) are an epic journey of self-discovery, of [dragons](https://www.litloop.co/blog/best-dragon-books), Elderlings, and ancient barely understood [magic](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson). A story of the underdog fighting against all the odds to save a world that hates and fears him.
 
-**Readers who like Robin Hobb and dark fantasy may also like** [John Gwynne and his Bloodsworn Saga](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
+**Readers who like Robin Hobb and dark fantasy may also like** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
 
 ## Recommended Reading Order for Robin Hobb Books
 
@@ -101,7 +101,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 Reading the books in order is recommended to fully appreciate the interconnections and overarching plot lines.
 
-**Fans of Robin Hobb may also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+**Fans of Robin Hobb may also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
 
 ## An Overview of Robin Hobb’s Books in Order
 
@@ -169,7 +169,7 @@ Reading the books in order is recommended to fully appreciate the interconnectio
 
 ## The Importance of Robin Hobb and The Farseer Trilogy in Fantasy Literature
 
-The Farseer Trilogy is often cited as a game-changer in the [fantasy genre](https://www.www.litloop.co/blog/fantasy-short-stories). It features a realistic and flawed protagonist who is not the typical hero found in epic fantasy. Fitz's struggles with his identity and place in the world make him a relatable and sympathetic character. Hobb's focus on character development and emotional depth set her writing apart from other fantasy authors.
+The Farseer Trilogy is often cited as a game-changer in the [fantasy genre](https://www.litloop.co/blog/fantasy-short-stories). It features a realistic and flawed protagonist who is not the typical hero found in epic fantasy. Fitz's struggles with his identity and place in the world make him a relatable and sympathetic character. Hobb's focus on character development and emotional depth set her writing apart from other fantasy authors.
 
 The Farseer Trilogy also paved the way for other authors to explore the nuances of character and theme in their writing. It's no coincidence that the rise of [grimdark fantasy](https://bookriot.com/guide-to-grimdark-fantasy/), which focuses on darker and more morally ambiguous characters, coincided with the popularity of the Farseer Trilogy.
 
@@ -186,17 +186,14 @@ Robin Hobb's books are an unforgettable journey for any fantasy lover from the F
 ### You Might Like
 
 -
-  [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
+  [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
 -
-  [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
+  [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+  [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 -
-  [How To Read David Gemmell's Drenai Series](https://www.www.litloop.co/blog/david-gemmells-drenai-series)
+  [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)
 
-#### **Check out **[**Sunset In the East**](https://www.www.litloop.co/sci-fi-short-stories)** a mind-bending short story collection from Ben Luxon.**
+#### **Check out **[**Sunset In the East**](https://www.litloop.co/sci-fi-short-stories)** a mind-bending short story collection from Ben Luxon.**
 [
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
-](https://www.www.litloop.co/sci-fi-short-stories)
+](https://www.litloop.co/sci-fi-short-stories)

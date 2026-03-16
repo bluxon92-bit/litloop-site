@@ -5,12 +5,12 @@ date: 2025-04-07
 category: Book Reviews
 genre: Fantasy
 excerpt: "Daughter of Smoke and Bone by Laini Taylor reviewed — lush, inventive fantasy that builds one of YA fiction's best worlds."
-image: ""
+image: "https://m.media-amazon.com/images/I/91fTmis9MVL._SL1500_.jpg"
 ---
 
 ![Daughter of Smoke and Bone by Laini Taylor]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -60,11 +60,7 @@ The Daughter of Smoke and Bone trilogy continues with *Days of Blood and Starlig
 
 ### You Might Also Like
 
-- [Heartless by Marissa Meyer Review](https://www.www.litloop.co/blog/heartless-review)
-- [Sarah J. Maas Books in Order](https://www.www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [The Priory of the Orange Tree Review](https://www.www.litloop.co/blog/the-priory-of-the-orange-tree-review)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
+- [The Priory of the Orange Tree Review](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

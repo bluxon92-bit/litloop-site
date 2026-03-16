@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/heart-shaped-box-cover
 
 ![Heart-Shaped Box by Joe Hill](https://res.cloudinary.com/dnkddcxrt/image/upload/heart-shaped-box-cover_yzsvkd.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -70,11 +70,7 @@ Hill has since published *NOS4A2*, *The Fireman*, and the *Locke and Key* graphi
 
 ### You Might Also Like
 
-- [IT by Stephen King Review](https://www.www.litloop.co/blog/stephen-king-it-review)
-- [Last Days by Adam Nevill Review](https://www.www.litloop.co/blog/last-days-review)
-- [Floating Dragon by Peter Straub Review](https://www.www.litloop.co/blog/floating-dragon-review)
-- [Stephen King Books in Order](https://www.www.litloop.co/blog/stephen-king-books-in-order)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
+- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review)
+- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)

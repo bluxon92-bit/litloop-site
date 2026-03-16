@@ -11,17 +11,17 @@ permalink: /blog/grimdark-fantasy-books/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-trilogy-1-_ztj537.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
 Grimdark fantasy is a subgenre of speculative fiction that has gained increasing popularity in recent years. With its dark and gritty themes, morally ambiguous characters, and often violent and bleak settings, grimdark fantasy provides a unique and immersive reading experience for those who enjoy a challenge.
 
-But what is grimdark fantasy, and where should you start if you're interested in exploring this subgenre? In this post, we delve into the defining characteristics of grimdark fantasy, highlight some of the best Grimdark and Dark Fantasy [books for fantasy lovers](https://www.www.litloop.co/blog/29-best-fantasy-books), and provide some tips on where to begin your Grimdark journey.
+But what is grimdark fantasy, and where should you start if you're interested in exploring this subgenre? In this post, we delve into the defining characteristics of grimdark fantasy, highlight some of the best Grimdark and Dark Fantasy [books for fantasy lovers](https://www.litloop.co/blog/29-best-fantasy-books), and provide some tips on where to begin your Grimdark journey.
 
 ## What is Grimdark Fantasy?
 
-Though challenging to get a precise description of grimdark fantasy, many common elements are found throughout Grmidark fiction. For example, it’s characterized by its dark and gritty themes, which are often explored through morally ambiguous characters and settings that are bleak and unforgiving. Some even go so far as to describe it as the fantasy equivalent of [dystopian sci-fi](https://www.www.litloop.co/blog/9-dystopian-novels-to-read).
+Though challenging to get a precise description of grimdark fantasy, many common elements are found throughout Grmidark fiction. For example, it’s characterized by its dark and gritty themes, which are often explored through morally ambiguous characters and settings that are bleak and unforgiving. Some even go so far as to describe it as the fantasy equivalent of [dystopian sci-fi](https://www.litloop.co/blog/9-dystopian-novels-to-read).
 
 Below we break down some of the key characteristics frequently found in grimdark fantasy:
 
@@ -107,7 +107,7 @@ The series is famous for shocking violence where the main characters apparently 
 6.   The Winds of Winter (forthcoming)
 7.   A Dream of Spring (planned)
 
-**Readers looking for more fantasy book recommendations can visit our blog featuring** [the 31 best fantasy books of all time.](https://www.www.litloop.co/blog/29-best-fantasy-books)
+**Readers looking for more fantasy book recommendations can visit our blog featuring** [the 31 best fantasy books of all time.](https://www.litloop.co/blog/29-best-fantasy-books)
 
 ### 6. The Farseer Trilogy by Robin Hobb (published1995 - 1997)
 
@@ -121,7 +121,7 @@ While some readers may not consider Assassin's Apprentice to be strictly Grimdar
 2.   [Royal Assassin](https://amzn.to/3TrOg9T) (1996)
 3.   [Assassin's Quest](https://amzn.to/40jxBro) (1997)
 
-**For more information on Robin Hobb’s books read** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+**For more information on Robin Hobb’s books read** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
 
 ### 7. The Poppy War by R. F. Kuang (published 2018 - 2020)
 
@@ -162,7 +162,7 @@ These nine grimdark book series represent the best of grimdark fantasy, with eac
 2.   [The Tower of Living and Dying](https://amzn.to/40kFqxf) (2018)
 3.   [The House of Sacrifice](https://amzn.to/40hGkdZ) (2019)
 
-**Readers who like the books listed above may also like** [John Gwynne and his Bloodsworn Saga](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
+**Readers who like the books listed above may also like** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
 
 ## Dark Fantasy Books vs Grimdark Fantasy Books: What’s the Difference?
 
@@ -174,7 +174,7 @@ Grimdark, on the other hand, is a subgenre of fantasy that is characterized by i
 
 Ultimately, both the Grimdark Fantasy and Dark Fantasy subgenres offer readers a chance to explore mature and complex themes in the context of a rich and imaginative fantasy world.
 
-**Like dark fiction? Try these** [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)
+**Like dark fiction? Try these** [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)
 
 ## Final Words: Where to Start Reading Grimdark Fantasy
 
@@ -184,15 +184,15 @@ If you're new to grimdark fantasy, starting can be intimidating. However, there 
 
 **Read reviews and recommendations:** Reading reviews and recommendations from others who have already read the books can give you a good sense of what to expect. You'll get an idea of the writing style, the characters, and the overall tone of the series. This can help you decide if a particular series is right for you.
 
-My personal favourites on this list are [Joe Abercrombie’s The First Law Trilogy](/blog/joe-abercrombie-books-in-order) and [Robin Hobb’s Farseer trilogy](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond) and so if you’re really stuck these are definitely great places to begin. Other fantasy authors you might enjoy but didn’t make it onto this list include [John Gwynne](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) (his Bloodsworn Saga is phenomenal), and my personal favourite [David Gemmel who you can learn more about here](https://www.www.litloop.co/blog/david-gemmells-drenai-series).
+My personal favourites on this list are [Joe Abercrombie’s The First Law Trilogy](/blog/joe-abercrombie-books-in-order) and [Robin Hobb’s Farseer trilogy](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond) and so if you’re really stuck these are definitely great places to begin. Other fantasy authors you might enjoy but didn’t make it onto this list include [John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) (his Bloodsworn Saga is phenomenal), and my personal favourite [David Gemmel who you can learn more about here](https://www.litloop.co/blog/david-gemmells-drenai-series).
 
 ### You Might Like
 
 -
-  [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
+  [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+  [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 -
-  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.www.litloop.co/blog/fantasy-short-stories)
+  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
 -
-  [13 Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [13 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)

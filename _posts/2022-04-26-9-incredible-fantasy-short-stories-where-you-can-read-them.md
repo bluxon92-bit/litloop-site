@@ -13,9 +13,9 @@ permalink: /blog/fantasy-short-stories/
 
 Among all the famous book genres, fantasy fiction is one of the most loved. Whichever genre you love, and whichever style, it can be hard to find time to read amongst the hustle and bustle of everyday life.
 
-Fantasy short stories offer a reprieve, they will fulfil your craving as a reader without you having to tackle the newest thousand-page book by the likes of Sanderson. They’re bite-sized, allowing you to get from start to end in a single sitting - perfect for your commute. The real issue then, is because there are so many [amazing short stories](https://www.www.litloop.co/sci-fi-short-stories) out there, how do you find the next one for you to read?
+Fantasy short stories offer a reprieve, they will fulfil your craving as a reader without you having to tackle the newest thousand-page book by the likes of Sanderson. They’re bite-sized, allowing you to get from start to end in a single sitting - perfect for your commute. The real issue then, is because there are so many [amazing short stories](https://www.litloop.co/sci-fi-short-stories) out there, how do you find the next one for you to read?
 
-[**Get 10 free classic sci-fi stories delivered directly to your inbox. Learn more →**](https://www.www.litloop.co/free-short-stories)
+[**Get 10 free classic sci-fi stories delivered directly to your inbox. Learn more →**](https://www.litloop.co/free-short-stories)
 
 ##  9 Incredible Fantasy Short Stories
 
@@ -35,7 +35,7 @@ Published in 2017, RED by Ramsey Shehadeh is about the impact on a young man of 
 
 ### 4. [Selfies](http://thebookplank.blogspot.com/2014/10/short-fiction-friday-selfies.html) by Lavie Tidhar
 
-If you are into [horror fiction](https://www.www.litloop.co/blog/horror-short-stories), this fantasy short story named Selfies by Lavie Tidhar is for you. The story starts when Ellie chooses to buy a phone from a mysterious man at the mall. However, with every coming day, Ellie learns to regret doing so as the creepy truth is slowly revealed. The tale shares the unexpected and unusual scenarios experienced by Ellie. A short but impactful story that will have you on the edge of your seat.
+If you are into [horror fiction](https://www.litloop.co/blog/horror-short-stories), this fantasy short story named Selfies by Lavie Tidhar is for you. The story starts when Ellie chooses to buy a phone from a mysterious man at the mall. However, with every coming day, Ellie learns to regret doing so as the creepy truth is slowly revealed. The tale shares the unexpected and unusual scenarios experienced by Ellie. A short but impactful story that will have you on the edge of your seat.
 
 ### 5. [Warm Up](https://www.tor.com/2013/08/20/warm-up/) by V.E. Schwab
 
@@ -45,9 +45,9 @@ David gets caught in an avalanche and dies. And then he wakes up. But this is no
 
 ### 6. [The Smallest Dragonboy](https://www.baen.com/Chapters/9781476781617/9781476781617___4.htm) by Anne McCaffrey
 
-Anne McCaffrey's [Dragons of Pern](https://www.www.litloop.co/blog/best-dragon-books) series were charming, nail-biting and gripping. This short story extends that world and offers us the story of Keevan, the smallest dragonboy. Keevan is bullied for being smaller, for being less intelligent, and for being less able. However hard he works though, it seems his efforts are to go unrewarded. This story is a beautiful compilation of the emotions of a small boy and his struggle to be treated like everyone else. For fans of McCaffrey’s most famous [dragon series](https://www.www.litloop.co/blog/best-dragon-books), this is a must.
+Anne McCaffrey's [Dragons of Pern](https://www.litloop.co/blog/best-dragon-books) series were charming, nail-biting and gripping. This short story extends that world and offers us the story of Keevan, the smallest dragonboy. Keevan is bullied for being smaller, for being less intelligent, and for being less able. However hard he works though, it seems his efforts are to go unrewarded. This story is a beautiful compilation of the emotions of a small boy and his struggle to be treated like everyone else. For fans of McCaffrey’s most famous [dragon series](https://www.litloop.co/blog/best-dragon-books), this is a must.
 
-**Readers that like fantasy books with dragons may like** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books and Reading Order](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+**Readers that like fantasy books with dragons may like** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books and Reading Order](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
 
 ### 7. [Zapped](https://onlinereadfreenovel.com/sherwood-smith/52668-zapped.html) by Sherwood Smith
 
@@ -55,7 +55,7 @@ Sherwood Smith’s story Zapped, originally published in 2015, is an engaging co
 
 ### 8. [Tender](https://www.waterstones.com/book/tender/sofia-samatar/9781618731654) by Sofia Samatar
 
-Tender is a compilation of short stories by Sofia Samatar, a writer known for her fusion of fantasy, sci-fi and real-life events. Tender is more like a time travel experience, exploring the fragility of bodies and emotions. The concept of this collection revolves around the power of loneliness and redefining emotions. You will feel an overlap of familiar life events merged into [the world of fantasy](https://www.www.litloop.co/blog/29-best-fantasy-books). "Tender" was published in 2019 but is one of the most recognized modern fantasy short story compilations.
+Tender is a compilation of short stories by Sofia Samatar, a writer known for her fusion of fantasy, sci-fi and real-life events. Tender is more like a time travel experience, exploring the fragility of bodies and emotions. The concept of this collection revolves around the power of loneliness and redefining emotions. You will feel an overlap of familiar life events merged into [the world of fantasy](https://www.litloop.co/blog/29-best-fantasy-books). "Tender" was published in 2019 but is one of the most recognized modern fantasy short story compilations.
 
 ### 9. [The Snow Child](https://biblioklept.org/2013/06/21/the-snow-child-angela-carter/) by Angela Carter
 
@@ -63,20 +63,17 @@ The Snow Child is a two-page short story from Angela Carter’s “The Bloody Ch
 
 ## Final Thoughts
 
-There we have it, 9 wonderful fantasy short stories to spend your weekend in a different world of fiction. Stay tuned for more thought-provoking stories and [book recommendations](https://www.www.litloop.co/articles) that will make you fall in love with reading all over again.
+There we have it, 9 wonderful fantasy short stories to spend your weekend in a different world of fiction. Stay tuned for more thought-provoking stories and [book recommendations](https://www.litloop.co/blog/) that will make you fall in love with reading all over again.
 
 #### You Might Like
 
 -
-  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 -
-  [40+ Spine-Tingling Horror Short Stories](https://www.www.litloop.co/blog/horror-short-stories)
+  [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories)
 -
-  [9 Dystopian Novels That Will Change How You View The World](https://www.www.litloop.co/blog/9-dystopian-novels-to-read)
+  [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read)
 -
-  [How To Read David Gemmell's Drenai Series](https://www.www.litloop.co/blog/david-gemmells-drenai-series)
+  [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)
 [
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
-](https://www.www.litloop.co/sci-fi-short-stories)
+](https://www.litloop.co/sci-fi-short-stories)

@@ -54,7 +54,7 @@ What if the Dark Lord won? Well, this is the question Sanderson asks with a worl
 As you can probably tell, I’m a Sanderson fan - and so no list would be complete without his Stormlight Archive. This epic installment introduces the world of Roshar where the gods Honor, Odium, and Cultivation wage war. Here, multiple characters’ destiny’s intertwine against the backdrop of a war-torn, meticulously crafted world.
 **Why It’s Similar:** With deep lore, immense and complex world-building and an expansive narrative, it offers the kind of layered storytelling and immersive environment that draws readers in.
 
-**Related**: [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+**Related**: [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 
 ### 4. [The Blade Itself](https://amzn.to/3FaaXMP) by Joe Abercrombie
 
@@ -68,7 +68,7 @@ Get ready for a gritty, no-holds-barred narrative filled with morally complex he
 Dive into the intricate political chessboard of Westeros, where every character has secrets and every decision can tip the scales of power.
 **Why It’s Similar:** The expansive world, multifaceted characters, and unpredictable twists create an epic saga that fans of deep fantasy will adore.
 
-**Related**: [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
+**Related**: [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
 
 
 
@@ -107,7 +107,7 @@ This standalone epic weaves tales of dragons, ancient magic, and a world on the 
 Set in an alternative 19th-century England, this novel reimagines history with a magical twist, as two magicians alter the course of events.
 **Why It’s Similar:** Elegant prose and meticulously revealed magical lore create a thoughtful, immersive reading experience that echoes the gradual unfolding of secrets in Rothfuss’s narrative.
 
-**Related**: [11 Of The Best Historical Fiction Authors You Must Read](https://www.www.litloop.co/blog/11-of-the-best-historical-fiction-authors-you-must-read)
+**Related**: [11 Of The Best Historical Fiction Authors You Must Read](https://www.litloop.co/blog/11-of-the-best-historical-fiction-authors-you-must-read)
 
 ## What to Look for in Books Like The Name of the Wind
 
@@ -135,20 +135,17 @@ While none of them can quite replicate the magic of *The Name of the Wind*, each
 ### You Might Also Like
 
 -
-  [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
+  [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.www.litloop.co/blog/fantasy-short-stories)
+  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
 -
-  [The Best Robin Hobb Books: Six Duchies Books Reading Order](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+  [The Best Robin Hobb Books: Six Duchies Books Reading Order](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
 -
-  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.www.litloop.co/blog/best-books-about-greek-mythology)
+  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology)
 
 
 
 
 
       [
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
 ](/sci-fi-short-stories)

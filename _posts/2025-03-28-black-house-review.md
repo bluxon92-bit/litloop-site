@@ -5,12 +5,12 @@ date: 2025-03-28
 category: Book Reviews
 genre: Horror
 excerpt: "Black House is the long-awaited sequel to The Talisman — and a direct Dark Tower tie-in. Here's our review of King and Straub's second collaboration."
-image: ""
+image: "https://m.media-amazon.com/images/I/51K9mptdKHL.jpg"
 ---
 
 ![Black House by Stephen King and Peter Straub]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -58,11 +58,7 @@ Read *The Talisman* first. It's excellent. Then come here.
 
 ### You Might Also Like
 
-- [IT by Stephen King Review](https://www.www.litloop.co/blog/stephen-king-it-review)
-- [Stephen King Books in Order](https://www.www.litloop.co/blog/stephen-king-books-in-order)
-- [Is The Dark Tower Worth Reading?](https://www.www.litloop.co/blog/dark-tower-worth-reading)
-- [Floating Dragon by Peter Straub Review](https://www.www.litloop.co/blog/floating-dragon-review)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)
+- [Is The Dark Tower Worth Reading?](https://www.litloop.co/blog/dark-tower-worth-reading)
+- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review)

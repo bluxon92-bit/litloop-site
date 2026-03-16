@@ -19,7 +19,7 @@ Or does it? Did you know you can actually easily send ebooks to your Kindle via 
 3.   Attach the file to an email and send it to your Kindle email address.
 4.   Make sure your Kindle device is connected to the WiFi and it will appear ready to read on your Kindle in a few moments.
 
-**You might also like **[What is Audible, How Does It Work, And Is It Worth it?](https://www.www.litloop.co/blog/is-audible-worth-it)
+**You might also like **[What is Audible, How Does It Work, And Is It Worth it?](https://www.litloop.co/blog/is-audible-worth-it)
 
 ## Find Your Kindle Email
 
@@ -76,8 +76,8 @@ If you wish to remove the ebook from your Kindle, locate it in "Your Library" an
 -
   [Fiction vs nonfiction: What’s the difference?](https://www.benluxonauthor.com/blog/fiction-vs-nonfiction-whats-the-difference)
 -
-  [15 Best Apps to Read Books for Free](https://www.www.litloop.co/blog/15-best-apps-to-read-books-for-free)
+  [15 Best Apps to Read Books for Free](https://www.litloop.co/blog/15-best-apps-to-read-books-for-free)
 -
-  [6 Books Like The Alchemist You're Sure To Love](https://www.www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
+  [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
 -
-  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)

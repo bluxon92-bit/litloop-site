@@ -5,13 +5,13 @@ date: 2025-03-09
 category: Book Reviews
 genre: Fantasy
 excerpt: "Malice is the first book in John Gwynne's Faithful and the Fallen series — a heroic epic in the tradition of Gemmell. Here's our full review."
-image: ""
+image: "https://m.media-amazon.com/images/I/91F7E2HuKIL._SL1500_.jpg"
 permalink: /blog/malice-by-john-gwynne-review/
 ---
 
 ![Malice by John Gwynne]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -37,7 +37,7 @@ The story follows primarily two POVs:
 
 Gwynne writes action extremely well. Battle scenes are physically clear — you can follow the choreography, feel the scale, understand the stakes. He was a historical reenactor before he became a novelist, and it shows. The violence has weight and consequence.
 
-The characters are what really land, though. Gwynne writes in the tradition of [David Gemmell](https://www.www.litloop.co/blog/david-gemmells-drenai-series) — heroes who are genuinely heroic, who operate by moral codes that cost them, who do the right thing even when it's punishing. After a decade of grimdark subversion, there's something quietly refreshing about a fantasy that believes in goodness without being naive about it.
+The characters are what really land, though. Gwynne writes in the tradition of [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series) — heroes who are genuinely heroic, who operate by moral codes that cost them, who do the right thing even when it's punishing. After a decade of grimdark subversion, there's something quietly refreshing about a fantasy that believes in goodness without being naive about it.
 
 The wolf subplot is handled with obvious affection. Storm is one of the great animal companions in fantasy. This is a hill I will die on.
 
@@ -65,11 +65,7 @@ The full quartet is outstanding. *Malice* is the worthy first chapter.
 
 ### You Might Also Like
 
-- [How To Read David Gemmell's Drenai Series](https://www.www.litloop.co/blog/david-gemmells-drenai-series)
-- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)
+- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

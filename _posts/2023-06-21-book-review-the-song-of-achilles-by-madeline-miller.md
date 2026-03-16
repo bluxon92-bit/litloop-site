@@ -8,7 +8,7 @@ excerpt: "The Song of Achilles by Madeline Miller reviewed — a heartbreaking r
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381508/the-song-of-achilles_ssc0ae.webp"
 ---
 
-If you're a fan of [books about Greek mythology](https://www.www.litloop.co/blog/best-books-about-greek-mythology) you’ve likely come across [Madeline Miller](http://madelinemiller.com) and her two novels, The Song of Achilles, and [Circe](https://amzn.to/431yiXm). [The Song of Achilles](https://amzn.to/42TtG5h) is Miller's is her debut novel and delves into the story of Achilles and Patroclus, tracing their journey from childhood to adulthood and the divergent paths they take despite their profound love for each other.
+If you're a fan of [books about Greek mythology](https://www.litloop.co/blog/best-books-about-greek-mythology) you’ve likely come across [Madeline Miller](http://madelinemiller.com) and her two novels, The Song of Achilles, and [Circe](https://amzn.to/431yiXm). [The Song of Achilles](https://amzn.to/42TtG5h) is Miller's is her debut novel and delves into the story of Achilles and Patroclus, tracing their journey from childhood to adulthood and the divergent paths they take despite their profound love for each other.
 
 Miller, with her MA and BA in Ancient Greek, showcases a profound knowledge of the subject matter in this story. And adds a subtle twist to the tale: What if Achilles and Patroclus shared a bond that transcended mere friendship?
 
@@ -25,7 +25,7 @@ Miller, with her MA and BA in Ancient Greek, showcases a profound knowledge of t
 ](https://amzn.to/42XGRSK)    Rated 4.6 Stars. Buy on Amazon.   [/caption]
 
 
-[The Song of Achilles](https://amzn.to/42TtG5h) unfolds through the first-person perspective of Patroclus, a prince born to a tyrannical king who is later banished from his kingdom after a fateful encounter. Exiled to the same kingdom where Achilles resides, Patroclus discovers that there is much more to Achilles than his [god-like abilities](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) and attributes. Beneath the surface, Achilles is kind, compassionate, and morally upright. However, as they mature, Achilles must embrace his destined path as a hero. And Patroclus, insignificant in the eyes of many, must conceal their relationship while also navigating his own journey.
+[The Song of Achilles](https://amzn.to/42TtG5h) unfolds through the first-person perspective of Patroclus, a prince born to a tyrannical king who is later banished from his kingdom after a fateful encounter. Exiled to the same kingdom where Achilles resides, Patroclus discovers that there is much more to Achilles than his [god-like abilities](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) and attributes. Beneath the surface, Achilles is kind, compassionate, and morally upright. However, as they mature, Achilles must embrace his destined path as a hero. And Patroclus, insignificant in the eyes of many, must conceal their relationship while also navigating his own journey.
 
 I really loved the plot of The Song of Achilles. And I’ve come to adore Miller’s writing style. She had me fully immersed in the remarkable journey of these two men from the very first pages. Their relationship blossoms into something truly admirable. Achilles proudly proclaims Patroclus as his companion, ensuring that he is seen and heard by all. He uses his elevated status to elevate Patroclus alongside him. However, the moment that anyone familiar with [the Iliad](http://classics.mit.edu/Homer/iliad.html) will be waiting for inevitably comes, and this poignant turn in the story will have you reaching for tissues.
 
@@ -52,12 +52,12 @@ Whether you have an inclination toward romance, historical fiction, or fantasy, 
 ### You Might Also Like
 
 -
-  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.www.litloop.co/blog/best-books-about-greek-mythology)
+  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology)
 -
-  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.www.litloop.co/blog/books-like-harry-potter)
+  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)
 -
-  [20 Best Dragon Books For Adults](https://www.www.litloop.co/blog/best-dragon-books)
+  [20 Best Dragon Books For Adults](https://www.litloop.co/blog/best-dragon-books)
 -
-  [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
+  [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [Book Review: Verity by Colleen Hoover](https://www.www.litloop.co/blog/verity-by-colleen-hoover)
+  [Book Review: Verity by Colleen Hoover](https://www.litloop.co/blog/verity-by-colleen-hoover)

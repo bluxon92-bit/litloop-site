@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/heir-of-fire-cover_kpf
 
 ![Heir of Fire by Sarah J. Maas](https://res.cloudinary.com/dnkddcxrt/image/upload/heir-of-fire-cover_kpf1mx.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -22,7 +22,7 @@ This is the book where the series becomes what it was always trying to be — a 
 
 ## What's It About?
 
-Following the events of [Crown of Midnight](https://www.www.litloop.co/blog/crown-of-midnight-review) — which, if you haven't read yet, go and read first — Celaena is sent to Wendlyn, ostensibly on an assassination mission for the king. What she actually does is rather different. She seeks out the Fae and begins training with them, grappling with her own identity, her magic, and a history she's spent years trying to suppress.
+Following the events of [Crown of Midnight](https://www.litloop.co/blog/crown-of-midnight-review) — which, if you haven't read yet, go and read first — Celaena is sent to Wendlyn, ostensibly on an assassination mission for the king. What she actually does is rather different. She seeks out the Fae and begins training with them, grappling with her own identity, her magic, and a history she's spent years trying to suppress.
 
 Meanwhile, back in Adarlan, Dorian and Chaol deal with the aftermath of what happened in book two, and a new threat — the Valg, demonic entities from another world — begins to make itself known.
 
@@ -60,11 +60,7 @@ If you've got this far in the series, this is probably your favourite so far. An
 
 ### You Might Also Like
 
-- [Crown of Midnight Review](https://www.www.litloop.co/blog/crown-of-midnight-review)
-- [Throne of Glass Series in Order](https://www.www.litloop.co/blog/throne-of-glass-series-in-order)
-- [Sarah J. Maas Books in Order](https://www.www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [20 Best Dragon Books for Adults](https://www.www.litloop.co/blog/best-dragon-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Crown of Midnight Review](https://www.litloop.co/blog/crown-of-midnight-review)
+- [Throne of Glass Series in Order](https://www.litloop.co/blog/throne-of-glass-series-in-order)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
+- [20 Best Dragon Books for Adults](https://www.litloop.co/blog/best-dragon-books)

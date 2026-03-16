@@ -19,7 +19,7 @@ Over the years, I've read countless horror short stories, and I've come to appre
 
 In this article, I've compiled a list of 40+ horror short stories that I believe are worth reading. Some of these stories have been around for decades, while others are more recent creations. But what they all have in common is that they're masterful examples of the horror short story form that will leave you on the edge of your seat with sweaty palms.
 
-**You might also like:** [15+ Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+**You might also like:** [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 
 ## 15 Classic Horror Short Stories
 
@@ -27,7 +27,7 @@ In this article, I've compiled a list of 40+ horror short stories that I believe
 
 When it comes to horror short stories, it's hard to beat the classics. These are the stories that set the stage for the genre, laying the foundation for all the spine-tingling tales that would follow. They may have been written over a century ago, but they're just as creepy and unsettling today as they were when they were first published.
 
-**You might also like** [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.www.litloop.co/blog/grimdark-fantasy-books)
+**You might also like** [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
 
 Here are 15 classic horror short stories to read today:
 
@@ -91,7 +91,7 @@ A man becomes convinced that an invisible creature called the Horla is haunting 
 
 A man who disregards a warning not to blow a certain whistle discovers that some things are better left untouched. A classic ghost story that still manages to give readers chills today.
 
-[**Download 10 Free Sci Fi Short Stories Now →**](https://www.www.litloop.co/free-short-stories)
+[**Download 10 Free Sci Fi Short Stories Now →**](https://www.litloop.co/free-short-stories)
 
 ## 12 Horror Short Stories From The 20th Century
 
@@ -121,7 +121,7 @@ A man is plagued by a small, seemingly harmless creature that he discovers is no
 
 ### 21. “The Jaunt” by Stephen King (1981)
 
-In a world where teleportation is possible, a family embarks on a trip to Mars, but things quickly go wrong. King's ability to create a sense of mounting dread and tension is on full display in this chilling sci-fi [horror story by Stephen King](https://www.www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king).
+In a world where teleportation is possible, a family embarks on a trip to Mars, but things quickly go wrong. King's ability to create a sense of mounting dread and tension is on full display in this chilling sci-fi [horror story by Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king).
 
 ### 22. "The Monkey" by Stephen King (1980)
 
@@ -147,7 +147,7 @@ A young man on a business trip checks into a bed and breakfast run by a seemingl
 
 A man becomes obsessed with the idea of killing his wife, leading him down a dark and twisted path. First published in 1948, "The October Game" is a disturbing and thought-provoking story that explores the nature of human desire and obsession.
 
-**You might also like **[9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.www.litloop.co/blog/fantasy-short-stories)
+**You might also like **[9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
 
 ## 17 Short Horror Stories From Modern Authors
 
@@ -221,10 +221,7 @@ Originally published in Clarkesworld Magazine in 2007, “The Third Bear” was 
 
 Originally published in 2015 as a fund-drive bonus in Strange Horizons, “The Game of Smash and Recovery” is a standalone story that delivers a serious creep factor. The story follows two siblings playing a unique version of hide-and-seek on an alien planet while waiting for their parents to return. It is a standout in [Link’s collection, Get in Trouble](https://amzn.to/3IDfvKo).
 
-**You might also like** [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)[
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
+**You might also like** [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)[
 ](https://amzn.to/3OGjd9X)
 
 ## Where To Read Horror Short Stories
@@ -250,10 +247,10 @@ So, if you're looking for a spine-tingling read that will keep you up at night, 
 #### You Might Also Like
 
 -
-  [**31 Best Fantasy Books You Need To Read Today**](https://www.www.litloop.co/blog/29-best-fantasy-books)
+  [**31 Best Fantasy Books You Need To Read Today**](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [**The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction**](https://www.www.litloop.co/blog/grimdark-fantasy-books)
+  [**The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction**](https://www.litloop.co/blog/grimdark-fantasy-books)
 -
-  [**Best Books by China Miéville: Perdido Street Station and More**](https://www.www.litloop.co/blog/best-books-by-china-mieville)
+  [**Best Books by China Miéville: Perdido Street Station and More**](https://www.litloop.co/blog/best-books-by-china-mieville)
 -
-  [**20 Best Dragon Books For Adults**](https://www.www.litloop.co/blog/best-dragon-books)
+  [**20 Best Dragon Books For Adults**](https://www.litloop.co/blog/best-dragon-books)

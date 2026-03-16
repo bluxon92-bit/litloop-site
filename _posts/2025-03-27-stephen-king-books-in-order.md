@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/stephen-king-books_kxq
 
 ![Stephen King Books in Order](https://res.cloudinary.com/dnkddcxrt/image/upload/stephen-king-books_kxqyqs.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -24,7 +24,7 @@ What this is: the books you actually need to read, organised by what they're try
 
 If you've never read King, start with **The Shining**. It's relatively short, it's among his best, it showcases his fundamental skill — turning normal settings and relationships into sources of dread — and it's not so long that it's a commitment. *Misery* is another good entry point for the same reasons.
 
-If you want the full King experience at maximum scale, start with *IT*. Just know what you're getting into. [Full review here.](https://www.www.litloop.co/blog/stephen-king-it-review)
+If you want the full King experience at maximum scale, start with *IT*. Just know what you're getting into. [Full review here.](https://www.litloop.co/blog/stephen-king-it-review)
 
 ---
 
@@ -40,7 +40,7 @@ A failed writer takes a winter caretaker job at a remote hotel with his wife and
 
 ### IT (1986)
 
-The masterpiece. Childhood, memory, friendship, and one of the most effective monsters in fiction. [Full review here.](https://www.www.litloop.co/blog/stephen-king-it-review)
+The masterpiece. Childhood, memory, friendship, and one of the most effective monsters in fiction. [Full review here.](https://www.litloop.co/blog/stephen-king-it-review)
 
 [**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/stephenking-it)
 
@@ -68,7 +68,7 @@ Possibly King's most disturbing novel, which given the competition is a signific
 
 The Dark Tower is King's magnum opus — an eight-book epic fantasy-western following Roland Deschain, the last gunslinger, on a quest toward a mysterious tower at the centre of all universes. It connects to the wider King multiverse in ways that reward long-term readers.
 
-### Is it worth reading? [See our full guide here.](https://www.www.litloop.co/blog/dark-tower-worth-reading)
+### Is it worth reading? [See our full guide here.](https://www.litloop.co/blog/dark-tower-worth-reading)
 
 The short version: yes, with caveats. Books one through four are exceptional. Book five (*Wolves of the Calla*) divides readers. The final three volumes were written quickly after King's near-fatal accident and show it. The ending is genuinely polarising.
 
@@ -85,7 +85,7 @@ King's novels share a multiverse. Many of them connect to the Dark Tower in expl
 - *IT* — Pennywise is connected to the Todash Darkness
 - *The Stand* — Randall Flagg is a recurring King villain appearing across many novels
 - *Insomnia* — directly sets up *Black House*
-- *Black House* — a direct Dark Tower tie-in. [Review here.](https://www.www.litloop.co/blog/black-house-review)
+- *Black House* — a direct Dark Tower tie-in. [Review here.](https://www.litloop.co/blog/black-house-review)
 
 You don't need to have read the connected novels to enjoy any individual King book. It enriches the experience but isn't required.
 
@@ -113,11 +113,7 @@ King's short story collections — *Night Shift*, *Skeleton Crew*, *Nightmares a
 
 ### You Might Also Like
 
-- [IT by Stephen King Review](https://www.www.litloop.co/blog/stephen-king-it-review)
-- [Black House Review](https://www.www.litloop.co/blog/black-house-review)
-- [Is The Dark Tower Worth Reading?](https://www.www.litloop.co/blog/dark-tower-worth-reading)
-- [Heart-Shaped Box by Joe Hill Review](https://www.www.litloop.co/blog/heart-shaped-box-review)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
+- [Black House Review](https://www.litloop.co/blog/black-house-review)
+- [Is The Dark Tower Worth Reading?](https://www.litloop.co/blog/dark-tower-worth-reading)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)

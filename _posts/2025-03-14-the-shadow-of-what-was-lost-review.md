@@ -5,12 +5,12 @@ date: 2025-03-14
 category: Book Reviews
 genre: Fantasy
 excerpt: "The Shadow of What Was Lost by James Islington reviewed — underrated epic fantasy with some of the genre's best world-building."
-image: ""
+image: "https://m.media-amazon.com/images/I/71MjspkP-8S._SL1500_.jpg"
 ---
 
 ![The Shadow of What Was Lost by James Islington]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -66,11 +66,7 @@ The Licanius Trilogy is complete: *The Shadow of What Was Lost*, *An Echo of Thi
 
 ### You Might Also Like
 
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [Patrick Rothfuss Books in Order](https://www.www.litloop.co/blog/patrick-rothfuss-books-in-order)
-- [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

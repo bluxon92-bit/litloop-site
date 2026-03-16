@@ -10,7 +10,7 @@ image: "https://m.media-amazon.com/images/I/71zCVE9nh5L._SL1000_.jpg"
 
 ![Malazan Book of the Fallen](https://m.media-amazon.com/images/I/71zCVE9nh5L._SL1000_.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 

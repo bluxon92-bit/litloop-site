@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/stephen-king-it-cover_
 
 ![IT by Stephen King](https://res.cloudinary.com/dnkddcxrt/image/upload/stephen-king-it-cover_kh9riz.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -60,11 +60,7 @@ If you have any interest in horror — yes, absolutely. It's the benchmark. If y
 
 ### You Might Also Like
 
-- [Stephen King Books in Order](https://www.www.litloop.co/blog/stephen-king-books-in-order)
-- [Black House Review](https://www.www.litloop.co/blog/black-house-review)
-- [Is The Dark Tower Series Worth Reading?](https://www.www.litloop.co/blog/dark-tower-worth-reading)
-- [Heart-Shaped Box by Joe Hill Review](https://www.www.litloop.co/blog/heart-shaped-box-review)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)
+- [Black House Review](https://www.litloop.co/blog/black-house-review)
+- [Is The Dark Tower Series Worth Reading?](https://www.litloop.co/blog/dark-tower-worth-reading)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)

@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/words-of-radiance-cove
 
 ![Words of Radiance by Brandon Sanderson](https://res.cloudinary.com/dnkddcxrt/image/upload/words-of-radiance-cover_rijxur.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -62,11 +62,7 @@ For most readers, yes. It's the more complete novel — a setup that's also a st
 
 ### You Might Also Like
 
-- [Rhythm of War Review](https://www.www.litloop.co/blog/rhythm-of-war-review)
-- [11 of the Best Books by Brandon Sanderson](https://www.www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [Patrick Rothfuss Books in Order](https://www.www.litloop.co/blog/patrick-rothfuss-books-in-order)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Rhythm of War Review](https://www.litloop.co/blog/rhythm-of-war-review)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)

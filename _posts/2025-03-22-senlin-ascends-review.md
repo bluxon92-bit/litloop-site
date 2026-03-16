@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772382133/senlinasce
 
 ![Senlin Ascends by Josiah Bancroft](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772382133/senlinascends-cover_s4qb4y.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -66,11 +66,7 @@ Start here. Do not read ahead. The less you know going in, the better.
 
 ### You Might Also Like
 
-- [The Blacktongue Thief Review](https://www.www.litloop.co/blog/the-blacktongue-thief-review)
-- [Patrick Rothfuss Books in Order](https://www.www.litloop.co/blog/patrick-rothfuss-books-in-order)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Blacktongue Thief Review](https://www.litloop.co/blog/the-blacktongue-thief-review)
+- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

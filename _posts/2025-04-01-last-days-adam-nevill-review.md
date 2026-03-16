@@ -5,13 +5,13 @@ date: 2025-04-01
 category: Book Reviews
 genre: Horror
 excerpt: "Last Days is Adam Nevill's most compelling novel — a found-footage horror that builds to something genuinely disturbing. Here's our full review."
-image: ""
+image: "https://m.media-amazon.com/images/I/71nZWVsU4xL._SL1500_.jpg"
 permalink: /blog/last-days-review/
 ---
 
 ![Last Days by Adam Nevill]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -61,11 +61,7 @@ If you want British horror that takes itself seriously and delivers genuine scar
 
 ### You Might Also Like
 
-- [Heart-Shaped Box by Joe Hill Review](https://www.www.litloop.co/blog/heart-shaped-box-review)
-- [Floating Dragon by Peter Straub Review](https://www.www.litloop.co/blog/floating-dragon-review)
-- [IT by Stephen King Review](https://www.www.litloop.co/blog/stephen-king-it-review)
-- [Stephen King Books in Order](https://www.www.litloop.co/blog/stephen-king-books-in-order)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)
+- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)

@@ -8,11 +8,11 @@ excerpt: "11 best historical fiction authors — Hilary Mantel, Ken Follett, Ber
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381464/last-kingdom-1-_sg5u4x.webp"
 ---
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
-Historical fiction, a genre that blends factual events with the artistry of storytelling, brings the past alive in a way that educates, entertains, and enchants readers. From gripping tales of ancient civilisations to [epic sagas ](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)set against the backdrop of world-changing events, historical fiction authors have shaped literary landscapes.
+Historical fiction, a genre that blends factual events with the artistry of storytelling, brings the past alive in a way that educates, entertains, and enchants readers. From gripping tales of ancient civilisations to [epic sagas ](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)set against the backdrop of world-changing events, historical fiction authors have shaped literary landscapes.
 
 In this article, we’ve collated a list of the best historical fiction authors. So, whether you seek battles and conquests, romance and intrigue, or nuanced explorations of the human condition, these authors are the custodians of captivating narratives that will leave an indelible mark on your literary journey.
 
@@ -22,7 +22,7 @@ Historical fiction is a genre that blends elements of history with fictional sto
 
 The best historical fiction will be the product of extensive research and offer an accurate portrayal of the historical context, including social customs, political climates, and technological advancements of the time period. As such, this genre allows readers to immerse themselves in different eras and gain insights into the lives and experiences of people from the past.
 
-There are no guidelines for authors regarding what they can and can’t write about or which historical events they should feature. For example, historical fiction [books set in ancient Greece](https://www.www.litloop.co/blog/best-books-about-greek-mythology) are popular right now. Some of my favourite historical fiction novels though are set in more obscure places and time periods allowing me to learn something new.
+There are no guidelines for authors regarding what they can and can’t write about or which historical events they should feature. For example, historical fiction [books set in ancient Greece](https://www.litloop.co/blog/best-books-about-greek-mythology) are popular right now. Some of my favourite historical fiction novels though are set in more obscure places and time periods allowing me to learn something new.
 
 This unique blend of education and entertainment allows authors to explore lesser-known aspects of history or present alternative perspectives on well-known events.
 
@@ -40,7 +40,7 @@ Several factors contribute to making a great historical fiction book including:
 
 Ultimately, a great historical fiction book seamlessly weaves together history and fiction, creating a captivating and immersive experience that educates, entertains, and resonates with readers.
 
-**You might also enjoy** [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
+**You might also enjoy** [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 
 ## 11 Top Historical Fiction Authors And Their Best Works
 
@@ -98,7 +98,7 @@ Smith's most popular series is the Courtney series, which spans generations and 
 
 Mary Renault, a British author born in 1905, is best known for her extraordinary talent in bringing ancient Greece to life through her historical novels. Her meticulous research, captivating storytelling, and deep understanding of the period have made her a beloved figure in the genre.
 
-Renault's most celebrated work is "[The King Must Die](https://amzn.to/3NYiTCH)," a masterful retelling of the myth of Theseus. Through her vivid prose and rich characterisation, Renault t[ransports readers to ancient Greece](https://www.www.litloop.co/blog/best-books-about-greek-mythology), immersing them in the world of myth and legend. "[The Persian Boy](https://amzn.to/3PFyzMo)" is another notable work by Renault, exploring the life of Bagoas, a eunuch who served as a companion to Alexander the Great.
+Renault's most celebrated work is "[The King Must Die](https://amzn.to/3NYiTCH)," a masterful retelling of the myth of Theseus. Through her vivid prose and rich characterisation, Renault t[ransports readers to ancient Greece](https://www.litloop.co/blog/best-books-about-greek-mythology), immersing them in the world of myth and legend. "[The Persian Boy](https://amzn.to/3PFyzMo)" is another notable work by Renault, exploring the life of Bagoas, a eunuch who served as a companion to Alexander the Great.
 
 [**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/3XBxK9f)
 
@@ -108,7 +108,7 @@ Renault's most celebrated work is "[The King Must Die](https://amzn.to/3NYiTCH),
 
 #### You might also be interested in Sunset In The East by Ben Luxon
 
-Distant futures, bizarre aliens, AI and automatons come together in this compelling collection of thought-provoking science fiction short stories. These stories range from psychological thrillers with surprising twists to humorous absurdism. Perfect for sci-fi enthusiasts and fans of Black Mirror. [*Learn more →*](https://www.www.litloop.co/sci-fi-short-stories)
+Distant futures, bizarre aliens, AI and automatons come together in this compelling collection of thought-provoking science fiction short stories. These stories range from psychological thrillers with surprising twists to humorous absurdism. Perfect for sci-fi enthusiasts and fans of Black Mirror. [*Learn more →*](https://www.litloop.co/sci-fi-short-stories)
 
 [**Now available for Kindle and paperback, and free for Kindle Unlimited users.**](https://amzn.to/3SOrcBT)
 
@@ -154,7 +154,7 @@ Toibin's notable works include "Brooklyn," a coming-of-age story about an Irish 
 
 Natalie Haynes is a British author and broadcaster known for her works of historical fiction and non-fiction. She is particularly interested in ancient history and mythology. Haynes has written novels such as "[The Amber Fury](https://amzn.to/46A3xLV)" and has also published non-fiction works exploring the lives and stories of ancient Greek and Roman women.
 
-Her work tends to focus on retelling stories from the perspective of [women in ancient Greece](https://www.www.litloop.co/blog/best-books-about-greek-mythology) offering a voice to an otherwise underrepresented demographic. My favourite novel of hers is “[The Children of Jocasta](https://amzn.to/3D06APU)”, a retelling of Oedipus and Antigone from a female perspective.
+Her work tends to focus on retelling stories from the perspective of [women in ancient Greece](https://www.litloop.co/blog/best-books-about-greek-mythology) offering a voice to an otherwise underrepresented demographic. My favourite novel of hers is “[The Children of Jocasta](https://amzn.to/3D06APU)”, a retelling of Oedipus and Antigone from a female perspective.
 
 [**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/46B11F4)
 
@@ -197,10 +197,10 @@ So, whether you are a devoted history enthusiast or simply an avid reader seekin
 ### You Might Also Like
 
 -
-  [6 Books Like The Alchemist You're Sure To Love](https://www.www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
+  [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
 -
-  [The Best Sci-Fi Books by Ursula K Le Guin](https://www.www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+  [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
 -
-  [9 Dystopian Novels That Will Change How You View The World ](https://www.www.litloop.co/blog/9-dystopian-novels-to-read)
+  [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
 -
-  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)

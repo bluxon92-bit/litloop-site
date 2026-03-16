@@ -5,12 +5,12 @@ date: 2025-03-23
 category: Book Reviews
 genre: Fantasy
 excerpt: "Kings of the Wyld is the most fun I've had reading a fantasy novel in years. Here's our review of Nicholas Eames' debut — and why it's impossible not to love."
-image: ""
+image: "https://m.media-amazon.com/images/I/818mHVAPyjL._SL1500_.jpg"
 ---
 
 ![Kings of the Wyld by Nicholas Eames]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -60,11 +60,7 @@ If you want a book that will make you laugh, make you tear up slightly in the fi
 
 ### You Might Also Like
 
-- [The Blacktongue Thief Review](https://www.www.litloop.co/blog/the-blacktongue-thief-review)
-- [Senlin Ascends Review](https://www.www.litloop.co/blog/senlin-ascends-review)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Blacktongue Thief Review](https://www.litloop.co/blog/the-blacktongue-thief-review)
+- [Senlin Ascends Review](https://www.litloop.co/blog/senlin-ascends-review)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

@@ -11,7 +11,7 @@ permalink: /blog/floating-dragon-review/
 
 ![Floating Dragon by Peter Straub](https://res.cloudinary.com/dnkddcxrt/image/upload/floating-dragon-cover_q2d6t5.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -69,11 +69,7 @@ If you've read King's major novels and want to explore what else exists in serio
 
 ### You Might Also Like
 
-- [IT by Stephen King Review](https://www.www.litloop.co/blog/stephen-king-it-review)
-- [Black House Review](https://www.www.litloop.co/blog/black-house-review)
-- [Heart-Shaped Box by Joe Hill Review](https://www.www.litloop.co/blog/heart-shaped-box-review)
-- [Last Days by Adam Nevill Review](https://www.www.litloop.co/blog/last-days-review)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
+- [Black House Review](https://www.litloop.co/blog/black-house-review)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)
+- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review)

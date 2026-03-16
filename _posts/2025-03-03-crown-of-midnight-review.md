@@ -5,12 +5,12 @@ date: 2025-03-03
 category: Book Reviews
 genre: Fantasy
 excerpt: "Crown of Midnight is where the Throne of Glass series stops being good and starts being great. Here's why this is the book the fuss is about."
-image: ""
+image: "https://m.media-amazon.com/images/I/81EJOqoICGL._SL1500_.jpg"
 ---
 
 ![Crown of Midnight by Sarah J. Maas]()
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -64,11 +64,7 @@ Crown of Midnight is the moment Maas commits to the darker, more complex story s
 
 ### You Might Also Like
 
-- [Throne of Glass Series in Order](https://www.www.litloop.co/blog/throne-of-glass-series-in-order)
-- [Heir of Fire Review](https://www.www.litloop.co/blog/heir-of-fire-review)
-- [Sarah J. Maas Books in Order](https://www.www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Throne of Glass Series in Order](https://www.litloop.co/blog/throne-of-glass-series-in-order)
+- [Heir of Fire Review](https://www.litloop.co/blog/heir-of-fire-review)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

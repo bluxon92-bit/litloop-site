@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/twilight-cover_ghvein.
 
 ![Twilight by Stephenie Meyer](https://res.cloudinary.com/dnkddcxrt/image/upload/twilight-cover_ghvein.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -60,11 +60,7 @@ The genre it created — paranormal romance with YA sensibility — has produced
 
 ### You Might Also Like
 
-- [Heartless by Marissa Meyer Review](https://www.www.litloop.co/blog/heartless-review)
-- [Daughter of Smoke and Bone Review](https://www.www.litloop.co/blog/daughter-of-smoke-and-bone-review)
-- [Sarah J. Maas Books in Order](https://www.www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.www.litloop.co/blog/books-like-harry-potter)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review)
+- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
+- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)

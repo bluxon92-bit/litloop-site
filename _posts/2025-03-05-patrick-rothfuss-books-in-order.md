@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/name-of-the-wind-cover
 
 ![The Name of the Wind by Patrick Rothfuss](https://res.cloudinary.com/dnkddcxrt/image/upload/name-of-the-wind-cover_bfnbm3.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -82,15 +82,11 @@ Worth mentioning: the audiobooks, narrated by Nick Podehl, are exceptional. Pode
 
 *The Kingkiller Chronicle* is for readers who value prose and character above all else. If you want constant forward momentum and are allergic to introspection, this might frustrate you. If you love language, complex characters, and a world that feels genuinely inhabited, this is among the best the genre has to offer.
 
-Readers who love Rothfuss tend to also enjoy [*Empire of Silence* by Christopher Ruocchio](https://www.www.litloop.co/blog/empire-of-silence-review) — another first-person account of a legendary figure's early life, enormous in scope and beautifully written.
+Readers who love Rothfuss tend to also enjoy [*Empire of Silence* by Christopher Ruocchio](https://www.litloop.co/blog/empire-of-silence-review) — another first-person account of a legendary figure's early life, enormous in scope and beautifully written.
 
 ### You Might Also Like
 
-- [10 Books Like The Name of the Wind](https://www.www.litloop.co/blog/books-like-name-of-the-wind)
-- [Empire of Silence Review](https://www.www.litloop.co/blog/empire-of-silence-review)
-- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [10 Books Like The Name of the Wind](https://www.litloop.co/blog/books-like-name-of-the-wind)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
+- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

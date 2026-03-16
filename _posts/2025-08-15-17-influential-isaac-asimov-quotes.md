@@ -10,11 +10,11 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381450/robot-sci-
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381450/robot-sci-fi_zdm8le.webp)
 
-Isaac Asimov is one of my favourite [science fiction authors](https://www.www.litloop.co/blog/10-sci-fi-authors) alongside the likes of [Arthur C Clarke](https://www.www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke) and Ursula K Le Guin. He’s best known for his Foundation and Robot series. But, he was a prolific author writing or editing over 500 books over his career and an estimated 90,000 letters and postcards.
+Isaac Asimov is one of my favourite [science fiction authors](https://www.litloop.co/blog/10-sci-fi-authors) alongside the likes of [Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke) and Ursula K Le Guin. He’s best known for his Foundation and Robot series. But, he was a prolific author writing or editing over 500 books over his career and an estimated 90,000 letters and postcards.
 
 He was more than just a prolific science fiction writer though, he was a biochemist, science writer, a humanist, a rationalist, and a lover of liberty, regularly speaking out on behalf of freedom of thought and expression.
 
-Much of [Isaac Asimov’s work](https://www.www.litloop.co/blog/best-isaac-asimov-books) hinged on a ceaselessly speculative curiosity as he sought to answer the question “what if?” What if we developed intelligent androids? What if humanity colonised the stars?
+Much of [Isaac Asimov’s work](https://www.litloop.co/blog/best-isaac-asimov-books) hinged on a ceaselessly speculative curiosity as he sought to answer the question “what if?” What if we developed intelligent androids? What if humanity colonised the stars?
 
 Isaac Asimov died in 1992, but he left behind a legacy filled with a keen understanding of what it means to be human and the importance of hope for the future. In this article, we take a look at some of Isaac Asimov’s most influential quotes.
 
@@ -70,13 +70,13 @@ Isaac Asimov died in 1992, but he left behind a legacy filled with a keen unders
 
 Isaac Asimov is a must-read for sci-fi lovers. His books and essay cover a comprehensive array of topics. He was a great believer in the scientific method, the importance of healthy scepticism and empirical evidence. But, his work also highlights the [dangers of technology](https://dyopath.com/eight-negative-impacts-of-technology/) and the challenges it brings even as it makes our lives easier.
 
-If you’re not sure where to start, you can get a few recommendations in our article [The 10 best Isaac Asimov Books to Read Today](https://www.www.litloop.co/blog/best-isaac-asimov-books) where I detail a few of my personal favourites written by one of the greatest science fiction writers of our time.
+If you’re not sure where to start, you can get a few recommendations in our article [The 10 best Isaac Asimov Books to Read Today](https://www.litloop.co/blog/best-isaac-asimov-books) where I detail a few of my personal favourites written by one of the greatest science fiction writers of our time.
 
 #### You Might Like
 
 -
-  [12 Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 -
-  [Review: The City and The Stars by Arthur C Clarke](https://www.www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
+  [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
 -
-  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.www.litloop.co/blog/10-sci-fi-authors)
+  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)

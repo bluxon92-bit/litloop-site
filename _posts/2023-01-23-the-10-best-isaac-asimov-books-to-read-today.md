@@ -11,11 +11,11 @@ permalink: /blog/best-isaac-asimov-books/
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/science-fiction-1-_gethlp.webp)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.www.litloop.co/cookies)*.*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
 ---
 
-Isaac Asimov is a highly acclaimed [science fiction author](https://www.www.litloop.co/blog/10-sci-fi-authors), often compared to greats such as [Arthur C Clarke](https://www.www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke), Phillip K Dick, and [Ursula K Le Guin](https://www.www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin). Whilst it's his Foundation and Robot series that are most renowned, Isaac Asimov was a hugely prolific writer and has an extensive catalogue of fiction and nonfiction works that include some 500+ books and over 90,000 letters and postcards.
+Isaac Asimov is a highly acclaimed [science fiction author](https://www.litloop.co/blog/10-sci-fi-authors), often compared to greats such as [Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke), Phillip K Dick, and [Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin). Whilst it's his Foundation and Robot series that are most renowned, Isaac Asimov was a hugely prolific writer and has an extensive catalogue of fiction and nonfiction works that include some 500+ books and over 90,000 letters and postcards.
 
 Asimov however, wasn't just a science fiction writer, he was also a biochemist, science writer, humanist, rationalist, and advocate for freedom of thought and expression. His work is characterized by a relentless curiosity exploring the depth of possibilities that come with artificial intelligence and colonization of the stars.
 
@@ -69,7 +69,7 @@ In this article, we explore some of my favourite and possibly the best Isaac Asi
 
 ### 8. "Robots and Empire" (1985)
 
-"[Robots and Empir](https://amzn.to/41i4WUp)[e](https://www.amazon.com/Robots-Empire-I-Asimov/dp/0008277796/)" is another [science fiction story](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read) set in the same universe as the Robot series. It is set later than the others and explores the decline of human civilization and the emergence of robots as dominant life forms on Earth. The story takes place in a galaxy-spanning empire where humanity relies on robots for labor and protection. It closely explores the relationship between the robots and their creators and how that shapes the future of the galaxy.
+"[Robots and Empir](https://amzn.to/41i4WUp)[e](https://www.amazon.com/Robots-Empire-I-Asimov/dp/0008277796/)" is another [science fiction story](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read) set in the same universe as the Robot series. It is set later than the others and explores the decline of human civilization and the emergence of robots as dominant life forms on Earth. The story takes place in a galaxy-spanning empire where humanity relies on robots for labor and protection. It closely explores the relationship between the robots and their creators and how that shapes the future of the galaxy.
 
 [**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/41i4WUp)
 
@@ -87,24 +87,21 @@ In this article, we explore some of my favourite and possibly the best Isaac Asi
 
 ## Final Words: The Best Books by Isaac Asimov
 
-With an author who’s written as much as Isaac Asimov, it’s impossible to write a definitive list, but these are a few of my favourites. For more science fiction check out my recently published collection of [sci-fi short stories titled ‘Sunset In The East’](https://www.www.litloop.co/sci-fi-short-stories) - which is [**available on **](https://www.amazon.com/Sunset-East-Sci-Fi-Short-Stories-ebook/dp/B09QPHL21X)[**Amazon**](https://amzn.to/3mTtAvu)[** here**](https://www.amazon.com/Sunset-East-Sci-Fi-Short-Stories-ebook/dp/B09QPHL21X)**.**
+With an author who’s written as much as Isaac Asimov, it’s impossible to write a definitive list, but these are a few of my favourites. For more science fiction check out my recently published collection of [sci-fi short stories titled ‘Sunset In The East’](https://www.litloop.co/sci-fi-short-stories) - which is [**available on **](https://www.amazon.com/Sunset-East-Sci-Fi-Short-Stories-ebook/dp/B09QPHL21X)[**Amazon**](https://amzn.to/3mTtAvu)[** here**](https://www.amazon.com/Sunset-East-Sci-Fi-Short-Stories-ebook/dp/B09QPHL21X)**.**
 
 ### You Might Like
 
 -
-  [17 Influential Isaac Asimov Quotes](https://www.www.litloop.co/blog/17-influential-isaac-asimov-quotes)
+  [17 Influential Isaac Asimov Quotes](https://www.litloop.co/blog/17-influential-isaac-asimov-quotes)
 -
-  [12+ Classic Science Fiction Short Stories You Need To Read](https://www.www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 -
-  [Review: The City and The Stars by Arthur C Clarke](https://www.www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
+  [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
 -
-  [Best Books by China Miéville: Perdido Street Station and More](https://www.www.litloop.co/blog/best-books-by-china-mieville)
+  [Best Books by China Miéville: Perdido Street Station and More](https://www.litloop.co/blog/best-books-by-china-mieville)
 -
-  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.www.litloop.co/blog/10-sci-fi-authors)
+  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
 -
-  [The 25 Best Space Opera Books Ever Written](https://www.www.litloop.co/blog/best-space-opera-books)
+  [The 25 Best Space Opera Books Ever Written](https://www.litloop.co/blog/best-space-opera-books)
 [
-
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)
-
-](https://www.www.litloop.co/sci-fi-short-stories)
+](https://www.litloop.co/sci-fi-short-stories)

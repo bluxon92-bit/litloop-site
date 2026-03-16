@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381479/best-stand
 
 ![The Best Standalone Fantasy Novels](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381479/best-standalone-fantasy_o0qyxd.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -22,7 +22,7 @@ Standalone fantasy is the antidote. One book. Complete story. You find out what 
 
 ## The Priory of the Orange Tree — Samantha Shannon
 
-848 pages, three POV characters, a world inspired by East Asian mythology, dragons treated with genuine awe. Shannon decided to tell her entire epic fantasy story in a single volume and pulled it off. The ending is earned and complete. [Full review here.](https://www.www.litloop.co/blog/the-priory-of-the-orange-tree-review)
+848 pages, three POV characters, a world inspired by East Asian mythology, dragons treated with genuine awe. Shannon decided to tell her entire epic fantasy story in a single volume and pulled it off. The ending is earned and complete. [Full review here.](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review)
 
 [**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/prioryorangetree)
 
@@ -70,7 +70,7 @@ The foundation text for every standalone fantasy that followed it. A young boy w
 
 ## The Emperor's Soul — Brandon Sanderson
 
-The best Sanderson novella and one of the best pieces of shorter fantasy fiction. A Forger imprisoned and given ninety days to reconstruct a man's soul. It's about art, identity, and the moral implications of creation. Read in an afternoon. Worth a week. [Brief discussion in our Arcanum Unbounded review.](https://www.www.litloop.co/blog/arcanum-unbounded-review)
+The best Sanderson novella and one of the best pieces of shorter fantasy fiction. A Forger imprisoned and given ninety days to reconstruct a man's soul. It's about art, identity, and the moral implications of creation. Read in an afternoon. Worth a week. [Brief discussion in our Arcanum Unbounded review.](https://www.litloop.co/blog/arcanum-unbounded-review)
 
 [**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/emperorssoul)
 
@@ -94,17 +94,13 @@ A province has been magically erased from the memory of everyone born outside it
 
 ## Magician — Raymond E. Feist
 
-Technically the beginning of a long series but works completely as a standalone — a complete story with a proper ending. A kitchen boy discovers he has magical talent as two worlds collide through a rift in space. Covers fifteen years of story with remarkable economy. [Full review here.](https://www.www.litloop.co/blog/magician-raymond-feist-review)
+Technically the beginning of a long series but works completely as a standalone — a complete story with a proper ending. A kitchen boy discovers he has magical talent as two worlds collide through a rift in space. Covers fifteen years of story with remarkable economy. [Full review here.](https://www.litloop.co/blog/magician-raymond-feist-review)
 
 [**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/magician-feist)
 
 ### You Might Also Like
 
-- [The Priory of the Orange Tree Review](https://www.www.litloop.co/blog/the-priory-of-the-orange-tree-review)
-- [Epic Fantasy: The Best of the Genre](https://www.www.litloop.co/blog/epic-fantasy-best-of-genre)
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Priory of the Orange Tree Review](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review)
+- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)

@@ -10,7 +10,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/epic-fanta
 
 ![Epic Fantasy: A Guide to the Best Books in the Genre](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/epic-fantasy-guide_w5rswh.jpg)
 
-*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.www.litloop.co/cookies).*
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
 
@@ -58,13 +58,13 @@ Three of the five published volumes are among the finest epic fantasy ever writt
 
 ### The First Law Trilogy — Joe Abercrombie
 
-Abercrombie arrived in 2006 and made it feel like epic fantasy had been doing everything wrong. His debut trilogy is dark, funny, morally rigorous, and technically excellent. If you want to understand what grimdark fantasy actually is at its best, start here. [Read our review of The Blade Itself.](https://www.www.litloop.co/blog/the-blade-itself-review)
+Abercrombie arrived in 2006 and made it feel like epic fantasy had been doing everything wrong. His debut trilogy is dark, funny, morally rigorous, and technically excellent. If you want to understand what grimdark fantasy actually is at its best, start here. [Read our review of The Blade Itself.](https://www.litloop.co/blog/the-blade-itself-review)
 
 [**Buy on Amazon.**](https://amzn.to/bladeitself)
 
 ### The Farseer Trilogy — Robin Hobb
 
-The most emotionally devastating entry on this list. Hobb writes character at a level that most literary fiction doesn't reach, and she does it in a world of assassins, sea serpents, and ancient magic. [Our full Robin Hobb guide](https://www.www.litloop.co/blog/robin-hobb-farseer-and-beyond) covers where to start and how to navigate her connected series.
+The most emotionally devastating entry on this list. Hobb writes character at a level that most literary fiction doesn't reach, and she does it in a world of assassins, sea serpents, and ancient magic. [Our full Robin Hobb guide](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond) covers where to start and how to navigate her connected series.
 
 [**Buy on Amazon.**](https://amzn.to/assassinsapprentice)
 
@@ -80,13 +80,13 @@ Four books in and already an essential series. Sanderson operates at a scale tha
 
 ### The Faithful and the Fallen — John Gwynne
 
-The most overlooked great epic fantasy series of the last decade. Gwynne writes heroic fantasy in the Gemmell tradition — moral heroes, extraordinary battles, a world that feels genuinely at stake — at a scale and polish that Gemmell never quite achieved. [Our full John Gwynne guide](https://www.www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) covers his full bibliography.
+The most overlooked great epic fantasy series of the last decade. Gwynne writes heroic fantasy in the Gemmell tradition — moral heroes, extraordinary battles, a world that feels genuinely at stake — at a scale and polish that Gemmell never quite achieved. [Our full John Gwynne guide](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) covers his full bibliography.
 
 [**Buy on Amazon.**](https://amzn.to/malicegwynne)
 
 ### The Blacktongue Thief — Christopher Buehlman
 
-Something slightly different: an epic fantasy told in a tight, fast, voice-driven first person. Kinch Na Shannack is one of the most entertaining narrators in recent fantasy, and Buehlman's world — grim, original, full of dark magic and convincing detail — is unlike anyone else's. [Full review here.](https://www.www.litloop.co/blog/the-blacktongue-thief-review)
+Something slightly different: an epic fantasy told in a tight, fast, voice-driven first person. Kinch Na Shannack is one of the most entertaining narrators in recent fantasy, and Buehlman's world — grim, original, full of dark magic and convincing detail — is unlike anyone else's. [Full review here.](https://www.litloop.co/blog/the-blacktongue-thief-review)
 
 [**Buy on Amazon.**](https://amzn.to/blacktonguethief)
 
@@ -96,17 +96,13 @@ Something slightly different: an epic fantasy told in a tight, fast, voice-drive
 
 **If you want something accessible:** Start with *Mistborn* by Brandon Sanderson. It's self-contained, propulsive, and the magic system is extraordinary. Three books, all published, all satisfying.
 
-**If you want the best the genre has to offer:** *The Name of the Wind* by Patrick Rothfuss. Slow by some definitions, but the prose and the character work are genuinely unmatched. [Full reading guide here.](https://www.www.litloop.co/blog/patrick-rothfuss-books-in-order)
+**If you want the best the genre has to offer:** *The Name of the Wind* by Patrick Rothfuss. Slow by some definitions, but the prose and the character work are genuinely unmatched. [Full reading guide here.](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
 
-**If you've read everything:** *Empire of Silence* by Christopher Ruocchio. A science fiction epic with the soul of fantasy, and one of the most underrated series in either genre. [Full review here.](https://www.www.litloop.co/blog/empire-of-silence-review)
+**If you've read everything:** *Empire of Silence* by Christopher Ruocchio. A science fiction epic with the soul of fantasy, and one of the most underrated series in either genre. [Full review here.](https://www.litloop.co/blog/empire-of-silence-review)
 
 ### You Might Also Like
 
-- [The Best Fantasy Book Series of All Time](https://www.www.litloop.co/blog/best-fantasy-series)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.www.litloop.co/blog/grimdark-fantasy-books)
-- [Patrick Rothfuss Books in Order](https://www.www.litloop.co/blog/patrick-rothfuss-books-in-order)
-- [31 Best Fantasy Books You Need To Read Today](https://www.www.litloop.co/blog/29-best-fantasy-books)
-
-#### Check out [Sunset In the East](https://www.www.litloop.co/sci-fi-short-stories) — a mind-bending short story collection from Ben Luxon.
-
-[![](https://res.cloudinary.com/dnkddcxrt/image/upload/ad-banner-for-website_kbfgoq.png)](https://www.www.litloop.co/sci-fi-short-stories)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books)
+- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
