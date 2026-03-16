@@ -1175,14 +1175,31 @@ em { font-style: italic; }
 @media (max-width: 860px) {
   .blog-layout {
     grid-template-columns: 1fr;
+    gap: 0;
+    padding-top: 0;
   }
   .blog-sidebar {
     position: static;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
   }
-  .sidebar-cta { grid-column: 1 / -1; }
+  /* Search bar: sticky at top on mobile, solid background so posts don't show through */
+  .sidebar-block {
+    position: sticky;
+    top: 64px;
+    z-index: 50;
+    background: var(--cream);
+    padding: 0.875rem 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0;
+  }
+  /* CTA block: not sticky, sits below search, normal flow */
+  .sidebar-cta {
+    position: static !important;
+    margin: 1.25rem 0;
+    border-radius: var(--radius-lg);
+  }
 }
 @media (max-width: 560px) {
   .blog-sidebar { grid-template-columns: 1fr; }
@@ -1232,16 +1249,18 @@ em { font-style: italic; }
 @media (max-width: 640px) {
   .blog-filter-bar { flex-direction: column; align-items: flex-start; }
   .blog-filter-group + .blog-filter-group { padding-left: 0; border-left: none; border-top: 1px solid var(--border); padding-top: 0.75rem; width: 100%; }
+  .blog-filter-bar {
+    position: sticky;
+    top: 121px; /* 64px header + ~57px search bar */
+    z-index: 40;
+    background: var(--cream);
+    margin-bottom: 0;
+    border-radius: 0;
+    border-bottom: 1px solid var(--border);
+  }
 }
 
-/* Slim sidebar — search + CTA only */
-.blog-sidebar {
-  position: sticky;
-  top: 80px;
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
+/* Slim sidebar — search + CTA only (desktop) */
 
 /* ============================================================
    TOOLS PAGES
