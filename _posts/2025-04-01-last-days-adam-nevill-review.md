@@ -9,7 +9,7 @@ image: "https://m.media-amazon.com/images/I/71nZWVsU4xL._SL1500_.jpg"
 permalink: /blog/last-days-review/
 ---
 
-![Last Days by Adam Nevill]()
+![Last Days by Adam Nevill](https://m.media-amazon.com/images/I/71nZWVsU4xL._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -57,7 +57,7 @@ If you want British horror that takes itself seriously and delivers genuine scar
 
 **Rating: 4/5**
 
-[**Rated 4.1 Stars on Amazon. Buy Last Days here.**](https://amzn.to/lastdays-nevill)
+[**Rated 4.1 Stars on Amazon. Buy Last Days here.**](https://amzn.to/4s6EN8q)
 
 ### You Might Also Like
 

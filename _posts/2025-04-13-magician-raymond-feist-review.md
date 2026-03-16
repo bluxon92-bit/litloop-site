@@ -8,7 +8,7 @@ excerpt: "Magician by Raymond E Feist reviewed — the 1982 classic that launche
 image: "https://m.media-amazon.com/images/I/61V+MWUPRwL._SL1200_.jpg"
 ---
 
-![Magician by Raymond E. Feist]()
+![Magician by Raymond E. Feist](https://m.media-amazon.com/images/I/61V+MWUPRwL._SL1200_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -58,7 +58,7 @@ Read *Magician* first, in the expanded 1992 edition if you can find it.
 
 **Rating: 4.5/5**
 
-[**Rated 4.6 Stars on Amazon. Buy Magician here.**](https://amzn.to/magician-feist)
+[**Rated 4.6 Stars on Amazon. Buy Magician here.**](https://amzn.to/471Duza)
 
 ### You Might Also Like
 

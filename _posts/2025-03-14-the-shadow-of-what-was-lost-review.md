@@ -8,7 +8,7 @@ excerpt: "The Shadow of What Was Lost by James Islington reviewed — underrated
 image: "https://m.media-amazon.com/images/I/71MjspkP-8S._SL1500_.jpg"
 ---
 
-![The Shadow of What Was Lost by James Islington]()
+![The Shadow of What Was Lost by James Islington](https://m.media-amazon.com/images/I/71MjspkP-8S._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -62,7 +62,7 @@ The Licanius Trilogy is complete: *The Shadow of What Was Lost*, *An Echo of Thi
 
 **Rating: 4/5**
 
-[**Rated 4.4 Stars on Amazon. Buy The Shadow of What Was Lost here.**](https://amzn.to/shadowwhatwas)
+[**Rated 4.4 Stars on Amazon. Buy The Shadow of What Was Lost here.**](https://amzn.to/4uDWqhJ)
 
 ### You Might Also Like
 

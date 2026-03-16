@@ -8,7 +8,7 @@ excerpt: "Kings of the Wyld is the most fun I've had reading a fantasy novel in 
 image: "https://m.media-amazon.com/images/I/818mHVAPyjL._SL1500_.jpg"
 ---
 
-![Kings of the Wyld by Nicholas Eames]()
+![Kings of the Wyld by Nicholas Eames](https://m.media-amazon.com/images/I/818mHVAPyjL._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -56,7 +56,7 @@ If you want a book that will make you laugh, make you tear up slightly in the fi
 
 **Rating: 5/5**
 
-[**Rated 4.5 Stars on Amazon. Buy Kings of the Wyld here.**](https://amzn.to/kingsofthewyld)
+[**Rated 4.5 Stars on Amazon. Buy Kings of the Wyld here.**](https://amzn.to/4uLTgbM)
 
 ### You Might Also Like
 

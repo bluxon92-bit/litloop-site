@@ -26,7 +26,7 @@ Here's the order I'd recommend, and why.
 
 Start here. Celaena Sardothien, the kingdom's most feared assassin, gets yanked out of a slave mine to compete in a tournament for her freedom. Murder mystery meets political intrigue. It's lighter than what comes later but sets everything up.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/throneofglass)
+[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/4uy2jN9)
 
 ---
 

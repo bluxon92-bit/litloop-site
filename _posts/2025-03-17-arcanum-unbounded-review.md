@@ -8,7 +8,7 @@ excerpt: "Arcanum Unbounded collects Sanderson's Cosmere novellas in one volume.
 image: "https://m.media-amazon.com/images/I/518BNeXGm2L._SY445_SX342_ML2_.jpg"
 ---
 
-![Arcanum Unbounded by Brandon Sanderson]()
+![Arcanum Unbounded by Brandon Sanderson](https://m.media-amazon.com/images/I/518BNeXGm2L._SY445_SX342_ML2_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -62,7 +62,7 @@ The collection is uneven by nature — it's nine different pieces of different l
 
 **Rating: 4/5** (for established Cosmere readers; not applicable for newcomers)
 
-[**Rated 4.7 Stars on Amazon. Buy Arcanum Unbounded here.**](https://amzn.to/arcanumunbounded)
+[**Rated 4.7 Stars on Amazon. Buy Arcanum Unbounded here.**](https://amzn.to/473JQOv)
 
 ### You Might Also Like
 

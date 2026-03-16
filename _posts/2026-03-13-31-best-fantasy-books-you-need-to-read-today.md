@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "31 Best Fantasy Books You Need To Read Today"
-date: 2022-12-07
+date: 2026-12-03
 category: Book Recommendations
 genre: Fantasy
 excerpt: "-

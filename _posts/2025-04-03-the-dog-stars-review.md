@@ -8,7 +8,7 @@ excerpt: "The Dog Stars by Peter Heller reviewed — post-apocalyptic fiction wr
 image: "https://m.media-amazon.com/images/I/A1k-pMs6UPL._SL1500_.jpg"
 ---
 
-![The Dog Stars by Peter Heller]()
+![The Dog Stars by Peter Heller](https://m.media-amazon.com/images/I/A1k-pMs6UPL._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -56,7 +56,7 @@ When Hig follows the radio signal and discovers there are people beyond his rang
 
 **Rating: 4.5/5**
 
-[**Rated 4.1 Stars on Amazon. Buy The Dog Stars here.**](https://amzn.to/dogstars)
+[**Rated 4.1 Stars on Amazon. Buy The Dog Stars here.**](https://amzn.to/47xUkG2)
 
 ### You Might Also Like
 

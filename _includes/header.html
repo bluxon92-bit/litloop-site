@@ -79,14 +79,40 @@
   </div>
 </header>
 <script>
+var isMobile = function() { return window.innerWidth <= 680; };
+
 document.querySelectorAll('.nav-dropdown').forEach(function(dd){
   dd.querySelector('.nav-dropdown-trigger').addEventListener('click',function(e){
     e.stopPropagation();
-    var open=dd.classList.contains('open');
-    document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');d.querySelector('.nav-dropdown-trigger').setAttribute('aria-expanded','false');});
-    if(!open){dd.classList.add('open');this.setAttribute('aria-expanded','true');}
+    var open = dd.classList.contains('open');
+    if (isMobile()) {
+      // Accordion on mobile — toggle this, close siblings, keep menu open
+      document.querySelectorAll('.nav-dropdown').forEach(function(d){
+        if (d !== dd) { d.classList.remove('open'); d.querySelector('.nav-dropdown-trigger').setAttribute('aria-expanded','false'); }
+      });
+      dd.classList.toggle('open');
+      this.setAttribute('aria-expanded', dd.classList.contains('open') ? 'true' : 'false');
+    } else {
+      // Desktop — close all then open clicked one
+      document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');d.querySelector('.nav-dropdown-trigger').setAttribute('aria-expanded','false');});
+      if(!open){dd.classList.add('open');this.setAttribute('aria-expanded','true');}
+    }
   });
 });
-document.addEventListener('click',function(){document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');});});
-document.getElementById('menu-toggle').addEventListener('click',function(){document.getElementById('main-nav').classList.toggle('open');});
+
+// Close desktop dropdowns on outside click only
+document.addEventListener('click',function(){
+  if (!isMobile()) {
+    document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');});
+  }
+});
+
+// Hamburger — toggle menu, close dropdowns when menu closes
+document.getElementById('menu-toggle').addEventListener('click',function(){
+  var nav = document.getElementById('main-nav');
+  nav.classList.toggle('open');
+  if (!nav.classList.contains('open')) {
+    document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');});
+  }
+});
 </script>

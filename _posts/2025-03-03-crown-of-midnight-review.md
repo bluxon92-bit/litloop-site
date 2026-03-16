@@ -60,7 +60,7 @@ Crown of Midnight is the moment Maas commits to the darker, more complex story s
 
 **Rating: 4/5**
 
-[**Rated 4.4 Stars on Amazon. Buy Crown of Midnight here.**](https://amzn.to/crownofmidnight)
+[**Rated 4.4 Stars on Amazon. Buy Crown of Midnight here.**](https://amzn.to/471VXvB)
 
 ### You Might Also Like
 

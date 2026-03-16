@@ -8,7 +8,7 @@ excerpt: "Priory of the Orange Tree vs ACOTAR — which epic fantasy should you 
 image: "https://m.media-amazon.com/images/I/81MysNM7jAL._SL1500_.jpg"
 ---
 
-![The Priory of the Orange Tree vs ACOTAR]()
+![The Priory of the Orange Tree vs ACOTAR](https://m.media-amazon.com/images/I/81MysNM7jAL._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -55,6 +55,8 @@ Both books feature female protagonists in secondary world fantasy settings with 
 **Read ACOTAR if:** You're happy committing to a longer series. You want the romance front and centre. You like the experience of a world that expands dramatically across multiple books. You want something propulsive and emotionally intense.
 
 **Read both if:** You have the time. They scratch genuinely different itches and the readers who love one don't always love the other, but those who love both get something distinct from each.
+
+[**Buy on Amazon.**](https://amzn.to/4sdImJW)
 
 ### You Might Also Like
 

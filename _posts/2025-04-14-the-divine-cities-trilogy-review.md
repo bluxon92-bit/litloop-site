@@ -8,7 +8,7 @@ excerpt: "The Divine Cities Trilogy by Robert Jackson Bennett reviewed — the m
 image: "https://m.media-amazon.com/images/I/8133kfQrF8L._SL1500_.jpg"
 ---
 
-![The Divine Cities by Robert Jackson Bennett]()
+![The Divine Cities by Robert Jackson Bennett](https://m.media-amazon.com/images/I/8133kfQrF8L._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -36,7 +36,7 @@ The investigation format gives Bennett a natural engine for world-revelation —
 
 Sigrud — Shara's bodyguard, a massive and taciturn Dreyling who is considerably more complicated than he appears — is one of the great supporting characters in recent fantasy.
 
-[**Rated 4.3 Stars. Buy City of Stairs on Amazon.**](https://amzn.to/cityofstairs)
+[**Rated 4.3 Stars. Buy City of Stairs on Amazon.**](https://amzn.to/4bLMMSw)
 
 ---
 

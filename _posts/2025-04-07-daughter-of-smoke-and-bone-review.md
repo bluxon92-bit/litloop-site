@@ -8,7 +8,7 @@ excerpt: "Daughter of Smoke and Bone by Laini Taylor reviewed — lush, inventiv
 image: "https://m.media-amazon.com/images/I/91fTmis9MVL._SL1500_.jpg"
 ---
 
-![Daughter of Smoke and Bone by Laini Taylor]()
+![Daughter of Smoke and Bone by Laini Taylor](https://m.media-amazon.com/images/I/91fTmis9MVL._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -56,7 +56,7 @@ The Daughter of Smoke and Bone trilogy continues with *Days of Blood and Starlig
 
 **Rating: 4.5/5**
 
-[**Rated 4.4 Stars on Amazon. Buy Daughter of Smoke and Bone here.**](https://amzn.to/daughtersmoke)
+[**Rated 4.4 Stars on Amazon. Buy Daughter of Smoke and Bone here.**](https://amzn.to/414PDQn)
 
 ### You Might Also Like
 

@@ -176,13 +176,66 @@ em { font-style: italic; }
   .header-nav.open {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    gap: 0.75rem;
+    align-items: stretch;
+    gap: 0;
     position: absolute;
     top: 64px; left: 0; right: 0;
     background: white;
     border-bottom: 1px solid var(--border);
-    padding: 1rem 1.5rem;
+    padding: 0.5rem 0 1rem;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    z-index: 200;
+  }
+  /* Top-level nav links */
+  .header-nav.open .nav-link {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.9375rem;
+    color: var(--navy);
+    font-weight: 500;
+    border-radius: 0;
+  }
+  .header-nav.open .nav-link:hover { background: var(--cream); }
+  /* Accordion triggers */
+  .header-nav.open .nav-dropdown { width: 100%; }
+  .header-nav.open .nav-dropdown-trigger {
+    width: 100%;
+    justify-content: space-between;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    color: var(--navy);
+    border-radius: 0;
+  }
+  .header-nav.open .nav-dropdown-trigger:hover { background: var(--cream); }
+  /* Panel becomes inline accordion — not absolute */
+  .header-nav.open .nav-dropdown-panel {
+    position: static !important;
+    display: none;
+    width: 100%;
+    min-width: 0 !important;
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    background: var(--cream);
+  }
+  .header-nav.open .nav-dropdown.open .nav-dropdown-panel { display: block; }
+  /* Two-column panel stacks vertically */
+  .header-nav.open .nav-dropdown-panel--wide {
+    flex-direction: column !important;
+    display: none;
+  }
+  .header-nav.open .nav-dropdown.open .nav-dropdown-panel--wide { display: flex !important; }
+  .header-nav.open .nav-dropdown-col--border { border-left: none; border-top: 1px solid var(--border); }
+  /* Links inside accordion */
+  .header-nav.open .nav-dropdown-link { padding: 0.6rem 1.75rem; }
+  .header-nav.open .nav-dropdown-section { padding: 0.4rem 0; }
+  .header-nav.open .nav-dropdown-label { padding: 0.375rem 1.75rem 0.2rem; }
+  /* CTA button full width */
+  .header-nav.open .btn {
+    margin: 0.75rem 1.5rem 0.25rem;
+    justify-content: center;
+    width: calc(100% - 3rem);
   }
   .header-menu-toggle { display: block; }
 }
@@ -1184,11 +1237,9 @@ em { font-style: italic; }
     flex-direction: column;
     gap: 0;
   }
-  /* Search bar: sticky at top on mobile, solid background so posts don't show through */
+  /* Search bar — not sticky on mobile */
   .sidebar-block {
-    position: sticky;
-    top: 64px;
-    z-index: 50;
+    position: static;
     background: var(--cream);
     padding: 0.875rem 0;
     border-bottom: 1px solid var(--border);
@@ -1247,17 +1298,8 @@ em { font-style: italic; }
   border-left: 1px solid var(--border);
 }
 @media (max-width: 640px) {
-  .blog-filter-bar { flex-direction: column; align-items: flex-start; }
+  .blog-filter-bar { flex-direction: column; align-items: flex-start; position: static; }
   .blog-filter-group + .blog-filter-group { padding-left: 0; border-left: none; border-top: 1px solid var(--border); padding-top: 0.75rem; width: 100%; }
-  .blog-filter-bar {
-    position: sticky;
-    top: 121px; /* 64px header + ~57px search bar */
-    z-index: 40;
-    background: var(--cream);
-    margin-bottom: 0;
-    border-radius: 0;
-    border-bottom: 1px solid var(--border);
-  }
 }
 
 /* Slim sidebar — search + CTA only (desktop) */

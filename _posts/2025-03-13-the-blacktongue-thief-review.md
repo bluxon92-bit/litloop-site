@@ -8,7 +8,7 @@ excerpt: "The Blacktongue Thief is the fantasy debut that caught everyone by sur
 image: "https://m.media-amazon.com/images/I/8143vHubDLL._SL1500_.jpg"
 ---
 
-![The Blacktongue Thief by Christopher Buehlman]()
+![The Blacktongue Thief by Christopher Buehlman](https://m.media-amazon.com/images/I/8143vHubDLL._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -64,7 +64,7 @@ Yes. Particularly if you've been finding recent fantasy a bit samey, or if you w
 
 **Rating: 4.5/5**
 
-[**Rated 4.4 Stars on Amazon. Buy The Blacktongue Thief here.**](https://amzn.to/blacktonguethief)
+[**Rated 4.4 Stars on Amazon. Buy The Blacktongue Thief here.**](https://amzn.to/4rzBIfY)
 
 ### You Might Also Like
 

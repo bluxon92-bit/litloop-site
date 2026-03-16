@@ -8,7 +8,7 @@ excerpt: "Fire and Blood by George R R Martin reviewed â€” Targaryen history as 
 image: "https://m.media-amazon.com/images/I/91gGPOBL5wL._SL1500_.jpg"
 ---
 
-![Fire and Blood by George R.R. Martin]()
+![Fire and Blood by George R.R. Martin](https://m.media-amazon.com/images/I/91gGPOBL5wL._SL1500_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -52,7 +52,7 @@ Devoted ASOIAF readers who want to understand the world's history more deeply â€
 
 **Rating: 3.5/5**
 
-[**Rated 4.4 Stars on Amazon. Buy Fire and Blood here.**](https://amzn.to/fireandblood)
+[**Rated 4.4 Stars on Amazon. Buy Fire and Blood here.**](https://amzn.to/40yrWjo)
 
 ### You Might Also Like
 

@@ -8,7 +8,7 @@ excerpt: "Prince of Thorns by Mark Lawrence reviewed — the Broken Empire's bru
 image: "https://m.media-amazon.com/images/I/51v8SS2H0-L.jpg"
 ---
 
-![Prince of Thorns by Mark Lawrence]()
+![Prince of Thorns by Mark Lawrence](https://m.media-amazon.com/images/I/51v8SS2H0-L.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -62,7 +62,7 @@ For readers who love it, *Prince of Thorns* is the beginning of one of the genre
 
 **Rating: 4/5**
 
-[**Rated 4.3 Stars on Amazon. Buy Prince of Thorns here.**](https://amzn.to/princeofthorns)
+[**Rated 4.3 Stars on Amazon. Buy Prince of Thorns here.**](https://amzn.to/4bd2Jkx)
 
 ### You Might Also Like
 

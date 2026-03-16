@@ -8,7 +8,7 @@ excerpt: "Black House is the long-awaited sequel to The Talisman — and a direc
 image: "https://m.media-amazon.com/images/I/51K9mptdKHL.jpg"
 ---
 
-![Black House by Stephen King and Peter Straub]()
+![Black House by Stephen King and Peter Straub](https://m.media-amazon.com/images/I/51K9mptdKHL.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -54,7 +54,7 @@ Read *The Talisman* first. It's excellent. Then come here.
 
 **Rating: 3.5/5** (for readers who know *The Talisman*; non-applicable without that context)
 
-[**Rated 4.0 Stars on Amazon. Buy Black House here.**](https://amzn.to/blackhouse-king)
+[**Rated 4.0 Stars on Amazon. Buy Black House here.**](https://amzn.to/4rxGF90)
 
 ### You Might Also Like
 
