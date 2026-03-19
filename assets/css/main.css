@@ -1633,12 +1633,11 @@ em { font-style: italic; }
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 1fr;
   gap: 2.5rem;
-}
+  
 .footer-logo-img {
   height: 28px;
   width: auto;
   display: block;
-  filter: brightness(0) invert(1);
   opacity: 0.9;
   margin-bottom: 0.875rem;
 }
