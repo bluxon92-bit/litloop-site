@@ -152,7 +152,7 @@ em { font-style: italic; }
   border-radius: var(--radius-sm);
   transition: color 0.15s, background 0.15s;
 }
-.header-nav a:hover { color: var(--navy); background: var(--cream); }
+.header-nav a:not(.btn):hover { color: var(--navy); background: var(--cream); }
 .header-nav .btn { padding: 0.55rem 1.25rem; font-size: 0.875rem; }
 
 .header-menu-toggle {
@@ -1633,7 +1633,7 @@ em { font-style: italic; }
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 1fr;
   gap: 2.5rem;
-  
+
 .footer-logo-img {
   height: 28px;
   width: auto;
