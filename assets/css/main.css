@@ -1634,6 +1634,7 @@ em { font-style: italic; }
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 1fr;
   gap: 2.5rem;
+}
 
 .footer-logo-img {
   height: 28px;
