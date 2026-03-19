@@ -2349,7 +2349,9 @@ a.btn-primary,
 a.btn-primary:visited,
 a.btn-primary:hover,
 .ml-onclick-form.btn-primary,
-.ml-onclick-form.btn-primary:visited {
+.ml-onclick-form.btn-primary:visited,
+.ml-onclick-form.btn-primary:link,
+.ml-onclick-form.btn-primary:active {
   color: white !important;
   text-decoration: none;
 }
