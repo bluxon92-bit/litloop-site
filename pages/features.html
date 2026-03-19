@@ -204,25 +204,63 @@ permalink: /features/
     <div style="max-width: 760px; margin: 0 auto;">
       <p style="font-size:0.8125rem;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--teal);margin-bottom:1rem;">Everything included</p>
       <h2 style="color:var(--navy); margin-bottom: 2.5rem;">The full feature list.</h2>
-
+ 
       <div style="background:white; border-radius: var(--radius-lg); overflow:hidden; border: 1px solid var(--border); box-shadow: 0 2px 16px rgba(0,0,0,0.05);">
-
-        {% assign feature_groups = "Track your reading,Connect with friends,Recommendations,Conversations" | split: "," %}
-
-        <div style="border-bottom: 2px solid var(--navy); padding: 1rem 1.5rem; background: var(--navy);">
+ 
+        <!-- Table header -->
+        <div style="display:flex; justify-content:space-between; align-items:center; padding: 1rem 1.5rem; background: var(--navy);">
           <p style="color:white; font-weight:600; font-size:0.875rem; margin:0;">Feature</p>
+          <p style="color:rgba(255,255,255,0.5); font-weight:600; font-size:0.875rem; margin:0;">Included</p>
         </div>
-
-        {% assign features = "Reading log & book shelf|✓,Annual reading goals|✓,TBR list management|✓,Reading stats & insights|✓,Friends' reading feed|✓,Friend profiles|✓,Personal recommendations with notes|✓,Incoming recommendations inbox|✓,Private book chats|✓,Book club group chats|✓,Reviews & star ratings|✓,Comments on reviews|✓,AI book picks|✓,Import from Goodreads|✓,Import from StoryGraph|✓" | split: "," %}
-
-        {% for item in features %}
-          {% assign parts = item | split: "|" %}
-          <div style="display:flex; justify-content:space-between; align-items:center; padding: 0.875rem 1.5rem; border-bottom: 1px solid var(--border);">
-            <span style="color:var(--text); font-size:0.9375rem;">{{ parts[0] }}</span>
-            <span style="{% if parts[1] == '✓' %}color:var(--teal); font-weight:600;{% else %}color:var(--text-muted); font-size:0.8125rem;{% endif %}">{{ parts[1] }}</span>
-          </div>
+ 
+        <!-- Track -->
+        <div style="padding: 0.625rem 1.5rem; background: var(--cream); border-bottom: 1px solid var(--border);">
+          <p style="font-size:0.75rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--teal); margin:0;">Track</p>
+        </div>
+        {% assign track = "Reading log & book shelf,TBR list management,Annual reading goals,Reading stats & insights" | split: "," %}
+        {% for item in track %}
+        <div style="display:flex; justify-content:space-between; align-items:center; padding: 0.875rem 1.5rem; border-bottom: 1px solid var(--border);">
+          <span style="color:var(--text); font-size:0.9375rem;">{{ item }}</span>
+          <span style="color:var(--teal); font-weight:600;">✓</span>
+        </div>
         {% endfor %}
-
+ 
+        <!-- Connect -->
+        <div style="padding: 0.625rem 1.5rem; background: var(--cream); border-bottom: 1px solid var(--border);">
+          <p style="font-size:0.75rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--teal); margin:0;">Connect</p>
+        </div>
+        {% assign connect = "Friends' reading feed,Friend profiles,Private book chats,Book club group chats,Reviews & star ratings,Comments on reviews" | split: "," %}
+        {% for item in connect %}
+        <div style="display:flex; justify-content:space-between; align-items:center; padding: 0.875rem 1.5rem; border-bottom: 1px solid var(--border);">
+          <span style="color:var(--text); font-size:0.9375rem;">{{ item }}</span>
+          <span style="color:var(--teal); font-weight:600;">✓</span>
+        </div>
+        {% endfor %}
+ 
+        <!-- Recommend -->
+        <div style="padding: 0.625rem 1.5rem; background: var(--cream); border-bottom: 1px solid var(--border);">
+          <p style="font-size:0.75rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--teal); margin:0;">Recommend</p>
+        </div>
+        {% assign recommend = "Personal recommendations with notes,Incoming recommendations inbox" | split: "," %}
+        {% for item in recommend %}
+        <div style="display:flex; justify-content:space-between; align-items:center; padding: 0.875rem 1.5rem; border-bottom: 1px solid var(--border);">
+          <span style="color:var(--text); font-size:0.9375rem;">{{ item }}</span>
+          <span style="color:var(--teal); font-weight:600;">✓</span>
+        </div>
+        {% endfor %}
+ 
+        <!-- Discover -->
+        <div style="padding: 0.625rem 1.5rem; background: var(--cream); border-bottom: 1px solid var(--border);">
+          <p style="font-size:0.75rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--teal); margin:0;">Discover</p>
+        </div>
+        {% assign discover = "AI book picks,Import from Goodreads,Import from StoryGraph" | split: "," %}
+        {% for item in discover %}
+        <div style="display:flex; justify-content:space-between; align-items:center; padding: 0.875rem 1.5rem; border-bottom: 1px solid var(--border);">
+          <span style="color:var(--text); font-size:0.9375rem;">{{ item }}</span>
+          <span style="color:var(--teal); font-weight:600;">✓</span>
+        </div>
+        {% endfor %}
+ 
       </div>
     </div>
   </div>
