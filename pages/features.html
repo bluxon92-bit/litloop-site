@@ -5,6 +5,23 @@ description: "Book tracking, reading goals, personal recommendations, private ch
 permalink: /features/
 ---
 
+<style>
+@media (max-width: 780px) {
+  .two-col-stack {
+    grid-template-columns: 1fr !important;
+  }
+  .two-col-stack--reverse > *:first-child {
+    order: 2;
+  }
+  .two-col-stack--reverse > *:last-child {
+    order: 1;
+  }
+}
+@media (max-width: 680px) {
+  :root { --hero-img-display: none; }
+}
+</style>
+
 <!-- ==============================
      PAGE HERO
      ============================== -->
@@ -22,7 +39,7 @@ permalink: /features/
           <a class="btn btn-ghost-white" href="#feature-list">See all features</a>
         </div>
       </div>
-      <div style="flex:1; min-width:0; border-radius: var(--radius-lg); overflow:hidden; box-shadow: 0 16px 48px rgba(0,0,0,0.25);">
+      <div style="flex:1; min-width:0; border-radius: var(--radius-lg); overflow:hidden; box-shadow: 0 16px 48px rgba(0,0,0,0.25); display:var(--hero-img-display, block);">
         <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1773867514/profile_page_-_desktop_mwxgep.png" alt="Litloop app — reading list" style="width:100%; display:block;" loading="eager">
       </div>
     </div>
@@ -107,7 +124,7 @@ permalink: /features/
     </div>
 
     <!-- Wide two-col feature row -->
-    <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items:center; margin-bottom: 3rem;">
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items:center; margin-bottom: 3rem;" class="two-col-stack">
       <div>
         <h3 style="color:var(--navy); margin-bottom: 0.75rem;">Friends' reading feed</h3>
         <p style="color:var(--text-mid); line-height:1.75; margin-bottom: 1.25rem;">Your feed shows what the people you trust are reading right now, leave reviews, and share updates and you progress through your read.</p>
@@ -136,7 +153,7 @@ permalink: /features/
       <p style="color:var(--text-mid); max-width: 560px; font-size: 1.0625rem; line-height: 1.75;">Not a link. A proper recommendation. Book, note, and a reason. Sent directly to a friend. The digital equivalent of pressing a book into someone's hands.</p>
     </div>
 
-    <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items:center;">
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items:center;" class="two-col-stack two-col-stack--reverse">
       <!-- SCREENSHOT: Discover / recommendations screen showing incoming recs -->
       <div style="border-radius: var(--radius-lg); overflow:hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.12);">
         <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1773867514/friend_card_-_desktop_drkj8b.png" alt="Litloop book recommendations" loading="lazy" style="width:100%; display:block;">

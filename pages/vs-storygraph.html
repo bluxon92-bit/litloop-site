@@ -5,6 +5,18 @@ description: "StoryGraph is a reading tracker for data and mood-based discovery.
 permalink: /vs-storygraph/
 ---
 
+<style>
+@media (max-width: 780px) {
+  .two-col-stack {
+    grid-template-columns: 1fr !important;
+    gap: 2rem !important;
+  }
+  .three-col-stack {
+    grid-template-columns: 1fr !important;
+  }
+}
+</style>
+
 <!-- ==============================
      PAGE HERO
      ============================== -->
@@ -37,7 +49,7 @@ permalink: /vs-storygraph/
       <p style="color:var(--text-mid); line-height:1.75;">StoryGraph and Litloop start from the same place: a genuine love of reading and a belief that book tracking should be better. Both are independent, ad-free, and built for people who take their reading seriously. The difference is where they go from there.</p>
     </div>
 
-    <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; max-width: 900px; margin: 0 auto;">
+    <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; max-width: 900px; margin: 0 auto;" class="three-col-stack">
 
       <div style="background: var(--cream); border-radius: var(--radius-lg); padding: 1.75rem;">
         <h3 style="color:var(--navy); font-size:1rem; margin-bottom:0.5rem;">Independent &amp; ad-free</h3>
@@ -64,7 +76,7 @@ permalink: /vs-storygraph/
      ============================== -->
 <section style="padding: 4rem 0; background: var(--navy);">
   <div class="container">
-    <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items:center;">
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items:center;" class="two-col-stack">
       <div>
         <h2 style="color:white; margin-bottom:1.25rem;">StoryGraph asks one question. Litloop asks another.</h2>
         <p style="color:rgba(255,255,255,0.7); line-height:1.75; margin-bottom:1rem;">StoryGraph is a deliberately <em>personal</em> reading tracker. The social features are intentionally minimal. The focus is on your reading, your data, your recommendations from their algorithm.</p>
@@ -152,17 +164,17 @@ permalink: /vs-storygraph/
           <div style="padding: 1rem; text-align:center; border-left: 1px solid rgba(255,255,255,0.1); background: rgba(201,138,32,0.2);"><p style="color:var(--amber-light); font-size:0.875rem; font-weight:600; margin:0;">Litloop</p></div>
         </div>
 
-        {% assign rows = "Reading log & book tracker|✓|✓,Annual reading goals|✓|✓,Reading stats & analytics|✓ Excellent|✓,Mood & pace-based discovery|✓|—,Reading challenges|✓|Coming soon,Algorithm book recommendations|✓|✓,Friends' reading feed|Limited|✓,Personal recommendations from friends|—|✓,Private book chats|—|✓,Book club group chats|—|✓,Reviews & comments|✓|✓,Import from Goodreads|✓|✓,Owned by Amazon|—|—" | split: "," %}
+        {% assign rows = "Reading log and book tracker|✓|✓,Annual reading goals|✓|✓,Reading stats and analytics|✓ Excellent|✓,Mood and pace-based discovery|✓|—,Reading challenges|✓|Coming soon,Algorithm book recommendations|✓|✓,Friends reading feed|Limited|✓,Personal recommendations from friends|—|✓,Private book chats|—|✓,Book club group chats|—|✓,Reviews and comments|✓|✓,Import from Goodreads|✓|✓,Owned by Amazon|—|—" | split: "," %}
 
         {% for row in rows %}
           {% assign cols = row | split: "|" %}
           <div style="display:grid; grid-template-columns: 2fr 1fr 1fr; border-top: 1px solid var(--border);">
             <div style="padding: 0.875rem 1.5rem; display:flex; align-items:center;"><span style="color:var(--text); font-size:0.9375rem;">{{ cols[0] }}</span></div>
             <div style="padding: 0.875rem 1rem; text-align:center; border-left: 1px solid var(--border); display:flex; align-items:center; justify-content:center;">
-              <span style="{% if cols[1] == '✓' %}color:var(--teal);font-weight:600;{% elsif cols[1] == '—' %}color:var(--border);{% else %}color:var(--text-muted);font-size:0.8125rem;{% endif %}">{{ cols[1] }}</span>
+              <span style="{% if cols[1] == "✓" %}color:var(--teal);font-weight:600;{% elsif cols[1] == "—" %}color:var(--border);{% else %}color:var(--text-muted);font-size:0.8125rem;{% endif %}">{{ cols[1] }}</span>
             </div>
             <div style="padding: 0.875rem 1rem; text-align:center; border-left: 1px solid var(--border); background: rgba(201,138,32,0.04); display:flex; align-items:center; justify-content:center;">
-              <span style="{% if cols[2] == '✓' %}color:var(--teal);font-weight:600;{% elsif cols[2] == '—' %}color:var(--border);{% else %}color:var(--text-muted);font-size:0.8125rem;{% endif %}">{{ cols[2] }}</span>
+              <span style="{% if cols[2] == "✓" %}color:var(--teal);font-weight:600;{% elsif cols[2] == "—" %}color:var(--border);{% else %}color:var(--text-muted);font-size:0.8125rem;{% endif %}">{{ cols[2] }}</span>
             </div>
           </div>
         {% endfor %}

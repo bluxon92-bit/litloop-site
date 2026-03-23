@@ -5,6 +5,27 @@ description: "Goodreads is a book catalogue and public review platform. Litloop 
 permalink: /vs-goodreads/
 ---
 
+<style>
+@media (max-width: 780px) {
+  .two-col-stack {
+    grid-template-columns: 1fr !important;
+    gap: 2rem !important;
+  }
+}
+@media (max-width: 600px) {
+  .comparison-table-grid {
+    grid-template-columns: 2fr 1fr 1fr !important;
+  }
+  .comparison-table-grid .feature-label {
+    font-size: 0.8125rem !important;
+  }
+  .comparison-table-grid .col-val {
+    font-size: 0.875rem !important;
+    padding: 0.75rem 0.5rem !important;
+  }
+}
+</style>
+
 <!-- ==============================
      PAGE HERO
      ============================== -->
@@ -30,7 +51,7 @@ permalink: /vs-goodreads/
      ============================== -->
 <section style="padding: 5rem 0;">
   <div class="container">
-    <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start;">
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start;" class="two-col-stack">
 
       <div>
         <p style="font-size:0.8125rem;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--teal);margin-bottom:1rem;">Goodreads</p>
@@ -102,17 +123,17 @@ permalink: /vs-goodreads/
           <div style="padding: 1rem; text-align:center; border-left: 1px solid rgba(255,255,255,0.1); background: rgba(201,138,32,0.2);"><p style="color:var(--amber-light); font-size:0.875rem; font-weight:600; margin:0;">Litloop</p></div>
         </div>
 
-        {% assign rows = "Book catalogue (millions of titles)|✓|Via Open Library,Public reviews from strangers|✓|—,Reading log & book tracker|✓|✓,Annual reading goals|Basic|✓,Reading stats & insights|Basic|✓,Friends' reading feed|Limited|✓,Personal recommendations with notes|—|✓,Private book conversations|—|✓,Book club group chats|—|✓,AI book recommendations|—|✓,Owned by Amazon|✓|—" | split: "," %}
+        {% assign rows = "Book catalogue (millions of titles)|✓|Via Open Library,Public reviews from strangers|✓|—,Reading log and book tracker|✓|✓,Annual reading goals|Basic|✓,Reading stats and insights|Basic|✓,Friends reading feed|Limited|✓,Personal recommendations with notes|—|✓,Private book conversations|—|✓,Book club group chats|—|✓,AI book recommendations|—|✓,Owned by Amazon|✓|—" | split: "," %}
 
         {% for row in rows %}
           {% assign cols = row | split: "|" %}
           <div style="display:grid; grid-template-columns: 2fr 1fr 1fr; border-top: 1px solid var(--border);">
             <div style="padding: 0.875rem 1.5rem; display:flex; align-items:center;"><span style="color:var(--text); font-size:0.9375rem;">{{ cols[0] }}</span></div>
             <div style="padding: 0.875rem 1rem; text-align:center; border-left: 1px solid var(--border); display:flex; align-items:center; justify-content:center;">
-              <span style="{% if cols[1] == '✓' %}color:var(--teal);font-weight:600;{% elsif cols[1] == '—' %}color:var(--border);{% else %}color:var(--text-muted);font-size:0.875rem;{% endif %}">{{ cols[1] }}</span>
+              <span style="{% if cols[1] == "✓" %}color:var(--teal);font-weight:600;{% elsif cols[1] == "—" %}color:var(--border);{% else %}color:var(--text-muted);font-size:0.875rem;{% endif %}">{{ cols[1] }}</span>
             </div>
             <div style="padding: 0.875rem 1rem; text-align:center; border-left: 1px solid var(--border); background: rgba(201,138,32,0.04); display:flex; align-items:center; justify-content:center;">
-              <span style="{% if cols[2] == '✓' %}color:var(--teal);font-weight:600;{% elsif cols[2] == '—' %}color:var(--border);{% else %}color:var(--text-muted);font-size:0.875rem;{% endif %}">{{ cols[2] }}</span>
+              <span style="{% if cols[2] == "✓" %}color:var(--teal);font-weight:600;{% elsif cols[2] == "—" %}color:var(--border);{% else %}color:var(--text-muted);font-size:0.875rem;{% endif %}">{{ cols[2] }}</span>
             </div>
           </div>
         {% endfor %}
