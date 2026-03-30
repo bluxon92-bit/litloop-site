@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12 Best Cyberpunk Books You Should Read"
-date: 2026-03-30
+date: 2026-03-29
 category: Recommendations
 genre: Sci-Fi
 excerpt: "The best cyberpunk books ranked — from Neuromancer and Snow Crash to Altered Carbon and The Windup Girl. Essential reading for fans of high-tech, low-life fiction."
