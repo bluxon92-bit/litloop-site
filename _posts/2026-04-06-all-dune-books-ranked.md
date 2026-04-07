@@ -14,11 +14,13 @@ image: "https://m.media-amazon.com/images/I/71oO1E-XPuL._SL1500_.jpg"
 
 ---
 
-*Dune* is one of those books that I put off reading for far too long. I'd heard about it for years — the sci-fi classic, the one that influenced everything from Star Wars to Game of Thrones, the book that Lawrence of Arabia meets space opera. I kept picking it up and putting it back down. Then I finally read it and immediately understood what all the fuss was about.
+*Dune* is one of those books that I put off reading for far too long. I'd heard about it for years. The sci-fi classic, the one that influenced everything from Star Wars to Game of Thrones, the book that Lawrence of Arabia meets space opera. I kept picking it up, looking at the size and scope of it, and then putting it back down. 
 
-But *Dune* is not just one book. It's the beginning of a long, sprawling series — six novels by Frank Herbert, and then a further wave of continuations by his son Brian Herbert and co-author Kevin J. Anderson. Not all of it is created equal. Not all of it is even in the same league.
+And *Dune* is not just one book. It's the beginning of a long, sprawling series of six epic inter-stellar novels by Frank Herbert, and then a further wave of continuations by his son Brian Herbert and co-author Kevin J. Anderson. Not all of it is created equal. Not all of it is even in the same league.
 
-Here's every Dune book ranked by Goodreads rating, with honest thoughts on what you're actually getting with each one.
+Evcentully, of course, I plucked up the courage and dug in and I can confirm, Herbert does not disppoint. So, if you're looking for something big, something with commentary on global politics, interstellar travel, giant sandworms, and prophecies - then Dune is for you.  
+
+Here's every Dune book ranked by Goodreads rating.
 
 ---
 
