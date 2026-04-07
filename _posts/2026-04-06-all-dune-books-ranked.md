@@ -3,7 +3,7 @@ layout: post
 title: "All The Dune Books Ranked According To Goodreads"
 date: 2026-04-06
 category: Recommendations
-genre: Sci-Fi
+genre: Science Fiction
 excerpt: "All the Dune books ranked by Goodreads ratings — Frank Herbert's original six plus the Brian Herbert and Kevin J. Anderson continuations, with honest takes on each."
 image: "https://m.media-amazon.com/images/I/71oO1E-XPuL._SL1500_.jpg"
 ---
