@@ -4,7 +4,7 @@ title: "The Faithful and The Fallen Series Review"
 date: 2026-04-13
 category: Reviews
 genre: Fantasy
-excerpt: "The Faithful and the Fallen series reviewed — John Gwynne's four-book grimdark epic. If you haven't read this series yet, here's why you should fix that immediately."
+excerpt: "We review The Faithful and the Fallen series — John Gwynne's four-book grimdark epic. Here's what you need to know."
 image: "https://m.media-amazon.com/images/I/91mnOi2eavL._SL1500_.jpg"
 ---
 
