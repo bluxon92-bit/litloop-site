@@ -24,7 +24,8 @@ This list covers the full range. Hard magic with strict rules, soft magic that o
 
 ### 1. Mistborn: The Final Empire — Brandon Sanderson
 
-If you want magic that makes logical sense, start here. Allomancy — the ability to burn metals for power — is one of the most inventive systems in the genre, and Sanderson follows his own rules with absolute rigour. The result is action sequences that feel like puzzle-solving, which sounds dry but is actually enormously satisfying. It's smart, propulsive, and the heist plot wrapped around it is terrific.
+If you want magic that makes logical sense, start here. Allomancy — the ability to burn metals for power — is one of the most inventive systems in the genre, and Sanderson follows his own rules with absolute rigour. 
+The result is action sequences that feel like puzzle-solving, which sounds dry but is actually enormously satisfying. It's smart, propulsive, and the heist plot wrapped around it is terrific.
 
 [**Buy Mistborn on Amazon**](https://amzn.to/4bYZSMp)
 
@@ -32,7 +33,8 @@ If you want magic that makes logical sense, start here. Allomancy — the abilit
 
 ### 2. The Name of the Wind — Patrick Rothfuss
 
-Sympathy — the magic of the Kingkiller Chronicle — is rooted in understanding: to manipulate something, you must truly know its nature. Rothfuss builds a system that feels genuinely academic, taught in a university setting complete with failing grades and financial hardship. Kvothe is brilliant but broke, and that tension drives the story as much as anything magical. One of the best fantasy novels of the last twenty years.
+Sympathy — the magic of the Kingkiller Chronicle — is rooted in understanding: to manipulate something, you must truly know its nature. Rothfuss builds a system that feels genuinely academic, taught in a university setting complete with failing grades and financial hardship. 
+Kvothe is brilliant but he's also completely broke, and that tension drives the story as much as anything magical. One of the best fantasy novels of the last twenty years. (And i'm still holding out hope that Rothfuss will finish the trilogy...)
 
 [**Buy The Name of the Wind on Amazon**](https://amzn.to/4t9416k)
 
@@ -40,7 +42,7 @@ Sympathy — the magic of the Kingkiller Chronicle — is rooted in understandin
 
 ### 3. The Way of Kings — Brandon Sanderson
 
-Sanderson again — because when it comes to hard magic, nobody builds systems like he does. Stormlight Archive's Surgebinding ties power to ancient oaths and the psychology of the people who wield it. It's on a much larger scale than Mistborn — thousands of pages, a huge cast, an enormous world — but if you're ready to commit, the payoff is substantial.
+Sanderson again — because when it comes to hard magic, nobody builds systems like he does. Stormlight Archive's Surgebinding ties power to ancient oaths and the psychology of the people who wield it. It's on a much larger scale than Mistborn, thousands of pages, a huge cast, an enormous world, but if you're ready to commit, the payoff is substantial.
 
 [**Buy The Way of Kings on Amazon**](https://amzn.to/3PCIrsf)
 
