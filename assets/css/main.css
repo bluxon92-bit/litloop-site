@@ -154,6 +154,7 @@ em { font-style: italic; }
 }
 .header-nav a:not(.btn):hover { color: var(--navy); background: var(--cream); }
 .header-nav .btn { padding: 0.55rem 1.25rem; font-size: 0.875rem; }
+.nav-login { color: var(--text-mid) !important; font-size: 0.875rem; }
 
 .header-menu-toggle {
   display: none;
