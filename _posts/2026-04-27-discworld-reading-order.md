@@ -32,17 +32,15 @@ This is why, whilst The Colour of Magic and it's sequel The Light Fantastic both
 
 **→ Mort (1987)** — Death takes on an apprentice. Shorter, gentler, and a somewhat faster reader than some of the others. Death is one of Pratchett's most philosophical characters, his musings on humanity, on life and death are profound and profoundly amusing. A great place to dip your toe in  before committing to a longer novel.
 
-**→ Equal Rites (1987)** — If you're looking for brilliant powerful woman refusing to be defined by anyone's expectations and who quite frankly refuse to take anyone's sh*t, this one is for you. This is the first Witches novel and the introduction of Granny Weatherwax, who is probably the only sensible character in the entire Discworld.
+**→ Equal Rites (1987)** — If you're looking for brilliant powerful woman refusing to be defined by anyone's expectations and who quite frankly refuses to take anyone's sh*t, this one is for you. This is the first Witches novel and the introduction of Granny Weatherwax, who is probably the only sensible character in the entire Discworld.
 
-**→ Small Gods (1992)** — A complete standalone novel. No prior knowledge needed for this one. In the Discworld gods are created and powered by belief. In this one a god is reduced to inhabiting a tortoise because nobody actually believes in him anymore. Pratchett's most concentrated moral argument.
+**→ Small Gods (1992)** — In the Discworld gods are created and powered by belief. In this novel a god is reduced to inhabiting a tortoise because nobody believes in him anymore. Pratchett's most concentrated moral argument.
 
 ---
 
 ## The Sub-Series
 
 The Discworld isn't one continuous narrative. It's a world that Pratchett explored through several overlapping groups of characters. Here's how they break down.
-
----
 
 ### The Watch / City Watch
 
@@ -204,9 +202,12 @@ My advice: save it until you've read the full Tiffany Aching series, and ideally
 ## Where to Go From Here
 
 Forty-one novels is a lot. But the Discworld isn't a mountain you summit — it's more like a city you slowly learn to navigate. You'll find your own favourite corners, your own characters who feel like old friends, your own books you press into people's hands.
+
 If you've got this far without reading any of them: start tonight. Pick Guards! Guards!, Mort, or Small Gods and just go. You'll know within fifty pages whether Pratchett is your kind of writer. He probably is.
+
 If you're already mid-series and hunting for what comes next: follow the sub-series. Don't jump around too much within a character arc, especially the Watch. The payoff for Night Watch requires the investment.
-And when you're done — or as close to done as anyone gets — the best thing you can do is find someone else who's read them too. Half the joy of Discworld is the conversation it starts.
+
+And when you're done (or as close to done as anyone gets) the best thing you can do is find someone else who's read them too. Half the joy of Discworld is the conversation it starts.
 
 ---
 
