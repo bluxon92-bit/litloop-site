@@ -24,9 +24,9 @@ We break down everything you need to know about Terry Pratchett's Discworld, hig
 
 ## The Most Important Thing First: Don't Start at the Beginning
 
-*The Colour of Magic* (1983) is the first Discworld novel Pratchett wrote. But, Pratchett was still finding his voice, still figuring out what the Discworld was actually for, what it was about. And whilst this is where OI personally started and loved it, i've also talked with a lot of people who just didn't connect with it, and gave up on the whole series because of this.
+*The Colour of Magic* (1983) is the first Discworld novel Pratchett wrote. But, Pratchett was still finding his voice, still figuring out what the Discworld was actually for, what it was about. And whilst this is where I personally started and loved it, i've also talked with a lot of people who just didn't connect with it, and gave up on the whole series because of this.
 
-This is why, whilst The Colour of Magic and it's sequel The Light Fantastic both hold a special place in my heart, i am not recommending these as a starting point. Instead, start with one of these instead.
+This is why, whilst The Colour of Magic and it's sequel The Light Fantastic both hold a special place in my heart, I am not recommending these as a starting point. Instead, start with one of these instead.
 
 **→ Guards! Guards! (1989)** — This book introduces the City Watch of Ankh-Morpork and more importantly, Sam Vimes, one of Pratchett's best characters. It's funny, warm, immediately engaging, and gives you everything you need to fall in love with Pratchett.
 
