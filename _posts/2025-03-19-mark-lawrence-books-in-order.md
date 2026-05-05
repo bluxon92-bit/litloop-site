@@ -115,6 +115,8 @@ A companion series to Book of the Ancestor, following **Yaz** — a girl from a 
 Lawrence's most recent series, lighter in tone, set in a world-spanning library. Still in progress.
 
 ### 1. The Book That Wouldn't Burn (2023)
+### 2. The Book That Broke the World (2025)
+### 3. The Book That Held Her Heart (2026))
 
 [**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3P67V1p)
 
