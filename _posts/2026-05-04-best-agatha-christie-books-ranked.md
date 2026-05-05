@@ -4,7 +4,7 @@ title: "The Best Agatha Christie Books Ranked"
 date: 2026-05-04
 category: Recommendations
 genre: Crime
-excerpt: "The best Agatha Christie books ranked — Poirot, Miss Marple, and standalone classics. Where to start, what to read next, and which ones are genuinely worth your time."
+excerpt: "The best Agatha Christie books ranked. Poirot, Miss Marple, and standalone classics. Where to start, what to read next, and which ones are genuinely worth your time."
 image: "https://m.media-amazon.com/images/I/71E1IV89mYL._SL1500_.jpg"
 ---
 
@@ -14,7 +14,7 @@ image: "https://m.media-amazon.com/images/I/71E1IV89mYL._SL1500_.jpg"
 
 ---
 
-Agatha Christie wrote 66 detective novels and 14 short story collections over more than fifty years. She remains the best-selling novelist of all time after Shakespeare and the Bible — which is either the most impressive statistic in publishing history or a useful reminder that people have always wanted a good puzzle before bed.
+Agatha Christie wrote 66 detective novels and 14 short story collections over more than fifty years. She remains the best-selling novelist of all time after Shakespeare and the Bible, which is both the most impressive statistic in publishing history or a useful reminder that people have always wanted a good puzzle before bed.
 
 I came to Christie late, I'll admit. I'd always thought of her as comfort reading — something to pick up in an airport, easy and forgettable. I was wrong about that. The plots are architectural masterworks. Every detail placed, every misdirection earned, every solution both surprising and, in retrospect, completely inevitable. She's a better craftsperson than most writers who get taken more seriously.
 
