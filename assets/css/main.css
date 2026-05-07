@@ -2891,3 +2891,49 @@ a.btn-primary:active,
 .nav-dropdown-panel--genres .nav-dropdown-col {
   min-width: 0;
 }
+
+/* ── Genre mega menu — overflow & responsive fixes ──────────────────────── */
+
+/* Prevent the panel overflowing off the right edge of the screen.
+   position it relative to the viewport using right:0 on the nav container */
+.nav-dropdown-panel--genres {
+  min-width: 660px;
+  left: auto;
+  right: 0;
+}
+
+/* On medium screens (nav visible but viewport tight) — compress to 2 cols */
+@media (min-width: 681px) and (max-width: 1080px) {
+  .nav-dropdown-panel--genres {
+    min-width: 0;
+    width: min(660px, calc(100vw - 2rem));
+    right: 0;
+    left: auto;
+  }
+  /* Hide the third column, fold its items into col 2 */
+  .nav-dropdown-panel--genres .nav-dropdown-col:last-child {
+    display: none;
+  }
+  .nav-dropdown-panel--genres .nav-dropdown-col {
+    flex: 1;
+  }
+}
+
+/* On very tight desktop (nav just turned on but viewport still small) */
+@media (min-width: 681px) and (max-width: 860px) {
+  .nav-dropdown-panel--genres {
+    width: min(480px, calc(100vw - 1rem));
+  }
+  .nav-dropdown-panel--genres .nav-dropdown-col:nth-child(2) {
+    display: none;
+  }
+}
+
+/* ── Mobile nav — make accordion scrollable ──────────────────────────────── */
+@media (max-width: 680px) {
+  .header-nav.open {
+    max-height: calc(100vh - 64px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
