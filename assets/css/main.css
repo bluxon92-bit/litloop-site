@@ -2881,3 +2881,13 @@ a.btn-primary:active,
   border: 2px solid var(--navy);
 }
 .top100-modal-btn--tbr:hover { background: var(--cream); }
+
+/* ── 3-column genre mega dropdown ───────────────────────────────────────── */
+.nav-dropdown-panel--genres {
+  min-width: 660px;
+  right: auto;
+  left: 0;
+}
+.nav-dropdown-panel--genres .nav-dropdown-col {
+  min-width: 0;
+}

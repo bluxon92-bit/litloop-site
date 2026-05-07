@@ -12,22 +12,80 @@
         <!-- Explore dropdown -->
         <div class="nav-dropdown">
           <button class="nav-dropdown-trigger" aria-expanded="false">Explore <span class="nav-caret">▾</span></button>
-          <div class="nav-dropdown-panel">
-            <div class="nav-dropdown-section">
-              <p class="nav-dropdown-label">Genre hubs</p>
-              <a href="{{ '/genres/fantasy/' | relative_url }}" class="nav-dropdown-link">
-                <span><strong>Fantasy</strong><em>Epic, grimdark, high fantasy</em></span>
-              </a>
-              <a href="{{ '/genres/sci-fi/' | relative_url }}" class="nav-dropdown-link">
-                <span><strong>Science Fiction</strong><em>Space opera, hard sci-fi, cyberpunk</em></span>
-              </a>
-              <a href="{{ '/genres/horror/' | relative_url }}" class="nav-dropdown-link">
-                <span><strong>Horror</strong><em>Gothic, cosmic, psychological</em></span>
-              </a>
-              <a href="{{ '/genres/dystopian/' | relative_url }}" class="nav-dropdown-link">
-                <span><strong>Dystopian</strong><em>Dark futures, broken societies</em></span>
-              </a>
+          <div class="nav-dropdown-panel nav-dropdown-panel--wide nav-dropdown-panel--genres">
+
+            <!-- Col 1: Speculative -->
+            <div class="nav-dropdown-col">
+              <div class="nav-dropdown-section">
+                <p class="nav-dropdown-label">Speculative</p>
+                <a href="{{ '/genres/fantasy/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Fantasy</strong><em>Epic, grimdark, high fantasy</em></span>
+                </a>
+                <a href="{{ '/genres/grimdark/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Grimdark</strong><em>Morally grey, brutal worlds</em></span>
+                </a>
+                <a href="{{ '/genres/sci-fi/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Science Fiction</strong><em>Space opera, hard sci-fi, cyberpunk</em></span>
+                </a>
+                <a href="{{ '/genres/horror/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Horror</strong><em>Gothic, cosmic, psychological</em></span>
+                </a>
+                <a href="{{ '/genres/thriller/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Thriller</strong><em>Suspense, spy fiction, crime</em></span>
+                </a>
+                <a href="{{ '/genres/romantasy/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Romantasy</strong><em>Fantasy worlds, romance at heart</em></span>
+                </a>
+                <a href="{{ '/genres/dystopian/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Dystopian</strong><em>Dark futures, broken societies</em></span>
+                </a>
+              </div>
             </div>
+
+            <!-- Col 2: Literary -->
+            <div class="nav-dropdown-col nav-dropdown-col--border">
+              <div class="nav-dropdown-section">
+                <p class="nav-dropdown-label">Literary</p>
+                <a href="{{ '/genres/literary-fiction/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Literary Fiction</strong><em>Booker Prize, contemporary classics</em></span>
+                </a>
+                <a href="{{ '/genres/contemporary-fiction/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Contemporary Fiction</strong><em>Modern life and relationships</em></span>
+                </a>
+                <a href="{{ '/genres/historical-fiction/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Historical Fiction</strong><em>From Rome to the World Wars</em></span>
+                </a>
+                <a href="{{ '/genres/crime-mystery/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Crime &amp; Mystery</strong><em>Noir, whodunits, procedurals</em></span>
+                </a>
+                <a href="{{ '/genres/young-adult/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Young Adult</strong><em>Coming-of-age and beyond</em></span>
+                </a>
+              </div>
+            </div>
+
+            <!-- Col 3: Non-Fiction & Other -->
+            <div class="nav-dropdown-col nav-dropdown-col--border">
+              <div class="nav-dropdown-section">
+                <p class="nav-dropdown-label">Non-Fiction &amp; Other</p>
+                <a href="{{ '/genres/non-fiction/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Non-Fiction</strong><em>Science, history, ideas</em></span>
+                </a>
+                <a href="{{ '/genres/biography-memoir/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Biography &amp; Memoir</strong><em>Lives rendered in full</em></span>
+                </a>
+                <a href="{{ '/genres/travel-writing/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Travel Writing</strong><em>Journeys that illuminate the world</em></span>
+                </a>
+                <a href="{{ '/genres/romance/' | relative_url }}" class="nav-dropdown-link">
+                  <span><strong>Romance</strong><em>Contemporary, historical, slow burn</em></span>
+                </a>
+                <div style="margin-top:1rem; padding: 0 0.75rem 0.5rem;">
+                  <a href="{{ '/genres/' | relative_url }}" style="font-size:0.8rem; color:var(--teal); font-weight:600; text-decoration:none;">Browse all genres →</a>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
 
@@ -87,28 +145,24 @@ document.querySelectorAll('.nav-dropdown').forEach(function(dd){
     e.stopPropagation();
     var open = dd.classList.contains('open');
     if (isMobile()) {
-      // Accordion on mobile — toggle this, close siblings, keep menu open
       document.querySelectorAll('.nav-dropdown').forEach(function(d){
         if (d !== dd) { d.classList.remove('open'); d.querySelector('.nav-dropdown-trigger').setAttribute('aria-expanded','false'); }
       });
       dd.classList.toggle('open');
       this.setAttribute('aria-expanded', dd.classList.contains('open') ? 'true' : 'false');
     } else {
-      // Desktop — close all then open clicked one
       document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');d.querySelector('.nav-dropdown-trigger').setAttribute('aria-expanded','false');});
       if(!open){dd.classList.add('open');this.setAttribute('aria-expanded','true');}
     }
   });
 });
 
-// Close desktop dropdowns on outside click only
 document.addEventListener('click',function(){
   if (!isMobile()) {
     document.querySelectorAll('.nav-dropdown').forEach(function(d){d.classList.remove('open');});
   }
 });
 
-// Hamburger — toggle menu, close dropdowns when menu closes
 document.getElementById('menu-toggle').addEventListener('click',function(){
   var nav = document.getElementById('main-nav');
   nav.classList.toggle('open');
