@@ -29,6 +29,10 @@ permalink: /genres/dystopian/
   </div>
 </section>
 
+
+
+{% include reading-list-carousel.html genre="dystopian" list_title="Dystopian" %}
+
 {% assign dys_posts = site.posts | where: "genre", "Dystopian" %}
 {% if dys_posts.size > 0 %}
 <section class="section" style="background:var(--white); border-top:1px solid var(--border);">

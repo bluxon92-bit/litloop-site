@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Young Adult (YA) Books — The Complete Guide"
+description: "The best young adult fiction — dystopian YA, fantasy YA, contemporary YA, and coming-of-age novels that resonate far beyond their target audience."
+permalink: /genres/young-adult/
+genre_key: young-adult
+---
+
+<div class="genre-hub-hero genre-hub-hero--ya">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Young Adult</h1>
+    <p>Coming-of-age stories that speak to everyone. Dystopian YA, fantasy, contemporary, and the novels that shaped a generation of readers.</p>
+    <div class="hero-tags">
+      <span>Dystopian</span><span>Fantasy YA</span><span>Contemporary YA</span><span>Coming of Age</span><span>Romance YA</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Young Adult</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>Why YA matters:</strong> The best YA takes emotional experience with a seriousness that much adult fiction avoids. First love, first loss, the terror of becoming — these are universal, not juvenile. Many adults find YA more honest than the fiction marketed at them.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The defining series:</strong> Suzanne Collins's <em>The Hunger Games</em> is the trilogy that defined the YA boom of the last fifteen years. For fantasy YA, Leigh Bardugo's <em>Six of Crows</em> is the peak of the genre — it transcends its category entirely.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For contemporary YA:</strong> Rainbow Rowell's <em>Eleanor &amp; Park</em> and John Green's <em>The Fault in Our Stars</em> are the emotional benchmarks. Both hold up for adult readers.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For ambitious YA:</strong> Patrick Ness's <em>A Monster Calls</em> is one of the most moving novels written in any genre in the last twenty years. Read it regardless of where it's shelved.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
+
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+{% include reading-list-carousel.html genre="young-adult" list_title="Young Adult" %}
+
+{% assign bucket = site.posts | where: "genre", "Young Adult" %}
+{% if bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Young Adult <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image"><img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"></div>
+        {% else %}
+        <div class="blog-card-image" style="background:var(--navy);display:flex;align-items:center;justify-content:center;">
+          <span style="font-family:var(--font-display);font-size:2rem;color:rgba(255,255,255,0.15);">⭐</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

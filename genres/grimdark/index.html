@@ -1,0 +1,70 @@
+---
+layout: default
+title: "Grimdark Fantasy Books — The Complete Guide"
+description: "The best grimdark fantasy novels — morally grey characters, brutal worlds, and stories that don't flinch from darkness. From Abercrombie to Lawrence."
+permalink: /genres/grimdark/
+genre_key: grimdark
+---
+
+<div class="genre-hub-hero genre-hub-hero--grimdark">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Grimdark <em>Fantasy</em></h1>
+    <p>Fantasy stripped of its illusions — morally grey heroes, brutal consequences, and worlds that feel earned rather than imagined. The anti-epic for readers who've grown up.</p>
+    <div class="hero-tags">
+      <span>Morally Grey</span><span>Dark Fantasy</span><span>Military Fantasy</span><span>Antihero</span><span>Epic Violence</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Grimdark</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;">Grimdark is fantasy's reckoning with itself. Where traditional epic fantasy offers clean moral lines — heroes, villains, destiny — grimdark insists that power corrupts, heroes fail, and victory costs more than it's worth. It's not nihilism; at its best, it's moral seriousness.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The defining text:</strong> Joe Abercrombie's <em>The Blade Itself</em> essentially named the genre. Its genius is structural: it takes all the epic fantasy archetypes and slowly reveals the ugly humanity beneath them. Read the First Law trilogy in order.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For psychological depth:</strong> Mark Lawrence's <em>Prince of Thorns</em> is narrated by a monster who may be the most compelling protagonist in modern fantasy. If that lands, continue with <em>King of Thorns</em> and <em>Emperor of Thorns</em> — it pays off massively.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For scope and war:</strong> Steven Erikson's <em>Gardens of the Moon</em> is the most ambitious grimdark series ever attempted. It's deliberately difficult on first entry — stick with it. Nothing else comes close for scale or philosophical weight.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"><strong>More accessible entry points:</strong> John Gwynne's <em>Malice</em> is grimdark with more heart than most, and K.J. Parker's work is perfect for readers who want dark irony over dark violence.</p>
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+{% include reading-list-carousel.html genre="grimdark" list_title="Grimdark" %}
+
+{% assign gd_bucket = site.posts | where: "genre", "Grimdark" %}
+{% if gd_bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Grimdark <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in gd_bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image"><img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"></div>
+        {% else %}
+        <div class="blog-card-image" style="background:linear-gradient(135deg,#1a0505 0%,#3a0a0a 100%);display:flex;align-items:center;justify-content:center;">
+          <span style="font-family:var(--font-display);font-size:2rem;color:rgba(255,255,255,0.15);">⚔</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

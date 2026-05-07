@@ -1,0 +1,72 @@
+{% comment %}
+  _includes/reading-list-carousel.html
+  Usage: {% include reading-list-carousel.html genre=page.genre_key list_title=page.title %}
+  Requires: _data/reading_lists/{{ include.genre }}.json
+{% endcomment %}
+
+{% assign list_data = site.data.reading_lists[include.genre] %}
+{% if list_data and list_data.books.size > 0 %}
+
+<section class="section" style="background:var(--white); border-top:1px solid var(--border);">
+  <div class="section-inner">
+
+    <div class="section-header">
+      <div>
+        <div class="section-label" style="margin-bottom:0.4rem;">Reading List</div>
+        <h2 class="section-title">The <em>{{ include.list_title }} Top {{ list_data.book_count }}</em></h2>
+      </div>
+      <a href="{{ page.url | relative_url }}top-100/" class="section-link">View full list →</a>
+    </div>
+
+    <p style="font-size:0.9375rem; color:var(--text-muted); margin-bottom:1.5rem; max-width:560px;">
+      The essential {{ include.list_title | downcase }} reads, curated and ranked. How many have you read?
+    </p>
+
+    <!-- Scrollable carousel: first 10 books -->
+    <div class="rl-carousel-wrap">
+      <div class="rl-carousel">
+        {% for book in list_data.books limit:10 %}
+          <a href="{{ page.url | relative_url }}top-100/#book-{{ book.rank }}"
+             class="rl-carousel-book"
+             title="{{ book.title }} by {{ book.author }}">
+            <div class="rl-carousel-cover">
+              {% if book.cover_url %}
+                <img src="{{ book.cover_url }}" alt="{{ book.title }}" loading="lazy">
+              {% elsif book.cover_id %}
+                <img src="https://covers.openlibrary.org/b/id/{{ book.cover_id }}-M.jpg" alt="{{ book.title }}" loading="lazy">
+              {% else %}
+                <div style="width:100%;height:100%;background:linear-gradient(135deg,#1B3A5C,#2d5a8a);display:flex;align-items:center;justify-content:center;padding:0.5rem;box-sizing:border-box;">
+                  <span style="font-size:0.6rem;color:rgba(255,255,255,0.75);text-align:center;line-height:1.3;font-weight:600;">{{ book.title }}</span>
+                </div>
+              {% endif %}
+              <div class="rl-carousel-rank">{{ book.rank }}</div>
+            </div>
+            <div class="rl-carousel-title">{{ book.title }}</div>
+            <div class="rl-carousel-author">{{ book.author }}</div>
+          </a>
+        {% endfor %}
+
+        <!-- "See all" end card -->
+        <a href="{{ page.url | relative_url }}top-100/" class="rl-carousel-book" style="text-decoration:none;">
+          <div class="rl-carousel-cover" style="background:var(--navy);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:0.5rem;">
+            <span style="font-size:1.5rem;color:rgba(255,255,255,0.5);">📚</span>
+            <span style="font-size:0.7rem;color:rgba(255,255,255,0.7);font-weight:600;text-align:center;padding:0 0.5rem;line-height:1.3;">See all {{ list_data.book_count }}</span>
+          </div>
+          <div class="rl-carousel-title" style="color:var(--teal);">View full list →</div>
+        </a>
+      </div>
+    </div>
+
+    <!-- CTA strip -->
+    <div style="margin-top:1.75rem;background:var(--cream);border-radius:var(--radius-md);padding:1.25rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;">
+      <div>
+        <div style="font-weight:700;color:var(--navy);font-size:0.9375rem;margin-bottom:0.25rem;">How many have you read?</div>
+        <div style="font-size:0.85rem;color:var(--text-muted);">Track your progress through the {{ include.list_title }} Top {{ list_data.book_count }} on Litloop — free.</div>
+      </div>
+      <a href="{{ page.url | relative_url }}top-100/" class="btn btn-primary" style="white-space:nowrap;">Track my progress →</a>
+    </div>
+
+  </div>
+</section>
+
+{% endif %}

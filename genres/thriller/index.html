@@ -1,0 +1,69 @@
+---
+layout: default
+title: "Thriller Books — The Complete Guide"
+description: "The best thriller novels — psychological suspense, spy fiction, legal thrillers, and crime thrillers that keep you reading past midnight."
+permalink: /genres/thriller/
+genre_key: thriller
+---
+
+<div class="genre-hub-hero genre-hub-hero--thriller">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Thriller</h1>
+    <p>Psychological suspense, spy fiction, legal drama, and crime thrillers. Books engineered to keep you reading past midnight and thinking for days after.</p>
+    <div class="hero-tags">
+      <span>Psychological</span><span>Spy Fiction</span><span>Crime</span><span>Legal Thriller</span><span>Conspiracy</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Thrillers</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;">The thriller is the genre that most honestly reflects our anxieties — about power, identity, safety, and the strangers we live among. At its best it's literary fiction that doesn't apologise for being compulsively readable.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For psychological thrillers:</strong> Gillian Flynn's <em>Gone Girl</em> reset the genre. If you haven't read it, do. Then move to Tana French's Dublin Murder Squad — <em>In the Woods</em> is the best crime novel of the last twenty years.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For spy fiction:</strong> John le Carré's <em>Tinker Tailor Soldier Spy</em> is the gold standard — patient, intelligent, devastating. For something more propulsive, Daniel Silva's Gabriel Allon series or Jason Bourne by Robert Ludlum.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"><strong>For literary thrillers:</strong> Don DeLillo's <em>Libra</em> and Donna Tartt's <em>The Secret History</em> show what the genre looks like when literary ambition and plot urgency pull in the same direction.</p>
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+{% include reading-list-carousel.html genre="thriller" list_title="Thriller" %}
+
+{% assign th_bucket = site.posts | where: "genre", "Thriller" %}
+{% if th_bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Thriller <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in th_bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image"><img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"></div>
+        {% else %}
+        <div class="blog-card-image" style="background:linear-gradient(135deg,#050514 0%,#0a0a2e 100%);display:flex;align-items:center;justify-content:center;">
+          <span style="font-family:var(--font-display);font-size:2rem;color:rgba(255,255,255,0.15);">🔍</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

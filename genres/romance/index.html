@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Romance Books — The Complete Guide"
+description: "The best romance novels — contemporary romance, historical romance, enemies to lovers, slow burn, and every sub-genre in between."
+permalink: /genres/romance/
+genre_key: romance
+---
+
+<div class="genre-hub-hero genre-hub-hero--romance">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Romance</h1>
+    <p>The most-read genre in fiction — and the most misunderstood. Contemporary romance, historical romance, enemies-to-lovers, slow burn, and every shade between.</p>
+    <div class="hero-tags">
+      <span>Contemporary</span><span>Historical Romance</span><span>Enemies to Lovers</span><span>Slow Burn</span><span>Small Town</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Romance</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>Why romance matters:</strong> Romance is the genre most brutally dismissed by literary culture and most enthusiastically read by actual readers. Its core promise — that love is worth pursuing, that connection is possible — isn't sentimental. It's radical.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For contemporary romance:</strong> Emily Henry is the benchmark — <em>Beach Read</em> or <em>People We Meet on Vacation</em> are perfect starting points. Smart, funny, genuinely moving.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For historical romance:</strong> Julia Quinn's Bridgerton series and Lisa Kleypas's Wallflowers quartet are the entry points. For something more literary, Eloisa James and Loretta Chase.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For darker romance:</strong> Penelope Douglas's work and Ana Huang's Twisted series represent the darker, more emotionally complex end of contemporary romance.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
+
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+{% include reading-list-carousel.html genre="romance" list_title="Romance" %}
+
+{% assign bucket = site.posts | where: "genre", "Romance" %}
+{% if bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Romance <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image"><img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"></div>
+        {% else %}
+        <div class="blog-card-image" style="background:var(--navy);display:flex;align-items:center;justify-content:center;">
+          <span style="font-family:var(--font-display);font-size:2rem;color:rgba(255,255,255,0.15);">❤️</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

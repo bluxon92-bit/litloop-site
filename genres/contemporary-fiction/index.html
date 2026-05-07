@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Contemporary Fiction Books — The Complete Guide"
+description: "The best contemporary fiction — novels set in the present day, exploring modern life, relationships, identity, and culture."
+permalink: /genres/contemporary-fiction/
+genre_key: contemporary-fiction
+---
+
+<div class="genre-hub-hero genre-hub-hero--contemporary">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Contemporary <em>Fiction</em></h1>
+    <p>Fiction that takes the present seriously — modern relationships, identity, work, grief, and the texture of everyday life rendered in precise, searching prose.</p>
+    <div class="hero-tags">
+      <span>Domestic Fiction</span><span>Coming of Age</span><span>Family</span><span>Identity</span><span>Relationships</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Contemporary Fiction</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The current moment:</strong> Sally Rooney has defined a generation's literary sensibility — start with <em>Normal People</em>, then <em>Conversations with Friends</em>. Both are worth reading.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For emotional depth:</strong> Matt Haig's <em>The Midnight Library</em> and Gail Honeyman's <em>Eleanor Oliphant is Completely Fine</em> show contemporary fiction at its most affecting and accessible.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For something more demanding:</strong> Rachel Cusk's Outline trilogy is the most formally interesting contemporary fiction of recent years. It's unlike anything else — deliberately cold, structurally strange, and utterly compelling.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>Underrated:</strong> Douglas Stuart's <em>Shuggie Bain</em> — Booker Prize 2020 — is devastating in the best way. One of the most important British novels in decades.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
+
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+{% include reading-list-carousel.html genre="contemporary-fiction" list_title="Contemporary Fiction" %}
+
+{% assign bucket = site.posts | where: "genre", "Contemporary Fiction" %}
+{% if bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Contemporary Fiction <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image"><img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"></div>
+        {% else %}
+        <div class="blog-card-image" style="background:var(--navy);display:flex;align-items:center;justify-content:center;">
+          <span style="font-family:var(--font-display);font-size:2rem;color:rgba(255,255,255,0.15);">🏙️</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

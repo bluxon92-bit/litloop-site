@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Literary Fiction Books — The Complete Guide"
+description: "The best literary fiction — Booker Prize winners, American classics, contemporary masterworks, and novels that change how you see the world."
+permalink: /genres/literary-fiction/
+genre_key: literary-fiction
+---
+
+<div class="genre-hub-hero genre-hub-hero--literary">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Literary <em>Fiction</em></h1>
+    <p>Fiction that takes language, form, and meaning as seriously as plot. Booker Prize winners, American classics, and novels that change how you see the world.</p>
+    <div class="hero-tags">
+      <span>Booker Prize</span><span>Contemporary</span><span>American Literature</span><span>Modernist</span><span>Short Stories</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Literary Fiction</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>Where to start:</strong> If you're new to literary fiction, <em>Normal People</em> by Sally Rooney or <em>Pachinko</em> by Min Jin Lee are perfect entry points — literary in craft, utterly readable in pace.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The 20th century canon:</strong> Toni Morrison's <em>Beloved</em> is the American novel of the last century. Kazuo Ishiguro's <em>The Remains of the Day</em> is the British equivalent. Both are essential.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For Booker Prize territory:</strong> Ian McEwan's <em>Atonement</em>, Colm Tóibín's <em>Brooklyn</em>, and Marlon James's <em>A Brief History of Seven Killings</em> are as good as Booker winners get.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For contemporary literary fiction:</strong> Ocean Vuong's <em>On Earth We're Briefly Gorgeous</em> and Paul Tremblay's work both show literary fiction expanding into new emotional registers.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
+
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+{% include reading-list-carousel.html genre="literary-fiction" list_title="Literary Fiction" %}
+
+{% assign bucket = site.posts | where: "genre", "Literary Fiction" %}
+{% if bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Literary Fiction <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image"><img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"></div>
+        {% else %}
+        <div class="blog-card-image" style="background:var(--navy);display:flex;align-items:center;justify-content:center;">
+          <span style="font-family:var(--font-display);font-size:2rem;color:rgba(255,255,255,0.15);">📖</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

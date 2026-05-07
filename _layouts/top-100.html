@@ -1,0 +1,160 @@
+---
+layout: default
+---
+
+{% assign list_data = site.data.reading_lists[page.genre_key] %}
+{% assign app_url = "https://app.litloop.co" %}
+{% assign encoded_list = page.title | uri_escape %}
+
+<div class="top100-hero top100-hero--{{ page.genre_key }}">
+  <div class="top100-hero-inner">
+    <a href="{{ page.genre_url | relative_url }}" class="top100-hero-back">← {{ page.genre_label }}</a>
+    <div class="section-label" style="color:rgba(255,255,255,0.5); margin-bottom:0.6rem;">Reading List</div>
+    <h1>{{ page.title }}</h1>
+    {% if list_data %}
+    <p>{{ list_data.description }}</p>
+    {% endif %}
+  </div>
+</div>
+
+<!-- Sticky CTA banner -->
+<div class="top100-cta-banner">
+  <p>
+    <span>How many have you read? Track your progress on Litloop — free.</span>
+    <a href="{{ app_url }}/?action=add-to-list&list={{ encoded_list }}&genre={{ page.genre_key }}" target="_blank" rel="noopener">
+      Start tracking →
+    </a>
+  </p>
+</div>
+
+<div class="section-inner">
+  {% if list_data %}
+  <div class="top100-grid">
+    {% for book in list_data.books %}
+    {% assign encoded_title  = book.title  | uri_escape %}
+    {% assign encoded_author = book.author | uri_escape %}
+    {% assign encoded_cover  = book.cover_url | uri_escape %}
+    {% assign mark_read_url  = app_url | append: "/?action=mark-read&ol_key=" | append: book.ol_key | append: "&title=" | append: encoded_title | append: "&author=" | append: encoded_author | append: "&cover_url=" | append: encoded_cover | append: "&genre=" | append: page.genre_key | append: "&list=" | append: encoded_list %}
+    {% assign add_list_url   = app_url | append: "/?action=add-to-list&ol_key=" | append: book.ol_key | append: "&title=" | append: encoded_title | append: "&author=" | append: encoded_author | append: "&cover_url=" | append: encoded_cover | append: "&genre=" | append: page.genre_key | append: "&list=" | append: encoded_list %}
+
+    <div class="top100-book" id="book-{{ book.rank }}"
+         data-title="{{ book.title | xml_escape }}"
+         data-author="{{ book.author | xml_escape }}"
+         data-year="{{ book.year }}"
+         data-rank="{{ book.rank }}"
+         data-cover="{{ book.cover_url | default: '' }}"
+         data-cover-id="{{ book.cover_id | default: '' }}"
+         data-description="{{ book.description | strip_html | truncate: 600 | xml_escape }}"
+         data-mark-read-url="{{ mark_read_url }}"
+         data-add-list-url="{{ add_list_url }}"
+         onclick="openBookModal(this)">
+
+      <div class="top100-book-cover">
+        {% if book.cover_url %}
+          <img src="{{ book.cover_url }}" alt="{{ book.title | xml_escape }}" loading="lazy">
+        {% elsif book.cover_id %}
+          <img src="https://covers.openlibrary.org/b/id/{{ book.cover_id }}-M.jpg" alt="{{ book.title | xml_escape }}" loading="lazy">
+        {% else %}
+          <div class="top100-book-no-cover">
+            <span>{{ book.title }}</span>
+          </div>
+        {% endif %}
+        <div class="top100-book-rank">{{ book.rank }}</div>
+      </div>
+
+      <div class="top100-book-title">{{ book.title }}</div>
+      <div class="top100-book-author">{{ book.author }}</div>
+      {% if book.year %}<div class="top100-book-year">{{ book.year }}</div>{% endif %}
+
+      <div class="top100-book-actions" onclick="event.stopPropagation()">
+        <a href="{{ mark_read_url }}" class="top100-book-btn top100-book-btn--read" target="_blank" rel="noopener" title="Mark as read on Litloop">✓ Read</a>
+        <a href="{{ add_list_url }}" class="top100-book-btn top100-book-btn--tbr" target="_blank" rel="noopener" title="Add to reading list on Litloop">+ List</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Bottom CTA -->
+  <div style="text-align:center; padding:1rem 0 4rem;">
+    <div style="font-family:var(--font-display); font-size:1.5rem; color:var(--navy); margin-bottom:0.75rem; font-weight:700;">
+      Ready to track your reading?
+    </div>
+    <p style="color:var(--text-muted); font-size:0.9375rem; margin-bottom:1.5rem; max-width:420px; margin-left:auto; margin-right:auto;">
+      Join Litloop free and track every book you read, share reviews with friends, and work through the best reading lists in the genre.
+    </p>
+    <a href="{{ app_url }}" class="btn btn-primary" style="font-size:1rem; padding:0.9rem 2rem;" target="_blank" rel="noopener">
+      Join Litloop free →
+    </a>
+  </div>
+
+  {% else %}
+  <p style="padding:3rem 0; color:var(--text-muted); text-align:center;">List data not found. Please check back soon.</p>
+  {% endif %}
+</div>
+
+<!-- Book detail modal -->
+<div class="top100-modal-backdrop" id="bookModal" onclick="closeBookModal(event)">
+  <div class="top100-modal">
+    <button class="top100-modal-close" onclick="closeBookModal(null)" aria-label="Close">×</button>
+    <div class="top100-modal-inner">
+      <img id="modalCover" class="top100-modal-cover" src="" alt="" style="display:none;">
+      <div id="modalCoverPlaceholder" class="top100-modal-cover-placeholder" style="display:none;"></div>
+      <div class="top100-modal-meta">
+        <div id="modalRank" class="top100-modal-rank"></div>
+        <div id="modalTitle" class="top100-modal-title"></div>
+        <div id="modalAuthor" class="top100-modal-author"></div>
+        <div id="modalYear" class="top100-modal-year"></div>
+      </div>
+    </div>
+    <div id="modalDesc" class="top100-modal-desc"></div>
+    <div class="top100-modal-actions">
+      <a id="modalReadBtn"    href="#" class="top100-modal-btn top100-modal-btn--read"  target="_blank" rel="noopener">✓ Mark as Read</a>
+      <a id="modalListBtn"    href="#" class="top100-modal-btn top100-modal-btn--tbr"   target="_blank" rel="noopener">+ Add to List</a>
+    </div>
+  </div>
+</div>
+
+<script>
+function openBookModal(el) {
+  const modal    = document.getElementById('bookModal')
+  const cover    = document.getElementById('modalCover')
+  const coverPh  = document.getElementById('modalCoverPlaceholder')
+  const coverSrc = el.dataset.cover || ''
+
+  document.getElementById('modalRank').textContent   = '#' + el.dataset.rank
+  document.getElementById('modalTitle').textContent  = el.dataset.title
+  document.getElementById('modalAuthor').textContent = el.dataset.author
+  document.getElementById('modalYear').textContent   = el.dataset.year || ''
+  document.getElementById('modalDesc').textContent   = el.dataset.description || 'No description available.'
+  document.getElementById('modalReadBtn').href       = el.dataset.markReadUrl
+  document.getElementById('modalListBtn').href       = el.dataset.addListUrl
+
+  if (coverSrc) {
+    cover.src = coverSrc
+    cover.alt = el.dataset.title
+    cover.style.display = 'block'
+    coverPh.style.display = 'none'
+  } else if (el.dataset.coverId) {
+    cover.src = 'https://covers.openlibrary.org/b/id/' + el.dataset.coverId + '-L.jpg'
+    cover.alt = el.dataset.title
+    cover.style.display = 'block'
+    coverPh.style.display = 'none'
+  } else {
+    cover.style.display = 'none'
+    coverPh.style.display = 'block'
+  }
+
+  modal.classList.add('open')
+  document.body.style.overflow = 'hidden'
+}
+
+function closeBookModal(e) {
+  if (e && e.target !== document.getElementById('bookModal')) return
+  document.getElementById('bookModal').classList.remove('open')
+  document.body.style.overflow = ''
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeBookModal(null)
+})
+</script>

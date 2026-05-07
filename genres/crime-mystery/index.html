@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Crime & Mystery Books — The Complete Guide"
+description: "The best crime and mystery novels — from golden age whodunits to modern noir, psychological crime fiction, and procedural thrillers."
+permalink: /genres/crime-mystery/
+genre_key: crime-mystery
+---
+
+<div class="genre-hub-hero genre-hub-hero--crime">
+  <div class="genre-hub-hero-inner">
+    <div class="section-label" style="color:rgba(255,255,255,0.55);">Genre Hub</div>
+    <h1>Crime &amp; Mystery</h1>
+    <p>Golden age whodunits, hard-boiled noir, modern psychological crime fiction, and procedural thrillers. The genre that never stops reinventing itself.</p>
+    <div class="hero-tags">
+      <span>Noir</span><span>Cosy Mystery</span><span>Police Procedural</span><span>Psychological</span><span>Golden Age</span>
+    </div>
+  </div>
+</div>
+
+<section class="section" style="background:var(--paper);">
+  <div class="section-inner" style="max-width:860px;">
+    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+    <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Crime & Mystery</em></h2>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The golden age:</strong> Agatha Christie's <em>And Then There Were None</em> remains the best-selling mystery novel ever written. Start there, then <em>Murder on the Orient Express</em>. These are architectural masterpieces of plotting.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For hard-boiled noir:</strong> Raymond Chandler's <em>The Big Sleep</em> established the template. For modern noir, James Ellroy's <em>L.A. Confidential</em> or Michael Connelly's Harry Bosch series.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For literary crime:</strong> Tana French is the best crime writer working today. <em>In the Woods</em> and <em>The Likeness</em> are particularly stunning — they read like literary fiction that happens to have a murder in them.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For Scandinavian crime:</strong> Stieg Larsson's <em>The Girl with the Dragon Tattoo</em> opened the door, but Jo Nesbø's Harry Hole series and Camilla Läckberg's Fjällbacka Murders are equally compelling.</p>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
+
+    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+  </div>
+</section>
+
+{% include reading-list-carousel.html genre="crime-mystery" list_title="Crime & Mystery" %}
+
+{% assign bucket = site.posts | where: "genre", "Crime" %}
+{% if bucket.size > 0 %}
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
+  <div class="section-inner">
+    <div class="section-header">
+      <div>
+        <div class="section-label">From the blog</div>
+        <h2 class="section-title">Crime & Mystery <em>Reading Lists</em></h2>
+      </div>
+      <a href="{{ '/blog/' | relative_url }}" class="section-link">All posts →</a>
+    </div>
+    <div class="posts-grid">
+      {% for post in bucket limit:6 %}
+      <article class="blog-card-ct">
+        {% if post.image %}
+        <div class="blog-card-image"><img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"></div>
+        {% else %}
+        <div class="blog-card-image" style="background:var(--navy);display:flex;align-items:center;justify-content:center;">
+          <span style="font-family:var(--font-display);font-size:2rem;color:rgba(255,255,255,0.15);">🔎</span>
+        </div>
+        {% endif %}
+        <div class="blog-card-body">
+          <div class="blog-card-tag">{{ post.category }}</div>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+          <div class="blog-card-meta">
+            <span class="blog-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}" class="blog-card-readmore">Read</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
