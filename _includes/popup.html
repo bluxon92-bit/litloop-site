@@ -1,6 +1,6 @@
 <!-- ============================================================
      LITLOOP POPUPS
-     Three segments, triggered on scroll 40% + 30s delay.
+     Three segments, triggered on scroll 20% + 20s delay.
      Dismissed state stored per-session + 7-day localStorage.
      ============================================================ -->
 
@@ -18,6 +18,7 @@
       <p class="ll-popup__copy">Create your free Litloop account and start building your shelf today. iOS &amp; Android apps coming soon.</p>
       <a href="https://app.litloop.co/signup" class="ll-popup__btn ll-popup__btn--primary">Create free account</a>
       <a href="https://app.litloop.co/login" class="ll-popup__btn ll-popup__btn--ghost">Log in</a>
+      <p class="ll-popup__learn-more">Not ready yet? <a href="https://www.litloop.co/features/">Learn more about Litloop →</a></p>
     </div>
   </div>
 </div>
@@ -37,6 +38,7 @@
       <div class="ll-popup__ml-form">
         <div class="ml-embedded" data-form="9Immkh"></div>
       </div>
+      <p class="ll-popup__learn-more">Want to browse first? <a href="https://www.litloop.co/free-downloads/horror/">See the horror short stories →</a></p>
     </div>
   </div>
 </div>
@@ -56,6 +58,7 @@
       <div class="ll-popup__ml-form">
         <div class="ml-embedded" data-form="0hveDb"></div>
       </div>
+      <p class="ll-popup__learn-more">Want to browse first? <a href="https://www.litloop.co/free-downloads/">See the sci-fi short stories →</a></p>
     </div>
   </div>
 </div>
@@ -207,6 +210,23 @@
 }
 .ll-popup__btn--ghost:hover { background: #F5F0E8; }
 
+/* ── Learn more link ────────────────────────────────────── */
+.ll-popup__learn-more {
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #6B6B6B;
+}
+.ll-popup__learn-more a {
+  color: #1B3A5C;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.ll-popup__learn-more a:hover {
+  color: #0F2540;
+}
+
 /* ── MailerLite form reset inside popup ─────────────────── */
 .ll-popup__ml-form .ml-form-embedWrapper {
   margin: 0 !important;
@@ -259,8 +279,8 @@
 
   var STORAGE_KEY_PREFIX = 'll_popup_dismissed_';
   var DISMISS_DAYS = 7;
-  var SCROLL_THRESHOLD = 0.40;
-  var DELAY_MS = 30000;
+  var SCROLL_THRESHOLD = 0.20;
+  var DELAY_MS = 20000;
 
   // ── Determine which popup to show on this page ──────────
   var path = window.location.pathname.replace(/\/$/, '') || '/';
