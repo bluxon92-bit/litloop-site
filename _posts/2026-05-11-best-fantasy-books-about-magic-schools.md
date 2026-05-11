@@ -16,7 +16,7 @@ image: "https://m.media-amazon.com/images/I/91zTAqKlZsL._SL1500_.jpg"
 
 The magic school setting has a specific appeal that I don't think gets talked about enough. It's not really about the magic, it's about the stakes. A place where power is learned rather than given, where failure has real consequences, where who you are when you arrive is not necessarily who you'll be when you leave. Done well, it's one of the most compelling settings in fantasy.
 
-Harry Potter made the subgenre famous, but the best books in it go considerably further than Hogwarts was willing to. Some are darker. Some are smarter. Some use the setting to ask questions Rowling never got close to. Here are fifteen novels featuring magic schools that I'd recommend.
+Harry Potter made the subgenre famous, but the best books in it go considerably further than Hogwarts was willing to. Some are darker. Some are smarter. Some use the setting to ask questions Rowling never got close to. If you're interested in magic systems more broadly, we've also covered the [best fantasy books about magic](/blog/fantasy-books-about-magic/) as a wider topic. Here are fifteen novels featuring magic schools that I'd recommend.
 
 ---
 
@@ -27,6 +27,8 @@ The gold standard of the adult magic school novel, and one I'd put in anyone's h
 What makes it work is that Kvothe is brilliant but broke, and the gap between his talent and his resources is as much the engine of the story as any magical threat. The school feels genuinely lived-in. I've been waiting for book three for years and I'd still recommend it without reservation.
 
 [**Buy The Name of the Wind on Amazon**](https://amzn.to/3Oc7sdu)
+
+*Want more? See our [Patrick Rothfuss reading guide](/blog/patrick-rothfuss-books-in-order/) or [10 books like The Name of the Wind](/blog/books-like-name-of-the-wind/).*
 
 ---
 
@@ -44,7 +46,7 @@ Clarke's Regency England is extraordinary, and the magic feels genuinely dangero
 
 This one is a lot of fun. The Scholomance is a school with no teachers, no administrators, and a genuinely alarming death rate. The monsters get in, the students either survive or don't, and the magic system is built around the uncomfortable truth that power has to be paid for somehow. 
 
-El, the protagonist, is the most powerful student in the school and is desperately trying not to become a dark sorceress. Novik's wit is sharp throughout and the world-building is inventive. A quick, addictive read.
+El, the protagonist, is the most powerful student in the school and is desperately trying not to become a dark sorceress. Novik's wit is sharp throughout and the world-building is inventive. A quick, addictive read — and a strong answer if you've exhausted our [books like Harry Potter](/blog/books-like-harry-potter/) list and want something darker.
 
 [**Buy A Deadly Education on Amazon**](https://amzn.to/4sEPrU5)
 
@@ -52,7 +54,7 @@ El, the protagonist, is the most powerful student in the school and is desperate
 
 ### 4. The Atlas Six — Olivie Blake
 
-Another one which is less traditional school, more brutal selection process six magicians competing for entry into a secret society with access to the world's most dangerous knowledge. 
+Another one which is less traditional school, more brutal selection process — six magicians competing for entry into a secret society with access to the world's most dangerous knowledge. 
 
 But the dynamic of gifted, ambitious young people testing themselves against each other in an enclosed setting is the same, and Blake is very good at the tension that creates. Clever, stylish, and pleasingly cynical about what ambition does to people. See our full [review](/blog/book-review-the-atlas-six-by-olivie-blake/).
 
@@ -64,7 +66,7 @@ But the dynamic of gifted, ambitious young people testing themselves against eac
 
 Hogwarts for adults who've grown up and feel disappointed by the real world. Quentin Coldwater gets into Brakebills, a secret university for magicians, and discovers that being special doesn't make you happy, purposeful, or good. Grossman's book is sharp, melancholy, and genuinely subversive about what the magic school fantasy actually promises. 
 
-If you've ever read a fantasy novel and wondered what the aftermath really looks like, this is the book for you.
+If you've ever read a fantasy novel and wondered what the aftermath really looks like, this is the book for you. It's also the most direct literary response to everything the [Harry Potter series](/blog/books-like-harry-potter/) promises and doesn't deliver.
 
 [**Buy The Magicians on Amazon**](https://amzn.to/4sOyeYw)
 
@@ -72,9 +74,9 @@ If you've ever read a fantasy novel and wondered what the aftermath really looks
 
 ### 6. The Poppy War — R.F. Kuang
 
-The first third of this is a military academy story, Rin, a war orphan, and how he earns a place at Sinegard on determination alone before discovering she has shamanic powers the school can barely contain. 
+The first third of this is a military academy story — Rin, a war orphan, and how she earns a place at Sinegard on determination alone before discovering she has shamanic powers the school can barely contain. 
 
-Then the war starts, and the book becomes something much harder and darker. Kuang uses the school setting to establish everything that gets tested and broken in the rest of the novel. Based on Chinese history and not for the faint-hearted, but if you want a magic school story that doesn't flinch, this is it.
+Then the war starts, and the book becomes something much harder and darker. Kuang uses the school setting to establish everything that gets tested and broken in the rest of the novel. Based on Chinese history and not for the faint-hearted, but if you want a magic school story that doesn't flinch, this is it. Fans of the darkness here should also check out our [grimdark fantasy guide](/blog/grimdark-fantasy-books/).
 
 [**Buy The Poppy War on Amazon**](https://amzn.to/4sKj5HO)
 
@@ -112,7 +114,7 @@ It's nominally sci-fi rather than fantasy but earns its place on this list compl
 
 ### 10. Sabriel — Garth Nix
 
-This novel is a young adult book and  is only partially set in a school. But, it begins with the protagonist Sabriel attending Wyverly College across the Wall, a school that feels like 1920s England due to teh fact that no modern technology works this close to the Wall.
+This novel is a young adult book and is only partially set in a school. But it begins with the protagonist Sabriel attending Wyverly College across the Wall, a school that feels like 1920s England due to the fact that no modern technology works this close to the Wall.
 
 We soon discover that her father is the Abhorsen, a necromancer protector of the Old Kingdom. When he disappears, she has to cross back into a land of magic with no real training and a set of seven bells she barely knows how to use. 
 
@@ -126,7 +128,7 @@ Nix's world-building is extraordinary and his magic system — the bells, the Ch
 
 A standalone Sanderson in an alternate America where Rithmatics, the ability to bring chalk drawings to life, is taught at an academy, and students are disappearing. 
 
-Lighter than most of his work and built around a magic system based on geometry, which sounds dry but is genuinely clever in practice. A good entry point for readers new to Sanderson, or anyone who wants something more accessible than the Stormlight Archive.
+Lighter than most of his work and built around a magic system based on geometry, which sounds dry but is genuinely clever in practice. A good entry point for readers new to Sanderson, or anyone who wants something more accessible than the Stormlight Archive. For more, see our [complete Sanderson guide](/blog/11-best-books-by-brandon-sanderson/).
 
 [**Buy The Rithmatist on Amazon**](https://amzn.to/4dTD2Hm)
 
@@ -144,7 +146,7 @@ A Roman Empire-inspired fantasy with a brutal military academy at its centre, Bl
 
 The second Kingkiller Chronicle novel takes Kvothe beyond the University and into the wider world, where everything he learned is tested against reality in ways the classroom couldn't prepare him for. 
 
-Longer and more sprawling than *The Name of the Wind*, but if you loved the first book, you'll want this one immediately. And then you can join the rest of us in the long wait for the final release of teh series.
+Longer and more sprawling than *The Name of the Wind*, but if you loved the first book, you'll want this one immediately. And then you can join the rest of us in the long wait for the final release of the series. See our [Patrick Rothfuss reading guide](/blog/patrick-rothfuss-books-in-order/) for the full picture.
 
 [**Buy The Wise Man's Fear on Amazon**](https://amzn.to/4dffoVz)
 
@@ -155,7 +157,7 @@ Longer and more sprawling than *The Name of the Wind*, but if you loved the firs
 The first book in the Black Magician Trilogy, and a magic school story in the most direct sense. Sonea is a slum girl who accidentally discovers she has magical ability, in a city where untrained magic is dangerous and the Guild has a monopoly on who gets to learn.
 What makes it interesting is the class tension at its core. 
 
-Sonea doesn't arrive at the Guild as a celebrated prodigy. She arrives as someone the institution would rather not have to deal with. Canavan uses that friction well, and the trilogy builds satisfyingly from this opener. A good pick if you want something more traditionally plotted than some of the literary entries on this list.
+Sonea doesn't arrive at the Guild as a celebrated prodigy. She arrives as someone the institution would rather not have to deal with. Canavan uses that friction well, and the trilogy builds satisfyingly from this opener.
 
 [**Buy The Magician's Guild on Amazon**](https://amzn.to/3PeHlDa)
 
@@ -163,7 +165,9 @@ Sonea doesn't arrive at the Guild as a celebrated prodigy. She arrives as someon
 
 ### 15. The Goblin Emperor — Katherine Addison
 
-Not a school in the conventional sense — but Maia, the unexpected heir to an imperial throne, has to learn how to rule with no preparation, no allies, and no real idea what he's doing. Addison's novel is about the education of a genuinely good person in the exercise of power, and it's one of the warmest, most quietly radical fantasies I've read in years. A different kind of magic school story — but a magic school story nonetheless.
+Not a school in the conventional sense, but Maia, the unexpected heir to an imperial throne, has to learn how to rule with no preparation, no allies, and no real idea what he's doing. 
+
+Addison's novel is about the education of a genuinely good person in the exercise of power, and it's one of the warmest, most quietly radical fantasies I've read in years. A different kind of magic school story, but a magic school story nonetheless.
 
 [**Buy The Goblin Emperor on Amazon**](https://amzn.to/4s9zQem)
 
@@ -171,9 +175,9 @@ Not a school in the conventional sense — but Maia, the unexpected heir to an i
 
 ## Where to Start
 
-**Brand new to the subgenre:** *The Name of the Wind* if you want adult literary fantasy; *A Deadly Education* if you want something faster and funnier.
+**Brand new to the subgenre:** *The Name of the Wind* if you want adult literary fantasy; *A Deadly Education* if you want something faster and funnier. If you're brand new to fantasy altogether, our [best fantasy books for new readers](/blog/29-best-fantasy-books/) guide is a good place to start.
 
-**Read Harry Potter and want something darker:** *The Magicians* — it's a direct response to exactly what Rowling's series promises and doesn't deliver.
+**Read Harry Potter and want something darker:** *The Magicians* is a direct response to exactly what Rowling's series promises and doesn't deliver. See also our full [books like Harry Potter](/blog/books-like-harry-potter/) list.
 
 **Want something literary:** *Jonathan Strange & Mr Norrell* or *Babel*.
 
@@ -185,9 +189,10 @@ Not a school in the conventional sense — but Maia, the unexpected heir to an i
 
 The magic school setting works because it's really a coming-of-age story with the stakes turned up. Power has to be learned, mistakes have consequences, and the institution itself is rarely neutral. The best books on this list understand that the school is never just a backdrop — it's a lens for looking at class, ambition, identity, and what it costs to become who you're going to be.
 
-If you work through this list, you'll notice the genre has quietly become one of the more interesting corners of fantasy. The post-Rowling generation of writers has been willing to ask harder questions and go to darker places, and the results are some of the best world-building and character work in contemporary fiction.
+If you work through this list, you'll notice the genre has quietly become one of the more interesting corners of fantasy. The post-Rowling generation of writers has been willing to ask harder questions and go to darker places, and the results are some of the best world-building and character work in contemporary fiction. If you came to this list from Hogwarts and want to know what else is out there, our [books like Harry Potter](/blog/books-like-harry-potter/) guide covers the wider territory.
 
 Start wherever feels right. The Name of the Wind if you want to be absorbed for a week. The Magicians if you want something that challenges what you think the fantasy promises. A Wizard of Earthsea if you want to understand where most of this came from.
+
 Whichever you pick, you'll find something worth reading.
 
 ---
