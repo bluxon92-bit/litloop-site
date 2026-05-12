@@ -31,6 +31,50 @@ genre_key: non-fiction
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Essay &amp; Ideas <em>Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Need an angle? Generate an essay idea or argument to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-ei-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="argument">Argument</button>
+        <button class="pill" data-value="personal">Personal Essay</button>
+        <button class="pill" data-value="reported">Reported Piece</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-ei-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-ei-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/essay-ideas/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubEiData = { argument: ["The case for reading books you disagree with — not to steelman the opposition, but because disagreement is the only way to find out what you actually believe.", "We have outsourced memory to our phones and lost something we haven't fully named yet. The argument isn't nostalgia — it's about what memory is actually for.", "Literary fiction's prestige depends on a distinction from genre fiction that has never been coherent. Make the case for abolishing the category.", "The personal essay has become a confession economy — writers trading trauma for attention. What has been lost in the transaction?"], personal: ["Write about a place you knew well that no longer exists — not destroyed, just changed — and what it means that the place and your memory of it have diverged.", "Write about the version of yourself you thought you'd be by now. Not as lament — as honest accounting.", "Write about a piece of writing that changed how you saw something. Not what it said, but what it did to how you thought.", "Write about a time you were wrong about something important — not in retrospect, but in the moment of discovering it."], reported: ["Find the person who has been doing the same job in the same place for thirty years. Ask what has changed that nobody has written about.", "Write about a small institution and what it reveals about its community that the community doesn't say explicitly.", "Report on something in slow decline for so long that the decline has become invisible."], travel: ["Write about returning to a place after a long absence and the dissonance between the place as it is and as it exists in your memory.", "Write about a conversation with a stranger in a place you were passing through — the particular intimacy of talks with people you'll never see again.", "Write about a place you went to for one reason and discovered something entirely different."], opening: ["I have been to this place three times. Each time I have been a different person. The place has not changed enough to account for this.", "The thing I'm about to argue is probably wrong in at least two ways. I'm going to make it anyway.", "There is a version of this story that makes me look good. I've told that version. This is a different version.", "I didn't understand what I was looking at until I'd been looking at it for two years."] };
+  var hubEiCat = 'argument';
+  document.getElementById('hub-ei-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-ei-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubEiCat = pill.dataset.value;
+  });
+  document.getElementById('hub-ei-gen').addEventListener('click', function() {
+    var bank = hubEiData[hubEiCat] || hubEiData['argument'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-ei-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign bucket = site.posts | where: "genre", "Non-Fiction" %}
 {% if bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">

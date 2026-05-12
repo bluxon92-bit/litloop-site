@@ -1,0 +1,197 @@
+---
+layout: default
+title: Young Adult Writing Prompt Generator
+description: Free young adult writing prompt generator. Generate prompts for YA fiction — coming-of-age stories, identity, friendships, first loves, and finding your place.
+permalink: /tools/ya-prompts/
+---
+
+<div class="tool-hero tool-hero--ya">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Young Adult Writing<br><em>Prompt Generator</em></h1>
+    <p>Beat writer's block instantly. Generate prompts for YA fiction — coming-of-age, identity, friendship, first love, and the years when everything feels like it matters most.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="prompt-gen-card">
+
+      <div class="prompt-controls">
+        <div class="control-group">
+          <label>Category</label>
+          <div class="pill-group" id="yap-category">
+            <button class="pill active" data-value="plot">Plot</button>
+            <button class="pill" data-value="character">Character</button>
+            <button class="pill" data-value="comingofage">Coming-of-Age</button>
+            <button class="pill" data-value="opening">Opening Line</button>
+          </div>
+        </div>
+
+        <button class="btn-generate" id="yap-generate">
+          <span class="btn-generate-icon">✦</span>
+          Generate Prompt
+        </button>
+      </div>
+
+      <div class="prompt-output" id="yap-output">
+        <p class="ng-placeholder">Select a category, then hit Generate Prompt.</p>
+      </div>
+
+      <div class="prompt-actions" id="yap-actions" style="display:none;">
+        <button class="btn-copy" id="yap-copy">Copy prompt</button>
+        <button class="btn-save" id="yap-save">Save ♡</button>
+        <button class="btn-regen" id="yap-regen">New prompt ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="saved-prompts-card" id="yap-saved-wrap" style="display:none;">
+        <h4>Saved prompts <button class="btn-clear" id="yap-clear-saved">Clear all</button></h4>
+        <div id="yap-saved-list"></div>
+      </div>
+      <div class="sidebar-card">
+        <h3>Writing YA that works</h3>
+        <ul>
+          <li>YA protagonists have agency — they make choices that drive the plot, not just react to it</li>
+          <li>Don't condescend — teenagers are reading for truth, not reassurance</li>
+          <li>The internal stakes need to feel as high as the external ones</li>
+          <li>Voice is everything in YA — get the narrator's voice right before anything else</li>
+          <li>The best YA doesn't talk down to its readers. It trusts them completely.</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--litloop">
+        <h3>Also on Litloop</h3>
+        <a href="{{ '/tools/contemporary-prompts/' | relative_url }}" class="sidebar-link">Contemporary Fiction Prompts →</a>
+        <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" class="sidebar-link">Fantasy Prompt Generator →</a>
+        <a href="{{ '/genres/young-adult/' | relative_url }}" class="sidebar-link">Explore Young Adult Books →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+const yapPrompts = {
+  plot: [
+    "A teenager discovers that the letters they've been writing to a pen pal for three years — a programme through their school — have been going to someone in their own year group. Someone they thought they knew.",
+    "The summer before university, five friends make a list of everything they want to do before they leave. The list starts as a joke. By the end of August, only one item remains undone — and it's the only one that actually mattered.",
+    "A sixteen-year-old who has always been defined by their older sibling's reputation transfers to a new school where nobody knows the sibling. They have four months to work out who they are without the comparison.",
+    "A teenager discovers their parents are planning to move the family abroad — and has six weeks to decide whether to go with them or accept an offer to live with their aunt and finish school where they grew up.",
+    "A school's drama production casts two people who despise each other in the lead roles. The play is about two people who fall in love. Rehearsals start on Monday.",
+    "A girl who has always been studious and invisible decides, in the last year of school, to actually try to be noticed. She is not prepared for what being noticed involves.",
+    "A teenager caring for a sick parent who is also trying to keep it secret from their friends — and the moment the secret stops being keepable.",
+    "Two childhood best friends start secondary school and drift into different social groups. The novel covers the year they spend pretending this is fine.",
+  ],
+  character: [
+    "A teenager who is good at everything and has never failed at anything, encountering for the first time something they cannot immediately master.",
+    "A seventeen-year-old who has been the mediator in their family since they were eight — absorbing everyone else's conflict, keeping the peace — who is running out of capacity.",
+    "A teenager who moved to a new school two years ago, has never quite found their people, and has stopped expecting to — until something small and unexpected shifts.",
+    "A girl whose best friend has become someone different over the summer and who must decide whether to adapt to who her friend is becoming or acknowledge that the friendship has run its course.",
+    "A sixteen-year-old who has had everything planned — university, career, trajectory — and who has a genuine crisis of confidence about whether they actually want any of it.",
+    "A teenager who has always been the funny one using humour to keep people at exactly the right distance — and the person who starts getting closer anyway.",
+    "A boy who has been told his whole life he takes after a parent he has complicated feelings about — and the year he decides to find out if that's true.",
+    "A teenager who is out to some people and not others and who is beginning to find the management of this exhausting in a way they weren't expecting.",
+  ],
+  comingofage: [
+    "The moment a teenager realises their parent is a person — not just a parent — and what to do with that realisation.",
+    "A summer job that turns out to be the most formative experience of a teenager's life, for reasons that have nothing to do with the job itself.",
+    "The last night of the last summer before everything changes — written in real time, from dusk to dawn, with the understanding that the characters know this is the last night even if they're not saying it.",
+    "A teenager who has always defined themselves in opposition to their hometown — who hates it, can't wait to leave, counts the days — who has something happen in the last months before they go that complicates this.",
+    "The first genuine failure of a teenager who has always succeeded — and the months that follow, which are harder and more important than the failure itself.",
+    "A teenager making a decision that their parents would forbid, for reasons they cannot fully articulate but are entirely right about.",
+    "The conversation a teenager has with an elderly relative — a grandparent, a great-aunt — that they will think about for the rest of their life, and don't know it at the time.",
+    "A teenager who reads something — a book, a letter, a diary — that reframes everything they thought they understood about their family.",
+  ],
+  opening: [
+    "The summer I turned seventeen, two things happened. The first one I've told people about. The second one I haven't.",
+    "My best friend stopped being my best friend on a Tuesday in October. She didn't know this. I didn't tell her for four months.",
+    "I had a plan for the last year of school. The plan did not include him.",
+    "There are things you can say to someone and take back. There are things you can't. I said one of the second kind on the last day of term.",
+    "I was invisible for the first three years of secondary school. Then, in year ten, I accidentally said something true in front of the wrong person and everything changed.",
+    "We'd been best friends since we were seven. In year eleven, I realised I had no idea who she was.",
+    "My sister had already done everything I was supposed to do, better than I was going to do it. I decided this was her problem, not mine. I spent the whole year discovering I was wrong.",
+    "The new girl sat next to me on the first day and immediately told me something she'd never told anyone. I've been thinking about why she did that ever since.",
+  ]
+};
+
+let yapCurrentCategory = 'plot';
+let yapSavedPrompts = [];
+
+document.getElementById('yap-category').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#yap-category .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  yapCurrentCategory = pill.dataset.value;
+});
+
+function yapGenerate() {
+  const bank = yapPrompts[yapCurrentCategory];
+  if (!bank) return;
+  const prompt = bank[Math.floor(Math.random() * bank.length)];
+  const output = document.getElementById('yap-output');
+  output.innerHTML = '';
+  const catLabel = document.querySelector('#yap-category .pill.active').textContent;
+  const meta = document.createElement('div');
+  meta.className = 'prompt-meta';
+  meta.innerHTML = `<span class="prompt-tag">${catLabel}</span>`;
+  const text = document.createElement('p');
+  text.className = 'prompt-text';
+  text.textContent = prompt;
+  output.appendChild(meta);
+  output.appendChild(text);
+  output.dataset.current = prompt;
+  document.getElementById('yap-actions').style.display = 'flex';
+}
+
+document.getElementById('yap-generate').addEventListener('click', yapGenerate);
+document.getElementById('yap-regen').addEventListener('click', yapGenerate);
+
+document.getElementById('yap-copy').addEventListener('click', () => {
+  const prompt = document.getElementById('yap-output').dataset.current;
+  if (!prompt) return;
+  navigator.clipboard.writeText(prompt).then(() => {
+    const btn = document.getElementById('yap-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy prompt', 1500);
+  });
+});
+
+document.getElementById('yap-save').addEventListener('click', () => {
+  const prompt = document.getElementById('yap-output').dataset.current;
+  if (!prompt || yapSavedPrompts.includes(prompt)) return;
+  yapSavedPrompts.unshift(prompt);
+  if (yapSavedPrompts.length > 10) yapSavedPrompts = yapSavedPrompts.slice(0, 10);
+  yapUpdateSaved();
+  const btn = document.getElementById('yap-save');
+  btn.textContent = 'Saved ♥';
+  setTimeout(() => btn.textContent = 'Save ♡', 1500);
+});
+
+document.getElementById('yap-clear-saved').addEventListener('click', () => {
+  yapSavedPrompts = [];
+  yapUpdateSaved();
+});
+
+function yapUpdateSaved() {
+  const wrap = document.getElementById('yap-saved-wrap');
+  const list = document.getElementById('yap-saved-list');
+  if (yapSavedPrompts.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  yapSavedPrompts.forEach(p => {
+    const item = document.createElement('div');
+    item.className = 'saved-item';
+    item.innerHTML = `<p>${p.substring(0, 80)}…</p><button onclick="navigator.clipboard.writeText('${p.replace(/'/g, "\\'")}')">Copy</button>`;
+    list.appendChild(item);
+  });
+}
+
+yapGenerate();
+</script>

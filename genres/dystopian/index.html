@@ -30,6 +30,50 @@ permalink: /genres/dystopian/
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Sci-Fi Writing <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Dystopian fiction is speculative fiction at its most urgent. Use the sci-fi generator — it's built for the same questions.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-dy-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="world">World</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-dy-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-dy-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/scifi-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubDyData = { plot: ["Every civilisation in the galaxy has disappeared at exactly the same stage of technological development. Humanity has just reached that stage.", "A generation ship finds the crew's descendants have developed a religion centred on arrival — but navigation shows they already passed their destination.", "A technology that allows perfect memory recall has been widely adopted. It has also made forgiveness structurally impossible.", "A woman who donated her memories to science wakes to find the donation was incomplete — she still has half of them."], world: ["A post-scarcity Earth where automated systems produce everything anyone needs has discovered a new form of scarcity: meaning.", "A world where digital and physical space merged thirty years ago: everyone has a persistent augmented layer visible to all.", "Faster-than-light travel was invented 200 years ago. Earth is no longer the centre of anything. Write what Earth is now.", "A diagnostic AI has a better track record than any human doctor, but cannot explain its reasoning."], character: ["The last person who remembers what the world was like before the Shift is 140 years old, kept alive by technology she philosophically opposes.", "A civil rights lawyer specialising in AI personhood cases takes on a client who is neither human nor AI.", "An engineer maintaining life support on a long-haul freighter realises someone has been sabotaging her work — carefully, one system at a time."], opening: ["Every civilisation in the galaxy has disappeared at exactly the same stage of technological development. Humanity has just reached that stage.", "The ship had been travelling for 400 years. Navigation showed they'd passed their destination 30 years ago.", "She remembered the world before. She was the only one. This had stopped feeling like an advantage.", "First contact occurred not with a message or a ship, but with a mathematical proof — left inside a prime number."] };
+  var hubDyCat = 'plot';
+  document.getElementById('hub-dy-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-dy-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubDyCat = pill.dataset.value;
+  });
+  document.getElementById('hub-dy-gen').addEventListener('click', function() {
+    var bank = hubDyData[hubDyCat] || hubDyData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-dy-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign dys_posts = site.posts | where: "genre", "Dystopian" %}
 {% if dys_posts.size > 0 %}
 <section class="section" style="background:var(--white); border-top:1px solid var(--border);">

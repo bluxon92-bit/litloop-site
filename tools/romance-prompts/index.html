@@ -1,0 +1,257 @@
+---
+layout: default
+title: Romance Writing Prompt Generator
+description: Free romance writing prompt generator. Generate prompts for contemporary romance, historical romance, enemies-to-lovers, slow burn, and more. Beat writer's block instantly.
+permalink: /tools/romance-prompts/
+---
+
+<div class="tool-hero tool-hero--romance">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Romance Writing<br><em>Prompt Generator</em></h1>
+    <p>Beat writer's block instantly. Generate prompts for meet-cutes, slow burns, enemies-to-lovers, and every shade of romantic conflict — from sweet to spicy.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="prompt-gen-card">
+
+      <div class="prompt-controls">
+        <div class="control-group">
+          <label>Category</label>
+          <div class="pill-group" id="rp-category">
+            <button class="pill active" data-value="plot">Plot</button>
+            <button class="pill" data-value="meetcute">Meet-Cute</button>
+            <button class="pill" data-value="conflict">Conflict</button>
+            <button class="pill" data-value="opening">Opening Line</button>
+          </div>
+        </div>
+
+        <div class="control-group">
+          <label>Tone</label>
+          <div class="tone-slider-wrap">
+            <span class="tone-label tone-label--left">🌸 Sweet</span>
+            <input type="range" id="rp-tone" min="0" max="2" step="1" value="1" class="tone-slider">
+            <span class="tone-label tone-label--right">🔥 Spicy</span>
+          </div>
+          <div class="tone-display" id="rp-tone-display">Slow Burn</div>
+        </div>
+
+        <button class="btn-generate" id="rp-generate">
+          <span class="btn-generate-icon">♡</span>
+          Generate Prompt
+        </button>
+      </div>
+
+      <div class="prompt-output" id="rp-output">
+        <p class="ng-placeholder">Select a category and tone, then hit Generate Prompt.</p>
+      </div>
+
+      <div class="prompt-actions" id="rp-actions" style="display:none;">
+        <button class="btn-copy" id="rp-copy">Copy prompt</button>
+        <button class="btn-save" id="rp-save">Save ♡</button>
+        <button class="btn-regen" id="rp-regen">New prompt ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="saved-prompts-card" id="rp-saved-wrap" style="display:none;">
+        <h4>Saved prompts <button class="btn-clear" id="rp-clear-saved">Clear all</button></h4>
+        <div id="rp-saved-list"></div>
+      </div>
+      <div class="sidebar-card">
+        <h3>Writing romance that works</h3>
+        <ul>
+          <li>The obstacle keeping them apart must feel genuinely insurmountable — otherwise there's no tension</li>
+          <li>Both characters need an internal wound that the other person specifically heals</li>
+          <li>Banter is the language of attraction — but it needs to reveal character, not just be clever</li>
+          <li>The black moment should feel earned — don't manufacture it from a misunderstanding alone</li>
+          <li>The HEA isn't the end of their story — it's the beginning of the story you're not writing</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--litloop">
+        <h3>Also on Litloop</h3>
+        <a href="{{ '/tools/contemporary-prompts/' | relative_url }}" class="sidebar-link">Contemporary Fiction Prompts →</a>
+        <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" class="sidebar-link">Fantasy Prompt Generator →</a>
+        <a href="{{ '/genres/romance/' | relative_url }}" class="sidebar-link">Explore Romance Books →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+const rpToneLabels = ['Sweet', 'Slow Burn', 'Spicy'];
+document.getElementById('rp-tone').addEventListener('input', e => {
+  document.getElementById('rp-tone-display').textContent = rpToneLabels[e.target.value];
+});
+
+const rpPrompts = {
+  plot: {
+    0: [
+      "Two pen pals who have been writing letters for three years finally agree to meet. They discover they live four streets apart and have been circling each other's lives for years without meeting.",
+      "A florist and the owner of the funeral parlour next door have been leaving each other anonymous notes — complaints, at first, then something else — for six months without meeting face to face.",
+      "A woman who swore off dating agrees to help her newly single friend practise dating by going on fake dates. The fake dates become the best dates either of them have ever been on.",
+      "Two strangers are stranded at an airport during a weather delay. They spend eight hours talking. They exchange no personal details — no last names, no numbers. Three months later, they're introduced by mutual friends.",
+      "A woman moves back to her hometown to take care of her mother and discovers her childhood best friend, who she hasn't spoken to in fifteen years, lives next door.",
+    ],
+    1: [
+      "Two people who briefly dated ten years ago — it ended badly, no closure — are assigned to work together on a project that will take three months. They are both convinced they are over it. They are not.",
+      "A woman takes a job as a personal chef. Her client is the one person she hoped she'd never see again. He doesn't remember her. She has spent years being slightly defined by the fact that he didn't remember her.",
+      "A fake dating arrangement between two friends who are both secretly in love with each other goes exactly as wrong as it sounds.",
+      "Two rivals for the same promotion are told they must co-author a project to determine who gets the job. The project goes better than either expected. So does everything else.",
+      "A woman inherits half a bookshop from her grandmother. The other half is owned by someone her grandmother never mentioned.",
+    ],
+    2: [
+      "A woman who has made a career of writing scathing reviews of romantic restaurants is assigned to review one run by someone she had a brief, intense, unresolved encounter with two years ago.",
+      "Two people who met at a wedding, spent the night talking, and agreed on nothing — but agreed to meet again in six months, same place. It is now six months later.",
+      "A woman determined not to fall for her best friend's older brother has been failing at this determination for approximately four years. The brother has been equally determined and equally unsuccessful.",
+      "An arranged marriage between two strangers who are both privately relieved the decision has been made for them — for entirely different reasons they haven't told each other.",
+      "Two people who both show up to claim the same holiday rental. The next available booking is six weeks away. The cottage has one bed.",
+    ]
+  },
+  meetcute: {
+    0: [
+      "She orders the last of something at a coffee shop. He was going to order the same thing. The barista makes them share a table while she decides if she feels guilty enough to give him half.",
+      "He finds a lost dog. The dog's tag has a name and address. He returns it. The dog makes a break for it the moment she opens the door, runs back to him, and sits on his feet.",
+      "They're both hiding from the same work party in the same empty conference room. Neither will admit why. They've been at the same company for two years and have never spoken.",
+      "She asks him to pretend to be her boyfriend for sixty seconds to deter someone at a bar. He does. When the sixty seconds are up, neither of them moves.",
+    ],
+    1: [
+      "They're seated next to each other on a long flight. She hates flying. He hates silence. They talk the entire way. At baggage claim, her bag comes first. She leaves before asking his name.",
+      "He rescues her umbrella from the wind and returns it with the wrong hand, which means they're suddenly standing very close together in the rain with nowhere obvious to go.",
+      "They've been leaving notes on the whiteboard in a shared office kitchen for three weeks — a disagreement about whose lunch is whose that has, gradually, become something else.",
+      "She's a doctor. He's her most exasperating patient. He's been in twice with things that are not emergencies. She's told him this both times. He's come back.",
+    ],
+    2: [
+      "He's a terrible tipper and she's his server. She tells him this directly. He comes back the next night with a better tip and an apology. She tells him the apology is adequate. He comes back again.",
+      "They match on a dating app, chat for two weeks, agree to meet — and discover they already know each other from a context that makes both of them immediately close the app.",
+      "She locks herself out. He's a locksmith. He fixes the lock. She makes him coffee. He fixes the lock wrong on purpose. She notices. Neither of them says anything about it.",
+      "They're the only two people at a terrible party. They spend the evening quietly judging everyone else. At the end of the night, she asks if he'd like to continue this conversation somewhere the music isn't trying to kill them.",
+    ]
+  },
+  conflict: {
+    0: [
+      "She's ready for something serious. He's been hurt before and isn't — but hasn't said this clearly, because saying it clearly would mean admitting he wants to be.",
+      "His family disapproves of her, for reasons that are entirely about them and nothing to do with her. He knows this. He's finding it harder than he expected to say it to their faces.",
+      "She's been offered the job she's always wanted, in a city four hundred miles away. He moved to this city eighteen months ago for her. Neither of them has said this out loud.",
+      "He said something careless six months ago that he's forgotten and she hasn't. She's not sure whether to tell him what it was.",
+    ],
+    1: [
+      "Both of them are protecting themselves from the same thing for the same reason, which means neither of them can say what they need to say first.",
+      "She found out something about his past from someone else — something he would have told her, in time, but hadn't yet. The issue isn't the thing. It's the gap.",
+      "He ended a previous relationship to be with her. She doesn't know this. He doesn't think it's relevant. It is.",
+      "They've been together long enough that the early certainty has worn off, and neither of them has had the courage to replace it with the more complicated thing that's grown in its place.",
+    ],
+    2: [
+      "She's his ex-wife's closest friend. He's known this the whole time. She found out yesterday.",
+      "He's been offered something that would be extraordinary for his career and ordinary for their relationship. She's told him to take it. He doesn't think she means it. She does mean it, and she resents that he doesn't believe her.",
+      "They broke up a year ago, both for good reasons. They've been 'just friends' for a year, both badly. Someone else has asked her out and he's discovering exactly how 'just friends' he isn't.",
+      "She's in love with him. He's in love with her. They've somehow agreed to a relationship with no labels because both of them are too scared to be the one who wants more. Someone else is now providing labels.",
+    ]
+  },
+  opening: {
+    0: [
+      "The thing about meeting your soulmate in a supermarket is that you're carrying a basket of things you'd rather they didn't see.",
+      "She had a rule about dating coworkers. She had several rules. This was the third one she'd broken this week.",
+      "He brought her coffee every morning for a year before she noticed it wasn't from the office machine.",
+      "The wedding invitation arrived on a Monday. The groom had her number. He had not used it. This was, she felt, information.",
+    ],
+    1: [
+      "I'd been in love with my best friend for four years. This was manageable, mostly, until he told me he was in love with someone else — and described, in some detail, exactly the kind of person he meant.",
+      "The problem with fake dating your enemy is that you have to spend a lot of time pretending to find them attractive before you have to spend a lot of time pretending you don't.",
+      "She was everything I'd told myself I wasn't looking for, which meant I'd apparently been telling myself the wrong things for quite some time.",
+      "He was infuriating. He was also, unfortunately, the only person in the room I wanted to talk to, which I took as a personal failing.",
+    ],
+    2: [
+      "We agreed it would be one night. That was eight months ago. We have not discussed this.",
+      "The second time I met him was the first time he remembered me, which told me everything I needed to know and none of the things I wanted to hear.",
+      "She told me she wasn't interested. I believed her. I was also paying very close attention to everything she did after she said it.",
+      "He had three rules about women he worked with. He had broken all three. He was beginning to think the rules had been wrong.",
+    ]
+  }
+};
+
+let rpCurrentCategory = 'plot';
+let rpSavedPrompts = [];
+
+document.getElementById('rp-category').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#rp-category .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  rpCurrentCategory = pill.dataset.value;
+});
+
+function rpGenerate() {
+  const tone = parseInt(document.getElementById('rp-tone').value);
+  const bank = rpPrompts[rpCurrentCategory];
+  if (!bank) return;
+  const arr = Array.isArray(bank) ? bank : (bank[tone] || bank[1]);
+  const prompt = arr[Math.floor(Math.random() * arr.length)];
+  const output = document.getElementById('rp-output');
+  output.innerHTML = '';
+  const catLabel = document.querySelector('#rp-category .pill.active').textContent;
+  const meta = document.createElement('div');
+  meta.className = 'prompt-meta';
+  meta.innerHTML = `<span class="prompt-tag">${catLabel}</span><span class="prompt-tone">${rpToneLabels[tone]}</span>`;
+  const text = document.createElement('p');
+  text.className = 'prompt-text';
+  text.textContent = prompt;
+  output.appendChild(meta);
+  output.appendChild(text);
+  output.dataset.current = prompt;
+  document.getElementById('rp-actions').style.display = 'flex';
+}
+
+document.getElementById('rp-generate').addEventListener('click', rpGenerate);
+document.getElementById('rp-regen').addEventListener('click', rpGenerate);
+
+document.getElementById('rp-copy').addEventListener('click', () => {
+  const prompt = document.getElementById('rp-output').dataset.current;
+  if (!prompt) return;
+  navigator.clipboard.writeText(prompt).then(() => {
+    const btn = document.getElementById('rp-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy prompt', 1500);
+  });
+});
+
+document.getElementById('rp-save').addEventListener('click', () => {
+  const prompt = document.getElementById('rp-output').dataset.current;
+  if (!prompt || rpSavedPrompts.includes(prompt)) return;
+  rpSavedPrompts.unshift(prompt);
+  if (rpSavedPrompts.length > 10) rpSavedPrompts = rpSavedPrompts.slice(0, 10);
+  rpUpdateSaved();
+  const btn = document.getElementById('rp-save');
+  btn.textContent = 'Saved ♥';
+  setTimeout(() => btn.textContent = 'Save ♡', 1500);
+});
+
+document.getElementById('rp-clear-saved').addEventListener('click', () => {
+  rpSavedPrompts = [];
+  rpUpdateSaved();
+});
+
+function rpUpdateSaved() {
+  const wrap = document.getElementById('rp-saved-wrap');
+  const list = document.getElementById('rp-saved-list');
+  if (rpSavedPrompts.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  rpSavedPrompts.forEach(p => {
+    const item = document.createElement('div');
+    item.className = 'saved-item';
+    item.innerHTML = `<p>${p.substring(0, 80)}…</p><button onclick="navigator.clipboard.writeText('${p.replace(/'/g, "\\'")}')">Copy</button>`;
+    list.appendChild(item);
+  });
+}
+
+rpGenerate();
+</script>

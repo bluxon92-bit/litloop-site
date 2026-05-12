@@ -1,0 +1,210 @@
+---
+layout: default
+title: Essay & Ideas Generator — Non-Fiction Writing Prompts
+description: Free non-fiction writing prompt generator. Generate ideas for personal essays, reported pieces, arguments, travel writing, and memoir. Beat writer's block instantly.
+permalink: /tools/essay-ideas/
+---
+
+<div class="tool-hero tool-hero--nonfiction">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Essay &amp; Ideas<br><em>Generator</em></h1>
+    <p>Beat writer's block instantly. Generate ideas for personal essays, arguments, reported pieces, travel writing, and memoir — the full range of non-fiction that actually gets read.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="prompt-gen-card">
+
+      <div class="prompt-controls">
+        <div class="control-group">
+          <label>Category</label>
+          <div class="pill-group" id="ei-category">
+            <button class="pill active" data-value="argument">Argument</button>
+            <button class="pill" data-value="personal">Personal Essay</button>
+            <button class="pill" data-value="reported">Reported Piece</button>
+            <button class="pill" data-value="travel">Place &amp; Journey</button>
+            <button class="pill" data-value="opening">Opening Line</button>
+          </div>
+        </div>
+
+        <button class="btn-generate" id="ei-generate">
+          <span class="btn-generate-icon">✦</span>
+          Generate Idea
+        </button>
+      </div>
+
+      <div class="prompt-output" id="ei-output">
+        <p class="ng-placeholder">Select a category, then hit Generate Idea.</p>
+      </div>
+
+      <div class="prompt-actions" id="ei-actions" style="display:none;">
+        <button class="btn-copy" id="ei-copy">Copy idea</button>
+        <button class="btn-save" id="ei-save">Save ♡</button>
+        <button class="btn-regen" id="ei-regen">New idea ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="saved-prompts-card" id="ei-saved-wrap" style="display:none;">
+        <h4>Saved ideas <button class="btn-clear" id="ei-clear-saved">Clear all</button></h4>
+        <div id="ei-saved-list"></div>
+      </div>
+      <div class="sidebar-card">
+        <h3>Writing non-fiction that works</h3>
+        <ul>
+          <li>The argument should be specific enough to be wrong — vague arguments are unfalsifiable and uninteresting</li>
+          <li>The personal essay isn't about you — it's about the thing you're using yourself to examine</li>
+          <li>In reported pieces, the subject who resists the story is usually the most important one</li>
+          <li>A good travel piece makes you feel the strangeness of the familiar, not just the strangeness of the foreign</li>
+          <li>Memoir is most honest when it admits what the writer can't know for certain</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--litloop">
+        <h3>Also on Litloop</h3>
+        <a href="{{ '/genres/non-fiction/' | relative_url }}" class="sidebar-link">Explore Non-Fiction Books →</a>
+        <a href="{{ '/genres/travel-writing/' | relative_url }}" class="sidebar-link">Explore Travel Writing →</a>
+        <a href="{{ '/genres/biography-memoir/' | relative_url }}" class="sidebar-link">Explore Biography &amp; Memoir →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+const eiPrompts = {
+  argument: [
+    "The case for reading books you disagree with — not to steelman the opposition, but because disagreement is the only way to find out what you actually believe.",
+    "We have outsourced memory to our phones and lost something we haven't fully named yet. The argument isn't nostalgia — it's about what memory is actually for.",
+    "The cult of productivity has made leisure feel like preparation for something else. Write the argument for doing things for their own sake.",
+    "Literary fiction's prestige depends on a distinction from genre fiction that has never been coherent and is becoming less so. Make the case for abolishing the category.",
+    "Expertise has been democratised in ways that are genuinely good and ways that are genuinely bad — and we keep conflating both into a single argument about authority.",
+    "The way we talk about 'work-life balance' assumes the two things are opposed. Write the argument that this framing is the problem.",
+    "Travel writing has always had a colonial dimension that the form hasn't adequately reckoned with. What would it look like if it did?",
+    "The personal essay has become a confession economy — writers trading trauma for attention. Make the argument about what's been lost in the transaction.",
+    "We tell children that reading is important without telling them why. Write the honest version — including the reasons that make adults uncomfortable.",
+    "The things we are nostalgic for were usually not as good as we remember. And yet nostalgia is doing real cultural work. What work, exactly?",
+  ],
+  personal: [
+    "Write about a place you knew well that no longer exists — not destroyed, just changed beyond recognition — and what it means that the place and your memory of it have diverged.",
+    "Write about something you learned to do as an adult that most people learn as children — and what the lateness of learning it revealed about how you'd been navigating without it.",
+    "Write about the version of yourself you thought you'd be by now. Not as a lament — as an honest accounting of how the version you became is different, and whether that's loss or relief.",
+    "Write about a relationship with someone you could never quite categorise — not a friend, not a stranger, something more specific than either — and what that ambiguity demanded of you.",
+    "Write about a time you were wrong about something important, not in retrospect but in the moment of discovering it — the specific texture of that realisation.",
+    "Write about the thing you do alone that you've never described to anyone — not because it's secret, but because it doesn't fit the version of yourself you present.",
+    "Write about a piece of writing — a book, an essay, a letter — that changed how you saw something. Not what it said, but what it did to how you thought.",
+    "Write about the inheritance you didn't want — a trait, a habit, a way of seeing — that turned out to be useful, or that you have made peace with, or that you are still fighting.",
+  ],
+  reported: [
+    "Find the person who has been doing the same job in the same place for thirty years. Ask them what has changed that nobody has written about.",
+    "Write about a small institution — a library branch, a community pool, a local court — and what it reveals about the community it serves that the community itself doesn't say explicitly.",
+    "Find an expert in something very specific and report on what they know that the rest of us don't — not the subject itself, but what deep expertise in anything does to how a person sees the world.",
+    "Report on a community organised around something — a shared interest, a shared loss, a shared geography — and what the organisation of that community reveals about what people need from each other.",
+    "Find the person arguing the unpopular version of a position everyone holds — not the contrarian, but the person who has thought harder about it than the consensus has.",
+    "Write about what happens in the gap between two things — between diagnosis and treatment, between a law passing and being enforced, between a decision and its consequences.",
+    "Report on something that has been in slow decline for so long that the decline has become invisible — and who, if anyone, is paying attention.",
+    "Find the place where two different communities or systems meet and report on the friction at the junction — the translation difficulties, the mismatched assumptions, the things that fall through.",
+  ],
+  travel: [
+    "Write about the version of a place that exists before tourism arrived — what the infrastructure of tourism has replaced, and what it means that this replacement is often described as development.",
+    "Write about returning to a place after a long absence and the dissonance between the place as it is and the place as it exists in your memory — and which version is more real to you.",
+    "Write about somewhere you've lived rather than visited — and the specific kind of attention that residence demands and enables, compared to the attention of a traveller.",
+    "Write about a journey that didn't go as planned — not as disaster, but as the way that things not going to plan is often how you actually find out what a place is.",
+    "Write about a place you went to for one reason and discovered something entirely different — the gap between the expectation the place generated and the reality it delivered.",
+    "Write about a conversation with a stranger in a place you were passing through — the particular intimacy of conversations with people you will never see again.",
+    "Write about a form of transport — a train, a ferry, a shared taxi — and what the specific conditions of that transport reveal about the place it moves through.",
+    "Write about a place that exists primarily as an idea — in literature, in history, in national mythology — and the experience of encountering the actual geography beneath the idea.",
+  ],
+  opening: [
+    "I have been to this place three times. Each time I have been a different person. The place has not changed enough to account for how different those visits felt.",
+    "My grandmother kept everything. When she died, we discovered she had kept things we didn't know existed — including evidence that the family story we'd been told was incomplete.",
+    "The thing I'm about to argue is probably wrong in at least two specific ways. I'm going to make it anyway, because the alternative is the kind of careful qualification that says nothing.",
+    "I didn't understand what I was looking at until I'd been looking at it for two years.",
+    "There is a version of this story that makes me look good. I've told that version. This is a different version.",
+    "The map and the territory disagreed, which was expected. What I wasn't expecting was how completely the map had colonised my ability to see the territory directly.",
+    "I met her once, for forty minutes, in an airport in 2019. I have thought about what she said on approximately three hundred separate occasions since then.",
+    "This is an essay about a small thing. The small thing is a way of getting at a large thing. The large thing is one I can't approach directly.",
+  ]
+};
+
+let eiCurrentCategory = 'argument';
+let eiSavedPrompts = [];
+
+document.getElementById('ei-category').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#ei-category .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  eiCurrentCategory = pill.dataset.value;
+});
+
+function eiGenerate() {
+  const bank = eiPrompts[eiCurrentCategory];
+  if (!bank) return;
+  const prompt = bank[Math.floor(Math.random() * bank.length)];
+  const output = document.getElementById('ei-output');
+  output.innerHTML = '';
+  const catLabel = document.querySelector('#ei-category .pill.active').textContent;
+  const meta = document.createElement('div');
+  meta.className = 'prompt-meta';
+  meta.innerHTML = `<span class="prompt-tag">${catLabel}</span>`;
+  const text = document.createElement('p');
+  text.className = 'prompt-text';
+  text.textContent = prompt;
+  output.appendChild(meta);
+  output.appendChild(text);
+  output.dataset.current = prompt;
+  document.getElementById('ei-actions').style.display = 'flex';
+}
+
+document.getElementById('ei-generate').addEventListener('click', eiGenerate);
+document.getElementById('ei-regen').addEventListener('click', eiGenerate);
+
+document.getElementById('ei-copy').addEventListener('click', () => {
+  const prompt = document.getElementById('ei-output').dataset.current;
+  if (!prompt) return;
+  navigator.clipboard.writeText(prompt).then(() => {
+    const btn = document.getElementById('ei-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy idea', 1500);
+  });
+});
+
+document.getElementById('ei-save').addEventListener('click', () => {
+  const prompt = document.getElementById('ei-output').dataset.current;
+  if (!prompt || eiSavedPrompts.includes(prompt)) return;
+  eiSavedPrompts.unshift(prompt);
+  if (eiSavedPrompts.length > 10) eiSavedPrompts = eiSavedPrompts.slice(0, 10);
+  eiUpdateSaved();
+  const btn = document.getElementById('ei-save');
+  btn.textContent = 'Saved ♥';
+  setTimeout(() => btn.textContent = 'Save ♡', 1500);
+});
+
+document.getElementById('ei-clear-saved').addEventListener('click', () => {
+  eiSavedPrompts = [];
+  eiUpdateSaved();
+});
+
+function eiUpdateSaved() {
+  const wrap = document.getElementById('ei-saved-wrap');
+  const list = document.getElementById('ei-saved-list');
+  if (eiSavedPrompts.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  eiSavedPrompts.forEach(p => {
+    const item = document.createElement('div');
+    item.className = 'saved-item';
+    item.innerHTML = `<p>${p.substring(0, 80)}…</p><button onclick="navigator.clipboard.writeText('${p.replace(/'/g, "\\'")}')">Copy</button>`;
+    list.appendChild(item);
+  });
+}
+
+eiGenerate();
+</script>

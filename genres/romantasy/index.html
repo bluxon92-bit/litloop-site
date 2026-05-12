@@ -31,6 +31,50 @@ genre_key: romantasy
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Fantasy Writing <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Romantasy lives at the intersection of fantasy and romance. Use the fantasy generator — or try the romance prompts for the emotional core.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-rt-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="world">World</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-rt-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-rt-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubRtData = { plot: ["A chosen one prophecy about two people who have spent the entire story on opposite sides.", "A fated mates bond between two people who would, in any other circumstances, actively choose not to be near each other. The bond doesn't care.", "A peace treaty requires a marriage. Both parties expected to hate each other. The problem is they don't.", "A woman who can read emotions through touch is assigned to work alongside someone whose emotions she cannot read at all."], character: ["A female warrior who has spent years being taken seriously in a world that doesn't — and the first person who takes her seriously in a way that makes her uncertain.", "A morally grey love interest who has done terrible things and knows it, meeting someone who refuses to pretend otherwise.", "A prince raised to see people as pieces on a board who meets someone who cannot be moved, threatened, or predicted."], world: ["A magic system based on emotion — love is the most dangerous force in the world. Everyone knows this. People keep falling in love anyway.", "A court where every alliance is sealed with a bond that can be felt physically — loyalty, betrayal, and love all leave marks.", "Two kingdoms separated by a barrier only certain people can cross. The barrier is weakening. The two people sent to investigate have complicated feelings about each other."], opening: ["The bond snapped into place at the worst possible moment — in the middle of a battle, between two people on opposite sides.", "She had been told her whole life that fated mates were a blessing. She had also been told a lot of things were blessings.", "He was everything she'd been trained to distrust. Her training, she was beginning to suspect, had been incomplete.", "The prophecy named two people. She was one. She'd spent three years looking for the other. She found him."] };
+  var hubRtCat = 'plot';
+  document.getElementById('hub-rt-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-rt-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubRtCat = pill.dataset.value;
+  });
+  document.getElementById('hub-rt-gen').addEventListener('click', function() {
+    var bank = hubRtData[hubRtCat] || hubRtData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-rt-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign bucket = site.posts | where: "genre", "Romantasy" %}
 {% if bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">

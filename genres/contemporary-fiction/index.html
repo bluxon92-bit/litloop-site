@@ -31,6 +31,50 @@ genre_key: contemporary-fiction
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Contemporary Fiction <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Need a spark? Generate a contemporary fiction prompt to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-cfp-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="relationship">Relationship</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-cfp-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-cfp-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/contemporary-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubCfpData = { plot: ["A woman clears out her mother's flat and finds a forty-year correspondence with a person her mother never mentioned.", "Three siblings return home for a funeral and stay in the house they grew up in for four days. The novel is what happens inside it.", "A couple sells the family home. The story is the last weekend they spend in it, room by room.", "A community centre scheduled to close, told through its final six weeks — the people who run it and the people who need it."], character: ["A teacher who has taught the same subject for twenty-two years and this year, for the first time, does not know if they're doing it right.", "A recently retired surgeon who has spent forty years being the most important person in any room and must now learn to be ordinary.", "A person in their late thirties who achieved everything they planned in their twenties and found the planning more sustaining than the arrival."], relationship: ["A long marriage in which both people have quietly changed in opposite directions over twenty years — and the morning one of them notices.", "A friendship that has survived thirty years and a five-year silence — and the afternoon one of them says the thing she's been not saying for decades.", "Two neighbours who have lived next to each other for twelve years and the crisis that changes the distance between them."], opening: ["She had been happy before. She was reasonably sure of this. The evidence for it was thinner than she'd expected to find.", "My mother died on a Tuesday, which was a day she would have hated for the purpose.", "I had been the kind of person who returned calls for forty-three years. I stopped one morning in March and waited to see who noticed.", "The reunion was her idea. She had spent the intervening weeks regretting it."] };
+  var hubCfpCat = 'plot';
+  document.getElementById('hub-cfp-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-cfp-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubCfpCat = pill.dataset.value;
+  });
+  document.getElementById('hub-cfp-gen').addEventListener('click', function() {
+    var bank = hubCfpData[hubCfpCat] || hubCfpData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-cfp-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign bucket = site.posts | where: "genre", "Contemporary Fiction" %}
 {% if bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">

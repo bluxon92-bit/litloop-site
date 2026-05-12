@@ -31,6 +31,50 @@ genre_key: crime-mystery
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Crime &amp; Mystery <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Stuck on a plot? Generate a crime or mystery prompt to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-cp-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="detective">Detective</button>
+        <button class="pill" data-value="setting">Setting</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-cp-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-cp-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/crime-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubCpData = { plot: ["The village fete's prize-winning jam has been switched the night before judging — and the runner-up is suspiciously pleased.", "A retired librarian finds the same handwritten confession tucked inside three returned books. It's unclear what crime it's confessing to.", "A detective retires to a quiet town. Within a week, someone from his past arrives — not to threaten him, but to confess.", "A private investigator discovers three separate clients have hired her to find the same painting — and none will say how they know it exists."], detective: ["A forensic accountant who finds bodies in the numbers before anyone finds them in the physical world.", "A cold case specialist who finds her own name in a file she's reopened — as a witness she has no memory of being.", "A village postman who reads between the lines of everyone's correspondence — not the content, but the patterns."], setting: ["A picture-postcard English village with an officially zero crime rate — maintained by collective agreement not to report anything.", "A private members' club whose members include judges and police officers, bound by comprehensive NDAs.", "A hotel operating for ninety years whose staff have seen everything — but whose loyalty means they've never spoken about most of it."], opening: ["The body was found in the library, which was inconvenient for the book club meeting scheduled that evening.", "The victim had no enemies. This was, in my experience, the most suspicious thing about him.", "She hired me to find her husband. I found him. She then hired me to make sure no one else did.", "He was already dead when I arrived. Not a moral problem. A logistical one."] };
+  var hubCpCat = 'plot';
+  document.getElementById('hub-cp-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-cp-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubCpCat = pill.dataset.value;
+  });
+  document.getElementById('hub-cp-gen').addEventListener('click', function() {
+    var bank = hubCpData[hubCpCat] || hubCpData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-cp-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign bucket = site.posts | where: "genre", "Crime" %}
 {% if bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">

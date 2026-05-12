@@ -31,6 +31,50 @@ genre_key: historical-fiction
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Historical Fiction <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Need a spark? Generate a historical fiction prompt to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-hf-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="era">Era & Setting</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-hf-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-hf-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/historical-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubHfData = { plot: ["A translator working for an occupying army begins passing information to the resistance — not for ideology, but to protect one specific person.", "A forger hired to authenticate a document realises its real contents could reshape a political succession.", "A scribe copying religious texts begins inserting small unauthorised additions in the margins. Decades later, someone finds the manuscript.", "A woman disguised as a man is discovered by a colleague who has kept a similar secret for twenty years."], character: ["A court interpreter who has spent thirty years translating the words of the powerful — always accurately, always without comment.", "A merchant's widow quietly running her late husband's business under his name for three years, because the business would collapse if anyone knew.", "A midwife who knows secrets about paternity that could undo everything a powerful family has built."], era: ["The week before a major city falls — not the battle, but the final days of ordinary life: the people who refuse to leave, those who can't, and those deciding what to take.", "A royal court in the period between a monarch's death and the coronation — six weeks when every alliance is suddenly provisional.", "A port city at the height of the age of exploration, where every ship docks with news of a world being remapped."], opening: ["The document had been in the archive for three hundred years. No one had read it. That was not an accident.", "He had translated a hundred treaties. This was the first one he had translated incorrectly on purpose.", "The city fell on a Wednesday, which surprised everyone, including the people who had planned it.", "I was paid to witness the signing. I was not paid to remember it. I have remembered it anyway, for forty years."] };
+  var hubHfCat = 'plot';
+  document.getElementById('hub-hf-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-hf-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubHfCat = pill.dataset.value;
+  });
+  document.getElementById('hub-hf-gen').addEventListener('click', function() {
+    var bank = hubHfData[hubHfCat] || hubHfData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-hf-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign bucket = site.posts | where: "genre", "Historical Fiction" %}
 {% if bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">

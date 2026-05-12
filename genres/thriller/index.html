@@ -30,6 +30,50 @@ genre_key: thriller
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Thriller <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Stuck on a plot? Generate a thriller prompt to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-tp-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="twist">Twist</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-tp-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-tp-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/thriller-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubTpData = { plot: ["A woman suspects her therapist is using information from their sessions against her — not illegally, not obviously, but in ways she can't quite prove.", "A man discovers his wife has a second phone. He doesn't confront her — he starts tracking her. Three weeks later, it isn't an affair.", "A mid-level analyst flags an anomaly in procurement data. Her supervisor closes the inquiry. Two days later, her access is revoked.", "A woman wakes from a coma to find her physiotherapist has quietly passed her a note: 'Don't trust him.'"], character: ["A forensic linguist who analyses threatening communications realises a series of messages to three recipients were written by the same person — someone she knows.", "A fixer who has spent twenty years keeping other people's secrets discovers someone has started keeping a record of hers.", "An undercover officer embedded in an organised crime network for three years receives orders to withdraw. The orders feel wrong."], twist: ["The narrator has been reliable throughout — except for one thing they've been carefully not mentioning, which changes everything.", "The conspiracy the protagonist has been uncovering is a cover for a different conspiracy. Both sides are using her.", "The evidence was planted to expose the right person in a way that would be admissible. The person who planted it is correct."], opening: ["I'd been married nine years before I found the passport. Not a fake one — mine. A real one, with a photo I didn't remember being taken.", "Three people knew about the operation. One was dead. One had disappeared. I was the third.", "The file shouldn't exist. It definitely shouldn't be on my desk. The person whose name was on it had been dead for six years.", "The car that wasn't following me turned left when I turned left for the third time."] };
+  var hubTpCat = 'plot';
+  document.getElementById('hub-tp-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-tp-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubTpCat = pill.dataset.value;
+  });
+  document.getElementById('hub-tp-gen').addEventListener('click', function() {
+    var bank = hubTpData[hubTpCat] || hubTpData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-tp-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign th_bucket = site.posts | where: "genre", "Thriller" %}
 {% if th_bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">

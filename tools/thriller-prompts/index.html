@@ -1,0 +1,274 @@
+---
+layout: default
+title: Thriller Writing Prompt Generator
+description: Free thriller writing prompt generator. Generate prompts for psychological thrillers, action thrillers, conspiracy plots, and more. Beat writer's block instantly.
+permalink: /tools/thriller-prompts/
+---
+
+<div class="tool-hero tool-hero--thriller">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Thriller Writing<br><em>Prompt Generator</em></h1>
+    <p>Beat writer's block instantly. Generate prompts for psychological thrillers, conspiracies, high-stakes action, and the slow-burn dread of a world that isn't what it seems.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="prompt-gen-card">
+
+      <div class="prompt-controls">
+        <div class="control-group">
+          <label>Category</label>
+          <div class="pill-group" id="tp-category">
+            <button class="pill active" data-value="plot">Plot</button>
+            <button class="pill" data-value="character">Character</button>
+            <button class="pill" data-value="twist">Twist</button>
+            <button class="pill" data-value="setting">Setting</button>
+            <button class="pill" data-value="opening">Opening Line</button>
+          </div>
+        </div>
+
+        <div class="control-group">
+          <label>Tone</label>
+          <div class="tone-slider-wrap">
+            <span class="tone-label tone-label--left">🧠 Psychological</span>
+            <input type="range" id="tp-tone" min="0" max="2" step="1" value="1" class="tone-slider">
+            <span class="tone-label tone-label--right">💥 Action</span>
+          </div>
+          <div class="tone-display" id="tp-tone-display">Conspiracy</div>
+        </div>
+
+        <button class="btn-generate" id="tp-generate">
+          <span class="btn-generate-icon">✦</span>
+          Generate Prompt
+        </button>
+      </div>
+
+      <div class="prompt-output" id="tp-output">
+        <p class="ng-placeholder">Select a category and tone, then hit Generate Prompt.</p>
+      </div>
+
+      <div class="prompt-actions" id="tp-actions" style="display:none;">
+        <button class="btn-copy" id="tp-copy">Copy prompt</button>
+        <button class="btn-save" id="tp-save">Save ♡</button>
+        <button class="btn-regen" id="tp-regen">New prompt ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="saved-prompts-card" id="tp-saved-wrap" style="display:none;">
+        <h4>Saved prompts <button class="btn-clear" id="tp-clear-saved">Clear all</button></h4>
+        <div id="tp-saved-list"></div>
+      </div>
+      <div class="sidebar-card">
+        <h3>Writing thrillers that work</h3>
+        <ul>
+          <li>Raise the stakes in every chapter — the reader should always feel the situation getting worse</li>
+          <li>Your protagonist's flaw should make the danger worse, not better</li>
+          <li>The best conspiracies are boring in their mechanics and terrifying in their implications</li>
+          <li>Withhold information — but never cheat. The reader should feel outsmarted, not cheated</li>
+          <li>Pace is a function of sentence length. Short sentences accelerate. Use them at the right moment.</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--litloop">
+        <h3>Also on Litloop</h3>
+        <a href="{{ '/tools/crime-prompts/' | relative_url }}" class="sidebar-link">Crime & Mystery Prompt Generator →</a>
+        <a href="{{ '/tools/horror-prompts/' | relative_url }}" class="sidebar-link">Horror Prompt Generator →</a>
+        <a href="{{ '/genres/thriller/' | relative_url }}" class="sidebar-link">Explore Thriller Books →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+const tpToneLabels = ['Psychological', 'Conspiracy', 'Action'];
+document.getElementById('tp-tone').addEventListener('input', e => {
+  document.getElementById('tp-tone-display').textContent = tpToneLabels[e.target.value];
+});
+
+const tpPrompts = {
+  plot: {
+    0: [
+      "A woman begins to suspect that her therapist is using information from their sessions against her — not illegally, not obviously, but in small ways that she can't quite prove.",
+      "A man discovers his wife has a second phone. He doesn't confront her. He starts tracking her instead. Three weeks later, he discovers it isn't an affair. It's something worse.",
+      "A journalist receives an anonymous tip about financial fraud at a major institution. The tip is accurate. The source has since disappeared. The institution is her employer.",
+      "A woman who survived a home invasion five years ago begins to believe the man who did it has found her. The police found the original suspect not guilty. She is not sure she believes that verdict.",
+      "A woman wakes from a coma with no memory of the past six months. Her husband tells her she was in an accident. The physiotherapist treating her quietly passes her a note that says 'don't trust him.'",
+    ],
+    1: [
+      "A mid-level government analyst flags an anomaly in procurement data that shouldn't be there. Her supervisor closes the inquiry. Two days later, her access is revoked for unrelated reasons.",
+      "A forensic accountant hired to audit a charity finds that money is flowing correctly in — but not quite correctly out. The discrepancy is tiny. The destination, when he traces it, is not.",
+      "A woman is recruited to a task force investigating a high-profile disappearance. Three weeks in, she realises that two members of her own team are withholding information — from each other, not just from her.",
+      "An intelligence analyst discovers that a classified operation she helped design five years ago is still running — under a different name, with a different stated purpose, and without her knowledge.",
+      "A data breach at a government contractor exposes something that was never supposed to be on the servers — records of an operation officially shut down in 1987.",
+    ],
+    2: [
+      "A security consultant hired to stress-test a bank's systems finds a backdoor that didn't come from the penetration test. Someone else put it there. It has been there for two years.",
+      "A hostage negotiator receives a call from someone claiming to be holding three people in a building she can see from her window. The building appears empty. The call is definitely real.",
+      "An extraction specialist is sent to retrieve an asset. The asset refuses to come. The asset shows her documentation that suggests she is the threat, not the rescue.",
+      "A convoy transporting classified materials is ambushed. The only person who knew the route was the operation commander. The commander is in the convoy.",
+    ]
+  },
+  character: {
+    0: [
+      "A psychiatrist who has been treating a patient for two years begins to suspect the patient has been studying her as carefully as she's been studying them — and for longer.",
+      "A forensic linguist who analyses threatening communications for the police realises that a series of messages sent to three different recipients were all written by the same person — someone she knows.",
+      "A woman who has reinvented herself entirely — new name, new city, new history — after escaping an abusive situation discovers that someone from her old life has found her. The question is which someone.",
+      "A grief counsellor whose own grief is unprocessed begins to recognise, in one of her clients, the same coping mechanisms she uses — including the one she knows is dangerous.",
+    ],
+    1: [
+      "A fixer who solves problems for powerful people has spent twenty years keeping other people's secrets. Someone has started keeping a record of hers.",
+      "An undercover officer who has been embedded in an organised crime network for three years receives orders to withdraw. The orders feel wrong. She doesn't withdraw.",
+      "A whistleblower who went public two years ago and whose case went nowhere is contacted by someone claiming to have the evidence that will make the case undeniable. The someone wants something in return.",
+      "A private security contractor hired to protect a witness discovers that the threat to the witness is coming from the organisation that hired her.",
+    ],
+    2: [
+      "A soldier returned from a classified operation that officially didn't happen begins receiving messages that reference specific details that only someone on the operation could know — including details she never put in any report.",
+      "A logistics coordinator for a criminal network who has never committed a crime directly is given an order that requires her to. She's been telling herself for years that she's not really part of it.",
+      "A former intelligence officer hired as a corporate security consultant discovers that his new employer is running an operation that looks very much like the kind of operation he used to run for governments.",
+      "A bodyguard assigned to protect a technology executive discovers that the executive is not afraid of the threat they described — they are afraid of something else entirely, which they have not mentioned.",
+    ]
+  },
+  twist: {
+    0: [
+      "The narrator has been reliable throughout — every detail accurate, every observation sharp — except for one thing they've been carefully not mentioning, which changes everything that came before.",
+      "The person the protagonist has been trying to protect has known the truth from the beginning and has been managing the protagonist's investigation, not to hide it, but to ensure it reaches the right conclusion.",
+      "The threat is real. The person who warned about it is lying. Both of these things are true simultaneously, which is the most dangerous possible combination.",
+      "The detective solving the crime is the only person in the story who doesn't know they witnessed the critical moment — because they were there for an unrelated reason and didn't realise what they were seeing.",
+    ],
+    1: [
+      "The conspiracy the protagonist has been uncovering is a cover for a different conspiracy. The people running the cover are trying to expose the one beneath it. The protagonist is now in the way of both.",
+      "The document that contains the truth has been in plain sight the entire novel. The reader has been told what it is. The protagonist has read it. Neither of them understood it at the time.",
+      "The antagonist and the protagonist have the same goal. They've been working against each other for the entire novel in service of an outcome neither could achieve alone.",
+      "The leak that started the plot wasn't a betrayal. It was an invitation — sent by someone who needed the investigation to happen and had no other way to start it.",
+    ],
+    2: [
+      "The extraction mission was always going to fail. The real mission — which nobody briefed the protagonist on — required the failure.",
+      "The organisation the protagonist has been fighting is a front for the organisation that hired her. Both organisations know this. She is the only person in the book who doesn't.",
+      "The evidence was planted — not to frame the wrong person, but to expose the right one in a way that would be admissible. The person who planted it is technically a criminal. They are also correct.",
+      "The operation the protagonist has been running has been compromised from the start. The asset who was supposed to be turned has been running the protagonist, not the other way around.",
+    ]
+  },
+  setting: {
+    0: [
+      "A gated community where everyone knows everyone and the homeowners' association has access to security camera footage from every common area — footage that one resident has just discovered is also being watched by someone else.",
+      "A corporate wellness retreat in a remote location where participants' phones are collected on arrival. One participant doesn't hand theirs in. Three days later, they wish they had.",
+      "A prestigious academic conference at a lakeside hotel where three of the delegates share a secret from fifteen years ago, a fourth delegate knows what it is, and a fifth delegate has just arrived who shouldn't be there.",
+    ],
+    1: [
+      "A financial district law firm where the junior associate has just discovered that two senior partners are billing the same client for opposite advice — and that the client is a government body.",
+      "A foreign embassy during a diplomatic crisis, where the staff are confined to the building, communications are monitored, and someone inside has been passing information to the wrong people for months.",
+      "An international shipping hub where the paperwork moves faster than the cargo, where what's declared and what's shipped are often different things, and where a new compliance officer has just started asking the wrong questions.",
+    ],
+    2: [
+      "A military black site officially shut down three years ago that is very clearly still operational, according to the satellite imagery the journalist has just been sent by an anonymous source.",
+      "A border crossing point where the standard procedure has a gap in it that everyone knows about and nobody mentions — and which someone has just started using in a way that suggests they know things they shouldn't.",
+      "A private airport used by exactly the kind of clients who pay for privacy, where a refuelling technician has started photographing tail numbers and the people who get off the planes.",
+    ]
+  },
+  opening: {
+    0: [
+      "I'd been married for nine years before I found the passport. Not a fake one — mine. A real one, with my real name, and a photo I didn't remember being taken.",
+      "She said it was paranoia. I said paranoia implies there's nothing there. We agreed on the word for years. We disagreed about what it meant.",
+      "The message arrived at 3am. I read it. I deleted it. I have been unable to remember a single other detail of that week.",
+      "He told me I was safe. I'd heard that before. The people who said it were usually right. He was the first one I didn't believe.",
+    ],
+    1: [
+      "The file shouldn't exist. It definitely shouldn't be on my desk. The person whose name was on it had been dead for six years.",
+      "Three people knew about the operation. One of them was now dead. One had disappeared. I was the third.",
+      "I found the bug on a Wednesday. By Friday, I needed to decide whether to sweep it or feed it.",
+      "She'd been on the list for four months before anyone noticed. By then, noticing was already too late to be useful.",
+    ],
+    2: [
+      "The car that wasn't following me turned left when I turned left for the third time. I stopped treating it as coincidence.",
+      "The brief said extraction. When I arrived, I understood why they hadn't called it what it was.",
+      "Seven minutes before the building came down, I was still inside it. That wasn't part of the plan. I was beginning to think it was part of someone's plan.",
+      "I've been burned twice. Both times I trusted someone I shouldn't have. Both times I had reasons. I was about to make the same decision for the same reasons.",
+    ]
+  }
+};
+
+let tpCurrentCategory = 'plot';
+let tpSavedPrompts = [];
+
+document.getElementById('tp-category').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#tp-category .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  tpCurrentCategory = pill.dataset.value;
+});
+
+function tpGenerate() {
+  const tone = parseInt(document.getElementById('tp-tone').value);
+  const bank = tpPrompts[tpCurrentCategory];
+  if (!bank) return;
+  const arr = Array.isArray(bank) ? bank : (bank[tone] || bank[1]);
+  const prompt = arr[Math.floor(Math.random() * arr.length)];
+  const output = document.getElementById('tp-output');
+  output.innerHTML = '';
+  const catLabel = document.querySelector('#tp-category .pill.active').textContent;
+  const meta = document.createElement('div');
+  meta.className = 'prompt-meta';
+  meta.innerHTML = `<span class="prompt-tag">${catLabel}</span><span class="prompt-tone">${tpToneLabels[tone]}</span>`;
+  const text = document.createElement('p');
+  text.className = 'prompt-text';
+  text.textContent = prompt;
+  output.appendChild(meta);
+  output.appendChild(text);
+  output.dataset.current = prompt;
+  document.getElementById('tp-actions').style.display = 'flex';
+}
+
+document.getElementById('tp-generate').addEventListener('click', tpGenerate);
+document.getElementById('tp-regen').addEventListener('click', tpGenerate);
+
+document.getElementById('tp-copy').addEventListener('click', () => {
+  const prompt = document.getElementById('tp-output').dataset.current;
+  if (!prompt) return;
+  navigator.clipboard.writeText(prompt).then(() => {
+    const btn = document.getElementById('tp-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy prompt', 1500);
+  });
+});
+
+document.getElementById('tp-save').addEventListener('click', () => {
+  const prompt = document.getElementById('tp-output').dataset.current;
+  if (!prompt || tpSavedPrompts.includes(prompt)) return;
+  tpSavedPrompts.unshift(prompt);
+  if (tpSavedPrompts.length > 10) tpSavedPrompts = tpSavedPrompts.slice(0, 10);
+  tpUpdateSaved();
+  const btn = document.getElementById('tp-save');
+  btn.textContent = 'Saved ♥';
+  setTimeout(() => btn.textContent = 'Save ♡', 1500);
+});
+
+document.getElementById('tp-clear-saved').addEventListener('click', () => {
+  tpSavedPrompts = [];
+  tpUpdateSaved();
+});
+
+function tpUpdateSaved() {
+  const wrap = document.getElementById('tp-saved-wrap');
+  const list = document.getElementById('tp-saved-list');
+  if (tpSavedPrompts.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  tpSavedPrompts.forEach(p => {
+    const item = document.createElement('div');
+    item.className = 'saved-item';
+    item.innerHTML = `<p>${p.substring(0, 80)}…</p><button onclick="navigator.clipboard.writeText('${p.replace(/'/g, "\\'")}')">Copy</button>`;
+    list.appendChild(item);
+  });
+}
+
+tpGenerate();
+</script>

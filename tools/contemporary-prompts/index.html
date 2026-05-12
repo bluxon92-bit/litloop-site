@@ -1,0 +1,197 @@
+---
+layout: default
+title: Contemporary Fiction Writing Prompt Generator
+description: Free contemporary fiction writing prompt generator. Generate prompts for literary fiction set in the present day — relationships, identity, work, and modern life.
+permalink: /tools/contemporary-prompts/
+---
+
+<div class="tool-hero tool-hero--contemporary">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Contemporary Fiction Writing<br><em>Prompt Generator</em></h1>
+    <p>Beat writer's block instantly. Generate prompts for stories about modern life — relationships, work, identity, grief, and the ordinary moments that turn out to matter.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="prompt-gen-card">
+
+      <div class="prompt-controls">
+        <div class="control-group">
+          <label>Category</label>
+          <div class="pill-group" id="cfp-category">
+            <button class="pill active" data-value="plot">Plot</button>
+            <button class="pill" data-value="character">Character</button>
+            <button class="pill" data-value="relationship">Relationship</button>
+            <button class="pill" data-value="opening">Opening Line</button>
+          </div>
+        </div>
+
+        <button class="btn-generate" id="cfp-generate">
+          <span class="btn-generate-icon">✦</span>
+          Generate Prompt
+        </button>
+      </div>
+
+      <div class="prompt-output" id="cfp-output">
+        <p class="ng-placeholder">Select a category, then hit Generate Prompt.</p>
+      </div>
+
+      <div class="prompt-actions" id="cfp-actions" style="display:none;">
+        <button class="btn-copy" id="cfp-copy">Copy prompt</button>
+        <button class="btn-save" id="cfp-save">Save ♡</button>
+        <button class="btn-regen" id="cfp-regen">New prompt ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="saved-prompts-card" id="cfp-saved-wrap" style="display:none;">
+        <h4>Saved prompts <button class="btn-clear" id="cfp-clear-saved">Clear all</button></h4>
+        <div id="cfp-saved-list"></div>
+      </div>
+      <div class="sidebar-card">
+        <h3>Writing contemporary fiction that works</h3>
+        <ul>
+          <li>The external plot should mirror the internal one — what's happening outside should pressure what's happening inside</li>
+          <li>Contemporary fiction lives in specific detail — the brand, the neighbourhood, the year all matter</li>
+          <li>What characters don't say is often more revealing than what they do</li>
+          <li>Give minor characters enough specificity that they feel like they have lives off the page</li>
+          <li>The ending doesn't need resolution — it needs a shift, however small</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--litloop">
+        <h3>Also on Litloop</h3>
+        <a href="{{ '/tools/romance-prompts/' | relative_url }}" class="sidebar-link">Romance Prompt Generator →</a>
+        <a href="{{ '/tools/ya-prompts/' | relative_url }}" class="sidebar-link">YA Prompt Generator →</a>
+        <a href="{{ '/genres/contemporary-fiction/' | relative_url }}" class="sidebar-link">Explore Contemporary Fiction →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+const cfpPrompts = {
+  plot: [
+    "A woman clears out her mother's flat after her death and discovers, in a shoebox, a correspondence she didn't know existed — her mother's letters to a person she never mentioned, spanning forty years.",
+    "A man who has spent twenty years in the same job at the same company is made redundant. The prompt isn't about the job loss. It's about what he does on the first Tuesday when he doesn't have to be anywhere.",
+    "A couple sells the family home their children grew up in. The novel is structured around the last weekend they spend in it, with each chapter moving to a different room.",
+    "Three siblings return to their hometown for a funeral and stay in the house they grew up in for four days. The prompt is what happens in the house, not at the service.",
+    "A woman who has been a carer for her husband for three years is told he has stabilised and will likely recover. She discovers, with some shame, that she doesn't know what to do with this information.",
+    "A forty-year-old who has always been 'the funny one' in their social group stops being funny for a month and discovers who their friends actually are.",
+    "A community centre that has served its neighbourhood for fifty years is scheduled to close. The story is told through the last six weeks of programming — the people who run it and the people who need it.",
+    "A woman reconnects with a childhood friend she fell out with at sixteen and must decide, over the course of a single long lunch, whether the friendship can be rebuilt or whether some things are better left finished.",
+  ],
+  character: [
+    "A middle school teacher who has been teaching the same subject for twenty-two years and who this year, for the first time, does not know if they're doing it right.",
+    "A person in their late thirties who has achieved everything they planned in their twenties and discovered, on achieving it, that the planning was more sustaining than the arrival.",
+    "A woman who moved to a new city for a relationship that then ended, who stayed out of stubbornness, and who is now — three years later — building a life she didn't plan and increasingly doesn't want to leave.",
+    "A recently retired surgeon who has spent forty years being the most important person in any room and must now learn to be ordinary.",
+    "A man whose best friend group has slowly dissolved over fifteen years of marriages, children, and distance, who arranges a reunion and must confront the fact that the group no longer exists in the form he's been mourning.",
+    "A first-generation university student at an institution full of people for whom it's a given, navigating the gap between their home life and their new life without a map.",
+    "A woman who has been the emotional backbone of her family for thirty years — the one who holds things together — who has a minor breakdown and discovers that the family does not know how to help her.",
+    "A person who has always defined themselves by their principles encounters a situation in which acting on their principles will cause harm to someone they love.",
+  ],
+  relationship: [
+    "A long marriage in which both people have quietly changed in opposite directions over twenty years — not dramatically, not through any single event, but through the accumulation of small adjustments — and the morning one of them notices.",
+    "A friendship between two women that has survived thirty years, several cities, two divorces, one serious illness, and a period of five years when they didn't speak — and the afternoon when one of them says the thing she's been not saying for decades.",
+    "A parent and adult child attempting to repair a relationship that broke down when the child was a teenager. Both of them are right about some of it. Neither of them is right about all of it.",
+    "Two colleagues who have worked closely together for eight years, like each other enormously, and have never once met outside the office — and the unexpected situation that makes this feel suddenly strange.",
+    "A woman caring for an elderly parent who was not a good parent — navigating love, obligation, and resentment that has nowhere useful to go.",
+    "Two neighbours who have lived next to each other for twelve years and know each other in the specific, limited way that proximity without intimacy creates — and the crisis that changes this.",
+    "A group of friends in their early forties reckoning with the fact that the dynamics of the group, formed in their twenties, no longer fit who any of them are.",
+    "A man who realises, at his father's funeral, that the version of his father he'd constructed in his head — resentful, two-dimensional — bore little relation to the person other people are describing.",
+  ],
+  opening: [
+    "She had been happy before. She was reasonably sure of this. The evidence for it was thinner than she'd expected to find.",
+    "The house sold faster than they'd thought it would. This left them with a month they hadn't planned for, in a city they were already leaving.",
+    "My mother died on a Tuesday, which was a day she would have hated for the purpose.",
+    "I had been the kind of person who returned calls for forty-three years. I stopped, one morning in March, and waited to see who noticed.",
+    "The reunion was her idea. She had spent the intervening weeks regretting it.",
+    "He had been meaning to say it for six years. He had a lot of practice at the meaning.",
+    "She was the first person in her family to go to university. She was also, she had recently discovered, the first person in her family to find this fact complicated.",
+    "The job offer arrived on the same day as the test result. She made one decision and spent the rest of the year wondering if it had been the wrong one.",
+  ]
+};
+
+let cfpCurrentCategory = 'plot';
+let cfpSavedPrompts = [];
+
+document.getElementById('cfp-category').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#cfp-category .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  cfpCurrentCategory = pill.dataset.value;
+});
+
+function cfpGenerate() {
+  const bank = cfpPrompts[cfpCurrentCategory];
+  if (!bank) return;
+  const prompt = bank[Math.floor(Math.random() * bank.length)];
+  const output = document.getElementById('cfp-output');
+  output.innerHTML = '';
+  const catLabel = document.querySelector('#cfp-category .pill.active').textContent;
+  const meta = document.createElement('div');
+  meta.className = 'prompt-meta';
+  meta.innerHTML = `<span class="prompt-tag">${catLabel}</span>`;
+  const text = document.createElement('p');
+  text.className = 'prompt-text';
+  text.textContent = prompt;
+  output.appendChild(meta);
+  output.appendChild(text);
+  output.dataset.current = prompt;
+  document.getElementById('cfp-actions').style.display = 'flex';
+}
+
+document.getElementById('cfp-generate').addEventListener('click', cfpGenerate);
+document.getElementById('cfp-regen').addEventListener('click', cfpGenerate);
+
+document.getElementById('cfp-copy').addEventListener('click', () => {
+  const prompt = document.getElementById('cfp-output').dataset.current;
+  if (!prompt) return;
+  navigator.clipboard.writeText(prompt).then(() => {
+    const btn = document.getElementById('cfp-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy prompt', 1500);
+  });
+});
+
+document.getElementById('cfp-save').addEventListener('click', () => {
+  const prompt = document.getElementById('cfp-output').dataset.current;
+  if (!prompt || cfpSavedPrompts.includes(prompt)) return;
+  cfpSavedPrompts.unshift(prompt);
+  if (cfpSavedPrompts.length > 10) cfpSavedPrompts = cfpSavedPrompts.slice(0, 10);
+  cfpUpdateSaved();
+  const btn = document.getElementById('cfp-save');
+  btn.textContent = 'Saved ♥';
+  setTimeout(() => btn.textContent = 'Save ♡', 1500);
+});
+
+document.getElementById('cfp-clear-saved').addEventListener('click', () => {
+  cfpSavedPrompts = [];
+  cfpUpdateSaved();
+});
+
+function cfpUpdateSaved() {
+  const wrap = document.getElementById('cfp-saved-wrap');
+  const list = document.getElementById('cfp-saved-list');
+  if (cfpSavedPrompts.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  cfpSavedPrompts.forEach(p => {
+    const item = document.createElement('div');
+    item.className = 'saved-item';
+    item.innerHTML = `<p>${p.substring(0, 80)}…</p><button onclick="navigator.clipboard.writeText('${p.replace(/'/g, "\\'")}')">Copy</button>`;
+    list.appendChild(item);
+  });
+}
+
+cfpGenerate();
+</script>

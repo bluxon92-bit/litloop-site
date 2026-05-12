@@ -1,0 +1,287 @@
+---
+layout: default
+title: Crime & Mystery Writing Prompt Generator
+description: Free crime and mystery writing prompt generator. Generate prompts for cosy mysteries, noir thrillers, detective fiction, and more. Beat writer's block instantly.
+permalink: /tools/crime-prompts/
+---
+
+<div class="tool-hero tool-hero--crime">
+  <div class="tool-hero-inner">
+    <div class="tool-label">
+      <span class="tool-label-line"></span>
+      <span>Writer's Tool</span>
+    </div>
+    <h1>Crime & Mystery Writing<br><em>Prompt Generator</em></h1>
+    <p>Beat writer's block instantly. Generate prompts for cosy mysteries, hardboiled noir, detective fiction, and psychological crime — from charming to brutal.</p>
+  </div>
+</div>
+
+<section class="tool-body">
+  <div class="tool-body-inner">
+
+    <div class="prompt-gen-card">
+
+      <div class="prompt-controls">
+        <div class="control-group">
+          <label>Category</label>
+          <div class="pill-group" id="cp-category">
+            <button class="pill active" data-value="plot">Plot</button>
+            <button class="pill" data-value="detective">Detective</button>
+            <button class="pill" data-value="suspect">Suspect</button>
+            <button class="pill" data-value="setting">Setting</button>
+            <button class="pill" data-value="opening">Opening Line</button>
+          </div>
+        </div>
+
+        <div class="control-group">
+          <label>Tone</label>
+          <div class="tone-slider-wrap">
+            <span class="tone-label tone-label--left">🫖 Cosy</span>
+            <input type="range" id="cp-tone" min="0" max="2" step="1" value="1" class="tone-slider">
+            <span class="tone-label tone-label--right">🥃 Noir</span>
+          </div>
+          <div class="tone-display" id="cp-tone-display">Hardboiled</div>
+        </div>
+
+        <button class="btn-generate" id="cp-generate">
+          <span class="btn-generate-icon">🔍</span>
+          Generate Prompt
+        </button>
+      </div>
+
+      <div class="prompt-output" id="cp-output">
+        <p class="ng-placeholder">Select a category and tone, then hit Generate Prompt.</p>
+      </div>
+
+      <div class="prompt-actions" id="cp-actions" style="display:none;">
+        <button class="btn-copy" id="cp-copy">Copy prompt</button>
+        <button class="btn-save" id="cp-save">Save ♡</button>
+        <button class="btn-regen" id="cp-regen">New prompt ↻</button>
+      </div>
+
+    </div>
+
+    <div class="tool-sidebar">
+      <div class="saved-prompts-card" id="cp-saved-wrap" style="display:none;">
+        <h4>Saved prompts <button class="btn-clear" id="cp-clear-saved">Clear all</button></h4>
+        <div id="cp-saved-list"></div>
+      </div>
+      <div class="sidebar-card">
+        <h3>Writing crime that works</h3>
+        <ul>
+          <li>Plant your clues fairly — the reader should be able to solve it in retrospect</li>
+          <li>The detective's flaw should be inseparable from their gift</li>
+          <li>Setting is character in crime fiction — let the place generate the plot</li>
+          <li>The best red herrings are more compelling than the real solution</li>
+          <li>Know your ending before you plant your first clue</li>
+        </ul>
+      </div>
+      <div class="sidebar-card sidebar-card--litloop">
+        <h3>Also on Litloop</h3>
+        <a href="{{ '/tools/thriller-prompts/' | relative_url }}" class="sidebar-link">Thriller Prompt Generator →</a>
+        <a href="{{ '/tools/horror-prompts/' | relative_url }}" class="sidebar-link">Horror Prompt Generator →</a>
+        <a href="{{ '/genres/crime-mystery/' | relative_url }}" class="sidebar-link">Explore Crime & Mystery Books →</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<script>
+const cpToneLabels = ['Cosy', 'Hardboiled', 'Noir'];
+document.getElementById('cp-tone').addEventListener('input', e => {
+  document.getElementById('cp-tone-display').textContent = cpToneLabels[e.target.value];
+});
+
+const cpPrompts = {
+  plot: {
+    0: [
+      "The village fete's prize-winning jam has been switched the night before judging. The jam-maker is devastated. Her neighbour is suspiciously smug. The village vicar has jam on his cassock.",
+      "A retired librarian discovers that three books returned to her local library in the past month all contain the same handwritten note tucked inside. The note is a confession — but to what isn't clear.",
+      "The new owner of a seaside B&B finds a collection of personal diaries hidden beneath the floorboards. The last entry describes a crime that appears to have gone unsolved for forty years.",
+      "A death at the local book club is initially ruled natural causes. The victim had just finished reading the club's current selection — a mystery novel with a suspiciously similar plot.",
+      "The winner of the village bake-off drops dead at the prize-giving. The runner-up had very publicly threatened to 'do something drastic' if she lost again. The something drastic was apparently not this.",
+    ],
+    1: [
+      "A private investigator hired to find a missing painting discovers that three different clients have separately hired her to find the same painting — and none of them will say how they know it exists.",
+      "A body is found in a locked hotel room with no signs of forced entry. The victim had checked in under a false name, paid cash, and had no phone. The only personal item found was a list of six names.",
+      "A journalist investigating a cold case disappears three days after telling her editor she'd 'found something that changed everything.' Her notes are gone. Her source contacts have disconnected their numbers.",
+      "A detective retires and moves to a quiet town. Within a week, someone from his past arrives — not to threaten him, but to confess to a crime he spent twenty years trying to solve.",
+      "An insurance investigator flagging a suspicious claim realises the fraud is far more organised than one policy. The trail leads back to a company whose board includes two former police commissioners.",
+    ],
+    2: [
+      "A contract killer accepts a job, then discovers the target has already hired someone to kill their would-be assassin. Both trails lead back to the same client.",
+      "A detective is handed a case by her superior — then discovers her superior's name is in the victim's address book, in a section marked 'people who knew'.",
+      "A man confesses to a murder he didn't commit to protect someone. The real killer, watching the trial, realises someone else is taking the blame — and decides to make sure they're convicted.",
+      "A city crime boss is found dead in his own vault. The money is untouched. His three lieutenants each had means, motive, and opportunity — and each is convinced one of the others did it.",
+      "A detective solves a murder and gets the conviction. Two years later, new evidence suggests the wrong person is in prison. The evidence also implicates the detective.",
+    ]
+  },
+  detective: {
+    0: [
+      "A retired schoolteacher turned amateur sleuth whose superpower is remembering exactly what everyone was wearing at exactly what time — a gift her neighbours find charming and the local police find unsettling.",
+      "A village postman who reads between the lines of everyone's correspondence — not the content, which he'd never betray, but the patterns. He knows things are wrong before anyone else does.",
+      "A soft-spoken antiques dealer who can date almost anything by touch and smell — and who has begun to notice that several recently-sold 'antiques' are not antique at all.",
+      "An amateur detective whose method is simple: she asks the questions everyone else considers too rude to ask. She has solved eleven cases in four years and made seventeen enemies.",
+    ],
+    1: [
+      "A forensic accountant who finds bodies in the numbers before anyone finds them in the physical world — and who is beginning to suspect her current client is the criminal, not the victim.",
+      "A detective who spent twenty years building an informant network and can no longer tell the difference between intel and rumour. She knows something is wrong. She can't prove any of it.",
+      "A cold case specialist who reopens old files nobody wants reopened. She has made a career of it. This time, one of the files has her own name in it — as a witness, not a suspect. She doesn't remember the incident.",
+      "A defence attorney who is very good at her job and occasionally suspects her clients are guilty. She defends them anyway. Then one of them commits a second crime.",
+    ],
+    2: [
+      "A former detective turned fixerfor a criminal organisation — because the organisation pays better and asks fewer moral questions. He still has the same instincts. The instincts are a problem.",
+      "A detective who has been working the same beat for thirty years. She knows where every body is buried — literally. A new superintendent has just arrived who wants to clean things up.",
+      "An investigator hired by a crime family to find out who is stealing from them. She finds out. The answer means she knows too much to leave the job alive.",
+      "A forensic psychologist who profiles killers for the police and has started to notice that one of the detectives she works with matches the profile of the case they're currently investigating.",
+    ]
+  },
+  suspect: {
+    0: [
+      "The victim's oldest friend, who has an alibi backed by six witnesses — all of whom she organised herself, for reasons she claims are entirely unrelated.",
+      "The local handyman who was in the house three days before the death 'fixing a tap,' and who has lived in the village for fifteen years without anyone knowing anything about his life before he arrived.",
+      "The victim's adult child, who stands to inherit considerably, and who was the last person seen speaking to the deceased — a conversation described by witnesses as 'animated.'",
+      "The sweet elderly neighbour who brings soup to everyone and notices everything, and who mentioned, very casually, that she saw something that night — but can't quite remember what.",
+    ],
+    1: [
+      "A business partner with an airtight alibi and an expression that never quite matches what he's saying. He is helpful, cooperative, and completely unreadable.",
+      "A person of interest who the detective knows is lying — but whose lie is protecting something that has nothing to do with the murder.",
+      "A witness who came forward voluntarily, whose account is internally consistent, and who the detective cannot shake — but whose story contradicts three separate pieces of physical evidence.",
+      "The victim's estranged sibling, who flew in two days before the death, claims it was for a reconciliation, and has not produced a single piece of evidence to support this.",
+    ],
+    2: [
+      "A career criminal with no obvious connection to the victim, who was photographed near the scene but can explain it — with an explanation that, if true, implicates someone far more dangerous.",
+      "A suspect who confessed immediately, in full detail, and whose confession is almost certainly false. The question is whether they're protecting someone or setting someone up.",
+      "Someone who didn't commit this crime but has committed others — and whose guilt about the others is making them look guilty for a crime they didn't do.",
+      "A person the detective personally vouches for. The evidence is pointing directly at them. The detective cannot tell whether she's right to trust her judgement or wrong.",
+    ]
+  },
+  setting: {
+    0: [
+      "A picture-postcard English village where everyone knows everyone and the crime rate is officially zero — a statistic that is maintained by the village's collective agreement not to officially report anything.",
+      "A travelling book fair, moving from town to town, whose regular vendors have formed a tight-knit community with old grudges, secret debts, and an informal economy the taxman knows nothing about.",
+      "A small island community accessible only by ferry, where the ferry doesn't run in winter — and the death happened in November.",
+      "A prestigious flower show whose competitors have been known to do extraordinary things to ensure their entries win. This year, someone has done something extraordinary.",
+    ],
+    1: [
+      "A hotel that has been operating for ninety years and whose staff have seen everything — but whose loyalty to the institution means they've never spoken about most of it.",
+      "A city archive where documents from several decades of municipal history are stored. Someone has been systematically removing files. The archivist has been too afraid to report it.",
+      "A private members' club whose members include judges, senior police officers, and three sitting politicians — and whose staff are bound by the most comprehensive NDAs anyone has ever seen.",
+      "A mid-sized city's art scene: galleries, collectors, restorers, and forgers all operating within a few square miles, with money, reputation, and occasionally freedom at stake.",
+    ],
+    2: [
+      "A port city where the cargo that moves through matters less than the paperwork that moves with it — and where the people who process the paperwork know exactly which manifests to lose.",
+      "A prison where a murder has been committed — among a population where everyone is already there for something, and where the usual investigative assumptions don't apply.",
+      "A decommissioned industrial site being redeveloped, where construction keeps turning up things no one expected — and where the developers are very keen to keep the schedule on track.",
+      "A city neighbourhood undergoing rapid gentrification, where the old community and the new money are in direct conflict — and where someone with something to hide is using the chaos of transition to cover their tracks.",
+    ]
+  },
+  opening: {
+    0: [
+      "The body was found in the library, which was inconvenient for the book club meeting scheduled for that evening.",
+      "Everyone in the village agreed that Margery would never hurt a fly. Margery had hurt considerably more than a fly.",
+      "The jam had been poisoned, which was unusual. What was more unusual was that three people had already eaten it and were absolutely fine.",
+      "I had solved fourteen mysteries from my armchair. This was the first one that required me to actually leave it.",
+      "The note said 'Ask the vicar.' I asked the vicar. The vicar suggested I ask the churchwarden. The churchwarden was dead.",
+    ],
+    1: [
+      "The client told me she didn't know who had taken the money. I believed her. I also believed she knew exactly where it had gone.",
+      "Three people saw the same thing from three different windows. They gave three completely different accounts. Only one of them was lying. I needed to work out which lie was deliberate.",
+      "The victim had no enemies. This was, in my experience, the most suspicious thing about him.",
+      "She hired me to find her husband. I found him. She then hired me to make sure no one else did.",
+      "The case was cold. So was the coffee on my desk. I drank the coffee anyway. Some things you do out of habit.",
+    ],
+    2: [
+      "I'd been in worse rooms than this. Not many, but enough that I knew to check the exits first.",
+      "She said she needed someone discreet. I needed someone who paid upfront. We came to an understanding.",
+      "The city has a way of filing things — bodies, evidence, witnesses — where no one will find them. I'd spent twenty years learning the filing system.",
+      "He was already dead when I arrived, which was a problem. Not a moral problem. A logistical one.",
+      "I had two rules: don't work for free, and don't work for people who need two investigators. She'd already hired someone else. I took the job anyway.",
+    ]
+  }
+};
+
+function cpGetPrompt(category, tone) {
+  const bank = cpPrompts[category];
+  if (!bank) return null;
+  if (Array.isArray(bank)) return bank[Math.floor(Math.random() * bank.length)];
+  const toneBank = bank[tone];
+  return toneBank[Math.floor(Math.random() * toneBank.length)];
+}
+
+let cpCurrentCategory = 'plot';
+let cpSavedPrompts = [];
+
+document.getElementById('cp-category').addEventListener('click', e => {
+  const pill = e.target.closest('.pill');
+  if (!pill) return;
+  document.querySelectorAll('#cp-category .pill').forEach(p => p.classList.remove('active'));
+  pill.classList.add('active');
+  cpCurrentCategory = pill.dataset.value;
+});
+
+function cpGenerate() {
+  const tone = parseInt(document.getElementById('cp-tone').value);
+  const prompt = cpGetPrompt(cpCurrentCategory, tone);
+  if (!prompt) return;
+  const output = document.getElementById('cp-output');
+  output.innerHTML = '';
+  const catLabel = cpCurrentCategory.charAt(0).toUpperCase() + cpCurrentCategory.slice(1);
+  const meta = document.createElement('div');
+  meta.className = 'prompt-meta';
+  meta.innerHTML = `<span class="prompt-tag">${catLabel}</span><span class="prompt-tone">${cpToneLabels[tone]}</span>`;
+  const text = document.createElement('p');
+  text.className = 'prompt-text';
+  text.textContent = prompt;
+  output.appendChild(meta);
+  output.appendChild(text);
+  output.dataset.current = prompt;
+  document.getElementById('cp-actions').style.display = 'flex';
+}
+
+document.getElementById('cp-generate').addEventListener('click', cpGenerate);
+document.getElementById('cp-regen').addEventListener('click', cpGenerate);
+
+document.getElementById('cp-copy').addEventListener('click', () => {
+  const prompt = document.getElementById('cp-output').dataset.current;
+  if (!prompt) return;
+  navigator.clipboard.writeText(prompt).then(() => {
+    const btn = document.getElementById('cp-copy');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy prompt', 1500);
+  });
+});
+
+document.getElementById('cp-save').addEventListener('click', () => {
+  const prompt = document.getElementById('cp-output').dataset.current;
+  if (!prompt || cpSavedPrompts.includes(prompt)) return;
+  cpSavedPrompts.unshift(prompt);
+  if (cpSavedPrompts.length > 10) cpSavedPrompts = cpSavedPrompts.slice(0, 10);
+  cpUpdateSaved();
+  const btn = document.getElementById('cp-save');
+  btn.textContent = 'Saved ♥';
+  setTimeout(() => btn.textContent = 'Save ♡', 1500);
+});
+
+document.getElementById('cp-clear-saved').addEventListener('click', () => {
+  cpSavedPrompts = [];
+  cpUpdateSaved();
+});
+
+function cpUpdateSaved() {
+  const wrap = document.getElementById('cp-saved-wrap');
+  const list = document.getElementById('cp-saved-list');
+  if (cpSavedPrompts.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  list.innerHTML = '';
+  cpSavedPrompts.forEach(p => {
+    const item = document.createElement('div');
+    item.className = 'saved-item';
+    item.innerHTML = `<p>${p.substring(0, 80)}…</p><button onclick="navigator.clipboard.writeText('${p.replace(/'/g, "\\'")}')">Copy</button>`;
+    list.appendChild(item);
+  });
+}
+
+cpGenerate();
+</script>

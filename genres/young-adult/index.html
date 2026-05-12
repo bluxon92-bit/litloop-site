@@ -31,6 +31,50 @@ genre_key: young-adult
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Young Adult <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Need a spark? Generate a YA writing prompt to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-yap-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="comingofage">Coming-of-Age</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-yap-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-yap-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/ya-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubYapData = { plot: ["A teenager discovers the letters they've been writing to a pen pal for three years have been going to someone in their own year group. Someone they thought they knew.", "Five friends make a list of everything they want to do before they leave for university. Only one item remains undone by August — and it's the one that actually mattered.", "A school drama production casts two people who despise each other in the lead roles. The play is about two people who fall in love.", "A teenager caring for a sick parent tries to keep it secret from their friends — and the moment the secret stops being keepable."], character: ["A teenager who is good at everything encountering, for the first time, something they cannot immediately master.", "A seventeen-year-old who has been the family peacemaker since they were eight and is running out of capacity.", "A girl whose best friend has become someone different over the summer — and who must decide whether to adapt or acknowledge the friendship has run its course."], comingofage: ["The moment a teenager realises their parent is a person — not just a parent — and what to do with that.", "A summer job that turns out to be the most formative experience of a teenager's life, for reasons that have nothing to do with the job itself.", "The last night of the last summer before everything changes — written in real time, dusk to dawn."], opening: ["The summer I turned seventeen, two things happened. The first one I've told people about. The second one I haven't.", "My best friend stopped being my best friend on a Tuesday in October. She didn't know this. I didn't tell her for four months.", "We'd been best friends since we were seven. In year eleven, I realised I had no idea who she was.", "I was invisible for three years. Then I accidentally said something true in front of the wrong person."] };
+  var hubYapCat = 'plot';
+  document.getElementById('hub-yap-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-yap-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubYapCat = pill.dataset.value;
+  });
+  document.getElementById('hub-yap-gen').addEventListener('click', function() {
+    var bank = hubYapData[hubYapCat] || hubYapData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-yap-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign bucket = site.posts | where: "genre", "Young Adult" %}
 {% if bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">

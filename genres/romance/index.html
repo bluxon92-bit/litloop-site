@@ -31,6 +31,50 @@ genre_key: romance
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Romance <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Need a spark? Generate a romance prompt to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-rp-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="meetcute">Meet-Cute</button>
+        <button class="pill" data-value="conflict">Conflict</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-rp-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-rp-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/romance-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubRpData = { plot: ["Two pen pals who have written letters for three years finally meet — and discover they live four streets apart.", "A fake dating arrangement between two friends who are both secretly in love with each other goes exactly as wrong as it sounds.", "Two people who briefly dated ten years ago with no closure are assigned to work together for three months.", "Two strangers spend eight hours talking in an airport and exchange no contact details — then are introduced by mutual friends three months later."], meetcute: ["She asks him to pretend to be her boyfriend for sixty seconds. When the sixty seconds are up, neither of them moves.", "They're both hiding from the same work party in the same empty conference room. Neither will admit why.", "He returns her lost dog. The dog immediately runs back to him and sits on his feet.", "They've been leaving notes on the office kitchen whiteboard for three weeks — a dispute about whose lunch is whose that has gradually become something else."], conflict: ["She's ready for something serious. He's been hurt before and isn't — but hasn't said this, because saying it would mean admitting he wants to be.", "His family disapproves of her for reasons that are entirely about them. He knows this. He's finding it harder than expected to say so.", "Both of them are protecting themselves from the same thing — which means neither can say what they need to say first."], opening: ["She had a rule about dating coworkers. She had several rules. This was the third one she'd broken this week.", "The problem with fake dating your enemy is that you have to spend a lot of time pretending to find them attractive before you have to spend a lot of time pretending you don't.", "We agreed it would be one night. That was eight months ago. We have not discussed this.", "He brought her coffee every morning for a year before she noticed it wasn't from the office machine."] };
+  var hubRpCat = 'plot';
+  document.getElementById('hub-rp-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-rp-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubRpCat = pill.dataset.value;
+  });
+  document.getElementById('hub-rp-gen').addEventListener('click', function() {
+    var bank = hubRpData[hubRpCat] || hubRpData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-rp-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign bucket = site.posts | where: "genre", "Romance" %}
 {% if bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">

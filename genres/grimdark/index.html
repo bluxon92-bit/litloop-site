@@ -31,6 +31,50 @@ genre_key: grimdark
   </div>
 </section>
 
+
+<section class="section" style="background:var(--white);">
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Fantasy Writing <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Grimdark is fantasy with the gloves off. Use the fantasy generator — set the tone to Grimdark.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-gd-cat" style="margin-bottom:1rem;">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="conflict">Conflict</button>
+        <button class="pill" data-value="opening">Opening Line</button>
+      </div>
+      <button class="btn-generate" id="hub-gd-gen" style="margin-top:0.5rem;">✦ Generate</button>
+      <div class="prompt-output" id="hub-gd-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a writing prompt.</p>
+      </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/fantasy-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function() {
+  var hubGdData = { plot: ["A general wins a war by making a deal no one else was willing to make. Ten years later, the other party comes to collect.", "A rebellion succeeds. The leader reads the tyrant's private journals. The tyrant was right about everything.", "The prophecy has been fulfilled. The dark lord is dead. The heroes return to a world that spent twenty years preparing — and they are now the most dangerous people in it.", "A mercenary fulfils a contract to protect a village. Then discovers the village's survival required something she didn't know about."], character: ["A war criminal considered a hero by half the world and a monster by the other half. Neither side is wrong.", "A king who has done terrible things to keep his people alive, and it worked. He meets someone from the country he sacrificed.", "A torturer who genuinely believes in the cause they serve. Write the day the cause fails.", "An assassin who discovers their most recent target was also an assassin — and the same person hired both."], conflict: ["A warlord has spent thirty years building a just society through unjust means. A new generation has grown up in the prosperity and discovered the methods.", "The only way to defeat an invading army is to collapse the border — which destroys three towns on the wrong side.", "A hero discovers the monster they've been hunting has been destroying an empire that committed genocide three hundred years ago."], opening: ["The revolution succeeded. That was the problem.", "I survived the war by being willing to do things the others weren't. I spent the peace trying to forget how.", "The empire had lasted three hundred years. The emperor knew exactly when it would end: forty-six days, at roughly two in the afternoon.", "The healer had saved ten thousand lives. She had also ended forty-seven — and remembered those with more clarity."] };
+  var hubGdCat = 'plot';
+  document.getElementById('hub-gd-cat').addEventListener('click', function(e) {
+    var pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('#hub-gd-cat .pill').forEach(function(p) { p.classList.remove('active'); });
+    pill.classList.add('active');
+    hubGdCat = pill.dataset.value;
+  });
+  document.getElementById('hub-gd-gen').addEventListener('click', function() {
+    var bank = hubGdData[hubGdCat] || hubGdData['plot'];
+    var arr = Array.isArray(bank) ? bank : (bank[1] || bank[0]);
+    var prompt = arr[Math.floor(Math.random() * arr.length)];
+    document.getElementById('hub-gd-output').innerHTML = '<p class="prompt-text" style="font-style:italic;">' + prompt + '</p>';
+  });
+})();
+</script>
+
 {% assign gd_bucket = site.posts | where: "genre", "Grimdark" %}
 {% if gd_bucket.size > 0 %}
 <section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
