@@ -17,20 +17,19 @@ genre_key: grimdark
   </div>
 </div>
 
+{% include reading-list-carousel.html genre="grimdark" list_title="Grimdark" %}
+
 <section class="section" style="background:var(--paper);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:1rem;">Go deeper</div>
     <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Grimdark</em></h2>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;">Grimdark is fantasy's reckoning with itself. Where traditional epic fantasy offers clean moral lines — heroes, villains, destiny — grimdark insists that power corrupts, heroes fail, and victory costs more than it's worth. It's not nihilism; at its best, it's moral seriousness.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The defining text:</strong> Joe Abercrombie's <em>The Blade Itself</em> essentially named the genre. Its genius is structural: it takes all the epic fantasy archetypes and slowly reveals the ugly humanity beneath them. Read the First Law trilogy in order.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For psychological depth:</strong> Mark Lawrence's <em>Prince of Thorns</em> is narrated by a monster who may be the most compelling protagonist in modern fantasy. If that lands, continue with <em>King of Thorns</em> and <em>Emperor of Thorns</em> — it pays off massively.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For scope and war:</strong> Steven Erikson's <em>Gardens of the Moon</em> is the most ambitious grimdark series ever attempted. It's deliberately difficult on first entry — stick with it. Nothing else comes close for scale or philosophical weight.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"><strong>More accessible entry points:</strong> John Gwynne's <em>Malice</em> is grimdark with more heart than most, and K.J. Parker's work is perfect for readers who want dark irony over dark violence.</p>
-    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
   </div>
 </section>
-
-{% include reading-list-carousel.html genre="grimdark" list_title="Grimdark" %}
 
 {% assign gd_bucket = site.posts | where: "genre", "Grimdark" %}
 {% if gd_bucket.size > 0 %}

@@ -17,21 +17,19 @@ genre_key: romantasy
   </div>
 </div>
 
+{% include reading-list-carousel.html genre="romantasy" list_title="Romantasy" %}
+
 <section class="section" style="background:var(--paper);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:1rem;">Go deeper</div>
     <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Romantasy</em></h2>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The defining series:</strong> <em>A Court of Thorns and Roses</em> by Sarah J. Maas essentially created the modern romantasy market. If you're new to the genre, start there — it's accessible, propulsive, and the magic system is genuinely inventive.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For darker romantasy:</strong> Jennifer L. Armentrout's <em>From Blood and Ash</em> leans harder into fantasy world-building and a more intense emotional core. The tension is exceptional.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For epic scope:</strong> Maas's <em>Crescent City</em> series and <em>Throne of Glass</em> are both worth reading after ACOTAR. The world-building deepens considerably across her catalogue.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For something different:</strong> Nora Roberts writing as J.D. Robb shows how romance craft can elevate fantasy. Nalini Singh's Psy-Changeling series is another excellent crossover point.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
-
-    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
   </div>
 </section>
-
-{% include reading-list-carousel.html genre="romantasy" list_title="Romantasy" %}
 
 {% assign bucket = site.posts | where: "genre", "Romantasy" %}
 {% if bucket.size > 0 %}

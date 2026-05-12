@@ -17,21 +17,19 @@ genre_key: romance
   </div>
 </div>
 
+{% include reading-list-carousel.html genre="romance" list_title="Romance" %}
+
 <section class="section" style="background:var(--paper);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:1rem;">Go deeper</div>
     <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Romance</em></h2>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>Why romance matters:</strong> Romance is the genre most brutally dismissed by literary culture and most enthusiastically read by actual readers. Its core promise — that love is worth pursuing, that connection is possible — isn't sentimental. It's radical.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For contemporary romance:</strong> Emily Henry is the benchmark — <em>Beach Read</em> or <em>People We Meet on Vacation</em> are perfect starting points. Smart, funny, genuinely moving.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For historical romance:</strong> Julia Quinn's Bridgerton series and Lisa Kleypas's Wallflowers quartet are the entry points. For something more literary, Eloisa James and Loretta Chase.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For darker romance:</strong> Penelope Douglas's work and Ana Huang's Twisted series represent the darker, more emotionally complex end of contemporary romance.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
-
-    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
   </div>
 </section>
-
-{% include reading-list-carousel.html genre="romance" list_title="Romance" %}
 
 {% assign bucket = site.posts | where: "genre", "Romance" %}
 {% if bucket.size > 0 %}

@@ -17,19 +17,18 @@ genre_key: thriller
   </div>
 </div>
 
+{% include reading-list-carousel.html genre="thriller" list_title="Thriller" %}
+
 <section class="section" style="background:var(--paper);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:1rem;">Go deeper</div>
     <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Thrillers</em></h2>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;">The thriller is the genre that most honestly reflects our anxieties — about power, identity, safety, and the strangers we live among. At its best it's literary fiction that doesn't apologise for being compulsively readable.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For psychological thrillers:</strong> Gillian Flynn's <em>Gone Girl</em> reset the genre. If you haven't read it, do. Then move to Tana French's Dublin Murder Squad — <em>In the Woods</em> is the best crime novel of the last twenty years.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For spy fiction:</strong> John le Carré's <em>Tinker Tailor Soldier Spy</em> is the gold standard — patient, intelligent, devastating. For something more propulsive, Daniel Silva's Gabriel Allon series or Jason Bourne by Robert Ludlum.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"><strong>For literary thrillers:</strong> Don DeLillo's <em>Libra</em> and Donna Tartt's <em>The Secret History</em> show what the genre looks like when literary ambition and plot urgency pull in the same direction.</p>
-    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
   </div>
 </section>
-
-{% include reading-list-carousel.html genre="thriller" list_title="Thriller" %}
 
 {% assign th_bucket = site.posts | where: "genre", "Thriller" %}
 {% if th_bucket.size > 0 %}

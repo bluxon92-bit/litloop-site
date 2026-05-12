@@ -17,21 +17,19 @@ genre_key: travel-writing
   </div>
 </div>
 
+{% include reading-list-carousel.html genre="travel-writing" list_title="Travel Writing" %}
+
 <section class="section" style="background:var(--paper);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:1rem;">Go deeper</div>
     <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Travel Writing</em></h2>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The form at its best:</strong> Travel writing at its finest isn't about tourism — it's about encounter. The best in the genre use place as a lens for understanding culture, history, and the self.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>The classics:</strong> Bruce Chatwin's <em>In Patagonia</em> and Patrick Leigh Fermor's <em>A Time of Gifts</em> set the literary standard. Both are as concerned with language as with landscape.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For adventure:</strong> Rory Stewart's <em>The Places in Between</em> — a walk across Afghanistan shortly after the fall of the Taliban — is extraordinary. Joe Simpson's <em>Touching the Void</em> is survival writing at its most visceral.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For food and culture:</strong> Bill Bryson made travel writing mainstream — <em>Notes from a Small Island</em> is the gateway. For something richer, Anthony Bourdain's <em>Kitchen Confidential</em> uses food as the vehicle for a deeper cultural portrait.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
-
-    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
   </div>
 </section>
-
-{% include reading-list-carousel.html genre="travel-writing" list_title="Travel Writing" %}
 
 {% assign bucket = site.posts | where: "genre", "Travel" %}
 {% if bucket.size > 0 %}

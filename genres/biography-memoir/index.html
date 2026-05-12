@@ -17,21 +17,19 @@ genre_key: biography-memoir
   </div>
 </div>
 
+{% include reading-list-carousel.html genre="biography-memoir" list_title="Biography & Memoir" %}
+
 <section class="section" style="background:var(--paper);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:1rem;">Go deeper</div>
     <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Biography & Memoir</em></h2>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>Why biography matters:</strong> A great biography does what fiction claims to — it renders a complete human life, with all its contradictions. Robert Caro's Lyndon Johnson series is the supreme example in the form.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For political biography:</strong> Caro's <em>The Path to Power</em> is where to start. For something more recent, Barack Obama's <em>A Promised Land</em> is unusually candid for a presidential memoir.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For literary memoir:</strong> Mary Karr's <em>The Liar's Club</em> defines the modern memoir. Maggie Nelson's <em>The Argonauts</em> and Carmen Maria Machado's <em>In the Dream House</em> show where the form is going.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For accessible entry points:</strong> Matthew Crawford's <em>The World Beyond Your Head</em>, Michelle Obama's <em>Becoming</em>, and Tara Westover's <em>Educated</em> are all exceptional and reach wide audiences.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
-
-    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
   </div>
 </section>
-
-{% include reading-list-carousel.html genre="biography-memoir" list_title="Biography & Memoir" %}
 
 {% assign bucket = site.posts | where: "genre", "Biography" %}
 {% if bucket.size > 0 %}

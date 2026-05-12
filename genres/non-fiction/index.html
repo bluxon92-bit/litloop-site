@@ -17,21 +17,19 @@ genre_key: non-fiction
   </div>
 </div>
 
+{% include reading-list-carousel.html genre="non-fiction" list_title="Non-Fiction" %}
+
 <section class="section" style="background:var(--paper);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:1rem;">Go deeper</div>
     <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Non-Fiction</em></h2>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>Where non-fiction gets great:</strong> The best non-fiction reads like a novel. Start with Erik Larson's <em>The Devil in the White City</em> or Michael Lewis's <em>The Big Short</em> — both are as propulsive as any thriller.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For science writing:</strong> Richard Feynman's <em>Surely You're Joking, Mr Feynman!</em> remains the gold standard. For modern science writing, Carlo Rovelli's <em>Seven Brief Lessons on Physics</em> and Robert Sapolsky's work.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For history:</strong> Antony Beevor, Simon Schama, and Yuval Noah Harari's <em>Sapiens</em> are essential — though Harari's later work is more contested. Mary Beard on Rome is outstanding.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For psychology and behaviour:</strong> Daniel Kahneman's <em>Thinking, Fast and Slow</em> is the most important popular psychology book of the last decade. Robert Cialdini's <em>Influence</em> is a close second.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"></p>
-
-    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
   </div>
 </section>
-
-{% include reading-list-carousel.html genre="non-fiction" list_title="Non-Fiction" %}
 
 {% assign bucket = site.posts | where: "genre", "Non-Fiction" %}
 {% if bucket.size > 0 %}

@@ -16,35 +16,49 @@ permalink: /genres/horror/
   </div>
 </div>
 
+{% include reading-list-carousel.html genre="horror" list_title="Horror" %}
+
 <section class="section" style="background:var(--paper);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:1rem;">Start here</div>
+  <div class="section-inner">
+    <div class="section-label" style="margin-bottom:1rem;">Go deeper</div>
     <h2 class="section-title" style="margin-bottom:2rem;">Essential <em>Horror</em></h2>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;">Horror at its best does something no other genre can: it makes the familiar terrifying. Whether it's the creeping dread of Shirley Jackson or the cosmic indifference of Lovecraft, the best horror books leave you changed.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For psychological horror:</strong> Shirley Jackson's <em>The Haunting of Hill House</em> is the definitive text — a novel about how perception distorts reality, and it's genuinely frightening.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For cosmic horror:</strong> Start with Lovecraft's <em>The Call of Cthulhu</em>, then move to modern cosmic horror: Paul Tremblay's <em>A Head Full of Ghosts</em> or Jeff VanderMeer's <em>Annihilation</em>.</p>
     <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:1.5rem;"><strong>For Stephen King:</strong> <em>The Shining</em> remains his finest novel. <em>Pet Sematary</em> is his darkest. <em>It</em> is the most ambitious. Start with <em>The Shining</em>.</p>
-    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2.5rem;"><strong>For short horror:</strong> King's <em>Night Shift</em> is the best horror short story collection in the language. Shirley Jackson's <em>The Lottery and Other Stories</em> is quieter and more devastating.</p>
-    <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Browse all posts →</a>
+    <p style="font-size:1rem; color:var(--ink-soft); line-height:1.9; margin-bottom:2rem;"><strong>For short horror:</strong> King's <em>Night Shift</em> is the best horror short story collection in the language. Shirley Jackson's <em>The Lottery and Other Stories</em> is quieter and more devastating.</p>
+    <div style="background:white; box-shadow:0 2px 12px rgba(0,0,0,0.07); border-radius:var(--radius-md); padding:1.5rem 2rem; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:1.25rem;">
+      <div>
+        <div class="section-label" style="margin-bottom:0.35rem;">Free Download</div>
+        <p style="font-size:1rem; font-weight:600; color:var(--navy); margin-bottom:0.25rem;">Free Horror Short Story Collection</p>
+        <p style="font-size:0.875rem; color:var(--ink-soft); margin:0;">Original atmospheric horror short stories from Ben Luxon — unsettling, free to download, no sign-up required.</p>
+      </div>
+      <a href="{{ '/free-downloads/horror/' | relative_url }}" class="btn btn-primary" style="white-space:nowrap; flex-shrink:0;">↓ Download Free</a>
+    </div>
   </div>
 </section>
 
-{% include reading-list-carousel.html genre="horror" list_title="Horror" %}
-
-<section class="free-download-strip free-download-strip--horror">
+<section class="section" style="background:var(--white);">
   <div class="section-inner">
-    <div class="free-download-content">
-      <div class="free-download-text">
-        <div class="section-label" style="color:rgba(255,255,255,0.6);">Free Download</div>
-        <h3>Free Horror Short Story Collection</h3>
-        <p>A collection of original horror short stories from Ben Luxon — atmospheric, unsettling, and free to download.</p>
+    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
+    <h2 class="section-title" style="margin-bottom:0.5rem;">Horror Writing <em>Prompt Generator</em></h2>
+    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Inspired to write? Generate a horror prompt to get you started.</p>
+    <div class="tool-embed">
+      <div class="pill-group" id="hub-hp-cat">
+        <button class="pill active" data-value="plot">Plot</button>
+        <button class="pill" data-value="character">Character</button>
+        <button class="pill" data-value="setting">Setting</button>
+        <button class="pill" data-value="supernatural">Supernatural</button>
+        <button class="pill" data-value="psychological">Psychological</button>
+        <button class="pill" data-value="opening">Opening Line</button>
       </div>
-      <div class="free-download-action">
-        <a href="{{ '/free-downloads/horror/' | relative_url }}" class="btn-download btn-download--dark">
-          <span class="btn-download-icon">↓</span>
-          Download Free
-        </a>
+      <button class="btn-generate btn-generate--horror" id="hub-hp-gen" style="margin-top:1rem;">☽ Generate</button>
+      <div class="prompt-output" id="hub-hp-output" style="margin-top:1.5rem;">
+        <p class="ng-placeholder">Hit Generate to get a horror writing prompt.</p>
       </div>
+    </div>
+    <div style="margin-top:1rem; text-align:right;">
+      <a href="{{ '/tools/horror-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
     </div>
   </div>
 </section>
@@ -52,7 +66,7 @@ permalink: /genres/horror/
 {% assign hr_bucket = site.posts | where: "genre", "Horror" %}
 
 {% if hr_bucket.size > 0 %}
-<section class="section" style="background:var(--white); border-top:1px solid var(--border);">
+<section class="section" style="background:var(--paper); border-top:1px solid var(--border);">
   <div class="section-inner">
     <div class="section-header">
       <div>
@@ -88,31 +102,6 @@ permalink: /genres/horror/
   </div>
 </section>
 {% endif %}
-
-<section class="section" style="background:var(--white);">
-  <div class="section-inner" style="max-width:860px;">
-    <div class="section-label" style="margin-bottom:0.5rem;">Writer's Tool</div>
-    <h2 class="section-title" style="margin-bottom:0.5rem;">Horror Writing <em>Prompt Generator</em></h2>
-    <p style="color:var(--ink-soft); margin-bottom:2rem; font-size:0.9rem;">Inspired to write? Generate a horror prompt to get you started.</p>
-    <div class="tool-embed">
-      <div class="pill-group" id="hub-hp-cat">
-        <button class="pill active" data-value="plot">Plot</button>
-        <button class="pill" data-value="character">Character</button>
-        <button class="pill" data-value="setting">Setting</button>
-        <button class="pill" data-value="supernatural">Supernatural</button>
-        <button class="pill" data-value="psychological">Psychological</button>
-        <button class="pill" data-value="opening">Opening Line</button>
-      </div>
-      <button class="btn-generate btn-generate--horror" id="hub-hp-gen" style="margin-top:1rem;">☽ Generate</button>
-      <div class="prompt-output" id="hub-hp-output" style="margin-top:1.5rem;">
-        <p class="ng-placeholder">Hit Generate to get a horror writing prompt.</p>
-      </div>
-    </div>
-    <div style="margin-top:1rem; text-align:right;">
-      <a href="{{ '/tools/horror-prompts/' | relative_url }}" style="font-size:0.82rem; color:var(--teal);">Full generator with save &amp; copy →</a>
-    </div>
-  </div>
-</section>
 
 <script>
 (function() {
