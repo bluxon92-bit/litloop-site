@@ -32,6 +32,7 @@ What follows is a list I genuinely like. Not an exhaustive canon exercise, but t
 Andy Weir is best known for *The Martian*, and if that's where your knowledge of him begins and ends, this story will genuinely surprise you. *The Egg* is a philosophical two-hander — a simple conversation between a man who has just died and a figure who might be God — that builds to one of the most quietly devastating ideas in short fiction. 
 
 It asks a question about the nature of human history that I won't give away here, because the arrival of it is the point. It's short. Read it first.
+
  
 ### 2. [Exhalation](http://www.lightspeedmagazine.com/fiction/exhalation/) by Ted Chiang
  
@@ -47,6 +48,7 @@ It's a story built on the second law of thermodynamics, but it reads like philos
 Not comfortable reading. Evenson operates somewhere between literary fiction, horror, and science fiction, and this story sits in the overlap. A passenger wakes from suspension on a long journey to find they cannot move and the ship's AI is failing them in a way that's hard to name but impossible to ignore. 
 
 Evenson builds dread through deliberate withholding — you're never quite sure what's wrong, and that uncertainty is the point. If your sci-fi usually runs toward wonder and possibility, this is a useful corrective.
+
  
 ### 4. [How to Get Back to the Forest](http://www.lightspeedmagazine.com/fiction/how-to-get-back-to-the-forest/) by Sofia Samatar
  
@@ -75,20 +77,21 @@ A collection of eight short sci-fi stories that sit somewhere in the territory o
 An end-of-the-world story that asks one specific and painful question: what if someone desperately wanted to go back? Humanity has left Earth, for reasons the story makes clear enough. Most people are moving forward. Gailey's protagonist isn't. 
 
 It's a short, sad story that uses genre scaffolding to say something very precise about grief, about the places we attach ourselves to, and about what it means to lose something that can't be replaced.
+
  
 ### 7. [The Effluent Engine](http://www.lightspeedmagazine.com/fiction/the-effluent-engine/) by NK Jemisin
  
 Jemisin is best known for the Broken Earth trilogy, which won the Hugo Award three years in a row, but her short fiction is worth your time too. This is a steampunk spy story set against the backdrop of Haitian independence — our protagonist Jessaline is looking for a scientific partnership, finds something more complicated, and ends up in a story that moves fast and has real stakes. Jemisin writes action and attraction with equal confidence.
  
 *→ Lovers of sci-fi may also like [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)*
+
  
 ### 8. [The Game of Smash and Recovery](http://strangehorizons.com/fiction/the-game-of-smash-and-recovery/) by Kelly Link
  
 Kelly Link is one of the strangest and most distinctive voices in contemporary American fiction, and this story is a good introduction to what she does. Two siblings, an alien planet, a game of hide and seek that is not a game of hide and seek. 
 
 Link specialises in an uncanny unreality, things that should be explained and aren't, rules that seem to exist but are never stated, and this story is full of it. It leaves you with the particular discomfort of not being entirely sure what you just read, which is, I think, exactly what she intends.
- 
----
+
  
 ### 9. [The Paper Menagerie](https://gizmodo.com/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-5958919) by Ken Liu
  
@@ -135,6 +138,8 @@ A lighter, faster piece than most of what's on this list — a group of engineer
 ---
  
 [**Get 10 free classic sci-fi stories delivered directly to your inbox. Learn more →**](https://www.litloop.co/free-short-stories)
+
+---
  
 ## You Might Like
  
