@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Devils by Joe Abercrombie Review — Is It Worth Reading?"
-date: 2026-05-18
+date: 2026-05-25
 category: Reviews
 genre: Fantasy, Grimdark
 excerpt: "An honest review of The Devils by Joe Abercrombie. Brilliant characters, brutal action, and a Suicide Squad premise that mostly works. But does it match The Blade Itself?"
