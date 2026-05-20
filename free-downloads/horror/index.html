@@ -481,7 +481,7 @@ permalink: /free-downloads/horror/
 <!-- ═══════════════════════ ANTHOLOGY STRIP ═══════════════════════ -->
 <div class="hr-anthology-strip">
   <div class="hr-anthology-pill">A Litloop Short Classics Anthology</div>
-  <h2>The stories that built modern horror, <em>free</em> to keep.</h2>
+  <h2>The stories that built <em>modern horror</em></h2>
   <p>Before slasher films, before paperback splatter, horror was a quiet, atmospheric thing — a guest who didn't quite belong at the party, a name called from the trees, a sealed door that wouldn't stay sealed.</p>
   <p>This collection gathers six of the finest examples in the public domain: two of Poe's tightest revenge fables, Washington Irving's gentler-than-you-remember Sleepy Hollow, Algernon Blackwood's pitiless Wendigo, and the two stories that more or less invented cosmic horror as we know it.</p>
 </div>
@@ -651,28 +651,42 @@ permalink: /free-downloads/horror/
 
 
 <script>
-/* ── MailerLite subscribe ───────────────────────────────────── */
-var ML_GROUP_HORROR = '9Immkh'; /* your existing form ID */
+/* ── MailerLite subscribe — posts directly to their JSONP endpoint ── */
+/* IMPORTANT: replace ML_ACCOUNT_ID with your MailerLite account ID   */
+/* Found in: MailerLite dashboard → Integrations → API → Account ID   */
+var ML_ACCOUNT_ID = 'YOUR_ACCOUNT_ID'; /* ← replace this */
+var ML_FORM_ID    = '9Immkh';
 
-function mlSubscribe(email, group, statusEl, btnEl) {
+function mlSubscribe(email, statusEl, btnEl) {
   btnEl.disabled = true;
   btnEl.textContent = 'Sending…';
   statusEl.className = 'hero-form-status';
   statusEl.textContent = '';
 
-  fetch('/api/subscribe', {
+  var url = 'https://assets.mailerlite.com/jsonp/' + ML_ACCOUNT_ID
+          + '/forms/' + ML_FORM_ID + '/subscribe';
+
+  var params = new URLSearchParams();
+  params.append('fields[email]', email);
+  params.append('ml-submit', '1');
+  params.append('anticsrf', 'true');
+
+  fetch(url, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ email: email, group: group })
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: params.toString()
   })
-  .then(function(res) { return res.json(); })
+  .then(function(res) {
+    if (!res.ok) throw new Error('Network error');
+    return res.json();
+  })
   .then(function(data) {
-    if (data.ok) {
+    if (data.success) {
       statusEl.textContent = '✓ Check your inbox — the PDF is on its way!';
       statusEl.className = 'hero-form-status success';
       btnEl.closest('form').reset();
     } else {
-      throw new Error(data.message || 'Something went wrong');
+      throw new Error(data.message || 'Something went wrong. Please try again.');
     }
   })
   .catch(function(err) {
@@ -685,7 +699,7 @@ function mlSubscribe(email, group, statusEl, btnEl) {
   });
 }
 
-function bindForm(formId, statusId, btnId, group) {
+function bindForm(formId, statusId, btnId) {
   var form   = document.getElementById(formId);
   var status = document.getElementById(statusId);
   var btn    = document.getElementById(btnId);
@@ -693,13 +707,17 @@ function bindForm(formId, statusId, btnId, group) {
   form.addEventListener('submit', function(e) {
     e.preventDefault();
     var email = form.querySelector('input[type="email"]').value.trim();
-    if (!email) return;
-    mlSubscribe(email, group, status, btn);
+    if (!email || !email.includes('@')) {
+      status.textContent = 'Please enter a valid email address.';
+      status.className = 'hero-form-status error';
+      return;
+    }
+    mlSubscribe(email, status, btn);
   });
 }
 
-bindForm('hr-hero-form', 'hr-hero-status', 'hr-hero-btn', 'horror');
-bindForm('hr-cta-form',  'hr-cta-status',  'hr-cta-btn',  'horror');
+bindForm('hr-hero-form', 'hr-hero-status', 'hr-hero-btn');
+bindForm('hr-cta-form',  'hr-cta-status',  'hr-cta-btn');
 
 /* ── FAQ accordion ─────────────────────────────────────────── */
 document.querySelectorAll('.hr-faq-trigger').forEach(function(btn) {
