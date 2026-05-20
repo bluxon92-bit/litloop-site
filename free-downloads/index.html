@@ -1,87 +1,743 @@
 ---
 layout: default
 title: Free Sci-Fi Short Stories — Download
-description: Get classic science fiction short stories free. Enter your email and we'll send them straight to you.
+description: Ten classic science fiction short stories — Asimov, Bradbury, Pohl, Verne, Laumer — curated and typeset for comfortable reading. Drop your email and we'll send the full PDF to your inbox.
 permalink: /free-downloads/
 ---
 
-<div class="tool-hero tool-hero--scifi">
-  <div class="tool-hero-inner">
-    <div class="tool-label">
-      <span class="tool-label-line"></span>
-      <span>Free Download</span>
+<style>
+  /* ═══════════════════════════════════════════════════════════
+     LITLOOP CLASSICS — Book cover component
+     Font-size on .bc-wrap scales the entire cover proportionally
+  ═══════════════════════════════════════════════════════════ */
+  .bc {
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 8px 28px rgba(0,0,0,0.55), 0 2px 6px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    font-family: 'DM Sans', system-ui, sans-serif;
+    width: 100%;
+  }
+  .bc-hdr {
+    background: #C98A20;
+    padding: 0.35em 0.55em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .bc-hdr-label, .bc-hdr-num {
+    font-size: 0.72em;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  .bc-hdr-num { letter-spacing: 0.06em; }
+  .bc-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.7em 0.6em 0;
+  }
+  .bc-sub {
+    font-size: 0.6em;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: rgba(201,151,58,0.72);
+    text-align: center;
+    margin-bottom: 0.3em;
+  }
+  .bc-rule {
+    width: 1.6em;
+    height: 1px;
+    background: rgba(201,151,58,0.35);
+    margin-bottom: 0.55em;
+  }
+  .bc-ttl {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.88em;
+    font-weight: 700;
+    color: #D4AC60;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    line-height: 1.25;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  /* ── Divider: tight line–dot–line ── */
+  .bc-div {
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+    padding-bottom: 0.5em;
+  }
+  .bc-dl {
+    width: 1.2em;
+    height: 1px;
+    background: rgba(201,151,58,0.45);
+  }
+  .bc-dd {
+    width: 0.38em;
+    height: 0.38em;
+    border-radius: 50%;
+    border: 1px solid #C98A20;
+    background: transparent;
+    flex-shrink: 0;
+  }
+  .bc-cream {
+    background: #EDE8DC;
+    padding: 0.5em 0.6em 0.45em;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .bc-by {
+    font-size: 0.6em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #aaa;
+    margin-bottom: 0.15em;
+  }
+  .bc-auth {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.78em;
+    font-weight: 700;
+    color: #1B3A5C;
+    line-height: 1.2;
+    margin-bottom: 0.1em;
+  }
+  .bc-yr {
+    font-size: 0.62em;
+    color: #bbb;
+    letter-spacing: 0.05em;
+  }
+  .bc-badge {
+    position: absolute;
+    bottom: 0.4em;
+    right: 0.4em;
+    width: 2.1em;
+    height: 2.1em;
+    border-radius: 50%;
+    background: #C98A20;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .bc-badge span {
+    font-size: 0.52em;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 0.04em;
+    line-height: 1.3;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     PAGE VARIABLES — aligned to main.css palette
+  ═══════════════════════════════════════════════════════════ */
+  :root {
+    --sf-navy:     #1B3A5C;
+    --sf-teal:     #2A6B5F;
+    --sf-gold:     #C98A20;
+    --sf-gold-lt:  #E5A835;
+    --sf-cream:    #F5F0E8;
+    --sf-cream-dk: #EDE7DB;
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     HERO
+  ═══════════════════════════════════════════════════════════ */
+  .scifi-hero {
+    background: linear-gradient(160deg, #080e1f 0%, #0f1c35 55%, #0a1e3a 100%);
+    color: white;
+    padding: 3.5rem 1.5rem 4rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .scifi-hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background-image:
+      radial-gradient(circle at 20% 50%, rgba(42,107,95,0.13) 0%, transparent 50%),
+      radial-gradient(circle at 80% 20%, rgba(201,138,32,0.08) 0%, transparent 40%);
+    pointer-events: none;
+  }
+  .scifi-hero::after {
+    content: '';
+    position: absolute; inset: 0;
+    background-image:
+      radial-gradient(1px 1px at 15% 25%, rgba(255,255,255,0.35) 0%, transparent 100%),
+      radial-gradient(1px 1px at 42% 68%, rgba(255,255,255,0.25) 0%, transparent 100%),
+      radial-gradient(1px 1px at 67% 15%, rgba(255,255,255,0.30) 0%, transparent 100%),
+      radial-gradient(1px 1px at 85% 55%, rgba(255,255,255,0.20) 0%, transparent 100%),
+      radial-gradient(1px 1px at 30% 80%, rgba(255,255,255,0.25) 0%, transparent 100%),
+      radial-gradient(1px 1px at 72% 40%, rgba(255,255,255,0.30) 0%, transparent 100%),
+      radial-gradient(1px 1px at 10% 60%, rgba(255,255,255,0.20) 0%, transparent 100%),
+      radial-gradient(1px 1px at 90% 75%, rgba(255,255,255,0.18) 0%, transparent 100%);
+    pointer-events: none;
+  }
+  .scifi-hero-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 180px;
+    gap: 3rem;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+  }
+  @media (max-width: 680px) {
+    .scifi-hero-inner { grid-template-columns: 1fr; }
+    .scifi-hero-books { display: none; }
+  }
+  .scifi-hero-eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--sf-gold);
+    font-weight: 600;
+    margin-bottom: 1.25rem;
+  }
+  .scifi-hero-eyebrow::before {
+    content: '';
+    display: block;
+    width: 28px; height: 1px;
+    background: var(--sf-gold);
+  }
+  .scifi-hero h1 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: clamp(2.4rem, 5vw, 3.5rem);
+    line-height: 1.05;
+    margin: 0 0 1.25rem;
+    font-weight: 600;
+    color: white;
+  }
+  .scifi-hero h1 em { font-style: italic; color: var(--sf-gold); }
+  .scifi-hero-copy > p {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: rgba(255,255,255,0.72);
+    margin: 0 0 2rem;
+    max-width: 440px;
+  }
+  .scifi-hero-form { max-width: 420px; }
+  .scifi-trust-line {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.72rem;
+    color: rgba(255,255,255,0.35);
+    margin-top: 0.75rem;
+    letter-spacing: 0.02em;
+  }
+  .scifi-trust-line span { margin: 0 0.4rem; }
+
+  /* ── Option A: single anthology cover ── */
+  .scifi-hero-books {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .hero-cover-wrap {
+    width: 160px;
+    font-size: 13px;
+  }
+  /* Anthology cover cream panel overrides */
+  .hero-cover-wrap .bc-auth { font-size: 0.72em; }
+
+  /* ═══════════════════════════════════════════════════════════
+     ANTHOLOGY STRIP
+  ═══════════════════════════════════════════════════════════ */
+  .sf-anthology-strip {
+    background: var(--sf-cream);
+    padding: 2.5rem 1.5rem;
+    border-bottom: 1px solid var(--sf-cream-dk);
+    text-align: center;
+  }
+  .sf-anthology-pill {
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--sf-teal);
+    font-weight: 700;
+    border: 1px solid var(--sf-teal);
+    padding: 0.3rem 1rem;
+    border-radius: 999px;
+    margin-bottom: 1.25rem;
+  }
+  .sf-anthology-strip h2 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: clamp(1.5rem, 3.5vw, 2.2rem);
+    color: #111;
+    margin: 0 0 0.9rem;
+    font-weight: 600;
+    line-height: 1.15;
+  }
+  .sf-anthology-strip h2 em { font-style: italic; color: var(--sf-teal); }
+  .sf-anthology-strip p {
+    max-width: 640px;
+    margin: 0 auto;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #555;
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     STORIES LIST
+  ═══════════════════════════════════════════════════════════ */
+  .sf-stories-section { background: var(--sf-cream); padding: 3rem 1.5rem; }
+  .sf-stories-inner {
+    max-width: 760px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 22px;
+    padding: 2rem 2rem 0.5rem;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+  }
+  @media (max-width: 560px) { .sf-stories-inner { padding: 1.25rem 1.25rem 0.25rem; } }
+  .sf-stories-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid var(--sf-cream-dk);
+    padding-bottom: 0.75rem;
+  }
+  .sf-stories-header h3 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: 1.15rem; font-weight: 600; color: #111; margin: 0;
+  }
+  .sf-stories-count {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.72rem; color: #aaa; letter-spacing: 0.07em; font-weight: 500;
+  }
+  .sf-story-item {
+    display: grid;
+    grid-template-columns: 56px 1fr;
+    gap: 1.25rem;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--sf-cream-dk);
+    align-items: start;
+  }
+  .sf-story-item:last-child { border-bottom: none; }
+  .sf-story-cover-wrap { width: 56px; font-size: 8px; flex-shrink: 0; }
+  .sf-story-meta { display: flex; flex-direction: column; gap: 0.15rem; }
+  .sf-story-num {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.68rem; color: #aaa; letter-spacing: 0.08em; font-weight: 500; margin-bottom: 0.05rem;
+  }
+  .sf-story-badge {
+    display: inline-block;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.58rem; letter-spacing: 0.1em; text-transform: uppercase; font-weight: 700;
+    padding: 0.15rem 0.5rem; border-radius: 999px;
+    background: #e8f2f0; color: var(--sf-teal); margin-left: 0.4rem; vertical-align: middle;
+  }
+  .sf-story-title {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: 1.05rem; font-weight: 600; color: #111; margin: 0; line-height: 1.2;
+  }
+  .sf-story-author {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.8rem; color: var(--sf-teal); font-weight: 600; margin-top: 0.1rem;
+  }
+  .sf-story-desc {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.88rem; line-height: 1.6; color: #666; margin-top: 0.4rem;
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     SECOND CTA
+  ═══════════════════════════════════════════════════════════ */
+  .sf-cta-dark {
+    background: linear-gradient(135deg, #0a1425 0%, #0f1e35 100%);
+    padding: 4rem 1.5rem; text-align: center; color: white;
+    position: relative; overflow: hidden;
+  }
+  .sf-cta-dark::before {
+    content: ''; position: absolute; inset: 0;
+    background-image:
+      radial-gradient(1px 1px at 10% 20%, rgba(255,255,255,0.3) 0%, transparent 100%),
+      radial-gradient(1px 1px at 60% 40%, rgba(255,255,255,0.2) 0%, transparent 100%),
+      radial-gradient(1px 1px at 85% 70%, rgba(255,255,255,0.25) 0%, transparent 100%),
+      radial-gradient(1px 1px at 35% 80%, rgba(255,255,255,0.15) 0%, transparent 100%);
+    pointer-events: none;
+  }
+  .sf-cta-dark-inner { max-width: 560px; margin: 0 auto; position: relative; z-index: 1; }
+  .sf-cta-eyebrow {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--sf-gold); font-weight: 600; margin-bottom: 0.75rem;
+  }
+  .sf-cta-dark h2 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: clamp(1.5rem, 3vw, 2rem); margin: 0 0 0.5rem; font-weight: 600;
+  }
+  .sf-cta-dark .sf-cta-sub {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    color: rgba(255,255,255,0.58); margin: 0 auto 2rem;
+    max-width: 480px; font-size: 0.95rem; line-height: 1.65;
+  }
+  .sf-cta-wrap { max-width: 420px; margin: 0 auto; }
+
+  /* ═══════════════════════════════════════════════════════════
+     FAQ ACCORDION
+  ═══════════════════════════════════════════════════════════ */
+  .sf-faq-section { background: #faf8f4; padding: 3.5rem 1.5rem; }
+  .sf-faq-inner { max-width: 680px; margin: 0 auto; }
+  .sf-faq-eyebrow {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: #bbb; font-weight: 600; margin-bottom: 0.6rem; text-align: center;
+  }
+  .sf-faq-section h2 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: 1.5rem; text-align: center; margin: 0 0 2.5rem; color: #111; font-weight: 600;
+  }
+  .sf-faq-accordion { list-style: none; padding: 0; margin: 0; }
+  .sf-faq-item { border-top: 1px solid #e4ddd5; }
+  .sf-faq-item:last-child { border-bottom: 1px solid #e4ddd5; }
+  .sf-faq-trigger {
+    width: 100%; display: flex; justify-content: space-between; align-items: center;
+    gap: 1rem; padding: 1.1rem 0; background: none; border: none; cursor: pointer;
+    text-align: left; font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.95rem; font-weight: 600; color: #111; line-height: 1.4;
+  }
+  .sf-faq-trigger:hover { color: var(--sf-teal); }
+  .sf-faq-icon {
+    flex-shrink: 0; width: 20px; height: 20px; border-radius: 50%;
+    border: 1.5px solid #ccc; display: flex; align-items: center; justify-content: center;
+    font-size: 0.85rem; color: #888; transition: transform 0.2s, border-color 0.2s, color 0.2s; line-height: 1;
+  }
+  .sf-faq-item.open .sf-faq-icon { transform: rotate(45deg); border-color: var(--sf-teal); color: var(--sf-teal); }
+  .sf-faq-body {
+    display: none; padding: 0 0 1.1rem;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.88rem; line-height: 1.65; color: #555;
+  }
+  .sf-faq-item.open .sf-faq-body { display: block; }
+
+  /* ═══════════════════════════════════════════════════════════
+     KEEP READING
+  ═══════════════════════════════════════════════════════════ */
+  .sf-keep-reading { background: var(--sf-cream); padding: 3rem 1.5rem; }
+  .sf-keep-reading-inner { max-width: 760px; margin: 0 auto; }
+  .sf-keep-reading h3 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: 1rem; color: #111; margin: 0 0 0.4rem; font-weight: 600;
+  }
+  .sf-keep-reading-sub {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.85rem; color: #888; margin: 0 0 1.25rem;
+  }
+  .sf-keep-reading-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0.6rem;
+  }
+  .sf-keep-reading-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.8rem 1rem; border: 1px solid #ddd5c8; border-radius: 14px;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.82rem; color: #333; text-decoration: none; background: white;
+    transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
+  }
+  .sf-keep-reading-link:hover { border-color: var(--sf-teal); background: #f2faf8; box-shadow: 0 2px 12px rgba(42,107,95,0.08); }
+  .sf-keep-reading-link .krl-type {
+    font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--sf-teal); font-weight: 600; display: block; margin-bottom: 0.2rem;
+  }
+  .sf-keep-reading-link .krl-arrow { color: #ccc; font-size: 0.75rem; flex-shrink: 0; margin-left: 0.5rem; }
+  .sf-keep-reading-link:hover .krl-arrow { color: var(--sf-teal); }
+</style>
+
+
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<div class="scifi-hero">
+  <div class="scifi-hero-inner">
+
+    <div class="scifi-hero-copy">
+      <div class="scifi-hero-eyebrow">Free Download · 10 Classic Stories · PDF</div>
+      <h1>Free Sci-Fi<br><em>Short Stories</em></h1>
+      <p>Ten classic science fiction short stories — Asimov, Bradbury, Pohl, Verne, Laumer — curated and typeset for comfortable reading. Drop your email and we'll send the full PDF to your inbox.</p>
+      <div class="scifi-hero-form">
+        <div class="ml-embedded" data-form="0hveDb"></div>
+        <p class="scifi-trust-line">Free forever <span>·</span> Sent instantly <span>·</span> One-click unsubscribe</p>
+      </div>
     </div>
-    <h1>Free Sci-Fi<br><em>Short Stories</em></h1>
-    <p>Clasic science fiction short stories curated by Ben Luxon — spanning hard SF, space opera, and speculative fiction. Enter your email and get instant access.</p>
+
+    <!-- Option A: single anthology cover — hidden on mobile -->
+    <div class="scifi-hero-books" aria-hidden="true">
+      <div class="hero-cover-wrap">
+        <div class="bc">
+          <div class="bc-hdr">
+            <span class="bc-hdr-label">Litloop Classics</span>
+            <span class="bc-hdr-num">Collection</span>
+          </div>
+          <div class="bc-body" style="background:#1B3A5C;">
+            <div class="bc-sub">A Litloop Anthology</div>
+            <div class="bc-rule"></div>
+            <div class="bc-ttl">Journeys Through Space &amp; Time</div>
+            <div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div>
+          </div>
+          <div class="bc-cream">
+            <div class="bc-by">10 Classic Stories</div>
+            <div class="bc-auth">Sci-Fi Short Stories</div>
+            <div class="bc-yr">Curated by Ben Luxon</div>
+            <div class="bc-badge"><span>FREE<br>PDF</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
 </div>
 
-<section class="section" style="background:var(--cream);">
-  <div class="section-inner" style="max-width:680px;">
 
-    <div class="lead-gen-card">
+<!-- ═══════════════════════ ANTHOLOGY STRIP ═══════════════════════ -->
+<div class="sf-anthology-strip">
+  <div class="sf-anthology-pill">A Litloop Short Classics Anthology</div>
+  <h2>The Golden Age of science fiction, <em>free</em> to keep.</h2>
+  <p>Between roughly 1935 and the early 1960s, a generation of writers worked out almost everything science fiction would go on to be — first contact, robot ethics, simulated reality, surveillance dystopia, faster-than-light travel, post-scarcity economics, the unthinkable. This collection gathers ten of the cleanest, sharpest examples in the public domain — Asimov, Bradbury, Pohl, Laumer, plus an original new story from Litloop's own Ben Luxon. Read them in order or skip around. They're yours.</p>
+</div>
 
-      <!-- STEP 1: Form -->
-      <div class="lead-gen-step" id="lg-step1">
 
-        <div class="lead-gen-book-preview lead-gen-book-preview--scifi" style="background:var(--navy);">
-          <div class="book-preview-icon" style="color:var(--amber-light);">◈</div>
-          <div class="book-preview-meta">
-            <h2 style="color:white;">Sci-Fi Short Story Collection</h2>
-            <p style="color:rgba(255,255,255,0.6);">Classic sci-fi short stories curated by <strong style="color:rgba(255,255,255,0.9);">Ben Luxon</strong></p>
-          </div>
-        </div>
-
-        <ul class="download-features">
-          <li>Multiple classic stories</li>
-          <li>Hard SF, space opera &amp; speculative fiction</li>
-          <li>Instant access — sent straight to your inbox</li>
-        </ul>
-
-        <div class="lead-gen-form-wrap" style="margin-top:1.75rem;">
-          <p class="lead-gen-label">Enter your email to get instant access:</p>
-          <div class="ml-embedded" data-form="0hveDb"></div>
-          <p class="lead-gen-small">No spam. You'll also receive occasional book recommendations from Litloop. Unsubscribe any time.</p>
-        </div>
-
-      </div>
-
-      <!-- STEP 2: Success -->
-      <div class="lead-gen-step lead-gen-thankyou" id="lg-step2" style="display:none;">
-        <div class="thankyou-check">✓</div>
-        <h2>You're all set!</h2>
-        <p>Check your inbox — the stories are on their way. While you wait, you can also download directly below.</p>
-        <a href="{{ site.scifi_download_url | default: '#' }}" class="btn btn-primary btn-download--large" download>
-          ↓ &nbsp;Download Now (PDF)
-        </a>
-        <p class="lead-gen-small" style="margin-top:1.25rem;">Questions? Get in touch via the <a href="{{ '/about/' | relative_url }}" style="color:var(--teal);">About page</a>.</p>
-      </div>
-
+<!-- ═══════════════════════ STORIES LIST ═══════════════════════ -->
+<section class="sf-stories-section">
+  <div class="sf-stories-inner">
+    <div class="sf-stories-header">
+      <h3>What's in the collection</h3>
+      <span class="sf-stories-count">10 STORIES · 1 PDF</span>
     </div>
 
-    <div style="margin-top:2.5rem;">
-      <h3 style="font-family:var(--font-display); font-size:1.1rem; color:var(--navy); margin-bottom:1rem;">You might also enjoy</h3>
-      <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
-        <a href="{{ '/genres/sci-fi/' | relative_url }}" class="btn-outline">Sci-Fi Reading Guide →</a>
-        <a href="{{ '/tools/scifi-prompts/' | relative_url }}" class="btn-outline">Sci-Fi Prompt Generator →</a>
-        <a href="{{ '/free-downloads/horror/' | relative_url }}" class="btn-outline">Free Horror Stories →</a>
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№01</span></div>
+        <div class="bc-body" style="background:#1B3A5C;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">Youth</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Isaac Asimov</div><div class="bc-yr">1952</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">1 · 1952</span>
+        <h4 class="sf-story-title">Youth</h4>
+        <div class="sf-story-author">by Isaac Asimov</div>
+        <p class="sf-story-desc">Two boys find strange creatures in their garden and decide to keep them. The creatures, it turns out, are doing the same. A quietly perfect first-contact story with a twist Asimov throws in effortlessly.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№02</span></div>
+        <div class="bc-body" style="background:#7B1C1C;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">Let's Get Together</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Isaac Asimov</div><div class="bc-yr">1957</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">2 · 1957</span>
+        <h4 class="sf-story-title">Let's Get Together</h4>
+        <div class="sf-story-author">by Isaac Asimov</div>
+        <p class="sf-story-desc">Cold War paranoia at full stretch: ten humanoid robots are smuggled into the United States — each carrying a fragment of a hydrogen bomb that will only arm when they all stand in the same room.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№03</span></div>
+        <div class="bc-body" style="background:#1B3A5C;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">A Little Journey</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Ray Bradbury</div><div class="bc-yr">1951</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">3 · 1951</span>
+        <h4 class="sf-story-title">A Little Journey</h4>
+        <div class="sf-story-author">by Ray Bradbury</div>
+        <p class="sf-story-desc">An elderly woman buys a ticket on the new rocket service to Mars, certain the young captain at the controls is something he's not. Bradbury at his most tender.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№04</span></div>
+        <div class="bc-body" style="background:#162C40;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">The Tunnel Under the World</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Frederik Pohl</div><div class="bc-yr">1954</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">4 · 1954</span>
+        <h4 class="sf-story-title">The Tunnel Under the World</h4>
+        <div class="sf-story-author">by Frederik Pohl</div>
+        <p class="sf-story-desc">Guy Birckhead wakes from a dream of dying in an explosion. The same advertisement plays on every channel. The town is not the town it appears — and neither, possibly, is he.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№05</span></div>
+        <div class="bc-body" style="background:#1F3D52;"><div class="bc-sub">Original</div><div class="bc-rule"></div><div class="bc-ttl">Headstart</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Ben Luxon</div><div class="bc-yr">Contemporary</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">5 · Contemporary</span>
+        <h4 class="sf-story-title">Headstart <span class="sf-story-badge">Original</span></h4>
+        <div class="sf-story-author">by Ben Luxon</div>
+        <p class="sf-story-desc">When offered the chance to trial a new technology to assist him in his therapy sessions, Dr Philip Schele is distraught. He jumps at this opportunity.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№06</span></div>
+        <div class="bc-body" style="background:#1C3828;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">Dalrymple's Equation</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Paul W. Fairman</div><div class="bc-yr">1951</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">6 · 1951</span>
+        <h4 class="sf-story-title">Dalrymple's Equation</h4>
+        <div class="sf-story-author">by Paul W. Fairman</div>
+        <p class="sf-story-desc">A physicist's equation could end the world — or save it. The trouble is no one, the physicist included, can yet tell which side of the line his proof actually falls on.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№07</span></div>
+        <div class="bc-body" style="background:#0D2030;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">Doorstep</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Keith Laumer</div><div class="bc-yr">1951</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">7 · 1951</span>
+        <h4 class="sf-story-title">Doorstep</h4>
+        <div class="sf-story-author">by Keith Laumer</div>
+        <p class="sf-story-desc">An enormous craft has landed on the White House lawn and refuses to open. A government negotiator is sent in. The story is short, sly, and almost entirely about interacting with what is in front of you.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№08</span></div>
+        <div class="bc-body" style="background:#2A1A3E;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">In the Year 2889</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Jules &amp; Michel Verne</div><div class="bc-yr">1889</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">8 · 1889</span>
+        <h4 class="sf-story-title">In The Year 2889</h4>
+        <div class="sf-story-author">by Jules &amp; Michel Verne</div>
+        <p class="sf-story-desc">A media baron's ordinary workday, one thousand years from now — flying machines, video calls, advertising projected onto clouds. Remarkable for how much he got right.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№09</span></div>
+        <div class="bc-body" style="background:#1A3020;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">Export Commodity</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Irving Cox, Jr.</div><div class="bc-yr">1951</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">9 · 1951</span>
+        <h4 class="sf-story-title">Export Commodity</h4>
+        <div class="sf-story-author">by Irving Cox, Jr.</div>
+        <p class="sf-story-desc">A trader arrives on a backwater colony world with terms that are far too generous and a smile that doesn't reach his eyes. The locals are probably adorable.</p>
+      </div>
+    </div>
+
+    <div class="sf-story-item">
+      <div class="sf-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№10</span></div>
+        <div class="bc-body" style="background:#0D1E33;"><div class="bc-sub">Sci-Fi</div><div class="bc-rule"></div><div class="bc-ttl">A Spaceship Named McGuire</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Randall Garrett</div><div class="bc-yr">1961</div></div>
+      </div></div>
+      <div class="sf-story-meta">
+        <span class="sf-story-num">10 · 1961</span>
+        <h4 class="sf-story-title">A Spaceship Named McGuire</h4>
+        <div class="sf-story-author">by Randall Garrett</div>
+        <p class="sf-story-desc">A private detective is hired to recover an experimental ship with a mind of its own — and a tendency, like its previous pilots, to develop resources. Pulp at its most affectionate.</p>
       </div>
     </div>
 
   </div>
 </section>
 
+
+<!-- ═══════════════════════ SECOND CTA ═══════════════════════ -->
+<div class="sf-cta-dark">
+  <div class="sf-cta-dark-inner">
+    <div class="sf-cta-eyebrow">Free download · PDF</div>
+    <h2>Get the full sci-fi collection now</h2>
+    <p class="sf-cta-sub">Ten classic sci-fi short stories, typeset for comfortable reading on phone, tablet or e-reader. Sent the moment you hit Download.</p>
+    <div class="sf-cta-wrap"><div class="ml-embedded" data-form="0hveDb"></div></div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════ FAQ ═══════════════════════ -->
+<section class="sf-faq-section">
+  <div class="sf-faq-inner">
+    <div class="sf-faq-eyebrow">FAQ</div>
+    <h2>Common questions</h2>
+    <ul class="sf-faq-accordion">
+      <li class="sf-faq-item">
+        <button class="sf-faq-trigger" aria-expanded="false">Are these sci-fi short stories really free?<span class="sf-faq-icon">+</span></button>
+        <div class="sf-faq-body">Yes — every story in the collection is in the public domain (with the exception of the original piece by Ben Luxon, included by the author). Drop your email and we'll send the full PDF straight to your inbox.</div>
+      </li>
+      <li class="sf-faq-item">
+        <button class="sf-faq-trigger" aria-expanded="false">What's in the sci-fi short stories collection?<span class="sf-faq-icon">+</span></button>
+        <div class="sf-faq-body">Ten stories spanning hard SF, space opera, and speculative fiction — Asimov, Bradbury, Pohl, Laumer, Verne, Fairman, and more. All formatted for comfortable reading on phone or screen.</div>
+      </li>
+      <li class="sf-faq-item">
+        <button class="sf-faq-trigger" aria-expanded="false">Can I share the PDF with a friend?<span class="sf-faq-icon">+</span></button>
+        <div class="sf-faq-body">Please do. These are public-domain classics — share, print, email, drop it around your book club. The more people reading the things we love, the better.</div>
+      </li>
+      <li class="sf-faq-item">
+        <button class="sf-faq-trigger" aria-expanded="false">What format will I receive?<span class="sf-faq-icon">+</span></button>
+        <div class="sf-faq-body">A single PDF optimised for both screen and print. If you'd prefer EPUB, reply to the welcome email and we'll send over a version.</div>
+      </li>
+      <li class="sf-faq-item">
+        <button class="sf-faq-trigger" aria-expanded="false">Will I get spammed?<span class="sf-faq-icon">+</span></button>
+        <div class="sf-faq-body">No. You'll get the stories, plus occasional book recommendations from Litloop — never more than once a week, and one-click to unsubscribe.</div>
+      </li>
+    </ul>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════ KEEP READING ═══════════════════════ -->
+<section class="sf-keep-reading">
+  <div class="sf-keep-reading-inner">
+    <h3>Keep reading</h3>
+    <p class="sf-keep-reading-sub">More from the Litloop science fiction shelf — reading guides, blog deep-dives, and a writing-prompt generator.</p>
+    <div class="sf-keep-reading-grid">
+      <a href="https://www.litloop.co/genres/sci-fi/" class="sf-keep-reading-link"><div><span class="krl-type">Guide</span>Sci-Fi Reading Guide</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/genres/sci-fi/top-100/" class="sf-keep-reading-link"><div><span class="krl-type">List</span>Top 50 Science Fiction Novels</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/tools/scifi-prompts/" class="sf-keep-reading-link"><div><span class="krl-type">Tool</span>Sci-Fi Writing Prompts</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/blog/classic-science-fiction-short-stories-you-need-to-read/" class="sf-keep-reading-link"><div><span class="krl-type">Blog</span>Classic Sci-Fi Short Stories You Need to Read</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/blog/best-isaac-asimov-books/" class="sf-keep-reading-link"><div><span class="krl-type">Blog</span>The Best Isaac Asimov Books</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/blog/best-cyberpunk-books/" class="sf-keep-reading-link"><div><span class="krl-type">Blog</span>The Best Cyberpunk Books</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin/" class="sf-keep-reading-link"><div><span class="krl-type">Blog</span>The Best Sci-Fi by Ursula K. Le Guin</div><span class="krl-arrow">→</span></a>
+      <a href="/free-downloads/horror/" class="sf-keep-reading-link"><div><span class="krl-type">Also</span>Free Horror Short Stories</div><span class="krl-arrow">→</span></a>
+    </div>
+  </div>
+</section>
+
 <script>
-document.getElementById('lg-scifi-show-direct')?.addEventListener('click', function() {
-  document.getElementById('lg-step1').style.display = 'none';
-  document.getElementById('lg-step2').style.display = 'block';
-  document.getElementById('lg-step2').scrollIntoView({ behavior: 'smooth', block: 'start' });
-});
-document.addEventListener('ml-form-success', function(e) {
-  if (document.getElementById('lg-step1')) {
-    document.getElementById('lg-step1').style.display = 'none';
-    document.getElementById('lg-step2').style.display = 'block';
-    document.getElementById('lg-step2').scrollIntoView({ behavior: 'smooth', block: 'start' });
-  }
+document.querySelectorAll('.sf-faq-trigger').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var item = this.closest('.sf-faq-item');
+    var isOpen = item.classList.contains('open');
+    document.querySelectorAll('.sf-faq-item.open').forEach(function(el) {
+      el.classList.remove('open');
+      el.querySelector('.sf-faq-trigger').setAttribute('aria-expanded', 'false');
+    });
+    if (!isOpen) { item.classList.add('open'); this.setAttribute('aria-expanded', 'true'); }
+  });
 });
 </script>

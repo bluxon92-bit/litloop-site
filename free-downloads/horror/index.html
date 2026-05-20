@@ -1,85 +1,552 @@
 ---
 layout: default
 title: Free Horror Short Story Collection — Download
-description: Get classic horror short stories free. Enter your email and get instant access to atmospheric, unsettling fiction.
+description: Six landmark works of supernatural and psychological horror — Poe, Lovecraft, Blackwood, Irving — curated and typeset for comfortable reading. Drop your email and we'll send the full PDF to your inbox.
 permalink: /free-downloads/horror/
 ---
 
-<div class="tool-hero tool-hero--horror" style="background:linear-gradient(135deg, var(--navy) 0%, #2d0f0f 60%);">
-  <div class="tool-hero-inner">
-    <div class="tool-label">
-      <span class="tool-label-line"></span>
-      <span>Free Download</span>
+<style>
+  /* ═══════════════════════════════════════════════════════════
+     LITLOOP CLASSICS — Book cover component (shared)
+     Identical to sci-fi page — copy both files into repo together
+  ═══════════════════════════════════════════════════════════ */
+  .bc {
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 8px 28px rgba(0,0,0,0.55), 0 2px 6px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    font-family: 'DM Sans', system-ui, sans-serif;
+    width: 100%;
+  }
+  .bc-hdr {
+    background: #8B1A1A;
+    padding: 0.35em 0.55em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .bc-hdr-label, .bc-hdr-num {
+    font-size: 0.72em; font-weight: 700; letter-spacing: 0.1em; color: #fff; text-transform: uppercase;
+  }
+  .bc-hdr-num { letter-spacing: 0.06em; }
+  .bc-body {
+    flex: 1; display: flex; flex-direction: column; align-items: center; padding: 0.7em 0.6em 0;
+  }
+  .bc-sub {
+    font-size: 0.6em; letter-spacing: 0.13em; text-transform: uppercase;
+    color: rgba(180,100,80,0.75); text-align: center; margin-bottom: 0.3em;
+  }
+  .bc-rule { width: 1.6em; height: 1px; background: rgba(180,100,80,0.35); margin-bottom: 0.55em; }
+  .bc-ttl {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.88em; font-weight: 700; color: #D4A090;
+    text-align: center; text-transform: uppercase;
+    letter-spacing: 0.05em; line-height: 1.25;
+    flex: 1; display: flex; align-items: center; justify-content: center;
+  }
+  .bc-div { display: flex; align-items: center; gap: 0.25em; padding-bottom: 0.5em; }
+  .bc-dl { width: 1.2em; height: 1px; background: rgba(180,100,80,0.45); }
+  .bc-dd { width: 0.38em; height: 0.38em; border-radius: 50%; border: 1px solid #8B1A1A; background: transparent; flex-shrink: 0; }
+  .bc-cream { background: #EDE8DC; padding: 0.5em 0.6em 0.45em; flex-shrink: 0; position: relative; }
+  .bc-by { font-size: 0.6em; letter-spacing: 0.1em; text-transform: uppercase; color: #aaa; margin-bottom: 0.15em; }
+  .bc-auth { font-family: 'Lora', Georgia, serif; font-size: 0.78em; font-weight: 700; color: #2d0f0f; line-height: 1.2; margin-bottom: 0.1em; }
+  .bc-yr { font-size: 0.62em; color: #bbb; letter-spacing: 0.05em; }
+  .bc-badge {
+    position: absolute; bottom: 0.4em; right: 0.4em;
+    width: 2.1em; height: 2.1em; border-radius: 50%; background: #8B1A1A;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+  }
+  .bc-badge span { font-size: 0.52em; font-weight: 700; color: white; letter-spacing: 0.04em; line-height: 1.3; text-transform: uppercase; text-align: center; }
+
+  /* ═══════════════════════════════════════════════════════════
+     PAGE VARIABLES — horror palette
+     Deep crimson accent, same cream/navy base as main.css
+  ═══════════════════════════════════════════════════════════ */
+  :root {
+    --hr-crimson:    #8B1A1A;
+    --hr-crimson-dk: #5c0f0f;
+    --hr-navy:       #1B1B2E;
+    --hr-teal:       #2A6B5F;
+    --hr-cream:      #F5F0E8;
+    --hr-cream-dk:   #EDE7DB;
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     HERO
+  ═══════════════════════════════════════════════════════════ */
+  .horror-hero {
+    background: linear-gradient(160deg, #0a0505 0%, #1a0808 55%, #0d0505 100%);
+    color: white;
+    padding: 3.5rem 1.5rem 4rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .horror-hero::before {
+    content: ''; position: absolute; inset: 0;
+    background-image:
+      radial-gradient(circle at 20% 50%, rgba(139,26,26,0.15) 0%, transparent 50%),
+      radial-gradient(circle at 80% 20%, rgba(139,26,26,0.08) 0%, transparent 40%);
+    pointer-events: none;
+  }
+  .horror-hero::after {
+    content: ''; position: absolute; inset: 0;
+    background-image:
+      radial-gradient(1px 1px at 15% 25%, rgba(255,255,255,0.2) 0%, transparent 100%),
+      radial-gradient(1px 1px at 42% 68%, rgba(255,255,255,0.15) 0%, transparent 100%),
+      radial-gradient(1px 1px at 67% 15%, rgba(255,255,255,0.18) 0%, transparent 100%),
+      radial-gradient(1px 1px at 85% 55%, rgba(255,255,255,0.12) 0%, transparent 100%),
+      radial-gradient(1px 1px at 30% 80%, rgba(255,255,255,0.15) 0%, transparent 100%),
+      radial-gradient(1px 1px at 72% 40%, rgba(255,255,255,0.18) 0%, transparent 100%),
+      radial-gradient(1px 1px at 10% 60%, rgba(255,255,255,0.12) 0%, transparent 100%),
+      radial-gradient(1px 1px at 90% 75%, rgba(255,255,255,0.10) 0%, transparent 100%);
+    pointer-events: none;
+  }
+  .horror-hero-inner {
+    max-width: 960px; margin: 0 auto;
+    display: grid; grid-template-columns: 1fr 180px;
+    gap: 3rem; align-items: center;
+    position: relative; z-index: 1;
+  }
+  @media (max-width: 680px) {
+    .horror-hero-inner { grid-template-columns: 1fr; }
+    .horror-hero-books { display: none; }
+  }
+  .horror-hero-eyebrow {
+    display: flex; align-items: center; gap: 0.6rem;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase;
+    color: #c04040; font-weight: 600; margin-bottom: 1.25rem;
+  }
+  .horror-hero-eyebrow::before {
+    content: ''; display: block; width: 28px; height: 1px; background: #c04040;
+  }
+  .horror-hero h1 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: clamp(2.4rem, 5vw, 3.5rem);
+    line-height: 1.05; margin: 0 0 1.25rem; font-weight: 600; color: white;
+  }
+  .horror-hero h1 em { font-style: italic; color: #c04040; }
+  .horror-hero-copy > p {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 1.05rem; line-height: 1.65;
+    color: rgba(255,255,255,0.68); margin: 0 0 2rem; max-width: 440px;
+  }
+  .horror-hero-form { max-width: 420px; }
+  .horror-trust-line {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.72rem; color: rgba(255,255,255,0.3);
+    margin-top: 0.75rem; letter-spacing: 0.02em;
+  }
+  .horror-trust-line span { margin: 0 0.4rem; }
+
+  /* Single anthology cover in hero */
+  .horror-hero-books { display: flex; justify-content: center; align-items: center; }
+  .hero-cover-wrap { width: 160px; font-size: 13px; }
+
+  /* ═══════════════════════════════════════════════════════════
+     ANTHOLOGY STRIP
+  ═══════════════════════════════════════════════════════════ */
+  .hr-anthology-strip {
+    background: var(--hr-cream); padding: 2.5rem 1.5rem;
+    border-bottom: 1px solid var(--hr-cream-dk); text-align: center;
+  }
+  .hr-anthology-pill {
+    display: inline-flex; align-items: center;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--hr-crimson); font-weight: 700;
+    border: 1px solid var(--hr-crimson); padding: 0.3rem 1rem;
+    border-radius: 999px; margin-bottom: 1.25rem;
+  }
+  .hr-anthology-strip h2 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: clamp(1.5rem, 3.5vw, 2.2rem); color: #111;
+    margin: 0 0 0.9rem; font-weight: 600; line-height: 1.15;
+  }
+  .hr-anthology-strip h2 em { font-style: italic; color: var(--hr-crimson); }
+  .hr-anthology-strip p {
+    max-width: 640px; margin: 0 auto;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 1rem; line-height: 1.7; color: #555;
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     STORIES LIST
+  ═══════════════════════════════════════════════════════════ */
+  .hr-stories-section { background: var(--hr-cream); padding: 3rem 1.5rem; }
+  .hr-stories-inner {
+    max-width: 760px; margin: 0 auto; background: white;
+    border-radius: 22px; padding: 2rem 2rem 0.5rem;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+  }
+  @media (max-width: 560px) { .hr-stories-inner { padding: 1.25rem 1.25rem 0.25rem; } }
+  .hr-stories-header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    margin-bottom: 1.5rem; border-bottom: 1px solid var(--hr-cream-dk); padding-bottom: 0.75rem;
+  }
+  .hr-stories-header h3 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: 1.15rem; font-weight: 600; color: #111; margin: 0;
+  }
+  .hr-stories-count {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.72rem; color: #aaa; letter-spacing: 0.07em; font-weight: 500;
+  }
+  .hr-story-item {
+    display: grid; grid-template-columns: 56px 1fr;
+    gap: 1.25rem; padding: 1.25rem 0;
+    border-bottom: 1px solid var(--hr-cream-dk); align-items: start;
+  }
+  .hr-story-item:last-child { border-bottom: none; }
+  .hr-story-cover-wrap { width: 56px; font-size: 8px; flex-shrink: 0; }
+  .hr-story-meta { display: flex; flex-direction: column; gap: 0.15rem; }
+  .hr-story-num {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.68rem; color: #aaa; letter-spacing: 0.08em; font-weight: 500; margin-bottom: 0.05rem;
+  }
+  .hr-story-title {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: 1.05rem; font-weight: 600; color: #111; margin: 0; line-height: 1.2;
+  }
+  .hr-story-author {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.8rem; color: var(--hr-crimson); font-weight: 600; margin-top: 0.1rem;
+  }
+  .hr-story-desc {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.88rem; line-height: 1.6; color: #666; margin-top: 0.4rem;
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     SECOND CTA
+  ═══════════════════════════════════════════════════════════ */
+  .hr-cta-dark {
+    background: linear-gradient(135deg, #0a0202 0%, #1a0606 100%);
+    padding: 4rem 1.5rem; text-align: center; color: white;
+    position: relative; overflow: hidden;
+  }
+  .hr-cta-dark::before {
+    content: ''; position: absolute; inset: 0;
+    background-image:
+      radial-gradient(1px 1px at 10% 20%, rgba(255,255,255,0.2) 0%, transparent 100%),
+      radial-gradient(1px 1px at 60% 40%, rgba(255,255,255,0.15) 0%, transparent 100%),
+      radial-gradient(1px 1px at 85% 70%, rgba(255,255,255,0.18) 0%, transparent 100%),
+      radial-gradient(1px 1px at 35% 80%, rgba(255,255,255,0.12) 0%, transparent 100%);
+    pointer-events: none;
+  }
+  .hr-cta-dark-inner { max-width: 560px; margin: 0 auto; position: relative; z-index: 1; }
+  .hr-cta-eyebrow {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: #c04040; font-weight: 600; margin-bottom: 0.75rem;
+  }
+  .hr-cta-dark h2 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: clamp(1.5rem, 3vw, 2rem); margin: 0 0 0.5rem; font-weight: 600;
+  }
+  .hr-cta-dark .hr-cta-sub {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    color: rgba(255,255,255,0.55); margin: 0 auto 2rem;
+    max-width: 480px; font-size: 0.95rem; line-height: 1.65;
+  }
+  .hr-cta-wrap { max-width: 420px; margin: 0 auto; }
+
+  /* ═══════════════════════════════════════════════════════════
+     FAQ ACCORDION
+  ═══════════════════════════════════════════════════════════ */
+  .hr-faq-section { background: #faf8f4; padding: 3.5rem 1.5rem; }
+  .hr-faq-inner { max-width: 680px; margin: 0 auto; }
+  .hr-faq-eyebrow {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: #bbb; font-weight: 600; margin-bottom: 0.6rem; text-align: center;
+  }
+  .hr-faq-section h2 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: 1.5rem; text-align: center; margin: 0 0 2.5rem; color: #111; font-weight: 600;
+  }
+  .hr-faq-accordion { list-style: none; padding: 0; margin: 0; }
+  .hr-faq-item { border-top: 1px solid #e4ddd5; }
+  .hr-faq-item:last-child { border-bottom: 1px solid #e4ddd5; }
+  .hr-faq-trigger {
+    width: 100%; display: flex; justify-content: space-between; align-items: center;
+    gap: 1rem; padding: 1.1rem 0; background: none; border: none; cursor: pointer;
+    text-align: left; font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.95rem; font-weight: 600; color: #111; line-height: 1.4;
+  }
+  .hr-faq-trigger:hover { color: var(--hr-crimson); }
+  .hr-faq-icon {
+    flex-shrink: 0; width: 20px; height: 20px; border-radius: 50%;
+    border: 1.5px solid #ccc; display: flex; align-items: center; justify-content: center;
+    font-size: 0.85rem; color: #888;
+    transition: transform 0.2s, border-color 0.2s, color 0.2s; line-height: 1;
+  }
+  .hr-faq-item.open .hr-faq-icon { transform: rotate(45deg); border-color: var(--hr-crimson); color: var(--hr-crimson); }
+  .hr-faq-body {
+    display: none; padding: 0 0 1.1rem;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.88rem; line-height: 1.65; color: #555;
+  }
+  .hr-faq-item.open .hr-faq-body { display: block; }
+
+  /* ═══════════════════════════════════════════════════════════
+     KEEP READING
+  ═══════════════════════════════════════════════════════════ */
+  .hr-keep-reading { background: var(--hr-cream); padding: 3rem 1.5rem; }
+  .hr-keep-reading-inner { max-width: 760px; margin: 0 auto; }
+  .hr-keep-reading h3 {
+    font-family: var(--font-display, 'Lora', Georgia, serif);
+    font-size: 1rem; color: #111; margin: 0 0 0.4rem; font-weight: 600;
+  }
+  .hr-keep-reading-sub {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.85rem; color: #888; margin: 0 0 1.25rem;
+  }
+  .hr-keep-reading-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.6rem;
+  }
+  .hr-keep-reading-link {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.8rem 1rem; border: 1px solid #ddd5c8; border-radius: 14px;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.82rem; color: #333; text-decoration: none; background: white;
+    transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
+  }
+  .hr-keep-reading-link:hover { border-color: var(--hr-crimson); background: #fdf5f5; box-shadow: 0 2px 12px rgba(139,26,26,0.08); }
+  .hr-keep-reading-link .krl-type {
+    font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--hr-crimson); font-weight: 600; display: block; margin-bottom: 0.2rem;
+  }
+  .hr-keep-reading-link .krl-arrow { color: #ccc; font-size: 0.75rem; flex-shrink: 0; margin-left: 0.5rem; }
+  .hr-keep-reading-link:hover .krl-arrow { color: var(--hr-crimson); }
+</style>
+
+
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<div class="horror-hero">
+  <div class="horror-hero-inner">
+
+    <div class="horror-hero-copy">
+      <div class="horror-hero-eyebrow">Free Download · 6 Classic Stories · PDF</div>
+      <h1>Free Horror<br><em>Short Stories</em></h1>
+      <p>Six landmark works of supernatural and psychological horror — Poe, Lovecraft, Blackwood, Irving — curated and typeset for comfortable reading. Drop your email and we'll send the full PDF to your inbox.</p>
+      <div class="horror-hero-form">
+        <div class="ml-embedded" data-form="9Immkh"></div>
+        <p class="horror-trust-line">Free forever <span>·</span> Sent instantly <span>·</span> One-click unsubscribe</p>
+      </div>
     </div>
-    <h1>Free Horror<br><em>Short Stories</em></h1>
-    <p>Classic horror short fiction curated by Ben Luxon — gothic atmosphere, psychological dread, and the quietly uncanny. Enter your email and get instant access.</p>
+
+    <!-- Single anthology cover — hidden on mobile -->
+    <div class="horror-hero-books" aria-hidden="true">
+      <div class="hero-cover-wrap">
+        <div class="bc">
+          <div class="bc-hdr">
+            <span class="bc-hdr-label">Litloop Classics</span>
+            <span class="bc-hdr-num">Collection</span>
+          </div>
+          <div class="bc-body" style="background:#2d0f0f;">
+            <div class="bc-sub">A Litloop Anthology</div>
+            <div class="bc-rule"></div>
+            <div class="bc-ttl">Things That Go Bump in the Night</div>
+            <div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div>
+          </div>
+          <div class="bc-cream">
+            <div class="bc-by">6 Classic Stories</div>
+            <div class="bc-auth">Horror Short Stories</div>
+            <div class="bc-yr">Curated by Ben Luxon</div>
+            <div class="bc-badge"><span>FREE<br>PDF</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
 </div>
 
-<section class="section" style="background:var(--cream);">
-  <div class="section-inner" style="max-width:680px;">
 
-    <div class="lead-gen-card" style="border-top:4px solid #8b0000;">
+<!-- ═══════════════════════ ANTHOLOGY STRIP ═══════════════════════ -->
+<div class="hr-anthology-strip">
+  <div class="hr-anthology-pill">A Litloop Short Classics Anthology</div>
+  <h2>The stories that built modern horror, <em>free</em> to keep.</h2>
+  <p>Before slasher films, before paperback splatter, horror was a quiet, atmospheric thing — a guest who didn't quite belong at the party, a name called from the trees, a sealed door that wouldn't stay sealed. This collection gathers six of the finest examples in the public domain: two of Poe's tightest revenge fables, Washington Irving's gentler-than-you-remember Sleepy Hollow, Algernon Blackwood's pitiless Wendigo, and the two stories that more or less invented cosmic horror as we know it. Read in order or skip around — they're yours.</p>
+</div>
 
-      <!-- STEP 1: Form -->
-      <div class="lead-gen-step" id="lg-horror-step1">
 
-        <div class="lead-gen-book-preview" style="background:#1a0505; margin-bottom:1.75rem;">
-          <div class="book-preview-meta">
-            <h2 style="color:white;">Horror Short Story Collection</h2>
-            <p style="color:rgba(255,255,255,0.6);">Classic dark fiction curated by <strong style="color:rgba(255,255,255,0.9);">Ben Luxon</strong></p>
-          </div>
-        </div>
-
-        <ul class="download-features">
-          <li>Multiple classic horror short stories</li>
-          <li>Gothic, psychological &amp; quietly uncanny fiction</li>
-          <li>Instant access — sent straight to your inbox</li>
-        </ul>
-
-        <div class="lead-gen-form-wrap" style="margin-top:1.75rem;">
-          <p class="lead-gen-label">Enter your email to get instant access:</p>
-          <div class="ml-embedded" data-form="9Immkh"></div>
-          <p class="lead-gen-small">No spam. You'll also receive occasional book recommendations from Litloop. Unsubscribe any time.</p>
-        </div>
-      </div>
-
-      <!-- STEP 2: Success -->
-      <div class="lead-gen-step lead-gen-thankyou" id="lg-horror-step2" style="display:none;">
-        <div class="thankyou-check" style="background:#8b0000;">🕯</div>
-        <h2>You're all set!</h2>
-        <p>Check your inbox — the stories are on their way. While you wait, you can also download directly below.</p>
-        <a href="{{ site.horror_download_url | default: '#' }}" class="btn btn-primary btn-download--large" style="background:#8b0000;" download>
-          ↓ &nbsp;Download Now (PDF)
-        </a>
-        <p class="lead-gen-small" style="margin-top:1.25rem;">Questions? Get in touch via the <a href="{{ '/about/' | relative_url }}" style="color:var(--teal);">About page</a>.</p>
-      </div>
-
+<!-- ═══════════════════════ STORIES LIST ═══════════════════════ -->
+<section class="hr-stories-section">
+  <div class="hr-stories-inner">
+    <div class="hr-stories-header">
+      <h3>What's in the collection</h3>
+      <span class="hr-stories-count">6 STORIES · 1 PDF</span>
     </div>
 
-    <div style="margin-top:2.5rem;">
-      <h3 style="font-family:var(--font-display); font-size:1.1rem; color:var(--navy); margin-bottom:1rem;">You might also enjoy</h3>
-      <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
-        <a href="{{ '/genres/horror/' | relative_url }}" class="btn-outline">Horror Reading Guide →</a>
-        <a href="{{ '/tools/horror-prompts/' | relative_url }}" class="btn-outline">Horror Prompt Generator →</a>
-        <a href="{{ '/free-downloads/' | relative_url }}" class="btn-outline">Free Sci-Fi Stories →</a>
+    <!-- 1 · The Call of Cthulhu -->
+    <div class="hr-story-item">
+      <div class="hr-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№01</span></div>
+        <div class="bc-body" style="background:#1a0a1a;"><div class="bc-sub">Horror</div><div class="bc-rule"></div><div class="bc-ttl">The Call of Cthulhu</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">H. P. Lovecraft</div><div class="bc-yr">1926</div></div>
+      </div></div>
+      <div class="hr-story-meta">
+        <span class="hr-story-num">1 · 1926</span>
+        <h4 class="hr-story-title">The Call of Cthulhu</h4>
+        <div class="hr-story-author">by H. P. Lovecraft</div>
+        <p class="hr-story-desc">A scholar inherits his great-uncle's papers and slowly pieces together a global pattern: scattered cults, simultaneous dreams, and something vast and patient waiting beneath the Pacific. The cornerstone of modern cosmic horror.</p>
+      </div>
+    </div>
+
+    <!-- 2 · The Lurking Fear -->
+    <div class="hr-story-item">
+      <div class="hr-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№02</span></div>
+        <div class="bc-body" style="background:#0f1a0f;"><div class="bc-sub">Horror</div><div class="bc-rule"></div><div class="bc-ttl">The Lurking Fear</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">H. P. Lovecraft</div><div class="bc-yr">1922</div></div>
+      </div></div>
+      <div class="hr-story-meta">
+        <span class="hr-story-num">2 · 1922</span>
+        <h4 class="hr-story-title">The Lurking Fear</h4>
+        <div class="hr-story-author">by H. P. Lovecraft</div>
+        <p class="hr-story-desc">Something has been killing the villagers of the Catskill Mountains for a century. A writer goes looking for the cause, and finds it lives much closer to the surface than anyone wanted to know.</p>
+      </div>
+    </div>
+
+    <!-- 3 · The Legend of Sleepy Hollow -->
+    <div class="hr-story-item">
+      <div class="hr-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№03</span></div>
+        <div class="bc-body" style="background:#1a1205;"><div class="bc-sub">Horror</div><div class="bc-rule"></div><div class="bc-ttl">The Legend of Sleepy Hollow</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Washington Irving</div><div class="bc-yr">1820</div></div>
+      </div></div>
+      <div class="hr-story-meta">
+        <span class="hr-story-num">3 · 1820</span>
+        <h4 class="hr-story-title">The Legend of Sleepy Hollow</h4>
+        <div class="hr-story-author">by Washington Irving</div>
+        <p class="hr-story-desc">Schoolteacher Ichabod Crane courts Katrina Van Tassel in a quiet Dutch settlement haunted by stories of a headless rider. Irving's prose is gentler than the legend it built — and somehow more unsettling for it.</p>
+      </div>
+    </div>
+
+    <!-- 4 · The Wendigo -->
+    <div class="hr-story-item">
+      <div class="hr-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№04</span></div>
+        <div class="bc-body" style="background:#05101a;"><div class="bc-sub">Horror</div><div class="bc-rule"></div><div class="bc-ttl">The Wendigo</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Algernon Blackwood</div><div class="bc-yr">1910</div></div>
+      </div></div>
+      <div class="hr-story-meta">
+        <span class="hr-story-num">4 · 1910</span>
+        <h4 class="hr-story-title">The Wendigo</h4>
+        <div class="hr-story-author">by Algernon Blackwood</div>
+        <p class="hr-story-desc">A hunting party in the Canadian wilderness camps too far north. In the night, something calls one of them out of his tent by name. They never see him properly again. Quiet, patient, devastating.</p>
+      </div>
+    </div>
+
+    <!-- 5 · The Cask of Amontillado -->
+    <div class="hr-story-item">
+      <div class="hr-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№05</span></div>
+        <div class="bc-body" style="background:#2d0f0f;"><div class="bc-sub">Horror</div><div class="bc-rule"></div><div class="bc-ttl">The Cask of Amontillado</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Edgar Allan Poe</div><div class="bc-yr">1846</div></div>
+      </div></div>
+      <div class="hr-story-meta">
+        <span class="hr-story-num">5 · 1846</span>
+        <h4 class="hr-story-title">The Cask of Amontillado</h4>
+        <div class="hr-story-author">by Edgar Allan Poe</div>
+        <p class="hr-story-desc">Montresor leads a drunk and trusting Fortunato deep into the catacombs beneath his palazzo, promising a rare cask of sherry. One of the most efficient revenge stories ever written.</p>
+      </div>
+    </div>
+
+    <!-- 6 · The Masque of the Red Death -->
+    <div class="hr-story-item">
+      <div class="hr-story-cover-wrap"><div class="bc">
+        <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№06</span></div>
+        <div class="bc-body" style="background:#1a0505;"><div class="bc-sub">Horror</div><div class="bc-rule"></div><div class="bc-ttl">The Masque of the Red Death</div><div class="bc-div"><div class="bc-dl"></div><div class="bc-dd"></div><div class="bc-dl"></div></div></div>
+        <div class="bc-cream"><div class="bc-by">By</div><div class="bc-auth">Edgar Allan Poe</div><div class="bc-yr">1842</div></div>
+      </div></div>
+      <div class="hr-story-meta">
+        <span class="hr-story-num">6 · 1842</span>
+        <h4 class="hr-story-title">The Masque of the Red Death</h4>
+        <div class="hr-story-author">by Edgar Allan Poe</div>
+        <p class="hr-story-desc">Prince Prospero seals a thousand of his court inside an abbey to escape a plague, and throws a masked ball. An uninvited guest arrives. A short, scarlet fable about the impossibility of locking the door.</p>
       </div>
     </div>
 
   </div>
 </section>
 
+
+<!-- ═══════════════════════ SECOND CTA ═══════════════════════ -->
+<div class="hr-cta-dark">
+  <div class="hr-cta-dark-inner">
+    <div class="hr-cta-eyebrow">Free download · PDF</div>
+    <h2>Get the full horror collection now</h2>
+    <p class="hr-cta-sub">Six classic horror short stories, typeset for comfortable reading on phone, tablet or e-reader. Sent the moment you hit Download.</p>
+    <div class="hr-cta-wrap"><div class="ml-embedded" data-form="9Immkh"></div></div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════ FAQ ═══════════════════════ -->
+<section class="hr-faq-section">
+  <div class="hr-faq-inner">
+    <div class="hr-faq-eyebrow">FAQ</div>
+    <h2>Common questions</h2>
+    <ul class="hr-faq-accordion">
+      <li class="hr-faq-item">
+        <button class="hr-faq-trigger" aria-expanded="false">Are these horror short stories really free?<span class="hr-faq-icon">+</span></button>
+        <div class="hr-faq-body">Yes — every story in the collection is in the public domain. Drop your email and we'll send the full PDF straight to your inbox.</div>
+      </li>
+      <li class="hr-faq-item">
+        <button class="hr-faq-trigger" aria-expanded="false">What's in the horror short stories collection?<span class="hr-faq-icon">+</span></button>
+        <div class="hr-faq-body">Six stories spanning cosmic horror, gothic atmosphere, and psychological dread — Lovecraft, Poe, Blackwood, and Washington Irving. All formatted for comfortable reading on phone or screen.</div>
+      </li>
+      <li class="hr-faq-item">
+        <button class="hr-faq-trigger" aria-expanded="false">Can I share the PDF with a friend?<span class="hr-faq-icon">+</span></button>
+        <div class="hr-faq-body">Please do. These are public-domain classics — share, print, email, drop it around your book club. The more people reading the things we love, the better.</div>
+      </li>
+      <li class="hr-faq-item">
+        <button class="hr-faq-trigger" aria-expanded="false">What format will I receive?<span class="hr-faq-icon">+</span></button>
+        <div class="hr-faq-body">A single PDF optimised for both screen and print. If you'd prefer EPUB, reply to the welcome email and we'll send over a version.</div>
+      </li>
+      <li class="hr-faq-item">
+        <button class="hr-faq-trigger" aria-expanded="false">Will I get spammed?<span class="hr-faq-icon">+</span></button>
+        <div class="hr-faq-body">No. You'll get the stories, plus occasional book recommendations from Litloop — never more than once a week, and one-click to unsubscribe.</div>
+      </li>
+    </ul>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════ KEEP READING ═══════════════════════ -->
+<section class="hr-keep-reading">
+  <div class="hr-keep-reading-inner">
+    <h3>Keep reading</h3>
+    <p class="hr-keep-reading-sub">More from the Litloop horror shelf — reading guides, blog deep-dives, and a writing-prompt generator.</p>
+    <div class="hr-keep-reading-grid">
+      <a href="https://www.litloop.co/genres/horror/" class="hr-keep-reading-link"><div><span class="krl-type">Guide</span>Horror Reading Guide</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/genres/horror/top-100/" class="hr-keep-reading-link"><div><span class="krl-type">List</span>Top 50 Horror Novels</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/tools/horror-prompts/" class="hr-keep-reading-link"><div><span class="krl-type">Tool</span>Horror Writing Prompts</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/blog/horror-short-stories/" class="hr-keep-reading-link"><div><span class="krl-type">Blog</span>The Best Horror Short Stories</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/blog/10-best-fantasy-horror-books-ranked/" class="hr-keep-reading-link"><div><span class="krl-type">Blog</span>10 Best Fantasy Horror Books, Ranked</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/blog/dark-tower-worth-reading/" class="hr-keep-reading-link"><div><span class="krl-type">Blog</span>Is the Dark Tower Worth Reading?</div><span class="krl-arrow">→</span></a>
+      <a href="https://www.litloop.co/blog/stephen-king-books-in-order/" class="hr-keep-reading-link"><div><span class="krl-type">Blog</span>Stephen King Books in Order</div><span class="krl-arrow">→</span></a>
+      <a href="/free-downloads/" class="hr-keep-reading-link"><div><span class="krl-type">Also</span>Free Sci-Fi Short Stories</div><span class="krl-arrow">→</span></a>
+    </div>
+  </div>
+</section>
+
+
 <script>
-document.getElementById('lg-horror-show-direct')?.addEventListener('click', function() {
-  document.getElementById('lg-horror-step1').style.display = 'none';
-  document.getElementById('lg-horror-step2').style.display = 'block';
-  document.getElementById('lg-horror-step2').scrollIntoView({ behavior: 'smooth', block: 'start' });
-});
-document.addEventListener('ml-form-success', function(e) {
-  if (document.getElementById('lg-horror-step1')) {
-    document.getElementById('lg-horror-step1').style.display = 'none';
-    document.getElementById('lg-horror-step2').style.display = 'block';
-    document.getElementById('lg-horror-step2').scrollIntoView({ behavior: 'smooth', block: 'start' });
-  }
+document.querySelectorAll('.hr-faq-trigger').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var item = this.closest('.hr-faq-item');
+    var isOpen = item.classList.contains('open');
+    document.querySelectorAll('.hr-faq-item.open').forEach(function(el) {
+      el.classList.remove('open');
+      el.querySelector('.hr-faq-trigger').setAttribute('aria-expanded', 'false');
+    });
+    if (!isOpen) { item.classList.add('open'); this.setAttribute('aria-expanded', 'true'); }
+  });
 });
 </script>
