@@ -1,17 +1,18 @@
 ---
 layout: default
 title: Free Horror Short Story Collection — Download
-description: Six landmark works of supernatural and psychological horror — Poe, Lovecraft, Blackwood, Irving — curated and typeset for comfortable reading. Drop your email and we'll send the full PDF to your inbox.
+description: Six free horror short stories by authors including Poe, Lovecraft, Blackwood, Irving — curated and typeset for comfortable reading.
 permalink: /free-downloads/horror/
 ---
 
 <style>
   /* ═══════════════════════════════════════════════════════════
      LITLOOP CLASSICS — Book cover component (shared)
-     Identical to sci-fi page — copy both files into repo together
+     Fixed 2:3 aspect ratio. font-size on wrapper controls scale.
   ═══════════════════════════════════════════════════════════ */
   .bc {
-    border-radius: 4px;
+    aspect-ratio: 2 / 3;
+    border-radius: 3px;
     overflow: hidden;
     box-shadow: 0 8px 28px rgba(0,0,0,0.55), 0 2px 6px rgba(0,0,0,0.3);
     display: flex;
@@ -19,163 +20,270 @@ permalink: /free-downloads/horror/
     font-family: 'DM Sans', system-ui, sans-serif;
     width: 100%;
   }
+  /* Horror: amber header stripe — consistent Litloop brand across both pages */
   .bc-hdr {
-    background: #8B1A1A;
-    padding: 0.35em 0.55em;
+    background: #C98A20;
+    padding: 0.32em 0.5em;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-shrink: 0;
+    gap: 0.3em;
   }
-  .bc-hdr-label, .bc-hdr-num {
-    font-size: 0.72em; font-weight: 700; letter-spacing: 0.1em; color: #fff; text-transform: uppercase;
+  .bc-hdr-label {
+    font-size: 0.6em;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: #fff;
+    text-transform: uppercase;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
-  .bc-hdr-num { letter-spacing: 0.06em; }
+  .bc-hdr-num {
+    font-size: 0.6em;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: #fff;
+    text-transform: uppercase;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
   .bc-body {
-    flex: 1; display: flex; flex-direction: column; align-items: center; padding: 0.7em 0.6em 0;
+    flex: 1; display: flex; flex-direction: column; align-items: center; padding: 0.6em 0.55em 0;
+    min-height: 0;
   }
   .bc-sub {
-    font-size: 0.6em; letter-spacing: 0.13em; text-transform: uppercase;
-    color: rgba(180,100,80,0.75); text-align: center; margin-bottom: 0.3em;
+    font-size: 0.55em; letter-spacing: 0.12em; text-transform: uppercase;
+    color: rgba(201,151,58,0.75); text-align: center; margin-bottom: 0.25em; flex-shrink: 0;
   }
-  .bc-rule { width: 1.6em; height: 1px; background: rgba(180,100,80,0.35); margin-bottom: 0.55em; }
+  .bc-rule { width: 1.5em; height: 1px; background: rgba(201,151,58,0.3); margin-bottom: 0.4em; flex-shrink: 0; }
   .bc-ttl {
     font-family: 'Lora', Georgia, serif;
-    font-size: 0.88em; font-weight: 700; color: #D4A090;
+    font-size: clamp(0.55em, 1.5cqw, 0.82em);
+    font-weight: 700; color: #D4AC60;
     text-align: center; text-transform: uppercase;
-    letter-spacing: 0.05em; line-height: 1.25;
+    letter-spacing: 0.04em; line-height: 1.3;
     flex: 1; display: flex; align-items: center; justify-content: center;
+    overflow: hidden; word-break: break-word; hyphens: auto;
   }
-  .bc-div { display: flex; align-items: center; gap: 0.25em; padding-bottom: 0.5em; }
-  .bc-dl { width: 1.2em; height: 1px; background: rgba(180,100,80,0.45); }
-  .bc-dd { width: 0.38em; height: 0.38em; border-radius: 50%; border: 1px solid #8B1A1A; background: transparent; flex-shrink: 0; }
-  .bc-cream { background: #EDE8DC; padding: 0.5em 0.6em 0.45em; flex-shrink: 0; position: relative; }
-  .bc-by { font-size: 0.6em; letter-spacing: 0.1em; text-transform: uppercase; color: #aaa; margin-bottom: 0.15em; }
-  .bc-auth { font-family: 'Lora', Georgia, serif; font-size: 0.78em; font-weight: 700; color: #2d0f0f; line-height: 1.2; margin-bottom: 0.1em; }
-  .bc-yr { font-size: 0.62em; color: #bbb; letter-spacing: 0.05em; }
+  .bc-div { display: flex; align-items: center; gap: 0.25em; padding-bottom: 0.4em; flex-shrink: 0; }
+  .bc-dl { width: 1.1em; height: 1px; background: rgba(201,151,58,0.4); }
+  .bc-dd { width: 0.35em; height: 0.35em; border-radius: 50%; border: 1px solid #C98A20; background: transparent; flex-shrink: 0; }
+  .bc-cream { background: #EDE8DC; padding: 0.45em 0.55em 0.4em; flex-shrink: 0; position: relative; }
+  .bc-by { font-size: 0.55em; letter-spacing: 0.09em; text-transform: uppercase; color: #aaa; margin-bottom: 0.1em; white-space: nowrap; }
+  .bc-auth { font-family: 'Lora', Georgia, serif; font-size: 0.7em; font-weight: 700; color: #1B3A5C; line-height: 1.2; margin-bottom: 0.08em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bc-yr { font-size: 0.58em; color: #bbb; letter-spacing: 0.05em; white-space: nowrap; }
   .bc-badge {
-    position: absolute; bottom: 0.4em; right: 0.4em;
-    width: 2.1em; height: 2.1em; border-radius: 50%; background: #8B1A1A;
+    position: absolute; bottom: 0.38em; right: 0.38em;
+    width: 2em; height: 2em; border-radius: 50%; background: #C98A20;
     display: flex; flex-direction: column; align-items: center; justify-content: center;
   }
-  .bc-badge span { font-size: 0.52em; font-weight: 700; color: white; letter-spacing: 0.04em; line-height: 1.3; text-transform: uppercase; text-align: center; }
+  .bc-badge span { font-size: 0.5em; font-weight: 700; color: white; letter-spacing: 0.03em; line-height: 1.3; text-transform: uppercase; text-align: center; }
 
   /* ═══════════════════════════════════════════════════════════
-     PAGE VARIABLES — horror palette
-     Deep crimson accent, same cream/navy base as main.css
+     PAGE VARIABLES — horror accent, same nav/cream base
   ═══════════════════════════════════════════════════════════ */
   :root {
     --hr-crimson:    #8B1A1A;
     --hr-crimson-dk: #5c0f0f;
-    --hr-navy:       #1B1B2E;
-    --hr-teal:       #2A6B5F;
-    --hr-cream:      #F5F0E8;
-    --hr-cream-dk:   #EDE7DB;
   }
 
   /* ═══════════════════════════════════════════════════════════
-     HERO
+     HERO — navy base + horror radial overlay, matching genre-hub-hero pattern
   ═══════════════════════════════════════════════════════════ */
   .horror-hero {
-    background: linear-gradient(160deg, #0a0505 0%, #1a0808 55%, #0d0505 100%);
+    background: var(--navy, #1B3A5C);
     color: white;
-    padding: 3.5rem 1.5rem 4rem;
+    padding: 4rem 0 4.5rem;
     position: relative;
     overflow: hidden;
   }
   .horror-hero::before {
-    content: ''; position: absolute; inset: 0;
-    background-image:
-      radial-gradient(circle at 20% 50%, rgba(139,26,26,0.15) 0%, transparent 50%),
-      radial-gradient(circle at 80% 20%, rgba(139,26,26,0.08) 0%, transparent 40%);
-    pointer-events: none;
-  }
-  .horror-hero::after {
-    content: ''; position: absolute; inset: 0;
-    background-image:
-      radial-gradient(1px 1px at 15% 25%, rgba(255,255,255,0.2) 0%, transparent 100%),
-      radial-gradient(1px 1px at 42% 68%, rgba(255,255,255,0.15) 0%, transparent 100%),
-      radial-gradient(1px 1px at 67% 15%, rgba(255,255,255,0.18) 0%, transparent 100%),
-      radial-gradient(1px 1px at 85% 55%, rgba(255,255,255,0.12) 0%, transparent 100%),
-      radial-gradient(1px 1px at 30% 80%, rgba(255,255,255,0.15) 0%, transparent 100%),
-      radial-gradient(1px 1px at 72% 40%, rgba(255,255,255,0.18) 0%, transparent 100%),
-      radial-gradient(1px 1px at 10% 60%, rgba(255,255,255,0.12) 0%, transparent 100%),
-      radial-gradient(1px 1px at 90% 75%, rgba(255,255,255,0.10) 0%, transparent 100%);
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 80% 50%, rgba(100,0,0,0.45) 0%, transparent 60%);
     pointer-events: none;
   }
   .horror-hero-inner {
-    max-width: 960px; margin: 0 auto;
-    display: grid; grid-template-columns: 1fr 180px;
-    gap: 3rem; align-items: center;
-    position: relative; z-index: 1;
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr 230px;
+    gap: 3rem;
+    align-items: center;
+    position: relative;
+    z-index: 1;
   }
-  @media (max-width: 680px) {
+  @media (max-width: 700px) {
     .horror-hero-inner { grid-template-columns: 1fr; }
     .horror-hero-books { display: none; }
   }
   .horror-hero-eyebrow {
-    display: flex; align-items: center; gap: 0.6rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
     font-family: var(--font-body, 'DM Sans', sans-serif);
-    font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase;
-    color: #c04040; font-weight: 600; margin-bottom: 1.25rem;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--amber-light, #E5A835);
+    font-weight: 600;
+    margin-bottom: 1.1rem;
   }
   .horror-hero-eyebrow::before {
-    content: ''; display: block; width: 28px; height: 1px; background: #c04040;
+    content: '';
+    display: block;
+    width: 28px;
+    height: 2px;
+    background: var(--amber, #C98A20);
+    border-radius: 2px;
+    flex-shrink: 0;
   }
   .horror-hero h1 {
     font-family: var(--font-display, 'Lora', Georgia, serif);
-    font-size: clamp(2.4rem, 5vw, 3.5rem);
-    line-height: 1.05; margin: 0 0 1.25rem; font-weight: 600; color: white;
+    font-size: clamp(2.4rem, 5vw, 3.25rem);
+    line-height: 1.08;
+    margin: 0 0 1.1rem;
+    font-weight: 600;
+    color: white;
   }
-  .horror-hero h1 em { font-style: italic; color: #c04040; }
+  .horror-hero h1 em { font-style: italic; color: var(--amber-light, #E5A835); }
   .horror-hero-copy > p {
     font-family: var(--font-body, 'DM Sans', sans-serif);
-    font-size: 1.05rem; line-height: 1.65;
-    color: rgba(255,255,255,0.68); margin: 0 0 2rem; max-width: 440px;
+    font-size: 1.0625rem;
+    line-height: 1.65;
+    color: rgba(255,255,255,0.75);
+    margin: 0 0 2rem;
+    max-width: 560px;
   }
-  .horror-hero-form { max-width: 420px; }
+
+  /* ── Native email form (shared styles) ── */
+  .horror-hero-form { max-width: 480px; }
+  .hero-form-row {
+    display: flex;
+    gap: 0.6rem;
+    align-items: stretch;
+  }
+  @media (max-width: 480px) {
+    .hero-form-row { flex-direction: column; }
+    .hero-form-row .hero-form-btn { width: 100%; justify-content: center; }
+  }
+  .hero-form-input {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border-radius: 999px;
+    border: 1.5px solid rgba(255,255,255,0.25);
+    background: rgba(255,255,255,0.1);
+    color: white;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.9375rem;
+    outline: none;
+    transition: border-color 0.15s, background 0.15s;
+    min-width: 0;
+  }
+  .hero-form-input::placeholder { color: rgba(255,255,255,0.45); }
+  .hero-form-input:focus {
+    border-color: var(--amber, #C98A20);
+    background: rgba(255,255,255,0.15);
+  }
+  .hero-form-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 999px;
+    background: var(--amber, #C98A20);
+    color: white;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    transition: background 0.15s, transform 0.15s, box-shadow 0.15s;
+    box-shadow: 0 4px 16px rgba(201,138,32,0.35);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .hero-form-btn:hover {
+    background: var(--amber-light, #E5A835);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(201,138,32,0.45);
+  }
+  .hero-form-btn:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+    transform: none;
+  }
+  .hero-form-status {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.82rem;
+    margin-top: 0.6rem;
+    min-height: 1.2em;
+    display: none;
+  }
+  .hero-form-status.success { color: #7ee8a2; display: block; }
+  .hero-form-status.error   { color: #f9a8a8; display: block; }
   .horror-trust-line {
     font-family: var(--font-body, 'DM Sans', sans-serif);
-    font-size: 0.72rem; color: rgba(255,255,255,0.3);
-    margin-top: 0.75rem; letter-spacing: 0.02em;
+    font-size: 0.72rem;
+    color: rgba(255,255,255,0.35);
+    margin-top: 0.65rem;
+    letter-spacing: 0.02em;
   }
   .horror-trust-line span { margin: 0 0.4rem; }
 
-  /* Single anthology cover in hero */
+  /* Cover column */
   .horror-hero-books { display: flex; justify-content: center; align-items: center; }
-  .hero-cover-wrap { width: 160px; font-size: 13px; }
+  .hero-cover-wrap { width: 200px; font-size: 15px; }
 
   /* ═══════════════════════════════════════════════════════════
      ANTHOLOGY STRIP
   ═══════════════════════════════════════════════════════════ */
   .hr-anthology-strip {
-    background: var(--hr-cream); padding: 2.5rem 1.5rem;
-    border-bottom: 1px solid var(--hr-cream-dk); text-align: center;
+    background: var(--cream, #F5F0E8);
+    padding: 2.5rem 1.5rem;
+    border-bottom: 1px solid #EDE7DB;
+    text-align: center;
   }
   .hr-anthology-pill {
-    display: inline-flex; align-items: center;
+    display: inline-flex;
+    align-items: center;
     font-family: var(--font-body, 'DM Sans', sans-serif);
-    font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase;
-    color: var(--hr-crimson); font-weight: 700;
-    border: 1px solid var(--hr-crimson); padding: 0.3rem 1rem;
-    border-radius: 999px; margin-bottom: 1.25rem;
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--hr-crimson);
+    font-weight: 700;
+    border: 1px solid var(--hr-crimson);
+    padding: 0.3rem 1rem;
+    border-radius: 999px;
+    margin-bottom: 1.25rem;
   }
   .hr-anthology-strip h2 {
     font-family: var(--font-display, 'Lora', Georgia, serif);
-    font-size: clamp(1.5rem, 3.5vw, 2.2rem); color: #111;
-    margin: 0 0 0.9rem; font-weight: 600; line-height: 1.15;
+    font-size: clamp(1.5rem, 3.5vw, 2.2rem);
+    color: #111;
+    margin: 0 0 0.9rem;
+    font-weight: 600;
+    line-height: 1.15;
   }
   .hr-anthology-strip h2 em { font-style: italic; color: var(--hr-crimson); }
   .hr-anthology-strip p {
-    max-width: 640px; margin: 0 auto;
+    max-width: 660px;
+    margin: 0 auto 0.75rem;
     font-family: var(--font-body, 'DM Sans', sans-serif);
-    font-size: 1rem; line-height: 1.7; color: #555;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #555;
   }
 
   /* ═══════════════════════════════════════════════════════════
      STORIES LIST
   ═══════════════════════════════════════════════════════════ */
-  .hr-stories-section { background: var(--hr-cream); padding: 3rem 1.5rem; }
+  .hr-stories-section { background: var(--cream, #F5F0E8); padding: 3rem 1.5rem; }
   .hr-stories-inner {
     max-width: 760px; margin: 0 auto; background: white;
     border-radius: 22px; padding: 2rem 2rem 0.5rem;
@@ -184,7 +292,7 @@ permalink: /free-downloads/horror/
   @media (max-width: 560px) { .hr-stories-inner { padding: 1.25rem 1.25rem 0.25rem; } }
   .hr-stories-header {
     display: flex; justify-content: space-between; align-items: baseline;
-    margin-bottom: 1.5rem; border-bottom: 1px solid var(--hr-cream-dk); padding-bottom: 0.75rem;
+    margin-bottom: 1.5rem; border-bottom: 1px solid #EDE7DB; padding-bottom: 0.75rem;
   }
   .hr-stories-header h3 {
     font-family: var(--font-display, 'Lora', Georgia, serif);
@@ -195,12 +303,12 @@ permalink: /free-downloads/horror/
     font-size: 0.72rem; color: #aaa; letter-spacing: 0.07em; font-weight: 500;
   }
   .hr-story-item {
-    display: grid; grid-template-columns: 56px 1fr;
+    display: grid; grid-template-columns: 64px 1fr;
     gap: 1.25rem; padding: 1.25rem 0;
-    border-bottom: 1px solid var(--hr-cream-dk); align-items: start;
+    border-bottom: 1px solid #EDE7DB; align-items: start;
   }
   .hr-story-item:last-child { border-bottom: none; }
-  .hr-story-cover-wrap { width: 56px; font-size: 8px; flex-shrink: 0; }
+  .hr-story-cover-wrap { width: 64px; font-size: 9px; flex-shrink: 0; }
   .hr-story-meta { display: flex; flex-direction: column; gap: 0.15rem; }
   .hr-story-num {
     font-family: var(--font-body, 'DM Sans', sans-serif);
@@ -220,27 +328,28 @@ permalink: /free-downloads/horror/
   }
 
   /* ═══════════════════════════════════════════════════════════
-     SECOND CTA
+     SECOND CTA — navy base + horror radial overlay
   ═══════════════════════════════════════════════════════════ */
   .hr-cta-dark {
-    background: linear-gradient(135deg, #0a0202 0%, #1a0606 100%);
-    padding: 4rem 1.5rem; text-align: center; color: white;
-    position: relative; overflow: hidden;
+    background: var(--navy, #1B3A5C);
+    padding: 4.5rem 1.5rem;
+    text-align: center;
+    color: white;
+    position: relative;
+    overflow: hidden;
   }
   .hr-cta-dark::before {
-    content: ''; position: absolute; inset: 0;
-    background-image:
-      radial-gradient(1px 1px at 10% 20%, rgba(255,255,255,0.2) 0%, transparent 100%),
-      radial-gradient(1px 1px at 60% 40%, rgba(255,255,255,0.15) 0%, transparent 100%),
-      radial-gradient(1px 1px at 85% 70%, rgba(255,255,255,0.18) 0%, transparent 100%),
-      radial-gradient(1px 1px at 35% 80%, rgba(255,255,255,0.12) 0%, transparent 100%);
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 50% 100%, rgba(100,0,0,0.35) 0%, transparent 60%);
     pointer-events: none;
   }
   .hr-cta-dark-inner { max-width: 560px; margin: 0 auto; position: relative; z-index: 1; }
   .hr-cta-eyebrow {
     font-family: var(--font-body, 'DM Sans', sans-serif);
     font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
-    color: #c04040; font-weight: 600; margin-bottom: 0.75rem;
+    color: var(--amber-light, #E5A835); font-weight: 600; margin-bottom: 0.75rem;
   }
   .hr-cta-dark h2 {
     font-family: var(--font-display, 'Lora', Georgia, serif);
@@ -248,10 +357,10 @@ permalink: /free-downloads/horror/
   }
   .hr-cta-dark .hr-cta-sub {
     font-family: var(--font-body, 'DM Sans', sans-serif);
-    color: rgba(255,255,255,0.55); margin: 0 auto 2rem;
+    color: rgba(255,255,255,0.65); margin: 0 auto 2rem;
     max-width: 480px; font-size: 0.95rem; line-height: 1.65;
   }
-  .hr-cta-wrap { max-width: 420px; margin: 0 auto; }
+  .hr-cta-form { max-width: 440px; margin: 0 auto; }
 
   /* ═══════════════════════════════════════════════════════════
      FAQ ACCORDION
@@ -294,7 +403,7 @@ permalink: /free-downloads/horror/
   /* ═══════════════════════════════════════════════════════════
      KEEP READING
   ═══════════════════════════════════════════════════════════ */
-  .hr-keep-reading { background: var(--hr-cream); padding: 3rem 1.5rem; }
+  .hr-keep-reading { background: var(--cream, #F5F0E8); padding: 3rem 1.5rem; }
   .hr-keep-reading-inner { max-width: 760px; margin: 0 auto; }
   .hr-keep-reading h3 {
     font-family: var(--font-display, 'Lora', Georgia, serif);
@@ -333,12 +442,15 @@ permalink: /free-downloads/horror/
       <h1>Free Horror<br><em>Short Stories</em></h1>
       <p>Six landmark works of supernatural and psychological horror — Poe, Lovecraft, Blackwood, Irving — curated and typeset for comfortable reading. Drop your email and we'll send the full PDF to your inbox.</p>
       <div class="horror-hero-form">
-        <div class="ml-embedded" data-form="9Immkh"></div>
+        <form class="hero-form-row" id="hr-hero-form" novalidate>
+          <input class="hero-form-input" type="email" name="email" placeholder="Your email address" required autocomplete="email">
+          <button type="submit" class="hero-form-btn" id="hr-hero-btn">↓ Download</button>
+        </form>
+        <div class="hero-form-status" id="hr-hero-status"></div>
         <p class="horror-trust-line">Free forever <span>·</span> Sent instantly <span>·</span> One-click unsubscribe</p>
       </div>
     </div>
 
-    <!-- Single anthology cover — hidden on mobile -->
     <div class="horror-hero-books" aria-hidden="true">
       <div class="hero-cover-wrap">
         <div class="bc">
@@ -369,8 +481,9 @@ permalink: /free-downloads/horror/
 <!-- ═══════════════════════ ANTHOLOGY STRIP ═══════════════════════ -->
 <div class="hr-anthology-strip">
   <div class="hr-anthology-pill">A Litloop Short Classics Anthology</div>
-  <h2>The stories that built modern horror, <b></b><em>free</em> to keep.</h2>
-  <p>Before slasher films, before paperback splatter, horror was a quiet, atmospheric thing — a guest who didn't quite belong at the party, a name called from the trees, a sealed door that wouldn't stay sealed. </p><p>This collection gathers six of the finest examples in the public domain: two of Poe's tightest revenge fables, Washington Irving's gentler-than-you-remember Sleepy Hollow, Algernon Blackwood's pitiless Wendigo, and the two stories that more or less invented cosmic horror as we know it.</p>
+  <h2>The stories that built modern horror, <em>free</em> to keep.</h2>
+  <p>Before slasher films, before paperback splatter, horror was a quiet, atmospheric thing — a guest who didn't quite belong at the party, a name called from the trees, a sealed door that wouldn't stay sealed.</p>
+  <p>This collection gathers six of the finest examples in the public domain: two of Poe's tightest revenge fables, Washington Irving's gentler-than-you-remember Sleepy Hollow, Algernon Blackwood's pitiless Wendigo, and the two stories that more or less invented cosmic horror as we know it.</p>
 </div>
 
 
@@ -382,7 +495,6 @@ permalink: /free-downloads/horror/
       <span class="hr-stories-count">6 STORIES · 1 PDF</span>
     </div>
 
-    <!-- 1 · The Call of Cthulhu -->
     <div class="hr-story-item">
       <div class="hr-story-cover-wrap"><div class="bc">
         <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№01</span></div>
@@ -397,7 +509,6 @@ permalink: /free-downloads/horror/
       </div>
     </div>
 
-    <!-- 2 · The Lurking Fear -->
     <div class="hr-story-item">
       <div class="hr-story-cover-wrap"><div class="bc">
         <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№02</span></div>
@@ -412,7 +523,6 @@ permalink: /free-downloads/horror/
       </div>
     </div>
 
-    <!-- 3 · The Legend of Sleepy Hollow -->
     <div class="hr-story-item">
       <div class="hr-story-cover-wrap"><div class="bc">
         <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№03</span></div>
@@ -427,7 +537,6 @@ permalink: /free-downloads/horror/
       </div>
     </div>
 
-    <!-- 4 · The Wendigo -->
     <div class="hr-story-item">
       <div class="hr-story-cover-wrap"><div class="bc">
         <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№04</span></div>
@@ -442,7 +551,6 @@ permalink: /free-downloads/horror/
       </div>
     </div>
 
-    <!-- 5 · The Cask of Amontillado -->
     <div class="hr-story-item">
       <div class="hr-story-cover-wrap"><div class="bc">
         <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№05</span></div>
@@ -457,7 +565,6 @@ permalink: /free-downloads/horror/
       </div>
     </div>
 
-    <!-- 6 · The Masque of the Red Death -->
     <div class="hr-story-item">
       <div class="hr-story-cover-wrap"><div class="bc">
         <div class="bc-hdr"><span class="bc-hdr-label">Litloop</span><span class="bc-hdr-num">№06</span></div>
@@ -482,7 +589,13 @@ permalink: /free-downloads/horror/
     <div class="hr-cta-eyebrow">Free download · PDF</div>
     <h2>Get the full horror collection now</h2>
     <p class="hr-cta-sub">Six classic horror short stories, typeset for comfortable reading on phone, tablet or e-reader. Sent the moment you hit Download.</p>
-    <div class="hr-cta-wrap"><div class="ml-embedded" data-form="9Immkh"></div></div>
+    <div class="hr-cta-form">
+      <form class="hero-form-row" id="hr-cta-form" novalidate>
+        <input class="hero-form-input" type="email" name="email" placeholder="Your email address" required autocomplete="email">
+        <button type="submit" class="hero-form-btn" id="hr-cta-btn">↓ Download</button>
+      </form>
+      <div class="hero-form-status" id="hr-cta-status"></div>
+    </div>
   </div>
 </div>
 
@@ -521,7 +634,7 @@ permalink: /free-downloads/horror/
 <!-- ═══════════════════════ KEEP READING ═══════════════════════ -->
 <section class="hr-keep-reading">
   <div class="hr-keep-reading-inner">
-    <h2>Keep reading</h2>
+    <h3>Keep reading</h3>
     <p class="hr-keep-reading-sub">More from the Litloop horror shelf — reading guides, blog deep-dives, and a writing-prompt generator.</p>
     <div class="hr-keep-reading-grid">
       <a href="https://www.litloop.co/genres/horror/" class="hr-keep-reading-link"><div><span class="krl-type">Guide</span>Horror Reading Guide</div><span class="krl-arrow">→</span></a>
@@ -538,6 +651,57 @@ permalink: /free-downloads/horror/
 
 
 <script>
+/* ── MailerLite subscribe ───────────────────────────────────── */
+var ML_GROUP_HORROR = '9Immkh'; /* your existing form ID */
+
+function mlSubscribe(email, group, statusEl, btnEl) {
+  btnEl.disabled = true;
+  btnEl.textContent = 'Sending…';
+  statusEl.className = 'hero-form-status';
+  statusEl.textContent = '';
+
+  fetch('/api/subscribe', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ email: email, group: group })
+  })
+  .then(function(res) { return res.json(); })
+  .then(function(data) {
+    if (data.ok) {
+      statusEl.textContent = '✓ Check your inbox — the PDF is on its way!';
+      statusEl.className = 'hero-form-status success';
+      btnEl.closest('form').reset();
+    } else {
+      throw new Error(data.message || 'Something went wrong');
+    }
+  })
+  .catch(function(err) {
+    statusEl.textContent = err.message || 'Something went wrong. Please try again.';
+    statusEl.className = 'hero-form-status error';
+  })
+  .finally(function() {
+    btnEl.disabled = false;
+    btnEl.textContent = '↓ Download';
+  });
+}
+
+function bindForm(formId, statusId, btnId, group) {
+  var form   = document.getElementById(formId);
+  var status = document.getElementById(statusId);
+  var btn    = document.getElementById(btnId);
+  if (!form) return;
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var email = form.querySelector('input[type="email"]').value.trim();
+    if (!email) return;
+    mlSubscribe(email, group, status, btn);
+  });
+}
+
+bindForm('hr-hero-form', 'hr-hero-status', 'hr-hero-btn', 'horror');
+bindForm('hr-cta-form',  'hr-cta-status',  'hr-cta-btn',  'horror');
+
+/* ── FAQ accordion ─────────────────────────────────────────── */
 document.querySelectorAll('.hr-faq-trigger').forEach(function(btn) {
   btn.addEventListener('click', function() {
     var item = this.closest('.hr-faq-item');
