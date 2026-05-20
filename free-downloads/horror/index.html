@@ -160,66 +160,72 @@ permalink: /free-downloads/horror/
     max-width: 560px;
   }
 
-  /* ── MailerLite embed overrides ── */
+  /* ── Native email form (shared styles) ── */
   .horror-hero-form { max-width: 480px; }
-  .ml-form-embed-wrap,
-  .ml-embedded { width: 100% !important; }
-  .ml-form-embedWrapper { background: transparent !important; border: none !important; padding: 0 !important; }
-  .ml-form-embedBody     { padding: 0 !important; }
-  .ml-form-fieldRow      { padding: 0 !important; margin: 0 !important; }
-  .ml-form-embedBody .ml-form-fieldRow,
-  .ml-form-embedBody form { display: flex !important; gap: 0.6rem !important; align-items: stretch !important; flex-wrap: nowrap !important; }
-  @media (max-width: 500px) {
-    .ml-form-embedBody form { flex-wrap: wrap !important; }
-    .ml-form-embedBody .ml-form-embedSubmit { width: 100% !important; }
+  .hero-form-row {
+    display: flex;
+    gap: 0.6rem;
+    align-items: stretch;
   }
-  .ml-form-embedBody input[type="email"] {
-    flex: 1 !important; min-width: 0 !important;
-    padding: 0.75rem 1.1rem !important;
-    border-radius: 999px !important;
-    border: 1.5px solid rgba(255,255,255,0.25) !important;
-    background: rgba(255,255,255,0.1) !important;
-    color: white !important;
-    font-family: 'DM Sans', system-ui, sans-serif !important;
-    font-size: 0.9375rem !important;
-    outline: none !important; box-shadow: none !important; height: auto !important;
-    transition: border-color 0.15s, background 0.15s !important;
+  @media (max-width: 480px) {
+    .hero-form-row { flex-direction: column; }
+    .hero-form-row .hero-form-btn { width: 100%; justify-content: center; }
   }
-  .ml-form-embedBody input[type="email"]::placeholder { color: rgba(255,255,255,0.45) !important; }
-  .ml-form-embedBody input[type="email"]:focus {
-    border-color: #C98A20 !important;
-    background: rgba(255,255,255,0.15) !important;
+  .hero-form-input {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border-radius: 999px;
+    border: 1.5px solid rgba(255,255,255,0.25);
+    background: rgba(255,255,255,0.1);
+    color: white;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.9375rem;
+    outline: none;
+    transition: border-color 0.15s, background 0.15s;
+    min-width: 0;
   }
-  .ml-form-embedBody button[type="submit"],
-  .ml-form-embedBody .ml-form-embedSubmit button {
-    flex-shrink: 0 !important;
-    padding: 0.75rem 1.5rem !important;
-    border-radius: 999px !important;
-    background: #C98A20 !important;
-    color: white !important;
-    font-family: 'DM Sans', system-ui, sans-serif !important;
-    font-size: 0.9375rem !important;
-    font-weight: 600 !important;
-    border: none !important; cursor: pointer !important;
-    box-shadow: 0 4px 16px rgba(201,138,32,0.35) !important;
-    white-space: nowrap !important;
-    width: auto !important; height: auto !important; line-height: normal !important;
-    transition: background 0.15s, transform 0.15s !important;
+  .hero-form-input::placeholder { color: rgba(255,255,255,0.45); }
+  .hero-form-input:focus {
+    border-color: var(--amber, #C98A20);
+    background: rgba(255,255,255,0.15);
   }
-  .ml-form-embedBody button[type="submit"]:hover,
-  .ml-form-embedBody .ml-form-embedSubmit button:hover {
-    background: #E5A835 !important; transform: translateY(-1px) !important;
+  .hero-form-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 999px;
+    background: var(--amber, #C98A20);
+    color: white;
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    transition: background 0.15s, transform 0.15s, box-shadow 0.15s;
+    box-shadow: 0 4px 16px rgba(201,138,32,0.35);
+    white-space: nowrap;
+    flex-shrink: 0;
   }
-  .ml-form-successBody { background: transparent !important; padding: 0 !important; text-align: left !important; }
-  .ml-form-successBody p, .ml-form-successContent {
-    color: #7ee8a2 !important;
-    font-family: 'DM Sans', system-ui, sans-serif !important;
-    font-size: 0.85rem !important; margin: 0 !important; padding: 0 !important;
+  .hero-form-btn:hover {
+    background: var(--amber-light, #E5A835);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(201,138,32,0.45);
   }
-  .ml-form-embedBody label,
-  .ml-form-recaptcha,
-  .ml-form-formContent .ml-field-label { display: none !important; }
-
+  .hero-form-btn:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+    transform: none;
+  }
+  .hero-form-status {
+    font-family: var(--font-body, 'DM Sans', sans-serif);
+    font-size: 0.82rem;
+    margin-top: 0.6rem;
+    min-height: 1.2em;
+    display: none;
+  }
+  .hero-form-status.success { color: #7ee8a2; display: block; }
+  .hero-form-status.error   { color: #f9a8a8; display: block; }
   .horror-trust-line {
     font-family: var(--font-body, 'DM Sans', sans-serif);
     font-size: 0.72rem;
@@ -436,7 +442,11 @@ permalink: /free-downloads/horror/
       <h1>Free Horror<br><em>Short Stories</em></h1>
       <p>Six landmark works of supernatural and psychological horror — Poe, Lovecraft, Blackwood, Irving — curated and typeset for comfortable reading. Drop your email and we'll send the full PDF to your inbox.</p>
       <div class="horror-hero-form">
-        <div class="ml-embedded" data-form="9Immkh"></div>
+        <form class="hero-form-row" id="hr-hero-form" novalidate>
+          <input class="hero-form-input" type="email" name="email" placeholder="Your email address" required autocomplete="email">
+          <button type="submit" class="hero-form-btn" id="hr-hero-btn">↓ Download</button>
+        </form>
+        <div class="hero-form-status" id="hr-hero-status"></div>
         <p class="horror-trust-line">Free forever <span>·</span> Sent instantly <span>·</span> One-click unsubscribe</p>
       </div>
     </div>
@@ -471,7 +481,7 @@ permalink: /free-downloads/horror/
 <!-- ═══════════════════════ ANTHOLOGY STRIP ═══════════════════════ -->
 <div class="hr-anthology-strip">
   <div class="hr-anthology-pill">A Litloop Short Classics Anthology</div>
-  <h2>The stories that built <em>modern horror</em>.</h2>
+  <h2>The stories that built <em>modern horror</em></h2>
   <p>Before slasher films, before paperback splatter, horror was a quiet, atmospheric thing — a guest who didn't quite belong at the party, a name called from the trees, a sealed door that wouldn't stay sealed.</p>
   <p>This collection gathers six of the finest examples in the public domain: two of Poe's tightest revenge fables, Washington Irving's gentler-than-you-remember Sleepy Hollow, Algernon Blackwood's pitiless Wendigo, and the two stories that more or less invented cosmic horror as we know it.</p>
 </div>
@@ -580,7 +590,11 @@ permalink: /free-downloads/horror/
     <h2>Get the full horror collection now</h2>
     <p class="hr-cta-sub">Six classic horror short stories, typeset for comfortable reading on phone, tablet or e-reader. Sent the moment you hit Download.</p>
     <div class="hr-cta-form">
-      <div class="ml-embedded" data-form="9Immkh"></div>
+      <form class="hero-form-row" id="hr-cta-form" novalidate>
+        <input class="hero-form-input" type="email" name="email" placeholder="Your email address" required autocomplete="email">
+        <button type="submit" class="hero-form-btn" id="hr-cta-btn">↓ Download</button>
+      </form>
+      <div class="hero-form-status" id="hr-cta-status"></div>
     </div>
   </div>
 </div>
@@ -637,6 +651,74 @@ permalink: /free-downloads/horror/
 
 
 <script>
+/* ── MailerLite subscribe — posts directly to their JSONP endpoint ── */
+/* IMPORTANT: replace ML_ACCOUNT_ID with your MailerLite account ID   */
+/* Found in: MailerLite dashboard → Integrations → API → Account ID   */
+var ML_ACCOUNT_ID = '2148788'; /* ← replace this */
+var ML_FORM_ID    = '9Immkh';
+
+function mlSubscribe(email, statusEl, btnEl) {
+  btnEl.disabled = true;
+  btnEl.textContent = 'Sending…';
+  statusEl.className = 'hero-form-status';
+  statusEl.textContent = '';
+
+  var url = 'https://assets.mailerlite.com/jsonp/' + ML_ACCOUNT_ID
+          + '/forms/' + ML_FORM_ID + '/subscribe';
+
+  var params = new URLSearchParams();
+  params.append('fields[email]', email);
+  params.append('ml-submit', '1');
+  params.append('anticsrf', 'true');
+
+  fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: params.toString()
+  })
+  .then(function(res) {
+    if (!res.ok) throw new Error('Network error');
+    return res.json();
+  })
+  .then(function(data) {
+    if (data.success) {
+      statusEl.textContent = '✓ Check your inbox — the PDF is on its way!';
+      statusEl.className = 'hero-form-status success';
+      btnEl.closest('form').reset();
+    } else {
+      throw new Error(data.message || 'Something went wrong. Please try again.');
+    }
+  })
+  .catch(function(err) {
+    statusEl.textContent = err.message || 'Something went wrong. Please try again.';
+    statusEl.className = 'hero-form-status error';
+  })
+  .finally(function() {
+    btnEl.disabled = false;
+    btnEl.textContent = '↓ Download';
+  });
+}
+
+function bindForm(formId, statusId, btnId) {
+  var form   = document.getElementById(formId);
+  var status = document.getElementById(statusId);
+  var btn    = document.getElementById(btnId);
+  if (!form) return;
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var email = form.querySelector('input[type="email"]').value.trim();
+    if (!email || !email.includes('@')) {
+      status.textContent = 'Please enter a valid email address.';
+      status.className = 'hero-form-status error';
+      return;
+    }
+    mlSubscribe(email, status, btn);
+  });
+}
+
+bindForm('hr-hero-form', 'hr-hero-status', 'hr-hero-btn');
+bindForm('hr-cta-form',  'hr-cta-status',  'hr-cta-btn');
+
 /* ── FAQ accordion ─────────────────────────────────────────── */
 document.querySelectorAll('.hr-faq-trigger').forEach(function(btn) {
   btn.addEventListener('click', function() {
