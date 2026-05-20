@@ -240,73 +240,92 @@ permalink: /free-downloads/
     max-width: 560px;
   }
 
-  /* ── Native email form ── */
+  /* ── MailerLite embed overrides ── */
+  /* We keep ml-embedded and override its injected styles to match our design */
   .scifi-hero-form { max-width: 480px; }
-  .hero-form-row {
-    display: flex;
-    gap: 0.6rem;
-    align-items: stretch;
+  .ml-form-embed-wrap,
+  .ml-embedded { width: 100% !important; }
+
+  /* Hide ML's own container chrome */
+  .ml-form-embedWrapper { background: transparent !important; border: none !important; padding: 0 !important; }
+  .ml-form-embedBody     { padding: 0 !important; }
+  .ml-form-fieldRow      { padding: 0 !important; margin: 0 !important; }
+
+  /* Row: input + button side by side */
+  .ml-form-embedBody .ml-form-fieldRow,
+  .ml-form-embedBody form { display: flex !important; gap: 0.6rem !important; align-items: stretch !important; flex-wrap: nowrap !important; }
+  @media (max-width: 500px) {
+    .ml-form-embedBody form { flex-wrap: wrap !important; }
+    .ml-form-embedBody .ml-form-embedSubmit { width: 100% !important; }
   }
-  @media (max-width: 480px) {
-    .hero-form-row { flex-direction: column; }
-    .hero-form-row .hero-form-btn { width: 100%; justify-content: center; }
+
+  /* Email input */
+  .ml-form-embedBody input[type="email"] {
+    flex: 1 !important;
+    min-width: 0 !important;
+    padding: 0.75rem 1.1rem !important;
+    border-radius: 999px !important;
+    border: 1.5px solid rgba(255,255,255,0.25) !important;
+    background: rgba(255,255,255,0.1) !important;
+    color: white !important;
+    font-family: 'DM Sans', system-ui, sans-serif !important;
+    font-size: 0.9375rem !important;
+    outline: none !important;
+    box-shadow: none !important;
+    height: auto !important;
+    transition: border-color 0.15s, background 0.15s !important;
   }
-  .hero-form-input {
-    flex: 1;
-    padding: 0.75rem 1rem;
-    border-radius: 999px;
-    border: 1.5px solid rgba(255,255,255,0.25);
-    background: rgba(255,255,255,0.1);
-    color: white;
-    font-family: var(--font-body, 'DM Sans', sans-serif);
-    font-size: 0.9375rem;
-    outline: none;
-    transition: border-color 0.15s, background 0.15s;
-    min-width: 0;
+  .ml-form-embedBody input[type="email"]::placeholder { color: rgba(255,255,255,0.45) !important; }
+  .ml-form-embedBody input[type="email"]:focus {
+    border-color: #C98A20 !important;
+    background: rgba(255,255,255,0.15) !important;
   }
-  .hero-form-input::placeholder { color: rgba(255,255,255,0.45); }
-  .hero-form-input:focus {
-    border-color: var(--amber, #C98A20);
-    background: rgba(255,255,255,0.15);
+
+  /* Submit button */
+  .ml-form-embedBody button[type="submit"],
+  .ml-form-embedBody .ml-form-embedSubmit button {
+    flex-shrink: 0 !important;
+    padding: 0.75rem 1.5rem !important;
+    border-radius: 999px !important;
+    background: #C98A20 !important;
+    color: white !important;
+    font-family: 'DM Sans', system-ui, sans-serif !important;
+    font-size: 0.9375rem !important;
+    font-weight: 600 !important;
+    border: none !important;
+    cursor: pointer !important;
+    box-shadow: 0 4px 16px rgba(201,138,32,0.35) !important;
+    transition: background 0.15s, transform 0.15s !important;
+    white-space: nowrap !important;
+    width: auto !important;
+    height: auto !important;
+    line-height: normal !important;
   }
-  .hero-form-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0.75rem 1.5rem;
-    border-radius: 999px;
-    background: var(--amber, #C98A20);
-    color: white;
-    font-family: var(--font-body, 'DM Sans', sans-serif);
-    font-size: 0.9375rem;
-    font-weight: 600;
-    cursor: pointer;
-    border: none;
-    transition: background 0.15s, transform 0.15s, box-shadow 0.15s;
-    box-shadow: 0 4px 16px rgba(201,138,32,0.35);
-    white-space: nowrap;
-    flex-shrink: 0;
+  .ml-form-embedBody button[type="submit"]:hover,
+  .ml-form-embedBody .ml-form-embedSubmit button:hover {
+    background: #E5A835 !important;
+    transform: translateY(-1px) !important;
   }
-  .hero-form-btn:hover {
-    background: var(--amber-light, #E5A835);
-    transform: translateY(-1px);
-    box-shadow: 0 6px 20px rgba(201,138,32,0.45);
+
+  /* Success / error message */
+  .ml-form-successBody {
+    background: transparent !important;
+    padding: 0 !important;
+    text-align: left !important;
   }
-  .hero-form-btn:disabled {
-    opacity: 0.7;
-    cursor: not-allowed;
-    transform: none;
+  .ml-form-successBody p, .ml-form-successContent {
+    color: #7ee8a2 !important;
+    font-family: 'DM Sans', system-ui, sans-serif !important;
+    font-size: 0.85rem !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
-  .hero-form-status {
-    font-family: var(--font-body, 'DM Sans', sans-serif);
-    font-size: 0.82rem;
-    margin-top: 0.6rem;
-    min-height: 1.2em;
-    color: rgba(255,255,255,0.75);
-    display: none;
-  }
-  .hero-form-status.success { color: #7ee8a2; display: block; }
-  .hero-form-status.error   { color: #f9a8a8; display: block; }
+
+  /* Hide ML branding, recaptcha notice, labels etc. */
+  .ml-form-embedBody label,
+  .ml-form-recaptcha,
+  .ml-form-formContent .ml-field-label { display: none !important; }
+
   .scifi-trust-line {
     font-family: var(--font-body, 'DM Sans', sans-serif);
     font-size: 0.72rem;
@@ -546,11 +565,7 @@ permalink: /free-downloads/
       <h1>Free Sci-Fi<br><em>Short Stories</em></h1>
       <p>Ten classic science fiction short stories — Asimov, Bradbury, Pohl, Verne, Laumer — curated and typeset for comfortable reading. Drop your email and we'll send the full PDF to your inbox.</p>
       <div class="scifi-hero-form">
-        <form class="hero-form-row" id="sf-hero-form" novalidate>
-          <input class="hero-form-input" type="email" name="email" placeholder="Your email address" required autocomplete="email">
-          <button type="submit" class="hero-form-btn" id="sf-hero-btn">↓ Download</button>
-        </form>
-        <div class="hero-form-status" id="sf-hero-status"></div>
+        <div class="ml-embedded" data-form="0hveDb"></div>
         <p class="scifi-trust-line">Free forever <span>·</span> Sent instantly <span>·</span> One-click unsubscribe</p>
       </div>
     </div>
@@ -585,7 +600,7 @@ permalink: /free-downloads/
 <!-- ═══════════════════════ ANTHOLOGY STRIP ═══════════════════════ -->
 <div class="sf-anthology-strip">
   <div class="sf-anthology-pill">A Litloop Short Classics Anthology</div>
-  <h2>Short stories from <em>the golden age</em> of science fiction</h2>
+  <h2>Short stories from <em>the golden age</em> of science fiction.</h2>
   <p>Between roughly 1935 and the early 1960s, a generation of writers worked out almost everything science fiction would go on to be — first contact, robot ethics, simulated reality, surveillance dystopia, faster-than-light travel, post-scarcity economics, the unthinkable.</p>
   <p>This collection gathers ten of the cleanest, sharpest examples in the public domain — Asimov, Bradbury, Pohl, Laumer, plus an original new story from Litloop's own Ben Luxon.</p>
 </div>
@@ -750,11 +765,7 @@ permalink: /free-downloads/
     <h2>Get the full sci-fi collection now</h2>
     <p class="sf-cta-sub">Ten classic sci-fi short stories, typeset for comfortable reading on phone, tablet or e-reader. Sent the moment you hit Download.</p>
     <div class="sf-cta-form">
-      <form class="hero-form-row" id="sf-cta-form" novalidate>
-        <input class="hero-form-input" type="email" name="email" placeholder="Your email address" required autocomplete="email">
-        <button type="submit" class="hero-form-btn" id="sf-cta-btn">↓ Download</button>
-      </form>
-      <div class="hero-form-status" id="sf-cta-status"></div>
+      <div class="ml-embedded" data-form="0hveDb"></div>
     </div>
   </div>
 </div>
@@ -810,69 +821,6 @@ permalink: /free-downloads/
 </section>
 
 <script>
-/* ── MailerLite subscribe via their JS API ─────────────────── */
-/* Replace GROUP_ID_SCIFI with your actual MailerLite group ID */
-var ML_GROUP_SCIFI = '0hveDb'; /* <— your existing form ID; swap for group ID if using API directly */
-
-function mlSubscribe(email, formId, statusEl, btnEl) {
-  btnEl.disabled = true;
-  btnEl.textContent = 'Sending…';
-  statusEl.className = 'hero-form-status';
-  statusEl.textContent = '';
-
-  /* MailerLite embedded JS form submit — triggers the same flow as ml-embedded */
-  /* Uses window.ml (MailerLite universal script) if loaded, otherwise graceful fallback */
-  if (window.ml) {
-    window.ml('webforms', 'load', formId);
-    /* MailerLite doesn't expose a direct promise API from the embed — use their
-       subscribe API endpoint if you have an API key set up server-side.
-       For now we trigger the hidden embedded form approach below. */
-  }
-
-  /* Fallback: POST to MailerLite's subscribe endpoint via a hidden iframe trick,
-     or better: use your own Supabase Edge Function as a proxy.
-     The pattern below calls a /api/subscribe edge function — update the URL to match yours. */
-  fetch('/api/subscribe', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ email: email, group: 'scifi' })
-  })
-  .then(function(res) { return res.json(); })
-  .then(function(data) {
-    if (data.ok) {
-      statusEl.textContent = '✓ Check your inbox — the PDF is on its way!';
-      statusEl.className = 'hero-form-status success';
-      btnEl.closest('form').reset();
-    } else {
-      throw new Error(data.message || 'Something went wrong');
-    }
-  })
-  .catch(function(err) {
-    statusEl.textContent = err.message || 'Something went wrong. Please try again.';
-    statusEl.className = 'hero-form-status error';
-  })
-  .finally(function() {
-    btnEl.disabled = false;
-    btnEl.textContent = '↓ Download';
-  });
-}
-
-function bindForm(formId, statusId, btnId) {
-  var form   = document.getElementById(formId);
-  var status = document.getElementById(statusId);
-  var btn    = document.getElementById(btnId);
-  if (!form) return;
-  form.addEventListener('submit', function(e) {
-    e.preventDefault();
-    var email = form.querySelector('input[type="email"]').value.trim();
-    if (!email) return;
-    mlSubscribe(email, ML_GROUP_SCIFI, status, btn);
-  });
-}
-
-bindForm('sf-hero-form', 'sf-hero-status', 'sf-hero-btn');
-bindForm('sf-cta-form',  'sf-cta-status',  'sf-cta-btn');
-
 /* ── FAQ accordion ─────────────────────────────────────────── */
 document.querySelectorAll('.sf-faq-trigger').forEach(function(btn) {
   btn.addEventListener('click', function() {
