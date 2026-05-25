@@ -4,7 +4,7 @@ title: "The Devils by Joe Abercrombie Review — Is It Worth Reading?"
 date: 2026-05-25
 category: Reviews
 genre: Fantasy, Grimdark
-excerpt: "An honest review of The Devils by Joe Abercrombie. Brilliant characters, brutal action, and a Suicide Squad premise that mostly works. But does it match The Blade Itself?"
+excerpt: "We review of The Devils by Joe Abercrombie. Brilliant characters, brutal action, and a Suicide Squad premise that mostly works..."
 image: "https://m.media-amazon.com/images/I/81xE5qugy8L._SL1500_.jpg"
 ---
 
@@ -14,10 +14,11 @@ image: "https://m.media-amazon.com/images/I/81xE5qugy8L._SL1500_.jpg"
 
 ---
 
-*Joe Abercrombie's first novel outside the First Law universe since 2015 is loud, brutal, and genuinely fun — but is it going to scratch your Abercrombie itch? We give our honest verdict.*
+*Joe Abercrombie's first novel outside the First Law universe since 2015 is loud, brutal, and genuinely fun. But is it going to scratch your Abercrombie itch?*
 
-I read *The Devils* in January, several months after it made the New York Times and Sunday Times bestseller lists. As someone who writes [grimdark fantasy](https://www.litloop.co/genres/grimdark/), and who considers [The Blade Itself](https://www.litloop.co/blog/the-blade-itself-review/) one of the defining books of the genre, I had a horse in this race. 
-The short verdict: it's good, but not his best.
+I read *The Devils* in January, several months after it made the New York Times and Sunday Times bestseller lists. As someone who writes [grimdark fantasy](https://www.litloop.co/genres/grimdark/), and who considers [The Blade Itself](https://www.litloop.co/blog/the-blade-itself-review/) one of the defining books of the genre, it's safe to say I'm an Abercrombie fan. So my expectations for *The Devils* were high. And, if i were to sum up my verdict in a sentence, the novel didn't quite meet thos expectations.
+
+Below I go into a bit more detail as to why.
 
 ---
 
@@ -68,7 +69,7 @@ The satirical commentary on organised religion is also sharp. The Church is hypo
 
 I love action. Sword fights, magic fights, gunfights, fistfights. But this book was too much even for me. It was exhausting.
 
-*The Devils* is structured as a series of escalating set-pieces. The group gets ambushed, survives, gets ambushed again, survives again, reaches Troy — and then the book continues for roughly another twenty percent of its length after what I thought was the final resolution. 
+*The Devils* is structured as a series of escalating set-pieces. The group gets ambushed, survives, gets ambushed again, survives again, reaches Troy, and then the book continues for roughly another twenty percent of its length after what I thought was the final resolution. 
 
 The final final act piles further carnage on top of a climax that already felt complete: more necromancy, mutant magical experiments, battles between bad and considerably worse. And when the ending does finally arrive it's characteristically Abercrombie. Nobody learned anything, everyone is worse off in some way, and the grinding disillusionment settles over you like a familiar damp coat - which when everyone has fought so hard and when you've had to endure for so many action sequences, well it was disappointing.
 
