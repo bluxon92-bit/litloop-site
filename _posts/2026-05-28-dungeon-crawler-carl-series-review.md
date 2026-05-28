@@ -56,11 +56,8 @@ The complete series in reading order, with a brief, spoiler-light summary of eac
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/710m7ElZJFL._SL1500_.jpg" alt="Dungeon Crawler Carl Book 1" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-
-### Book 1 — Dungeon Crawler Carl (2020)
-
-The world ends. Carl and Donut enter the dungeon. The first two floors are the training grounds — brutal, disorienting, and the place where the voice, the humour, and the emotional stakes all establish themselves. This is where the hook goes in. The series could live or die on this book and it more than holds up.
-
+    <h3>Book 1 — Dungeon Crawler Carl (2020)</h3>
+    <p>The world ends. Carl and Donut enter the dungeon. The first two floors are the training grounds — brutal, disorienting, and the place where the voice, the humour, and the emotional stakes all establish themselves. This is where the hook goes in. The series could live or die on this book and it more than holds up.</p>
   </div>
 </div>
 
@@ -69,11 +66,8 @@ The world ends. Carl and Donut enter the dungeon. The first two floors are the t
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81DFc9uvtdL._SL1500_.jpg" alt="Carl's Doomsday Scenario" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-
-### Book 2 — Carl's Doomsday Scenario (2021)
-
-The third floor. The dungeon opens up into a shattered overworld — the Over City — and Carl and Donut have their first full season as breakout stars. Quests, an undead carnival, and bodies falling from the sky. The celebrity machinery begins to kick in earnest, and the gap between what the show presents Carl as and who he actually is starts to widen.
-
+    <h3>Book 2 — Carl's Doomsday Scenario (2021)</h3>
+    <p>The third floor. The dungeon opens up into a shattered overworld — the Over City — and Carl and Donut have their first full season as breakout stars. Quests, an undead carnival, and bodies falling from the sky. The celebrity machinery begins to kick in earnest, and the gap between what the show presents Carl as and who he actually is starts to widen.</p>
   </div>
 </div>
 
@@ -82,11 +76,8 @@ The third floor. The dungeon opens up into a shattered overworld — the Over Ci
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/71a6VjG76xL._SL1500_.jpg" alt="The Dungeon Anarchist's Cookbook" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-
-### Book 3 — The Dungeon Anarchist's Cookbook (2021)
-
-The fourth floor. The Iron Tangle — an Escher-nightmare of interlocking trains, tunnels, and stations where nothing stays where it should. Carl and Donut, now top-ten crawlers with a target on their backs, are forced into uneasy alliances. A mysterious "cookbook" of dungeon-breaking recipes may be their only real edge. The most structurally divisive book in the series — more on this below.
-
+    <h3>Book 3 — The Dungeon Anarchist's Cookbook (2021)</h3>
+    <p>The fourth floor. The Iron Tangle — an Escher-nightmare of interlocking trains, tunnels, and stations where nothing stays where it should. Carl and Donut, now top-ten crawlers with a target on their backs, are forced into uneasy alliances. A mysterious "cookbook" of dungeon-breaking recipes may be their only real edge. The most structurally divisive book in the series — more on this below.</p>
   </div>
 </div>
 
@@ -95,11 +86,8 @@ The fourth floor. The Iron Tangle — an Escher-nightmare of interlocking trains
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81PoU7J3iEL._SL1500_.jpg" alt="The Gate of the Feral Gods" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-
-### Book 4 — The Gate of the Feral Gods (2021)
-
-The fifth floor drops the crew into a war bubble: four bizarre fortresses, a floating gnome citadel, a haunted crypt, and more, that must all be seized to unlock the stairwell. And then the terrifying, feral gods get involved.
-
+    <h3>Book 4 — The Gate of the Feral Gods (2021)</h3>
+    <p>The fifth floor drops the crew into a war bubble: four bizarre fortresses, a floating gnome citadel, a haunted crypt, and more, that must all be seized to unlock the stairwell. And then the terrifying, feral gods get involved.</p>
   </div>
 </div>
 
@@ -108,11 +96,8 @@ The fifth floor drops the crew into a war bubble: four bizarre fortresses, a flo
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/71RQJFuE+9L._SL1500_.jpg" alt="The Butcher's Masquerade" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-
-### Book 5 — The Butcher's Masquerade (2022)
-
-The sixth floor is a jungle hunting ground where wealthy alien tourists drop in to hunt crawlers for sport. Book five is where Carl and his friends finally get an opportunity to hit back.
-
+    <h3>Book 5 — The Butcher's Masquerade (2022)</h3>
+    <p>The sixth floor is a jungle hunting ground where wealthy alien tourists drop in to hunt crawlers for sport. Book five is where Carl and his friends finally get an opportunity to hit back.</p>
   </div>
 </div>
 
@@ -121,11 +106,8 @@ The sixth floor is a jungle hunting ground where wealthy alien tourists drop in 
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/814CvOwA+vL._SL1500_.jpg" alt="The Eye of the Bedlam Bride" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-
-### Book 6 — The Eye of the Bedlam Bride (2023)
-
-The eighth floor is a haunted echo of Earth's final days, populated by insubstantial ghosts going through the motions of their pre-apocalypse lives. Carl and Donut must capture six legendary monsters and turn them into summoning cards, culminating in a hunt for the Bedlam Bride.
-
+    <h3>Book 6 — The Eye of the Bedlam Bride (2023)</h3>
+    <p>The eighth floor is a haunted echo of Earth's final days, populated by insubstantial ghosts going through the motions of their pre-apocalypse lives. Carl and Donut must capture six legendary monsters and turn them into summoning cards, culminating in a hunt for the Bedlam Bride.</p>
   </div>
 </div>
 
@@ -134,13 +116,9 @@ The eighth floor is a haunted echo of Earth's final days, populated by insubstan
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81nUj-lZC9L._SL1500_.jpg" alt="This Inevitable Ruin" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-
-### Book 7 — This Inevitable Ruin (2024)
-
-The ninth floor. Faction Wars. It's meant to be a game for rich tourists. A bit of fun. The crawlers are supposed to get wiped out…
-
-Faction Wars brings numerous storylines from the previous books together and finally gives the characters a bit of space, a bit of breathing room, a bit of agency, and it doesn't disappoint. This is perhaps the most emotionally wringing of the books because so much is on the line. Everything Dinniman has been building, emotionally, politically, thematically, finally comes to a head. My favourite book in the series so far.
-
+    <h3>Book 7 — This Inevitable Ruin (2024)</h3>
+    <p>The ninth floor. Faction Wars. It's meant to be a game for rich tourists. A bit of fun. The crawlers are supposed to get wiped out…</p>
+    <p>Faction Wars brings numerous storylines from the previous books together and finally gives the characters a bit of space, a bit of breathing room, a bit of agency, and it doesn't disappoint. This is perhaps the most emotionally wringing of the books because so much is on the line. Everything Dinniman has been building, emotionally, politically, thematically, finally comes to a head. My favourite book in the series so far.</p>
   </div>
 </div>
 
@@ -149,15 +127,10 @@ Faction Wars brings numerous storylines from the previous books together and fin
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81bzXinuYEL._SL1500_.jpg" alt="A Parade of Horribles" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-
-### Book 8 — A Parade of Horribles (2026)
-
-The tenth and eleventh floors. A gauntlet of escalating, race-like challenges with shifting rules and cutthroat competition. Think Mario Kart crossed with Mad Max, except losing means actual elimination, and the dungeon's AI is glitching in ways that suggest something catastrophic is building on the floor below.
-
-After the emotional enormity of book seven, this one initially feels more enclosed in scale. Dinniman is deliberately resetting the pace, and it works, once you're into it. The ending opens back up in scale where we finally get some answers. The character work remains strong, and the lore around the AI and the wider galactic politics deepens significantly. You can feel the series building toward its conclusion.
-
-A strong entry that will leave you impatient for book nine.
-
+    <h3>Book 8 — A Parade of Horribles (2026)</h3>
+    <p>The tenth and eleventh floors. A gauntlet of escalating, race-like challenges with shifting rules and cutthroat competition. Think Mario Kart crossed with Mad Max, except losing means actual elimination, and the dungeon's AI is glitching in ways that suggest something catastrophic is building on the floor below.</p>
+    <p>After the emotional enormity of book seven, this one initially feels more enclosed in scale. Dinniman is deliberately resetting the pace, and it works, once you're into it. The ending opens back up in scale where we finally get some answers. The character work remains strong, and the lore around the AI and the wider galactic politics deepens significantly. You can feel the series building toward its conclusion.</p>
+    <p>A strong entry that will leave you impatient for book nine.</p>
   </div>
 </div>
 
