@@ -1,0 +1,126 @@
+<style>
+.lb-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:9999;align-items:center;justify-content:center}
+.lb-overlay.open{display:flex}
+.lb-modal{background:#fff;border-radius:14px;padding:1.5rem;width:320px;max-width:90vw;font-family:inherit}
+.lb-modal-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:.75rem}
+.lb-title{margin:0 0 2px;font-size:15px;font-weight:600;color:#111}
+.lb-author{font-size:13px;color:#666;margin:0 0 1rem}
+.lb-region{display:inline-flex;align-items:center;gap:5px;font-size:11px;padding:3px 9px;border-radius:6px;background:#e8f4fd;color:#1a6fa8;margin-bottom:1rem}
+.lb-detecting{font-size:12px;color:#888;margin-bottom:1rem}
+.lb-links{display:flex;flex-direction:column;gap:8px}
+.lb-link{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border:1px solid #e5e5e5;border-radius:8px;text-decoration:none;color:#111;font-size:13px;transition:background .12s}
+.lb-link:hover{background:#f5f5f5;text-decoration:none;color:#111}
+.lb-link-text .ln{font-weight:500}
+.lb-link-text .lnote{font-size:11px;color:#888;margin-top:1px}
+.lb-footer{margin-top:1rem;padding-top:1rem;border-top:1px solid #eee;display:flex;justify-content:space-between;align-items:center}
+.lb-switch{font-size:11px;color:#aaa;cursor:pointer;text-decoration:underline;background:none;border:none;padding:0}
+.lb-switch:hover{color:#333}
+.lb-aff{font-size:11px;color:#ccc}
+.lb-close{background:none;border:none;cursor:pointer;font-size:22px;color:#aaa;padding:0;line-height:1;flex-shrink:0}
+.lb-close:hover{color:#333}
+.lb-ext-icon{flex-shrink:0;opacity:.4}
+</style>
+
+<div class="lb-overlay" id="lbOverlay" role="dialog" aria-modal="true" aria-labelledby="lbTitle">
+  <div class="lb-modal">
+    <div class="lb-modal-top">
+      <div>
+        <p class="lb-title" id="lbTitle"></p>
+        <p class="lb-author" id="lbAuthor"></p>
+      </div>
+      <button class="lb-close" id="lbClose" aria-label="Close">&times;</button>
+    </div>
+    <div class="lb-detecting" id="lbDetecting">Detecting your region&hellip;</div>
+    <div class="lb-region" id="lbRegion" style="display:none"></div>
+    <div class="lb-links" id="lbLinks"></div>
+    <div class="lb-footer">
+      <button class="lb-switch" id="lbSwitch">Wrong region? Switch</button>
+      <span class="lb-aff">affiliate links</span>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var UK_TAG='litloop-21';
+  var US_TAG='ctbooks09e-20';
+  var IPINFO_TOKEN='8099d12973a979';
+  var book={}, region='GB', detected='GB';
+  var regionCache=null;
+
+  function amazonUrl(r,isbn,title,author){
+    var q=encodeURIComponent(isbn||(title+' '+author));
+    return 'https://www.'+(r==='US'?'amazon.com':'amazon.co.uk')+'/s?k='+q+'&tag='+(r==='US'?US_TAG:UK_TAG);
+  }
+
+  function retailers(r){
+    return [
+      {name:'Amazon '+(r==='US'?'US':'UK'),
+       note:r==='US'?'amazon.com':'amazon.co.uk',
+       url:amazonUrl(r,book.isbn,book.title,book.author)}
+    ];
+  }
+
+  function render(r){
+    var el=document.getElementById('lbRegion');
+    el.textContent=(r==='GB'?'🇬🇧 United Kingdom':'🇺🇸 United States');
+    el.style.display='inline-flex';
+    document.getElementById('lbDetecting').style.display='none';
+    document.getElementById('lbLinks').innerHTML=retailers(r).map(function(x){
+      return '<a class="lb-link" href="'+x.url+'" target="_blank" rel="noopener sponsored">'+
+        '<div class="lb-link-text"><div class="ln">'+x.name+'</div><div class="lnote">'+x.note+'</div></div>'+
+        '<svg class="lb-ext-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">'+
+        '<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>'+
+        '<polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>';
+    }).join('');
+  }
+
+  async function detect(){
+    if(regionCache) return regionCache;
+    try{
+      var res=await fetch('https://api.ipinfo.io/lite/me?token='+IPINFO_TOKEN);
+      var d=await res.json();
+      regionCache=d.country_code==='US'?'US':'GB';
+    }catch(e){ regionCache='GB'; }
+    return regionCache;
+  }
+
+  async function openModal(el){
+    book={
+      title:el.getAttribute('data-title')||'',
+      author:el.getAttribute('data-author')||'',
+      isbn:el.getAttribute('data-isbn')||''
+    };
+    document.getElementById('lbTitle').textContent=book.title;
+    document.getElementById('lbAuthor').textContent=book.author;
+    document.getElementById('lbLinks').innerHTML='';
+    document.getElementById('lbDetecting').style.display='block';
+    document.getElementById('lbRegion').style.display='none';
+    document.getElementById('lbOverlay').classList.add('open');
+    document.body.style.overflow='hidden';
+    detected=await detect();
+    region=detected;
+    render(region);
+  }
+
+  function closeModal(){
+    document.getElementById('lbOverlay').classList.remove('open');
+    document.body.style.overflow='';
+  }
+
+  document.getElementById('lbClose').addEventListener('click',closeModal);
+  document.getElementById('lbOverlay').addEventListener('click',function(e){
+    if(e.target===this) closeModal();
+  });
+  document.getElementById('lbSwitch').addEventListener('click',function(){
+    region=region==='GB'?'US':'GB'; render(region);
+  });
+  document.addEventListener('keydown',function(e){
+    if(e.key==='Escape') closeModal();
+  });
+  document.addEventListener('click',function(e){
+    var btn=e.target.closest('[data-buy-book]');
+    if(btn) openModal(btn);
+  });
+})();
+</script>

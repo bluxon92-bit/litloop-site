@@ -107,7 +107,7 @@ That said, Abercrombie does something interesting with the premise 'the only way
 
 **3.5 out of 5 stars.** A loud, brutal, enjoyable book. Not his best work, but worth your time.
 
-[**Buy The Devils on Amazon**](https://amzn.to/4uVkkEr)
+<button data-buy-book data-title="The Devils" data-author="Joe Abercrombie" data-isbn="9780575095977">Buy The Devils</button>
 
 ---
 
@@ -120,6 +120,14 @@ That said, Abercrombie does something interesting with the premise 'the only way
 **Start here or First Law first?** First Law first, ideally. But *The Devils* works as a standalone. It's set in a completely separate world with no required reading.
 
 **Audiobook?** Steven Pacey reads it, the same narrator who read the entire First Law series. If you've listened to those, you'll be in safe hands.
+
+---
+
+## Books Mentioned in This Post
+
+<button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie" data-isbn="9780575079793">Buy The Blade Itself</button>
+
+<button data-buy-book data-title="The First Law Trilogy" data-author="Joe Abercrombie" data-isbn="9780575083110">Buy The First Law Trilogy (boxset)</button>
 
 ---
 
