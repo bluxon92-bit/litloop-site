@@ -234,7 +234,7 @@ The series has no genuinely weak entries, but books 1, 3, and 7 are the ones tha
 
 ---
 
-## All 8 Books — Goodreads Ratings
+## All 8 Dungeon Crawler Carl Books Ranked — Goodreads Ratings
 
 <table style="width:100%; border-collapse:collapse; margin-bottom:1.5rem;">
   <thead>
