@@ -1,32 +1,78 @@
 <style>
-.lb-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:9999;align-items:center;justify-content:center}
+/* ── Buy banner ─────────────────────────────────────────── */
+.lb-banner{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1rem;
+  background:#F5F0E8;
+  border-radius:14px;
+  padding:1rem 1.25rem;
+  margin:1.75rem 0;
+  cursor:pointer;
+  border:1.5px solid transparent;
+  transition:border-color 0.15s,transform 0.15s;
+  font-family:'DM Sans',system-ui,sans-serif;
+  text-align:left;
+  width:100%;
+}
+.lb-banner:hover{border-color:rgba(27,58,92,0.2);transform:translateY(-1px)}
+.lb-banner:active{transform:translateY(0)}
+
+.lb-banner-text{flex:1;min-width:0}
+.lb-banner-title{font-family:'Lora',Georgia,serif;font-size:0.9375rem;font-weight:600;color:#1B3A5C;line-height:1.3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lb-banner-author{font-size:0.8125rem;color:#7A7A7A;margin-top:1px}
+.lb-banner-btn{
+  flex-shrink:0;
+  display:inline-flex;
+  align-items:center;
+  gap:0.4rem;
+  padding:0.55rem 1.1rem;
+  background:#C98A20;
+  color:#fff;
+  border-radius:999px;
+  font-size:0.8125rem;
+  font-weight:500;
+  font-family:'DM Sans',system-ui,sans-serif;
+  white-space:nowrap;
+  box-shadow:0 4px 12px rgba(201,138,32,0.28);
+  transition:background 0.15s,box-shadow 0.15s;
+  border:none;
+  pointer-events:none;
+}
+.lb-banner:hover .lb-banner-btn{background:#E5A835;box-shadow:0 6px 16px rgba(201,138,32,0.38)}
+
+/* ── Modal overlay ──────────────────────────────────────── */
+.lb-overlay{display:none;position:fixed;inset:0;background:rgba(15,37,64,0.6);z-index:9999;align-items:center;justify-content:center;padding:1rem}
 .lb-overlay.open{display:flex}
-.lb-modal{background:#fff;border-radius:14px;padding:1.5rem;width:320px;max-width:90vw;font-family:inherit}
-.lb-modal-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:.75rem}
-.lb-title{margin:0 0 2px;font-size:15px;font-weight:600;color:#111}
-.lb-author{font-size:13px;color:#666;margin:0 0 1rem}
-.lb-region{display:inline-flex;align-items:center;gap:5px;font-size:11px;padding:3px 9px;border-radius:6px;background:#e8f4fd;color:#1a6fa8;margin-bottom:1rem}
-.lb-detecting{font-size:12px;color:#888;margin-bottom:1rem}
-.lb-links{display:flex;flex-direction:column;gap:8px}
-.lb-link{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border:1px solid #e5e5e5;border-radius:8px;text-decoration:none;color:#111;font-size:13px;transition:background .12s}
-.lb-link:hover{background:#f5f5f5;text-decoration:none;color:#111}
-.lb-link-text .ln{font-weight:500}
-.lb-link-text .lnote{font-size:11px;color:#888;margin-top:1px}
-.lb-footer{margin-top:1rem;padding-top:1rem;border-top:1px solid #eee;display:flex;justify-content:space-between;align-items:center}
-.lb-switch{font-size:11px;color:#aaa;cursor:pointer;text-decoration:underline;background:none;border:none;padding:0}
-.lb-switch:hover{color:#333}
-.lb-aff{font-size:11px;color:#ccc}
-.lb-close{background:none;border:none;cursor:pointer;font-size:22px;color:#aaa;padding:0;line-height:1;flex-shrink:0}
-.lb-close:hover{color:#333}
-.lb-ext-icon{flex-shrink:0;opacity:.4}
+.lb-modal{background:#fff;border-radius:22px;padding:1.75rem;width:360px;max-width:100%;font-family:'DM Sans',system-ui,sans-serif;box-shadow:0 24px 64px rgba(15,37,64,0.18)}
+.lb-modal-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:1rem}
+.lb-modal-title{margin:0 0 3px;font-family:'Lora',Georgia,serif;font-size:1.1rem;font-weight:600;color:#1B3A5C;line-height:1.25}
+.lb-modal-author{font-size:0.875rem;color:#7A7A7A;margin:0}
+.lb-close{background:#F5F0E8;border:none;width:32px;height:32px;border-radius:50%;cursor:pointer;font-size:1.1rem;color:#4A4A4A;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:background 0.15s;margin-left:1rem}
+.lb-close:hover{background:#EDE7DB}
+.lb-detecting{font-size:0.8125rem;color:#7A7A7A;margin-bottom:1rem;display:flex;align-items:center;gap:6px}
+.lb-detecting::before{content:'';width:8px;height:8px;border-radius:50%;background:#C98A20;animation:lb-pulse 1s ease-in-out infinite}
+@keyframes lb-pulse{0%,100%{opacity:0.3}50%{opacity:1}}
+.lb-region{display:inline-flex;align-items:center;gap:6px;font-size:0.75rem;font-weight:500;padding:4px 10px;border-radius:999px;background:#F5F0E8;color:#1B3A5C;margin-bottom:1rem}
+.lb-links{display:flex;flex-direction:column;gap:10px}
+.lb-link{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;border:1.5px solid rgba(27,58,92,0.15);border-radius:14px;text-decoration:none;color:#1B3A5C;transition:all 0.15s}
+.lb-link:hover{border-color:#1B3A5C;background:#F5F0E8;transform:translateY(-1px);text-decoration:none;color:#1B3A5C}
+.lb-link-name{font-size:0.9375rem;font-weight:500;color:#1B3A5C}
+.lb-link-note{font-size:0.75rem;color:#7A7A7A;margin-top:1px}
+.lb-link-arrow{color:#C98A20;flex-shrink:0;margin-left:0.75rem}
+.lb-footer{margin-top:1.25rem;padding-top:1rem;border-top:1px solid rgba(0,0,0,0.08);display:flex;justify-content:space-between;align-items:center}
+.lb-switch{font-size:0.75rem;color:#7A7A7A;cursor:pointer;text-decoration:underline;text-underline-offset:2px;background:none;border:none;padding:0;font-family:inherit}
+.lb-switch:hover{color:#1B3A5C}
+.lb-aff{font-size:0.75rem;color:#C9C9C9}
 </style>
 
-<div class="lb-overlay" id="lbOverlay" role="dialog" aria-modal="true" aria-labelledby="lbTitle">
+<div class="lb-overlay" id="lbOverlay" role="dialog" aria-modal="true" aria-labelledby="lbModalTitle">
   <div class="lb-modal">
     <div class="lb-modal-top">
       <div>
-        <p class="lb-title" id="lbTitle"></p>
-        <p class="lb-author" id="lbAuthor"></p>
+        <p class="lb-modal-title" id="lbModalTitle"></p>
+        <p class="lb-modal-author" id="lbModalAuthor"></p>
       </div>
       <button class="lb-close" id="lbClose" aria-label="Close">&times;</button>
     </div>
@@ -45,34 +91,32 @@
   var UK_TAG='litloop-21';
   var US_TAG='ctbooks09e-20';
   var IPINFO_TOKEN='8099d12973a979';
-  var book={}, region='GB', detected='GB';
+  var book={}, region='GB';
   var regionCache=null;
 
-  function amazonUrl(r,isbn,title,author){
-    var q=encodeURIComponent(isbn||(title+' '+author));
-    return 'https://www.'+(r==='US'?'amazon.com':'amazon.co.uk')+'/s?k='+q+'&tag='+(r==='US'?US_TAG:UK_TAG);
-  }
-
-  function retailers(r){
-    return [
-      {name:'Amazon '+(r==='US'?'US':'UK'),
-       note:r==='US'?'amazon.com':'amazon.co.uk',
-       url:amazonUrl(r,book.isbn,book.title,book.author)}
-    ];
+  function amazonUrl(r){
+    var q=encodeURIComponent(book.title+' '+book.author);
+    var domain=r==='US'?'amazon.com':'amazon.co.uk';
+    var tag=r==='US'?US_TAG:UK_TAG;
+    return 'https://www.'+domain+'/s?k='+q+'&tag='+tag;
   }
 
   function render(r){
-    var el=document.getElementById('lbRegion');
-    el.textContent=(r==='GB'?'🇬🇧 United Kingdom':'🇺🇸 United States');
-    el.style.display='inline-flex';
+    var badge=document.getElementById('lbRegion');
+    badge.textContent=r==='GB'?'🇬🇧 United Kingdom':'🇺🇸 United States';
+    badge.style.display='inline-flex';
     document.getElementById('lbDetecting').style.display='none';
-    document.getElementById('lbLinks').innerHTML=retailers(r).map(function(x){
-      return '<a class="lb-link" href="'+x.url+'" target="_blank" rel="noopener sponsored">'+
-        '<div class="lb-link-text"><div class="ln">'+x.name+'</div><div class="lnote">'+x.note+'</div></div>'+
-        '<svg class="lb-ext-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">'+
-        '<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>'+
-        '<polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>';
-    }).join('');
+    document.getElementById('lbLinks').innerHTML=
+      '<a class="lb-link" href="'+amazonUrl(r)+'" target="_blank" rel="noopener sponsored">'+
+        '<div>'+
+          '<div class="lb-link-name">Amazon '+(r==='US'?'US':'UK')+'</div>'+
+          '<div class="lb-link-note">'+(r==='US'?'amazon.com':'amazon.co.uk')+'</div>'+
+        '</div>'+
+        '<svg class="lb-link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">'+
+          '<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>'+
+          '<polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>'+
+        '</svg>'+
+      '</a>';
   }
 
   async function detect(){
@@ -88,18 +132,16 @@
   async function openModal(el){
     book={
       title:el.getAttribute('data-title')||'',
-      author:el.getAttribute('data-author')||'',
-      isbn:el.getAttribute('data-isbn')||''
+      author:el.getAttribute('data-author')||''
     };
-    document.getElementById('lbTitle').textContent=book.title;
-    document.getElementById('lbAuthor').textContent=book.author;
+    document.getElementById('lbModalTitle').textContent=book.title;
+    document.getElementById('lbModalAuthor').textContent=book.author;
     document.getElementById('lbLinks').innerHTML='';
-    document.getElementById('lbDetecting').style.display='block';
+    document.getElementById('lbDetecting').style.display='flex';
     document.getElementById('lbRegion').style.display='none';
     document.getElementById('lbOverlay').classList.add('open');
     document.body.style.overflow='hidden';
-    detected=await detect();
-    region=detected;
+    region=await detect();
     render(region);
   }
 
@@ -112,11 +154,11 @@
   document.getElementById('lbOverlay').addEventListener('click',function(e){
     if(e.target===this) closeModal();
   });
-  document.getElementById('lbSwitch').addEventListener('click',function(){
-    region=region==='GB'?'US':'GB'; render(region);
-  });
   document.addEventListener('keydown',function(e){
     if(e.key==='Escape') closeModal();
+  });
+  document.getElementById('lbSwitch').addEventListener('click',function(){
+    region=region==='GB'?'US':'GB'; render(region);
   });
   document.addEventListener('click',function(e){
     var btn=e.target.closest('[data-buy-book]');
