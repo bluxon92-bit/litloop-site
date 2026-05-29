@@ -15,7 +15,7 @@ permalink: /blog/dungeon-crawler-carl-series-review/
 
 ---
 
-Matt Dinniman's Dungeon Crawler Carl is so much more than it seems. It is, I would say, one of the most original and unexpectedly moving series in contemporary fantasy.
+Matt Dinniman's Dungeon Crawler Carl is so much more than it seems. It is, I would say, one of the most original and unexpectedly moving series in [contemporary fantasy](https://www.litloop.co/blog/best-fantasy-books-you-need-to-read-today/).
 
 On the surface the Dungeon Crawler Carl series sounds and looks like a fun, absurd, cascade of chaos. A fast-paced throwaway beach read. And Dinniman leans into that. He writes like someone who asked "what if Douglas Adams had a dungeon to play with and no editorial constraints?"
 
@@ -297,13 +297,15 @@ The series has no genuinely weak entries, but books 1, 3, and 7 are the ones tha
   </tbody>
 </table>
 
-*Ratings from Goodreads, May 2026.*
+*Ratings from [Goodreads](https://www.goodreads.com/series/135311-dungeon-crawler-carl), May 2026.*
 
 ---
 
 ## Should You Read Dungeon Crawler Carl?
 
-**Yes, if:** You want a long series with genuine emotional depth beneath the chaos. You enjoy humour in your fantasy and don't mind it sitting next to real darkness. You've bounced off LitRPG before and want an entry point that doesn't require you to care deeply about stat optimisation.
+**Yes, if:** You want a long series with genuine emotional depth beneath the chaos. You enjoy humour in your fantasy and don't mind it sitting next to real darkness. You've bounced off LitRPG before and want an entry point that doesn't require you to care deeply about stat optimisation. 
+
+If you loved [Kings of the Wyld](https://www.litloop.co/blog/kings-of-the-wyld-review/) or any of the [Joe Abercrombie books](https://www.litloop.co/blog/joe-abercrombie-books-in-order/) for their dark ensemble casts and emotional gut-punches, this series will feel like home.
 
 The series has no genuinely weak entries. Start at book one and don't stop.
 
@@ -313,7 +315,7 @@ The series has no genuinely weak entries. Start at book one and don't stop.
 
 ## Should You Listen to the Dungeon Crawler Carl Audiobooks? (A Note on Jeff Hays)
 
-Jeff Hays voices every character distinctly, gives the comedy real timing, and makes the emotional beats land harder than they already do in print. Multiple distinct voices, real energy, and a delivery that makes the chaos feel genuinely alive.
+[Jeff Hays](https://soundbooththeater.com) voices every character distinctly, gives the comedy real timing, and makes the emotional beats land harder than they already do in print. Multiple distinct voices, real energy, and a delivery that makes the chaos feel genuinely alive.
 
 Many readers who bounced off the ebook format came back through audio and didn't stop until they'd finished everything available. If you've tried book one and found it didn't quite grip you, try the audiobook before you give up on the series.
 
@@ -327,7 +329,9 @@ And you hold your breath, because you know Dinniman's not going to let Carl find
 
 That's the experience. Laughing and then catching yourself, because something has shifted and you didn't notice until you were already in the feeling.
 
-It's a rare thing, that balance. Matt Dinniman pulls it off for eight books and counting.
+It's a rare thing, that balance. Matt Dinniman pulls it off for eight books and counting. 
+
+If you want to explore what else fantasy has to offer once you're through, our guide to the [best fantasy series](https://www.litloop.co/blog/best-fantasy-series/) is a good place to start.
 
 ---
 
