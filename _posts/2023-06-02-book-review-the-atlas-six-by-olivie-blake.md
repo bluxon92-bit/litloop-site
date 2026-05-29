@@ -30,6 +30,8 @@ Overall, the remaining characters appeared too serious and dull for my taste. Th
 
 I have given the characters a four because Blake made a commendable effort to establish character relationships and depth. As mentioned, I did genuinely like Libby, who displayed more kindness and sensibility than the others.
 
+<button data-buy-book data-title="The Atlas Six" data-author="Olivie Blake">Buy The Atlas Six</button>
+
 ## Final Rating for The Atlas Six by Olivie Blake - 3.5
 
 The Atlas Six arrived with significant hype, boasting a fantastic premise and an enticing cover. It starts off strongly, but soon loses its way. After initial action sequences, there is a prolonged period of nothingness until Blake attempts to tie things together towards the end. Even then, it feels like the final chapters lack direction, merely setting up the possibility of a sequel. The Atlas Six receives one of the lowest ratings on my blog because it was dull and overly serious. I've heard the sequel is even worse, so this may mark the end of the series for me.

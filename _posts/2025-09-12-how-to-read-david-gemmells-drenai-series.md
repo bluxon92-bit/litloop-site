@@ -51,19 +51,19 @@ Druss, captain of the axe, Deathwalker, he is the stuff of legends. Tales are to
 
 When he receives a message begging him to come down from his mountaintop to help defend the nation from the Nadir hordes, Druss decides that he will no longer wait for the cold hand of death to take him, but will do what he has always done, stare it down with axe in hand.
 
-<button data-buy-book data-title="[Legend](https://amzn.to/3EZWLD6)" data-author="">Buy [Legend](https://amzn.to/3EZWLD6)</button>
+<button data-buy-book data-title="Legend" data-author="David Gemmell">Buy Legend</button>
 
 ### 2. [The King Beyond the Gate ](https://amzn.to/3ZD9iEc)
 
 Set years after Legend, in this story, the mighty fortress of Dros Delnoch has now fallen and a tyrannical mad Emperor has seized control of it. His twisted creations, Joinings, half man half beast roam the land, carrying out his evil will. However, there are always heroes to battle evil, and Tenaka Khan, a halfbreed himself, has a plan.
 
-<button data-buy-book data-title="[The King Beyond the Gate ](https://amzn.to/3ZD9iEc)" data-author="">Buy [The King Beyond the Gate ](https://amzn.to/3ZD9iEc)</button>
+<button data-buy-book data-title="The King Beyond the Gate" data-author="David Gemmell">Buy The King Beyond the Gate</button>
 
 ### 3. [Waylander](https://amzn.to/3ZlQiuv)
 
 The Drenai King has been assassinated, murdered ruthlessly in the night. With his death, the Kingdom falls to chaos and enemy troops swarm into Drenai lands. But there is hope, the warrior Waylander must journey on a quest into the lands of the Nadir to find the legendary armour of bronze. With this maybe, just maybe he can turn the tide. But can he be trusted? Because he is Waylander the Slayer, Waylander the assassin, and the man who killed the king.
 
-<button data-buy-book data-title="[Waylander](https://amzn.to/3ZlQiuv)" data-author="">Buy [Waylander](https://amzn.to/3ZlQiuv)</button>
+<button data-buy-book data-title="Waylander" data-author="David Gemmell">Buy Waylander</button>
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381495/legend-gemmell_hjn3dq.webp)
 
@@ -73,25 +73,25 @@ The Drenai King has been assassinated, murdered ruthlessly in the night. With hi
 
 After the fortress of Dros Delnoch fell. blood-hungry Nadir hordes swept across the land, bringing desolation and despair. But even as they triumph they sow the seeds of their own undoing. When Nadir slavers seize a young girl in the tiny realm of Gothir it sets off an unlikely chain of events and a peasant boy sets off on a quest that will shake the world. But it won’t be easy, he must cross the savage steppes and journey through the halls of hell. He is aided in his quest only by the three legendary heroes.
 
-<button data-buy-book data-title="[Quest for Lost Heroes](https://amzn.to/3JfVRos)[ ](https://www.amazon.com/dp/0345379047)" data-author="">Buy [Quest for Lost Heroes](https://amzn.to/3JfVRos)[ ](https://www.amazon.com/dp/0345379047)</button>
+<button data-buy-book data-title="Quest for Lost Heroes" data-author="David Gemmell">Buy Quest for Lost Heroes</button>
 
 ### 5. [Waylander II: In the Realm of the Wolf](https://amzn.to/3ZtG4rR)[ ](https://www.amazon.com/dp/1857235819)
 
 Waylander has retreated into the mountains where he lives a solitary life as the woodsman Dakeyras with his daughter Miriel. Unbeknown to them though, a group of bloodthirsty warriors stalk the mountains, searching for the mythical Waylander hoping to claim the bounty of 10,000 gold.
 
-<button data-buy-book data-title="[Waylander II: In the Realm of the Wolf](https://amzn.to/3ZtG4rR)[ ](https://www.amazon.com/dp/1857235819)" data-author="">Buy [Waylander II: In the Realm of the Wolf](https://amzn.to/3ZtG4rR)[ ](https://www.amazon.com/dp/1857235819)</button>
+<button data-buy-book data-title="Waylander II: In the Realm of the Wolf" data-author="David Gemmell">Buy Waylander II: In the Realm of the Wolf</button>
 
 ### 6. [The First Chronicles of Druss the Legend](https://amzn.to/3JgNBon)
 
 Before Druss was the great hero he was a simple farmer married to the beautiful Rowena. However, one day, when Druss returns to their village he finds that everyone has been massacred, and slavers have stolen the woman of the village to sell for gold, Rowena amongst them. Armed only with his double-bladed axe Snaga, Druss must voyage after Rowena into the very jaws of death.
 
-<button data-buy-book data-title="[The First Chronicles of Druss the Legend](https://amzn.to/3JgNBon)" data-author="">Buy [The First Chronicles of Druss the Legend](https://amzn.to/3JgNBon)</button>
+<button data-buy-book data-title="The First Chronicles of Druss the Legend" data-author="David Gemmell">Buy The First Chronicles of Druss the Legend</button>
 
 ### 7. [The Legend of Deathwalker](https://amzn.to/3ZJ66qU)
 
 Druss, now known as Deathwalker by the Nadir must join the warrior Talisman on a mission of blood and glory. With his friend dying, he is offered hope by a Nadir Shaman. He must find the stolen Eyes of Alchazazar - mystic jewels of power. But it’s never as simple as that, and Druss might unite the small Nadir tribes from extermination by the Gothir armies.
 
-<button data-buy-book data-title="[The Legend of Deathwalker](https://amzn.to/3ZJ66qU)" data-author="">Buy [The Legend of Deathwalker](https://amzn.to/3ZJ66qU)</button>
+<button data-buy-book data-title="The Legend of Deathwalker" data-author="David Gemmell">Buy The Legend of Deathwalker</button>
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381520/legend-of-deathwalker_pkc8ob.webp)
 
@@ -101,25 +101,25 @@ Druss, now known as Deathwalker by the Nadir must join the warrior Talisman on a
 
 The prophecy says that upon the death of three kings the world will be plunged into chaos. Two of the kings are now dead. And the third, about to be born, is hunted by demons. All of the terrifying forces of evil are ranged against the pregnant queen, but she is protected by the last of the Drenai heroes, three warriors to hold back the shadow of evil.
 
-<button data-buy-book data-title="[Winter Warriors](https://amzn.to/3KZR5No)" data-author="">Buy [Winter Warriors](https://amzn.to/3KZR5No)</button>
+<button data-buy-book data-title="Winter Warriors" data-author="David Gemmell">Buy Winter Warriors</button>
 
 ### 9. [Hero in the Shadows](https://amzn.to/3mnBQTX)
 
 A ragtag group of unlikely heroes led by the mysterious Grey Man are the only thing that stands against the dark mysteries of of the city Kuan Hador and the evils that are about to be released. But the Grey Man is no simple hero. He is better known in the land of the Drenai as Waylander the Slayer.
 
-<button data-buy-book data-title="[Hero in the Shadows](https://amzn.to/3mnBQTX)" data-author="">Buy [Hero in the Shadows](https://amzn.to/3mnBQTX)</button>
+<button data-buy-book data-title="Hero in the Shadows" data-author="David Gemmell">Buy Hero in the Shadows</button>
 
 ### 10. [White Wolf](https://amzn.to/3ZG8OgS)
 
 Armed with the mythic swords of Night and Day, Skilgannon must reconcile with the evils of his past. After a chance encounter with Druss the Legend, the two lone warriors form an unlikely alliance that will see them pitted against dangerous foes.
 
-<button data-buy-book data-title="[White Wolf](https://amzn.to/3ZG8OgS)" data-author="">Buy [White Wolf](https://amzn.to/3ZG8OgS)</button>
+<button data-buy-book data-title="White Wolf" data-author="David Gemmell">Buy White Wolf</button>
 
 ### 11. [The Swords of Night and Day](https://amzn.to/3KZzEfO)
 
 A thousand years have gone passed since Druss and Skilgannon walked the earth, they are revered, more myth than man. But dark sorcery is returning and the lands are once more in need of a hero. An ancient prophecy foretold that Skilgannon would return in his people’s darkest hour. To most, this is just foolish hope, but one sorcerer seeks the answer to the question, what if the soul of one such hero could be called back from the void, his bones housed again in flesh?
 
-<button data-buy-book data-title="[The Swords of Night and Day](https://amzn.to/3KZzEfO)" data-author="">Buy [The Swords of Night and Day](https://amzn.to/3KZzEfO)</button>
+<button data-buy-book data-title="The Swords of Night and Day" data-author="David Gemmell">Buy The Swords of Night and Day</button>
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381489/swords_of_night_and_day_hqesgd.webp)
 
@@ -133,13 +133,13 @@ David Gemmell also wrote two more novels that take place in the same world but a
 
 The Knights of Gabbalah were the legendary protectors of the nine duchies. That is until all but one of them disappeared. Manannan is that last knight, and now he lives in a torment of guilt. Yet, war is coming again and with it Manannan’s last chance for redemption.  But to regain his honour and save his land, he will have to confront his deepest fear.
 
-<button data-buy-book data-title="[Knights of Dark Renown](https://amzn.to/3LgXvb5)" data-author="">Buy [Knights of Dark Renown](https://amzn.to/3LgXvb5)</button>
+<button data-buy-book data-title="Knights of Dark Renown" data-author="David Gemmell">Buy Knights of Dark Renown</button>
 
 ### 13. [Morningstar](https://amzn.to/3EYSn7t)
 
 Angostin invaders have surged through the highlands, laying waste to everything in their path. These invaders are aided by a mad necromancer who resurrects the long-dead Vampyre Kings. Only the bandit Jarek Mace and the magic bard Owen Odelle have the courage to fight against the Angostins and the undead.
 
-<button data-buy-book data-title="[Morningstar](https://amzn.to/3EYSn7t)" data-author="">Buy [Morningstar](https://amzn.to/3EYSn7t)</button>
+<button data-buy-book data-title="Morningstar" data-author="David Gemmell">Buy Morningstar</button>
 
 **Fans of David Gemmell may also like our article on **[Grimdark Fantasy books](https://www.litloop.co/blog/grimdark-fantasy-books).
 
@@ -223,7 +223,7 @@ Skilgannon is a flawed and well-developed character with almost mystical fightin
 
 Waylander is an enigmatic assassin. By all accounts, he should be a villain. But as with many of Gemmell’s main characters, he judges himself harshly and we get to see that he is more than what people perceive him to be.
 
-[**Get the Drenai Saga on Amazon.**](https://amzn.to/40GG3Rn)
+<button data-buy-book data-title="The Drenai Saga" data-author="David Gemmell">Buy The Drenai Saga</button>
 
 ## Final Words
 

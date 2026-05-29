@@ -24,15 +24,21 @@ There's something irresistibly eerie about stepping through a mysterious door in
 
 If you haven't read it yet, I guarantee you'll be checking over your shoulder every time you pass a closed door.
 
+<button data-buy-book data-title="Coraline" data-author="Neil Gaiman">Buy Coraline</button>
+
 ### 2. Something Wicked This Way Comes by Ray Bradbury
 
 This timeless classic is a beautifully written plunge into the duality of innocence and corruption. Bradbury's tale of a sinister carnival arriving in a small town had me rethinking what lies hidden in the shadows of everyday life.
 
 [**Something Wicked This Way Comes**](https://www.amazon.com/dp/0380729407?tag=ctbooks09e-20) with its lyrical prose and unsettling themes of lost youth and creeping evil makes it a fantasy horror book that is as poetic as it is terrifying.
 
+<button data-buy-book data-title="Something Wicked This Way Comes" data-author="Ray Bradbury">Buy Something Wicked This Way Comes</button>
+
 ### 3. The Changeling by Victor LaValle
 
 If you're after a modern fairy-tale with a dark twist, [**The Changeling**](https://www.amazon.com/dp/0812995945?tag=ctbooks09e-20) delivers an experience that is both emotionally rich and disturbingly vivid. LaValle reimagines folklore by blending urban grit with supernatural terror, a story where the magic of ancient myths meets the complexities of modern life. I was truly moved by how LaValle explores contemporary fears and family dynamics through a fantastical lens.
+
+<button data-buy-book data-title="The Changeling" data-author="Victor LaValle">Buy The Changeling</button>
 
 ### 4. Ninth House by Leigh Bardugo
 
@@ -44,17 +50,23 @@ Bardugo's exploration of secret societies and hidden rituals was both intellectu
 
 This book completely redefined my idea of what [fantasy horror books](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king) can be when they intersect with real-life settings and institutions.
 
+<button data-buy-book data-title="Ninth House" data-author="Leigh Bardugo">Buy Ninth House</button>
+
 ### 5. The Tooth Fairy by Graham Joyce
 
 Joyce’s *The Tooth Fairy* transforms a familiar childhood myth into something darkly subversive. This novel isn’t your typical nostalgic bedtime story; it’s a haunting narrative that oscillates between the grotesque and the tender, capturing the tumultuous emotions of growing up.
 
 The androgynous, mischievous sprite that visits young Sam is at once both repellent and oddly protective—a combination that left me thinking long after I closed the book.
 
+<button data-buy-book data-title="The Tooth Fairy" data-author="Graham Joyce">Buy The Tooth Fairy</button>
+
 ### 6. Mexican Gothic by Silvia Moreno-Garcia
 
 A more recent entry into the genre, [**Mexican Gothic**](https://www.amazon.com/dp/052562080X?tag=ctbooks09e-20) is a sumptuous gothic horror novel with a fresh twist. Set in 1950s Mexico, this story follows a determined young woman as she uncovers horrifying secrets in a decaying mansion.
 
 Moreno-Garcia masterfully intertwines dark supernatural elements with historical and cultural depth, creating an unforgettable atmosphere that's equal parts lush and menacing.
+
+<button data-buy-book data-title="Mexican Gothic" data-author="Silvia Moreno-Garcia">Buy Mexican Gothic</button>
 
 ### 7. The Blacktongue Thief by Christopher Buehlman
 
@@ -64,6 +76,8 @@ For those who crave a dose of dark humor mixed with high stakes and grim adventu
 
 Buehlman's novel introduces me to a world where a cunning thief navigates a brutal, beautifully grim landscape filled with sorcery and snark. I found the biting wit and vivid, often macabre imagery to be both refreshing and relentlessly entertaining.
 
+<button data-buy-book data-title="The Blacktongue Thief" data-author="Christopher Buehlman">Buy The Blacktongue Thief</button>
+
 ### 8. The Library at Mount Char by Scott Hawkins
 
 This book is an absolute mind-bender!
@@ -72,15 +86,21 @@ An unpredictable, sometimes surreal plunge into a universe governed by bizarre, 
 
 I was captivated by its audacious storytelling and intricate mythos that kept me guessing at every twist.
 
+<button data-buy-book data-title="The Library at Mount Char" data-author="Scott Hawkins">Buy The Library at Mount Char</button>
+
 ### 9. House of Leaves by Mark Z. Danielewski
 
 A true cult classic, [**House of Leaves**](https://www.amazon.com/dp/0375703764?tag=ctbooks09e-20) redefines what a book can be. Its experimental format—replete with unconventional typography, footnotes, and layered narratives—draws you into a horrifying tale of a house that is impossibly larger on the inside than the outside.
 
 This is a [fantasy horror](https://www.litloop.co/blog/spine-tingling-horror-short-stories) that challenges your perception and invites deep, lingering unease, making it one of the most memorable reads in my collection.
 
+<button data-buy-book data-title="House of Leaves" data-author="Mark Z. Danielewski">Buy House of Leaves</button>
+
 ### 10. The Sandman: Preludes & Nocturnes by Neil Gaiman
 
 Though it’s a graphic novel rather than a traditional prose work, *The Sandman: Preludes & Nocturnes* is a cornerstone of the fantasy horror genre. Gaiman’s blend of mythology, dreams, and existential dread creates a rich, immersive universe that has influenced countless works. I was swept away by the poetic narrative and haunting visuals that speak to the darker side of human imagination and myth, making it an essential read for any fan of fantasy horror books.
+
+<button data-buy-book data-title="The Sandman: Preludes & Nocturnes" data-author="Neil Gaiman">Buy The Sandman: Preludes & Nocturnes</button>
 
 ### Bonus: The Eyes of the Dragon by Stephen King
 

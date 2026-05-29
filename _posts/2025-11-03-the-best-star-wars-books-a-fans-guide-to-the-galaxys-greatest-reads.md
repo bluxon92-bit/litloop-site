@@ -83,15 +83,25 @@ And that last one? It's a revelation. Stover's novel takes the Episode III story
 These are the ones I'd recommend to anyone, whether you're a casual fan or someone who can recite all of Palpatine's speeches from memory.
 
 1.   [**The Thrawn Trilogy**](https://www.amazon.com/dp/0553296124?tag=ctbooks09e-20) – Timothy Zahn
+<button data-buy-book data-title="The Thrawn Trilogy" data-author="Timothy Zahn">Buy The Thrawn Trilogy</button>
 2.   [**Darth Bane: Path of Destruction**](https://www.amazon.com/dp/0345477375?tag=ctbooks09e-20) – Drew Karpyshyn
+<button data-buy-book data-title="Darth Bane: Path of Destruction" data-author="Drew Karpyshyn">Buy Darth Bane: Path of Destruction</button>
 3.   [**Lost Stars**](https://www.amazon.com/dp/1368013783?tag=ctbooks09e-20) – Claudia Gray
+<button data-buy-book data-title="Lost Stars" data-author="Claudia Gray">Buy Lost Stars</button>
 4.   [**Master & Apprentice**](https://www.amazon.com/dp/1984819194?tag=ctbooks09e-20) – Claudia Gray
+<button data-buy-book data-title="Master & Apprentice" data-author="Claudia Gray">Buy Master & Apprentice</button>
 5.   [**Dark Disciple**](https://www.amazon.com/dp/0345511530?tag=ctbooks09e-20) – Christie Golden
+<button data-buy-book data-title="Dark Disciple" data-author="Christie Golden">Buy Dark Disciple</button>
 6.   [**Darth Plagueis**](https://www.amazon.com/dp/0345511298?tag=ctbooks09e-20) – James Luceno
+<button data-buy-book data-title="Darth Plagueis" data-author="James Luceno">Buy Darth Plagueis</button>
 7.   [**Revenge of the Sith (Novelization)**](https://www.amazon.com/dp/0345428846?tag=ctbooks09e-20) – Matthew Stover
+<button data-buy-book data-title="Revenge of the Sith (Novelization)" data-author="Matthew Stover">Buy Revenge of the Sith (Novelization)</button>
 8.   [**Ahsoka**](https://www.amazon.com/dp/1484782313?tag=ctbooks09e-20) – E.K. Johnston
+<button data-buy-book data-title="Ahsoka" data-author="E.K. Johnston">Buy Ahsoka</button>
 9.   [**Outbound Flight**](https://www.amazon.com/dp/0345456858?tag=ctbooks09e-20) – Timothy Zahn
+<button data-buy-book data-title="Outbound Flight" data-author="Timothy Zahn">Buy Outbound Flight</button>
 10.   [**Alphabet Squadron Trilogy**](https://www.amazon.com/dp/1984820265?tag=ctbooks09e-20) – Alexander Freed
+<button data-buy-book data-title="Alphabet Squadron Trilogy" data-author="Alexander Freed">Buy Alphabet Squadron Trilogy</button>
 
 Looking for more [science fiction](https://www.litloop.co/blog/classic-science-fiction-short-stories-you-need-to-read) with tactical brilliance? The Thrawn books deliver that in spades.
 

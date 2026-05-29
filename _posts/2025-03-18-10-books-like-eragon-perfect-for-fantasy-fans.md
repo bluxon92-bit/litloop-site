@@ -24,11 +24,15 @@ If you love *Eragon* for its dragons, then Anne McCaffrey’s *Dragonriders of P
 
 With a mix of fantasy and science fiction, this series offers an expansive world and a deep exploration of the bond between humans and dragons.
 
+<button data-buy-book data-title="Dragonriders of Pern" data-author="Anne McCaffrey">Buy Dragonriders of Pern</button>
+
 ### **2. **[**Dragon Mage**](https://amzn.to/4h7vqyV)** by M.L. Spencer**
 
 Aram Raythe is an outcast in his small fishing village, but he harbors a rare magical gift that could change the world. When he’s offered a chance to train as a warrior mage, he begins a journey that will test his limits and introduce him to the legendary dragon riders.
 
 With strong coming-of-age themes, high-stakes action, and a magic system that will intrigue any fantasy fan, *Dragon Mage* is a perfect next read for *Eragon* lovers.
+
+<button data-buy-book data-title="Dragon Mage" data-author="M.L. Spencer">Buy Dragon Mage</button>
 
 ### **3. **[**Songs of Chaos**](https://amzn.to/3QLnUPA)** by Michael R. Miller**
 
@@ -40,6 +44,8 @@ With an underdog protagonist, an immersive magic system, and plenty of dragon ac
 
 **Related**: [20 Best Dragon Books For Adults](https://www.litloop.co/blog/best-dragon-books)
 
+<button data-buy-book data-title="Songs of Chaos" data-author="Michael R. Miller">Buy Songs of Chaos</button>
+
 ### **4. **[**The Belgariad**](https://amzn.to/3F5Y3Q1)** by David Eddings**
 
 *Start with: Pawn of Prophecy*
@@ -47,6 +53,8 @@ With an underdog protagonist, an immersive magic system, and plenty of dragon ac
 A beloved classic of the genre, *The Belgariad* follows Garion, a simple farm boy who embarks on a journey of magic, prophecy, and destiny. As he uncovers secrets about his heritage and faces a rising dark power, he is thrust into an adventure that will shape the fate of the world.
 
 With its classic hero’s journey, richly developed world, and engaging cast of characters, *The Belgariad* is a great pick for those who loved *Eragon*’s mix of adventure and destiny.
+
+<button data-buy-book data-title="The Belgariad" data-author="David Eddings">Buy The Belgariad</button>
 
 ### **5. **[**The Earthsea Cycle**](https://amzn.to/3DoZ8lh)** by Ursula K. Le Guin**
 
@@ -58,6 +66,8 @@ A beautifully written fantasy with deep themes of identity, power, and redemptio
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/wheel-of-time_wkulox.jpg)
 
+<button data-buy-book data-title="The Earthsea Cycle" data-author="Ursula K. Le Guin">Buy The Earthsea Cycle</button>
+
 ### **6. **[**The Wheel of Time**](https://amzn.to/4ktu1pm)** by Robert Jordan**
 
 *Start with: The Eye of the World*
@@ -68,6 +78,8 @@ If you loved the world-building and grand storytelling of *Eragon*, this 14-book
 
 **Related**: [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
 
+<button data-buy-book data-title="The Wheel of Time" data-author="Robert Jordan">Buy The Wheel of Time</button>
+
 ### **7. **[**The Shannara Series**](https://amzn.to/3QLMEHk)** by Terry Brooks**
 
 *Start with: The Sword of Shannara*
@@ -76,11 +88,15 @@ Terry Brooks’ *Shannara* series is another epic fantasy saga filled with adven
 
 A great pick for those who enjoy coming-of-age tales with grand quests and powerful magic.
 
+<button data-buy-book data-title="The Shannara Series" data-author="Terry Brooks">Buy The Shannara Series</button>
+
 ### **8. **[**The Dragonbone Chair**](https://amzn.to/4hbnfBF)** by Tad Williams**
 
 A richly detailed epic fantasy, *The Dragonbone Chair* follows Simon, a scullion in the royal castle who gets caught up in a struggle for the throne when dark forces threaten the land. As he embarks on a perilous quest, he discovers his own hidden strength and the true nature of the conflict.
 
 For those who loved *Eragon*’s mix of adventure, mystery, and political intrigue, this is a great next read.
+
+<button data-buy-book data-title="The Dragonbone Chair" data-author="Tad Williams">Buy The Dragonbone Chair</button>
 
 ### **9. **[**The Temeraire Series**](https://amzn.to/3F9IHd5)** by Naomi Novik**
 
@@ -89,6 +105,8 @@ For those who loved *Eragon*’s mix of adventure, mystery, and political intrig
 This historical fantasy series reimagines the Napoleonic Wars with dragons as a key part of military strategy. When Captain Will Laurence unexpectedly bonds with a rare dragon, he is thrust into a world of aerial combat and high-stakes warfare.
 
 A fresh take on dragon fantasy, this series combines adventure, camaraderie, and deep world-building that *Eragon* fans will love.
+
+<button data-buy-book data-title="The Temeraire Series" data-author="Naomi Novik">Buy The Temeraire Series</button>
 
 ### **10. **[**The Riftwar Saga**](https://amzn.to/4i3Km2o)** by Raymond E. Feist**
 
@@ -99,6 +117,8 @@ Pug, an orphaned kitchen boy, is discovered to have a rare magical gift that cou
 Filled with rich storytelling, magic, and epic battles, *The Riftwar Saga* is an excellent choice for fans of *The Inheritance Cycle* looking for another immersive fantasy series.
 
 **Related**: [The Best Robin Hobb Books: Six Duchies Books Reading Order](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+
+<button data-buy-book data-title="The Riftwar Saga" data-author="Raymond E. Feist">Buy The Riftwar Saga</button>
 
 ## **What Makes a Book Like Eragon?**
 

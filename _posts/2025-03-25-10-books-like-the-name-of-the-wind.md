@@ -32,6 +32,8 @@ It’s a book that’s stayed with me, and I’ve been on the lookout for more s
 Step into the bustling, Venice-inspired streets with Locke Lamora, a cunning con man navigating treacherous underworlds.
 **Why It’s Similar:** Expect witty banter, elaborate heists, and a richly detailed cityscape that mirrors the intricate world-building found in Rothfuss’s work.
 
+<button data-buy-book data-title="The Lies of Locke Lamora" data-author="Scott Lynch">Buy The Lies of Locke Lamora</button>
+
 ### 2. [Mistborn: The Final Empire](https://amzn.to/41qGXUd) by Brandon Sanderson
 
 What if the Dark Lord won? Well, this is the question Sanderson asks with a world shrouded in ash where the unique magic system of allomancy—based on metal manipulation—drives a tale of rebellion.
@@ -45,9 +47,7 @@ What if the Dark Lord won? Well, this is the question Sanderson asks with a worl
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)
 
-
-
-
+<button data-buy-book data-title="Mistborn: The Final Empire" data-author="Brandon Sanderson">Buy Mistborn: The Final Empire</button>
 
 ### 3. [The Way of Kings](https://amzn.to/41x1s1A) by Brandon Sanderson
 
@@ -56,12 +56,16 @@ As you can probably tell, I’m a Sanderson fan - and so no list would be comple
 
 **Related**: [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 
+<button data-buy-book data-title="The Way of Kings" data-author="Brandon Sanderson">Buy The Way of Kings</button>
+
 ### 4. [The Blade Itself](https://amzn.to/3FaaXMP) by Joe Abercrombie
 
 Get ready for a gritty, no-holds-barred narrative filled with morally complex heroes and antiheroes in a brutal fantasy realm.
 **Why It’s Similar:** Its focus on character-driven plots and introspective journeys resonates with those who appreciate the delicate balance of darkness and light in Rothfuss’s tale.
 
 **Related**: [Joe Abercrombie Books in Order: A Complete Reading Guide](/blog/joe-abercrombie-books-in-order)
+
+<button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie">Buy The Blade Itself</button>
 
 ### 5. [A Game of Thrones](https://amzn.to/3Dlnb4y) by George R.R. Martin
 
@@ -78,29 +82,35 @@ Dive into the intricate political chessboard of Westeros, where every character 
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/game-of-thrones-shelf-1-_br90qf.webp)
 
-
-
-
+<button data-buy-book data-title="A Game of Thrones" data-author="George R.R. Martin">Buy A Game of Thrones</button>
 
 ### 6. [The Black Prism](https://amzn.to/3XxlqYR) by Brent Weeks
 
 In a realm where light itself is the source of magic, power is as dazzling as it is dangerous.
 **Why It’s Similar:** Its innovative magic system and fast-paced, character-centric narrative bring a fresh twist to epic fantasy adventures.
 
+<button data-buy-book data-title="The Black Prism" data-author="Brent Weeks">Buy The Black Prism</button>
+
 ### 7. [The Goblin Emperor](https://amzn.to/4h7Afbv) by Katherine Addison
 
 Follow the unlikely journey of an unexpected heir thrust into a labyrinth of court intrigue and delicate power struggles.
 **Why It’s Similar:** With its rich world-building and focus on personal growth amidst political maneuvering, this standalone gem offers a uniquely satisfying experience.
+
+<button data-buy-book data-title="The Goblin Emperor" data-author="Katherine Addison">Buy The Goblin Emperor</button>
 
 ### 8. [Uprooted](https://amzn.to/3F8xXM8) by Naomi Novik
 
 Inspired by Eastern European folklore, this enchanting novel tells the story of a young woman caught in a magical partnership with a reclusive wizard.
 **Why It’s Similar:** Vivid prose and a deep-rooted magical atmosphere create a captivating narrative that fans of Rothfuss’s immersive style will appreciate.
 
+<button data-buy-book data-title="Uprooted" data-author="Naomi Novik">Buy Uprooted</button>
+
 ### 9. [The Priory of the Orange Tree](https://amzn.to/3DasmV3) by Samantha Shannon
 
 This standalone epic weaves tales of dragons, ancient magic, and a world on the brink of war.
 **Why It’s Similar:** Its richly imagined world, diverse characters, and layered mythology provide an immersive escape into a realm as grand and mysterious as The Name of the Wind.
+
+<button data-buy-book data-title="The Priory of the Orange Tree" data-author="Samantha Shannon">Buy The Priory of the Orange Tree</button>
 
 ### 10. [Jonathan Strange & Mr Norrell](https://amzn.to/43tVIZ5) by Susanna Clarke
 
@@ -108,6 +118,8 @@ Set in an alternative 19th-century England, this novel reimagines history with a
 **Why It’s Similar:** Elegant prose and meticulously revealed magical lore create a thoughtful, immersive reading experience that echoes the gradual unfolding of secrets in Rothfuss’s narrative.
 
 **Related**: [11 Of The Best Historical Fiction Authors You Must Read](https://www.litloop.co/blog/11-of-the-best-historical-fiction-authors-you-must-read)
+
+<button data-buy-book data-title="Jonathan Strange & Mr Norrell" data-author="Susanna Clarke">Buy Jonathan Strange & Mr Norrell</button>
 
 ## What to Look for in Books Like The Name of the Wind
 

@@ -29,11 +29,15 @@ A classic we’re likely all already familiar with. The Chronicles of Narnia was
 
 The Lion, the Witch, and the Wardrobe is the most famous title and follows the adventures of the Pevensie children. The story has heavy religious symbolism, most obviously when the lion Aslan is sacrificed and resurrected. However, this symbolism isn’t what still draws modern readers to its pages. At its heart, it’s a tale of an epic adventure with earth-shattering stakes where the Pevensie children, after escaping war-torn Britain, discover a magical wardrobe that leads to the Kingdom of Narnia. Here they become embroiled in an ancient prophecy and must face down great evil to save the world.
 
+<button data-buy-book data-title="The Lion, The Witch, And The Wardrobe" data-author="C.S. Lewis">Buy The Lion, The Witch, And The Wardrobe</button>
+
 ### 2. [The Picture of Dorian Gray](https://www.amazon.com/Picture-Dorian-Gray-Oscar-Wilde/dp/B098CR95HV/) by Oscar Wilde
 
 Oscar Wilde’s best-known work revolves around a young man, Dorian Gray, who sells his soul for eternal youth and beauty. Dorian quickly devolves into hedonism and sensualism, with the belief that the only things worth pursuing are beauty and pleasure.
 
 This text was subject to much controversy and criticism in its time but has come to be recognized as a classic of gothic literature and is a must-read.
+
+<button data-buy-book data-title="The Picture of Dorian Gray" data-author="Oscar Wilde">Buy The Picture of Dorian Gray</button>
 
 ### 3. [The Lord of The Rings](https://www.amazon.com/Lord-Rings-Boxed-Set/dp/0358439191/) by J.R.R.Tolkien
 
@@ -41,19 +45,27 @@ We are likely all familiar with J.R.R. Tolkien’s genre-defining Lord of the Ri
 
 The first volume launches an unlikely band of heroes on a vast journey, from Middle-earth’s highest peaks to its darkest caverns. And all the while the forces of the dark lord Sauron seek to defeat them and reclaim their master’s ultimate weapon, the one ring.
 
+<button data-buy-book data-title="The Lord of The Rings" data-author="J.R.R.Tolkien">Buy The Lord of The Rings</button>
+
 ### 4. [The Bloody Chamber](https://www.amazon.com/Bloody-Chamber-Stories-75th-Anniversary-Classics/dp/0143107615/) by Angela Carter
 
 The Bloody Chamber is actually a selection of ten [fantasy short stories](https://www.litloop.co/blog/fantasy-short-stories). They were first collectively published in 1979 and have since become a polemical text for feminist fantasy. Each story revisits a traditional fairy tale - Sleeping Beauty, Little Red Riding Hood and Beauty and the Beast, to name a few - and reexamines and subverts the role of women in these stories. An instant classic, The Bloody Chamber by Angela Carter is cited by numerous authors as a major influence on their own work.
 
+<button data-buy-book data-title="The Bloody Chamber" data-author="Angela Carter">Buy The Bloody Chamber</button>
+
 ### 5. [Treasure Island](https://www.amazon.com/Treasure-Island-Robert-Louis-Stevenson-ebook/dp/B07VGY1BBZ/) by Robert Louis Stevenson
 
 Treasure Island by Robert Louis Stevenson is an exciting and gripping adventure story that follows young Jim Hawkins and his quest to uncover the treasure of the infamous pirate, Captain Flint. However, it’s not the captain, but the villainous rogue Long John Silver that sets the tempo of this tale of treachery, greed, and daring. This work has had a significant impact on [fiction](https://www.benluxonauthor.com/blog/fiction-vs-nonfiction-whats-the-difference) over the years shaping and colouring our perception of pirates, adventure, and of course gold.
+
+<button data-buy-book data-title="Treasure Island" data-author="Robert Louis Stevenson">Buy Treasure Island</button>
 
 ### 6. [Gulliver’s Travels](https://www.amazon.com/Gullivers-Travels-Dover-Thrift-Editions/dp/0486292738/) by Jonathan Swift
 
 Shaped as a work of travel writing, Gulliver’s Travels is a satire that documents the story of Lemuel Gulliver as he is subjected o a bizarre turn of events, travelling to unknown lands and meeting unbelievable characters, from the tiny Lilliputians whose size represents their smallness of mind, to a fictional race of intelligent, rational horses called Houyhnhnms.
 
 Not only is this a gripping adventure story, but satirises many human faults that can still be seen today from the ridiculous customs and petty debates of the Lilliputians to the obsessions with shiny objects and otherwise valueless items of the Yahoos.
+
+<button data-buy-book data-title="Gulliver’s Travels" data-author="Jonathan Swift">Buy Gulliver’s Travels</button>
 
 ### 7. [Phantasmion](https://www.amazon.com/Phantasmion-Sara-Coleridge-ebook/dp/B08Y6Y8DYH/) by Sara Coleridge
 
@@ -63,6 +75,8 @@ In the story, Phantasmion is the king of a fantastical realm who is forced into 
 
 ---
 
+<button data-buy-book data-title="Phantasmion" data-author="Sara Coleridge">Buy Phantasmion</button>
+
 ## 12 of the Best Modern Fantasy Books
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/game-of-thrones-shelf-1-_br90qf.webp)
@@ -71,15 +85,21 @@ In the story, Phantasmion is the king of a fantastical realm who is forced into 
 
 When George R.R. Martin published the first book in the A Song of Ice and Fire series, no one could have predicted its phenomenal success. This series is full of political intrigue, bloodshed, betrayal, and sex (all the good stuff). Set in a medievalesque world with dragons, mysterious and unexplained magic, ice zombies, and more it pairs jaw-dropping surprises with subverted [fantasy tropes](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about) to incredible effect. And we can all just hope that he gets around to finishing the series eventually.
 
+<button data-buy-book data-title="Game of Thrones" data-author="George R.R. Martin">Buy Game of Thrones</button>
+
 ### 9. [The Name of The Wind](https://www.amazon.com/Name-Wind-Patrick-Rothfuss/dp/0756404746/) by Patrick Rothfuss
 
 The Name of the Wind is a gripping and compelling story of a young man named Kvothe. It starts with him in a troupe of travelling players, but when he meets a man who can speak the name of the Wind he becomes obsessed with uncovering the truth of true magic. He pursues his obsession relentlessly, but his journey is filled with trials, seemingly as if the whole world is against him, and he must apply both talent and hard work to overcome them.
 
 Interestingly, this story is told from the first person in the future where things have taken a  dark turn for our protagonist and it leaves the audience questioning the reliability of the narrator. Patrick Rothfuss is a brilliant author and his tale will have you spinning through the pages, and whilst we’re still all eagerly waiting on the third book, don’t let that stop you from getting started with The Name of The Wind and the second in the series, The Wise Man’s Fear.
 
+<button data-buy-book data-title="The Name of The Wind" data-author="Patrick Rothfuss">Buy The Name of The Wind</button>
+
 ### 10. [The Wheel of Time](https://www.amazon.com/Wheel-Time-Premium-Boxed-Set/dp/1250251516/) by Robert Jordan
 
 Published in 1990, The Wheel of Time is one of the most popular and influential fantasy epics ever written. It is a hugely ambitious undertaking, steeped in rich history and with incredible scale to its world-building. The series spans fourteen books and ultimately redefined the genre of epic fantasy. This skillfully written series was finished after Jordan’s death by [Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson), an author you’ll find further down this list.
+
+<button data-buy-book data-title="The Wheel of Time" data-author="Robert Jordan">Buy The Wheel of Time</button>
 
 ### 11. [Assassin’s Apprentice](https://www.amazon.com/Assassins-Apprentice-Farseer-Trilogy-Book/dp/055357339X/) by Robin Hobb
 
@@ -87,9 +107,13 @@ Fitz is the bastard son of the crown prince, a young man born between two worlds
 
 **Learn more about Robin Hobb:** [The Farseer Trilogy and Beyond: Robin Hobb's Books and Reading Order Explained](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
 
+<button data-buy-book data-title="Assassin’s Apprentice" data-author="Robin Hobb">Buy Assassin’s Apprentice</button>
+
 ### 12. [A Wizard of Earthsea](https://www.amazon.com/Earthsea-Trilogy-Wizard-Tombs-Farthest/dp/0739452711/) by Ursula K. Le Guin
 
 In the first book in the Earthsea Quartet, Ursula K Le Guin does something a little different. There are no great battles or courtly plots. Instead, the story follows the character Ged as he learns of his affinity for magic, becomes enraptured by his own hubris and learns humility the hard way. It is a tale of adventure and personal growth, exploring the wonderful world of Earthsea, with dragons, magic, and mystery on every page.
+
+<button data-buy-book data-title="A Wizard of Earthsea" data-author="Ursula K. Le Guin">Buy A Wizard of Earthsea</button>
 
 ### 13. [The Way of Kings](https://www.amazon.com/Way-Kings-Book-Stormlight-Archive/dp/0765326353/) by Brandon Sanderson
 
@@ -97,17 +121,25 @@ Book 1 in the Stormlight Series, [The Way of Kings is Brandon Sanderson’s ](ht
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)
 
+<button data-buy-book data-title="The Way of Kings" data-author="Brandon Sanderson">Buy The Way of Kings</button>
+
 ### 14. [Dragonflight](https://www.amazon.com/Dragonflight-Dragonriders-Pern-Anne-McCaffrey/dp/0345335465/) by Anne McCaffrey
 
 Book one in the dragon riders of Pern series this story has everything fantasy lovers love. Dragons, magic, hope and love. The protagonist Lessa, her parents murdered, her birthright stolen, is an outcast and a survivor who dreams of revenge. However, when an ancient threat to Pern emerges Lessa must cast aside her personal grudges and rise to the occasion and face it head-on.
+
+<button data-buy-book data-title="Dragonflight" data-author="Anne McCaffrey">Buy Dragonflight</button>
 
 ### 15. [Good Omens](https://www.amazon.com/Good-Omens-Accurate-Prophecies-Nutter/dp/0060853980/) by Terry Pratchett & Neil Gaiman
 
 Good Omens is a comedic fantasy novel by Terry Pratchett and Neil Gaiman that follows the adventures of an angel and a demon who team up to prevent the coming of the Apocalypse. Aziraphale, an angel, and Crowley, a demon, have grown accustomed to living on earth and, despite their different moral leanings, have become close friends. When they learn that the Antichrist is about to be born, they must work together to find and stop him before the Apocalypse can take place.
 
+<button data-buy-book data-title="Good Omens" data-author="Terry Pratchett & Neil Gaiman">Buy Good Omens</button>
+
 ### 16. [American Gods](https://www.amazon.com/American-Gods-Novel-Neil-Gaiman/dp/0063081911/) by Neil Gaiman
 
 American Gods is a novel by Neil Gaiman that tells the story of a war between the old gods, from ancient [mythology](14 Best Books About Greek Mythology) and folklore, and the new gods of technology, money, and media. The main character, Shadow Moon, is a convict who is released from prison early due to his wife's death. After his release, he is recruited by the mysterious Mr. Wednesday to join him on a journey across America to recruit old gods to join the battle against the new gods. He quickly discovers the stakes are much higher than he initially thought, and that his role in the coming war is far greater than he could have imagined.
+
+<button data-buy-book data-title="American Gods" data-author="Neil Gaiman">Buy American Gods</button>
 
 ### 17. [The Colour of Magic](https://www.amazon.com/First-Discworld-Novels-Colour-Fantastic/dp/0861404211/) by Terry Pratchett
 
@@ -117,9 +149,13 @@ It follows the adventures of the inept wizard, Rincewind, and the naive tourist,
 
 The novel is filled with witty dialogue, clever puns, and satirical social commentary. It is an amusing and entertaining read that is sure to delight fantasy fans.
 
+<button data-buy-book data-title="The Colour of Magic" data-author="Terry Pratchett">Buy The Colour of Magic</button>
+
 ### 18. [Echoes of the Great Song](https://www.amazon.com/Echoes-Great-Song-Heroic-Fantasy-ebook/dp/B0031RS6TG/) by David Gemmel
 
 Echoes of the Great Song is one of my favourite [David Gemmel](https://www.litloop.co/blog/david-gemmells-drenai-series) books with complex heroes, magic, and evil. Set in a world where a race known as Avatars had once mastered the power of the sun and become gods, however, after an apocalypse their powers wane and a new threat arises. The Avatars must choose to save themselves or save the world from this rising evil. It’s a story of bravery, friendship, sacrifice and courage, and one of Gemmel’s absolute classics.
+
+<button data-buy-book data-title="Echoes of the Great Song" data-author="David Gemmel">Buy Echoes of the Great Song</button>
 
 ### 19. [Hard Boiled Wonderland at the Edge of The World](https://www.amazon.com/Hard-Boiled-Wonderland-World-Haruki-Murakami-ebook/dp/B005TKD9D6/) by Haruki Murakami
 
@@ -129,6 +165,8 @@ Throughout the novel, Murakami employs dreamlike imagery and magical realism to 
 
 ---
 
+<button data-buy-book data-title="Hard Boiled Wonderland at the Edge of The World" data-author="Haruki Murakami">Buy Hard Boiled Wonderland at the Edge of The World</button>
+
 ## 12 Best New Fantasy Books You Haven’t Heard Of
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/the-night-circus-fantasy-books-1-_ktgzln.jpg)
@@ -137,41 +175,61 @@ Throughout the novel, Murakami employs dreamlike imagery and magical realism to 
 
 Morgenstern’s debut novel is an atmospheric fairy tale about Le Cirque des Rêves—a magical travelling circus that only appears at night in Victorian England. The nonlinear story contains surprising secrets that keep coming until the end.
 
+<button data-buy-book data-title="The Night Circus" data-author="Erin Morgenstern">Buy The Night Circus</button>
+
 ### 21. [Perdido Street Station](https://www.amazon.com/Perdido-Street-Station-Deckle-Publisher/dp/B004VJX9G8/) by China Miéville
 
 [Perdido Street Station by China Miéville](https://www.litloop.co/blog/best-books-by-china-mieville) is a fantasy novel set in the city of New Crobuzon, where humans, non-humans, and sentient machines live together. The novel follows Isaac Dan der Grimnebulin, a scientist who is commissioned by a garuda to create a winged human. This leads Isaac on a journey of discovery, as he uncovers the secrets of the city, including dark magic and a powerful alien race. With its blend of science fiction, fantasy, and horror, Perdido Street Station is a bizarre and twisting adventure you won’t forget.
+
+<button data-buy-book data-title="Perdido Street Station" data-author="China Miéville">Buy Perdido Street Station</button>
 
 ### 22. [Uprooted](https://www.amazon.com/Uprooted-Novel-Naomi-Novik/dp/0804179050/) by Naomi Novik
 
 Uprooted by Naomi Novik is a fantasy novel that follows the story of Agnieszka, a young woman living in a small village in the woods. She is chosen by the Dragon, an evil wizard, to be his "servant", but Agnieszka is determined to fight against the Dragon's power and embarks on a journey to save her people. Along the way, she learns to accept her magical abilities and discovers the power of love and friendship. Uprooted is a thrilling fantasy novel full of adventure, magic, and romance.
 
+<button data-buy-book data-title="Uprooted" data-author="Naomi Novik">Buy Uprooted</button>
+
 ### 23. [All the Birds in the Sky](https://www.amazon.com/All-Birds-Charlie-Jane-Anders/dp/0765379953/) by Charlie Jane Anders
 
 All the Birds in the Sky is a science fiction novel by Charlie Jane Anders. It follows two childhood friends, Laurence and Patricia, who have grown up to have very different worldviews. Laurence is a tech genius and Patricia is a witch. Despite their differences, they must join forces to save the world from a mysterious and dangerous force. Together, they must use their talents to build a device that will restore balance to the world.
+
+<button data-buy-book data-title="All the Birds in the Sky" data-author="Charlie Jane Anders">Buy All the Birds in the Sky</button>
 
 ### 24. [The Priory of the Orange Tree](https://www.amazon.com/Priory-Orange-Tree-Samantha-Shannon/dp/1635570301/) by Samantha Shannon
 
 The Priory of the Orange Tree is a fantasy novel by Samantha Shannon that follows the intertwining stories of four characters. As the characters come together, they must face off against the powerful forces of the enemy, the Nameless One, and struggle to find a way to save their world from destruction.
 
+<button data-buy-book data-title="The Priory of the Orange Tree" data-author="Samantha Shannon">Buy The Priory of the Orange Tree</button>
+
 ### 25. [Throne of the Crescent Moon](https://www.amazon.com/Throne-Crescent-Moon-Kingdoms/dp/0756407788/) by Saladin Ahmed
 
 Throne of the Crescent Moon is a fantasy novel by Saladin Ahmed. It follows Doctor Adoulla Makhslood, an ageing ghul hunter in the city of Dhamsawaat, as he embarks on one last quest to save the city from a powerful and mysterious force. Along the way, they must battle ghuls, alchemy-enhanced assassins, and other threats, while uncovering the secrets of the past in the hope of saving the city and its people and protecting the throne of the crescent moon.
+
+<button data-buy-book data-title="Throne of the Crescent Moon" data-author="Saladin Ahmed">Buy Throne of the Crescent Moon</button>
 
 ### 26. [Six of Crows](https://www.amazon.com/Six-Crows-Leigh-Bardugo/dp/125007696X/) by Leigh Bardugo
 
 Kaz Brekker is a criminal mastermind, and he's been offered a chance at a deadly heist that could make him rich beyond his wildest dreams. He assembles a crew of misfits and outcasts and together, they must break into the Ice Court—an impenetrable fortress in the heart of Fjerda—and steal the secret that lies buried within it. With danger and betrayal lurking around every corner, they must be careful who they trust, and they must rely on each other if they are to succeed. If they make it out alive, they'll be legends—but if they fail, they'll be forgotten forever.
 
+<button data-buy-book data-title="Six of Crows" data-author="Leigh Bardugo">Buy Six of Crows</button>
+
 ### 27. [The Lies of Locke Lamora](https://www.amazon.com/Lies-Locke-Lamora-Gentleman-Bastards/dp/055358894X/) by Scott Lynch
 
 This is a fast-paced and intricate heist story set in a fantasy world. It follows the exploits of Locke Lamora and his gang of thieves, and it's full of clever twists and turns. If you're looking for a great fantasy book that will keep you guessing, this is it.
+
+<button data-buy-book data-title="The Lies of Locke Lamora" data-author="Scott Lynch">Buy The Lies of Locke Lamora</button>
 
 ### 28. [The Shadow of the Wind](https://www.amazon.com/Shadow-Wind-Carlos-Ruiz-Zaf%C3%B3n/dp/0143034901/) by Carlos Ruiz Zafon
 
 This is a beautiful and haunting story set in Spain, and it follows the story of Daniel, a young man who is trying to unravel the mystery of a mysterious book. It's a captivating read that will stay with you long after you've finished.
 
+<button data-buy-book data-title="The Shadow of the Wind" data-author="Carlos Ruiz Zafon">Buy The Shadow of the Wind</button>
+
 ### 29. [Gardens of the Moon](https://www.amazon.com/Gardens-Moon-Malazan-Book-Fallen/dp/0765348780/) by Steven Erikson
 
 This is the first book in a 10-book epic fantasy series, and it's full of complex [characters and plotlines](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation). It's an amazing read, and it's a must-read for any fantasy fan.
+
+<button data-buy-book data-title="Gardens of the Moon" data-author="Steven Erikson">Buy Gardens of the Moon</button>
 
 ### 30. [The Blade Itself](https://www.amazon.com/Blade-Itself-First-Law-Trilogy/dp/0316387312/) by Joe Abercrombie
 
@@ -179,11 +237,15 @@ This is the first book in an ongoing series, and it tells the story of Logen Nin
 
 **Related**: [Joe Abercrombie Books in Order: A Complete Reading Guide](https://www.litloop.co/blog/joe-abercrombie-books-in-order-a-complete-reading-guide)
 
+<button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie">Buy The Blade Itself</button>
+
 ### 31. [Malice](https://www.amazon.com/Malice-Faithful-Fallen-John-Gwynne/dp/0316399736) by John Gwynne
 
 [The Faithful and the Fallen series by John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) consists of four books and is situated in a [unique fantasy world](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building) the Banished Lands where long-dormant creatures of legend are stirring, and an impending war of unprecedented scale is on the horizon. Malice, the initial book of the series, narrates a tale of avarice, aspiration, and disloyalty through no less than seven distinct perspectives. The critically acclaimed series has garnered significant attention for its captivating plot and imaginative world-building.
 
 ---
+
+<button data-buy-book data-title="Malice" data-author="John Gwynne">Buy Malice</button>
 
 ## The Best Fantasy Books: Wrapping Up
 [

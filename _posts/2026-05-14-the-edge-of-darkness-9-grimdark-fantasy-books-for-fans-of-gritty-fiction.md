@@ -51,6 +51,8 @@ The First Law Trilogy takes place in a world of war and political intrigue, wher
 
 ---
 
+<button data-buy-book data-title="The First Law Trilogy" data-author="Joe Abercrombie">Buy The First Law Trilogy</button>
+
 ### 2. The Malazan Book of the Fallen by Steven Erikson (published 1999–2011)
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381454/malazan-book-of-the-fallen-reading-order-copy-1-_l6bqmc.webp)
@@ -70,6 +72,8 @@ The Malazan Book of the Fallen is an epic series that explores themes of mortali
 
 ---
 
+<button data-buy-book data-title="The Malazan Book of the Fallen" data-author="Steven Erikson">Buy The Malazan Book of the Fallen</button>
+
 ### 3. The Black Company by Glen Cook (published 1984–1985)
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381461/black-company-books-1-_pfwtab.webp)
@@ -82,6 +86,8 @@ The Black Company follows a group of mercenaries as they navigate a world of war
 
 ---
 
+<button data-buy-book data-title="The Black Company" data-author="Glen Cook">Buy The Black Company</button>
+
 ### 4. The Broken Empire Trilogy by Mark Lawrence (published 2011–2013)
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-trilogy-1-_ztj537.jpg)
@@ -93,6 +99,8 @@ The first in the Broken Empire Trilogy — and Mark Lawrence's debut novel — i
 3. [Emperor of Thorns](https://amzn.to/3z5YhjM) (2013)
 
 ---
+
+<button data-buy-book data-title="The Broken Empire Trilogy" data-author="Mark Lawrence">Buy The Broken Empire Trilogy</button>
 
 ### 5. A Song of Ice and Fire by George R.R. Martin (published 1996–present)
 
@@ -114,6 +122,8 @@ The series is famous for its shocking violence, where even central characters ar
 
 ---
 
+<button data-buy-book data-title="A Song of Ice and Fire" data-author="George R.R. Martin">Buy A Song of Ice and Fire</button>
+
 ### 6. The Farseer Trilogy by Robin Hobb (published 1995–1997)
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381490/the-farseer-trilogy-robin-hobb-copy-1-1-_ajke9p.webp)
@@ -130,6 +140,8 @@ While some readers may not consider *Assassin's Apprentice* to be strictly grimd
 
 ---
 
+<button data-buy-book data-title="The Farseer Trilogy" data-author="Robin Hobb">Buy The Farseer Trilogy</button>
+
 ### 7. The Poppy War by R. F. Kuang (published 2018–2020)
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381492/the-poppy-war-1-_h3egib.webp)
@@ -144,6 +156,8 @@ The story follows Rin, who comes from a poor background but gets into an elite m
 
 ---
 
+<button data-buy-book data-title="The Poppy War" data-author="R. F. Kuang">Buy The Poppy War</button>
+
 ### 8. War for the Rose Throne by Peter McLean (published 2018–2022)
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381459/rosethronecovers-1-_q6prxi.webp)
@@ -156,6 +170,8 @@ The story follows Rin, who comes from a poor background but gets into an elite m
 4. [Priest of Crowns](https://amzn.to/3LOHIjT) (2022)
 
 ---
+
+<button data-buy-book data-title="War for the Rose Throne" data-author="Peter McLean">Buy War for the Rose Throne</button>
 
 ### 9. Empires of Dust by Anna Smith Spark (published 2017–2019)
 
@@ -172,6 +188,8 @@ As tensions rise and secrets are revealed, the characters are forced to confront
 **Readers who like the books listed above may also enjoy** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
 
 ---
+
+<button data-buy-book data-title="Empires of Dust" data-author="Anna Smith Spark">Buy Empires of Dust</button>
 
 ## Dark Fantasy vs Grimdark Fantasy: What's the Difference?
 

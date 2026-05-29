@@ -36,6 +36,8 @@ For [lovers of sci-fi looking for their next read](https://www.litloop.co/sci-fi
 
 ---
 
+<button data-buy-book data-title="The Dispossessed" data-author="Ursula K. Le Guin">Buy The Dispossessed</button>
+
 ## The Left Hand of Darkness by Ursula K. Le Guin
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381470/the-left-hand-of-darkness_w0caqv.webp)
@@ -52,6 +54,8 @@ The Left Hand of Darkness is a masterful science fiction novel. It explores the 
 
 ---
 
+<button data-buy-book data-title="The Left Hand of Darkness" data-author="Ursula K. Le Guin">Buy The Left Hand of Darkness</button>
+
 ## The Lathe of Heaven by Ursula K. Le Guin
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381520/the-lathe-of-heaven_m9wfjh.webp)
@@ -66,6 +70,8 @@ It's one of those books you finish and wish you could read for the first time ag
 
 ---
 
+<button data-buy-book data-title="The Lathe of Heaven" data-author="Ursula K. Le Guin">Buy The Lathe of Heaven</button>
+
 ## Where to Start: The Works of Ursula K Le Guin
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381453/spaceship-landing-next-to-a-city-on-a-dry-planet_j4nqtv.webp)
@@ -79,6 +85,7 @@ If you're a hardcore [sci-fi fan](https://www.litloop.co/blog/10-sci-fi-authors)
 ---
 
 ## Ursula K Le Guin's Hainish Novels Reading Order
+
 
 ### Hainish Series Publication Order
 

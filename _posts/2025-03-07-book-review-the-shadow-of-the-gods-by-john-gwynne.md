@@ -40,6 +40,8 @@ John Gwynne showcases his exceptional prowess as a fantasy writer in The Shadow 
 
 Gwynne's mastery shines through in the seamless pacing and expertly woven plot threads. The narrative unfolds with a perfect balance of action, suspense, and character development, ensuring that every page holds something intriguing and significant. From epic battles to heartfelt moments of introspection, the story never fails to captivate, leaving readers eager to unravel the mysteries and witness the destinies of the characters unfold.
 
+<button data-buy-book data-title="The Shadow of the Gods" data-author="John Gwynne">Buy The Shadow of the Gods</button>
+
 ## More by John Gwynne
 
 The Shadow of the Gods is just one shining example of John Gwynne's exceptional literary talent. His other works stand as testaments to his storytelling ability, showcasing his versatility and commitment to delivering unforgettable narratives. Some of his notable books include:

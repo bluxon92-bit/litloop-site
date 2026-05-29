@@ -51,6 +51,8 @@ However, I don't really care. Clarke's vision of mankind's future is bizarre and
 
 ---
 
+<button data-buy-book data-title="The City and the Stars" data-author="Arthur C. Clarke">Buy The City and the Stars</button>
+
 ### You Might Like
 
 - [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)

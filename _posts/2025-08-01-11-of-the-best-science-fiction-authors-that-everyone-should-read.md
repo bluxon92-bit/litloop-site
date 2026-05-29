@@ -32,6 +32,8 @@ This book works as an allegory about humanity’s exploration of the universe—
 
 [2001: A Space Odyssey](https://www.amazon.com/2001-Space-Odyssey/dp/0451457994/) grapples with space exploration, the perils of technology, and the limits of human power.
 
+<button data-buy-book data-title="2001 a Space Odyssey" data-author="Arthur C Clarke">Buy 2001 a Space Odyssey</button>
+
 ### The City and The Stars
 
 The city of Diaspar is a perfect Utopia. For millennia its protective dome has shut out the rest of the Universe and held humanity in a sort of stasis.
@@ -39,6 +41,8 @@ The city of Diaspar is a perfect Utopia. For millennia its protective dome has s
 It was built when a great threat came to earth and legend has it drove humanity to the brink forcing them to take refuge. But not everyone is entirely content and one man seeks to uncover the truth about the past and the reason for the seemingly infinite inertia of Diaspar.
 
 [Read our full review of The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
+
+<button data-buy-book data-title="The City and The Stars" data-author="Arthur C Clarke">Buy The City and The Stars</button>
 
 ## Ursula K Le Guin
 
@@ -52,6 +56,8 @@ But this novel isn’t just about science. Le Guin’s critique of two contrasti
 
 What makes *The Dispossessed* unforgettable is how Le Guin entwines incredible science with characters who feel real, conflicted, and heroic in their vulnerability. It’s a novel that challenges the reader to think about morality, progress, and the price of knowledge, all while telling a story that’s impossibly human.
 
+<button data-buy-book data-title="The Dispossessed" data-author="Ursula K Le Guin">Buy The Dispossessed</button>
+
 ### The Left Hand of Darkness
 
 What if there were no fixed gender? [Le Guin’s The Left Hand of Darkness](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin) takes that thought experiment and runs with it in a way that’s profound, unsettling, and beautiful. On the planet Winter, the inhabitants can change gender at will, forcing both the reader and the human emissary, Genly Ai, to confront the idea that our flaws aren’t rooted in gender—they’re at the core of humanity itself.
@@ -62,6 +68,8 @@ The novel is intellectual science fiction at its finest: bold, inventive, and de
 
 **You might also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
 
+<button data-buy-book data-title="The Left Hand of Darkness" data-author="Ursula K Le Guin">Buy The Left Hand of Darkness</button>
+
 ## Isaac Asimov
 
 ### I, Robot
@@ -69,6 +77,8 @@ The novel is intellectual science fiction at its finest: bold, inventive, and de
 Isaac Asimov's [I, Robot](https://www.amazon.com/I-Robot-Isaac-Asimov/dp/055338256X/) launches readers on an adventure into a not-so-distant future where man and machine struggle to redefine life, love, and consciousness.
 
 In this book, [Asimov](https://www.litloop.co/blog/17-influential-isaac-asimov-quotes) introduces his now famous three laws of robotics and explores what it means to be human and what it means to truly be alive. I, Robot is a powerful reading experience from one of the master storytellers of our time.
+
+<button data-buy-book data-title="I, Robot" data-author="Isaac Asimov">Buy I, Robot</button>
 
 ### Foundation
 
@@ -78,6 +88,8 @@ The new Foundation, however, quickly finds itself at the mercy of corrupt warlor
 
 **Related**: [The 10 Best Isaac Asimov Books To Read Today](https://www.litloop.co/blog/best-isaac-asimov-books)
 
+<button data-buy-book data-title="Foundation" data-author="Isaac Asimov">Buy Foundation</button>
+
 ## Ray Bradbury
 
 ### Fahrenheit 451
@@ -86,6 +98,8 @@ The new Foundation, however, quickly finds itself at the mercy of corrupt warlor
 
 Guy becomes disillusioned with his role in society, with his role in censoring literature and destroying knowledge. Eventually, he quits and commits the sin of the preservation of literature himself.
 
+<button data-buy-book data-title="Fahrenheit 451" data-author="Ray Bradbury">Buy Fahrenheit 451</button>
+
 ### The Martian Chronicles
 
 The strange and wonderful tale of man’s experiences on Mars, filled with intense images and astonishing visions. Now part of the Voyager Classics collection.
@@ -93,6 +107,8 @@ The strange and wonderful tale of man’s experiences on Mars, filled with inten
 [The Martian Chronicles](https://www.amazon.com/Martian-Chronicles-Ray-Bradbury/dp/1451678193/) tells the story of humanity’s repeated attempts to colonize the red planet. The first men were few. Most succumbed to a disease they called the Great Loneliness when they saw their home planet dwindle to the size of a fist. They felt they had never been born. Those few that survived found no welcome on Mars. The shape-changing Martians thought they were native lunatics and duly locked them up.
 
 But more rockets arrived from Earth, and more, piercing the hallucinations projected by the Martians. People brought their old prejudices with them – and their desires and fantasies, tainted dreams. These were soon inhabited by the strange native beings, with their caged flowers and birds of flame.
+
+<button data-buy-book data-title="The Martian Chronicles" data-author="Ray Bradbury">Buy The Martian Chronicles</button>
 
 ## William Gibson
 
@@ -106,6 +122,8 @@ If I’m honest, the actual plot is pretty straightforward. Strip it back and yo
 
 *Neuromancer* is less a novel you follow beat by beat and more a fever dream you let wash over you. It’s messy, it’s dazzling, and it’s absolutely essential.
 
+<button data-buy-book data-title="Neuromancer by William Gibson" data-author="William Gibson">Buy Neuromancer by William Gibson</button>
+
 ## H.G. Wells
 
 ### The War of The Worlds
@@ -113,6 +131,8 @@ If I’m honest, the actual plot is pretty straightforward. Strip it back and yo
 When an army of invading Martians lands in England, panic and terror seize the population. As the aliens traverse the country in huge three-legged machines, incinerating all in their path with a heat ray and spreading noxious toxic gases, the people of the Earth must come to terms with the prospect of the end of human civilization and the beginning of Martian rule.
 
 Inspiring films, radio dramas, comic-book adaptations, television series and sequels, [The War of the Worlds](https://www.amazon.com/War-Worlds-H-G-Wells/dp/1505260795/) is a prototypical work of science fiction that has influenced every alien story that has come since and is unsurpassed in its ability to thrill, well over a century since it was first published.
+
+<button data-buy-book data-title="The War of The Worlds" data-author="H.G. Wells">Buy The War of The Worlds</button>
 
 ### The Time Machine
 
@@ -122,9 +142,13 @@ After travelling across hundreds of thousands of years he doesn’t know what to
 
 H. G. Wells's famous novel of one man's astonishing journey beyond the conventional limits of the imagination first appeared in 1895. It won him immediate recognition and has been regarded ever since as one of the great masterpieces in the literature of science fiction.
 
+<button data-buy-book data-title="The Time Machine" data-author="H.G. Wells">Buy The Time Machine</button>
+
 ### The Invisible Man
 
 [The Invisible Man](https://www.amazon.com/Invisible-Man-H-G-Wells-ebook/dp/B00L01GJ6M/) is another masterpiece of science fiction by H.G Wells. It explores the fascinating story of Griffin, a scientist who creates a serum that renders him invisible. However, unable to turn himself back he slowly descends into madness.
+
+<button data-buy-book data-title="The Invisible Man" data-author="H.G. Wells">Buy The Invisible Man</button>
 
 ## Frank Herbert
 
@@ -136,6 +160,8 @@ When House Atreides is betrayed, the destruction of Paul’s family will set the
 
 **You might also like** [The 25 Best Space Opera Books Ever Written](https://www.litloop.co/blog/best-space-opera-books)
 
+<button data-buy-book data-title="Dune" data-author="Frank Herbert">Buy Dune</button>
+
 ## Philip K Dick
 
 ### Do Androids Dream of Electric Sheep (Blade Runner)
@@ -146,9 +172,13 @@ The novel is set in a post-apocalyptic San Francisco. Earth's life has been dama
 
 They are desperately clinging to life and hoping to escape the lives they were created for.
 
+<button data-buy-book data-title="Do Androids Dream of Electric Sheep (Blade Runner)" data-author="Philip K Dick">Buy Do Androids Dream of Electric Sheep (Blade Runner)</button>
+
 ### The Man in A High Castle
 
 Set in America in 1962, [The Man in A High Castle](https://www.amazon.com/Man-High-Castle-Philip-Dick/dp/0547572484/) speculates what would have happened if Nazi Germany had won the war. This harrowing, Hugo Award-winning novel is the work that established Philip K. Dick as an innovator in science fiction while breaking the barrier between science fiction and the serious novel of ideas. Dick offers a haunting vision of history as a nightmare from which it may just be possible to wake.
+
+<button data-buy-book data-title="The Man in A High Castle" data-author="Philip K Dick">Buy The Man in A High Castle</button>
 
 ## Jules Vern
 
@@ -156,9 +186,13 @@ Set in America in 1962, [The Man in A High Castle](https://www.amazon.com/Man-Hi
 
 When an adventurous geology professor chances upon an old manuscript that claims to have found a route to the earth's core, professor Lidenbrock can't resist investigating. With his nephew Axel, he sets off across Iceland in the company of Hans Bjelke, a native guide. [Journey to the Center of the Earth](https://www.amazon.com/Journey-Center-Earth-Thrift-Editions/dp/0486440885/) follows an expedition into an extinct volcano toward a sunless sea, where they encounter a subterranean world of luminous rocks, antediluvian forests, and fantastic marine life — a living past that holds the secrets to the origins of human existence.
 
+<button data-buy-book data-title="Journey to the Center of the Earth" data-author="Jules Vern">Buy Journey to the Center of the Earth</button>
+
 ### Around The World In 80 Days
 
 One night in the reform club, Phileas Fogg bets his companions that he can travel across the globe in just eighty days. Breaking the well-established routine of his daily life, he immediately sets off for Dover with his astonished valet Passepartout. [Around The World In 80 Days](https://www.amazon.com/Around-world-Eighty-days-Illustrations/dp/B09328FD5F/) passes through exotic lands and dangerous locations, in it the protagonists seize whatever transportation is at hand—whether train or elephant—overcoming setbacks and always racing against the clock.
+
+<button data-buy-book data-title="Around The World In 80 Days" data-author="Jules Vern">Buy Around The World In 80 Days</button>
 
 ## Ian M Bank
 
@@ -168,6 +202,8 @@ The war raged across the galaxy. Billions had died, and billions more were doome
 
 [Consider Phlebas](https://www.amazon.com/Consider-Phlebas-Culture-Iain-Banks/dp/031600538X/) explores an individual crusade within this unravelling cosmic conflict. Deep within a fabled labyrinth on a barren world, a Planet of the Dead proscribed to mortals, lay a fugitive Mind. Both the Culture and the Idirans sought it. It was the fate of Horza, the Changer, and his motley crew of unpredictable mercenaries, human and machine, actually to find it, and with it their own destruction.
 
+<button data-buy-book data-title="Consider Phlebas" data-author="Ian M Bank">Buy Consider Phlebas</button>
+
 ### Player of Games
 
 The second book in Ian M. Banks Culture series, [Player of Games,](https://www.amazon.com/Player-Games-Culture-Iain-Banks/dp/0316005401/) takes a closer look at what The Culture really is - a humanoid/machine symbiotic society. However, while there are elements of Utopia sewn through the Culture, the human traits of greed and empire have not disappeared, they’ve just changed, become more civilised.
@@ -176,15 +212,21 @@ One of the best Game players in the culture is Jernau Morat Gurgeh, Player of Ga
 
 The game of the Empire of Azad is so complex, so like life itself, that the winner becomes emperor. Gurgeh quickly realises this is no peaceful diplomacy mission, he’s mocked, blackmailed, almost murdered but the game has him and despite the risks he’s going to play it to the end.
 
+<button data-buy-book data-title="Player of Games" data-author="Ian M Bank">Buy Player of Games</button>
+
 ## Dorris Lessing
 
 ### Briefing for a Descent into Hell
 
 [Briefing for a Descent into Hell](https://www.amazon.com/Briefing-Descent-Into-Hell-Psychological/dp/0307390616/) is a fascinating look inside the mind of a man who is supposedly “mad.” Professor Charles Watkins of Cambridge University is a patient at a mental hospital where the doctors try with increasing drugs to bring his mind under control. But Watkins has embarked on a tremendous psychological adventure where, after spinning endlessly on a raft in the Atlantic, he lands on a tropical island inhabited by strange creatures with strange customs. Later, he is carried off on a cosmic journey into space. Throughout it, the reader is left guessing where the lines of reality truly sit.
 
+<button data-buy-book data-title="Briefing for a Descent into Hell" data-author="Dorris Lessing">Buy Briefing for a Descent into Hell</button>
+
 ### The Marriages Between Zones 3, 4, and 5
 
 [The Marriages Between Zones, 3, 4, and 5](https://www.amazon.com/Marriages-Between-Zones-Canopus-Argos-ebook/dp/B008CBD1S2/) is the second novel in the classic series "Canopus in Argos: Archives". Doris Lessing explores themes of gender conflict. The story concerns two ordained marriages that link the patriarchal and militaristic Zone Four with the matriarchal and egalitarian Zone Three, and the tribal and barbaric Zone Five. It strikes a stark comparison between the zones and looks into ideas of transcendence.
+
+<button data-buy-book data-title="The Marriages Between Zones 3, 4, and 5" data-author="Dorris Lessing">Buy The Marriages Between Zones 3, 4, and 5</button>
 
 ## Final Words
 

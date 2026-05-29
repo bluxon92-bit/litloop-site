@@ -72,6 +72,8 @@ Malice by John Gwynne is set in the Banished Lands, a place of violence where me
 
 Some of the main characters include Corban, who has grand ideals of heroism and wants to be a warrior, to protect and serve — but bloodshed is rarely heroic. Evnis wants the power to rule, a power that will soon be in his grasp, and he will do anything to get it. Veradis, one of the most skilled swordsmen to have ever lived, exists in his brother's shadow. And Prince Nathair has plans that largely disagree with his father the High King.
 
+<button data-buy-book data-title="Malice" data-author="John Gwynne">Buy Malice</button>
+
 ### Valor by John Gwynne (2014)
 
 Valor is the immediate follow-on to Malice — a non-stop action novel with excellent pacing, unexpected twists, and high-stakes battles.
@@ -79,6 +81,8 @@ Valor is the immediate follow-on to Malice — a non-stop action novel with exce
 It continues to follow the same characters including Corban, Nathair, and Veradis. Corban and his friends must flee north after their home of Dun Crin is invaded. Nathair, fresh from victories in Arcona, has launched a holy crusade in the Banished Lands. Veradis, fiercely loyal to the crusade, starts to question the moral implications surrounding the expedition.
 
 Gwynne also introduces several new characters: Fidele, mother to Nathair; Maquin, who dreams of revenge but must first fight his way out of the pits; and Lykos, king of the three southern isles.
+
+<button data-buy-book data-title="Valor" data-author="John Gwynne">Buy Valor</button>
 
 ### Ruin by John Gwynne (2015)
 
@@ -88,6 +92,8 @@ The Banished Lands are now fully engulfed in war and chaos. The cunning Queen Rh
 
 Nathair has been deceived but now knows the truth. Corban must finally stop running and face his fate head-on, and Maquin is finally loose but hunted by Lykos and his corsairs.
 
+<button data-buy-book data-title="Ruin" data-author="John Gwynne">Buy Ruin</button>
+
 ### Wrath by John Gwynne (2016)
 
 The fourth instalment in The Faithful and the Fallen series is the breathtaking, pulse-pounding conclusion to the epic series.
@@ -95,6 +101,8 @@ The fourth instalment in The Faithful and the Fallen series is the breathtaking,
 The war reaches new heights as the characters finally realise their destinies. Nathair is close to opening the portal to the Otherworld and allowing Asroth and his demon-horde into the Banished Lands. Corban must make new allies to survive, and somehow counter the threat Nathair represents. Truth, courage, and loyalty will be tested as never before.
 
 ---
+
+<button data-buy-book data-title="Wrath" data-author="John Gwynne">Buy Wrath</button>
 
 ## About The Bloodsworn Saga
 
@@ -106,6 +114,8 @@ After the gods warred and drove themselves to extinction, the cataclysm of their
 
 As whispers of war echo across the mountains and fjords, fate follows in the footsteps of three people: a huntress on a dangerous quest, a noblewoman who has rejected privilege in pursuit of battle fame, and a thrall who seeks vengeance among the famed mercenaries known as the Bloodsworn.
 
+<button data-buy-book data-title="The Shadow of the Gods" data-author="John Gwynne">Buy The Shadow of the Gods</button>
+
 ### The Hunger of the Gods by John Gwynne (2022)
 
 Lik-Rifa, the dragon god of legend, has been freed from her eternal prison and now plots a new age of blood and conquest. As Orka continues the hunt for her missing son, the Bloodsworn sweep south in a desperate race to save one of their own, and Varg takes the first steps on the path of vengeance.
@@ -113,6 +123,8 @@ Lik-Rifa, the dragon god of legend, has been freed from her eternal prison and n
 Elvar has sworn to fulfil her blood oath and rescue a prisoner from the clutches of Lik-Rifa and her Dragonborn followers — but first she must persuade the Battle-Grim to follow her. Yet even the might of the Bloodsworn and Battle-Grim cannot stand alone against a dragon god.
 
 **Readers looking for books containing dragons might like:** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+
+<button data-buy-book data-title="The Hunger of the Gods" data-author="John Gwynne">Buy The Hunger of the Gods</button>
 
 ### Is the Bloodsworn Saga set in the same universe as The Faithful and the Fallen?
 

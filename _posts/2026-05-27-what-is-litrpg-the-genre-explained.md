@@ -82,7 +82,7 @@ Readers who enjoy [dystopian fiction](https://www.litloop.co/blog/9-dystopian-no
     <p>The gateway drug for anyone coming to LitRPG from outside the genre's traditional readership. Earth is destroyed and repurposed as an 18-level dungeon game, broadcast as entertainment across the universe. A man in his underwear and his ex-girlfriend's show-winning cat, Grand Champion Princess Donut the Queen Anne Chonk, are the reluctant stars.</p>
     <p>It sounds farcical. It is farcical. It's also the most emotionally affecting LitRPG series I've read, and the most ambitious in terms of what it's trying to do underneath all the chaos.</p>
     <p><strong>Best for:</strong> Readers who want absurdist humour, emotional depth, and something that transcends genre expectations.</p>
-    <p><a href="https://amzn.to/4wVccFS"><strong>Buy on Amazon →</strong></a> · <a href="https://www.litloop.co/blog/dungeon-crawler-carl-series-review/"><strong>Full series review →</strong></a></p>
+    <p><button data-buy-book data-title="Dungeon Crawler Carl" data-author="Matt Dinniman">Buy Dungeon Crawler Carl</button> · <a href="https://www.litloop.co/blog/dungeon-crawler-carl-series-review/"><strong>Full series review →</strong></a></p>
   </div>
 </div>
 
@@ -95,7 +95,7 @@ Readers who enjoy [dystopian fiction](https://www.litloop.co/blog/9-dystopian-no
     <p>Arguably the work that introduced LitRPG to the widest mainstream audience, particularly through its manga and anime adaptations. Sung Jin-Woo is the weakest hunter in a world where dungeons have appeared across the earth, and humans who have awakened special powers battle the monsters inside. After a near-death experience, he's given a unique system that allows him to level up indefinitely.</p>
     <p>The manhwa is stunning. The novel is a purer hit of the power fantasy at the genre's core. This is LitRPG at its most archetypal — and genuinely thrilling.</p>
     <p><strong>Best for:</strong> Fans of the anime or manhwa who want to go deeper, and newcomers who want the clearest expression of the genre.</p>
-    <p><a href="https://amzn.to/433k3Uh"><strong>Buy on Amazon →</strong></a></p>
+    <p><button data-buy-book data-title="Solo Leveling" data-author="Chugong">Buy Solo Leveling</button></p>
   </div>
 </div>
 
@@ -107,7 +107,7 @@ Readers who enjoy [dystopian fiction](https://www.litloop.co/blog/9-dystopian-no
     <h3>3. He Who Fights With Monsters — Jason Cheyne</h3>
     <p>An Australian man is transported to a magical world and must navigate its systems, politics, and monsters. What distinguishes this series is its length (twelve books and counting), its consistent quality, and its main character's genuinely interesting moral philosophy. Jason Asano refuses to become the kind of person the genre usually celebrates — cold, ruthless, optimised. The tension between his values and the world's demands on him drives the whole series.</p>
     <p><strong>Best for:</strong> Readers who want a long, immersive series with real character development alongside the progression mechanics.</p>
-    <p><a href="https://amzn.to/3PLmIio"><strong>Buy on Amazon →</strong></a></p>
+    <p><button data-buy-book data-title="He Who Fights With Monsters" data-author="Jason Cheyne">Buy He Who Fights With Monsters</button></p>
   </div>
 </div>
 
@@ -119,7 +119,7 @@ Readers who enjoy [dystopian fiction](https://www.litloop.co/blog/9-dystopian-no
     <h3>4. The Primal Hunter — Zogarth</h3>
     <p>One of the defining Apocalypse LitRPG series. When the System arrives on Earth, the world changes overnight. Jake, an ordinary office worker, discovers he has an affinity for hunting — and an unusually high tolerance for the kind of lone-wolf approach that gets most people killed. Slower to start than some, but deeply satisfying once it finds its rhythm.</p>
     <p><strong>Best for:</strong> Readers who like their LitRPG grounded and gradual, with a slow-burn power progression.</p>
-    <p><a href="https://amzn.to/3PFWq0Z"><strong>Buy on Amazon →</strong></a></p>
+    <p><button data-buy-book data-title="The Primal Hunter" data-author="Zogarth">Buy The Primal Hunter</button></p>
   </div>
 </div>
 
@@ -131,7 +131,7 @@ Readers who enjoy [dystopian fiction](https://www.litloop.co/blog/9-dystopian-no
     <h3>5. Beware of Chicken — CaptainBoyHole</h3>
     <p>The tonal outlier on this list, and deliberately so, because it shows how wide the genre's range actually is. Bjorn Jansen, reincarnated into a cultivation-fantasy world, decides he doesn't want to fight other people for power. He wants to farm. The story that follows is warm, funny, and quietly subversive — a LitRPG that uses the genre's conventions to tell a story about choosing a life of gentleness in a world built for violence.</p>
     <p><strong>Best for:</strong> Readers who found the other entries too combat-heavy, or who just want something that will make them genuinely happy.</p>
-    <p><a href="https://amzn.to/4vA2Y0z"><strong>Buy on Amazon →</strong></a></p>
+    <p><button data-buy-book data-title="Beware of Chicken" data-author="CaptainBoyHole">Buy Beware of Chicken</button></p>
   </div>
 </div>
 

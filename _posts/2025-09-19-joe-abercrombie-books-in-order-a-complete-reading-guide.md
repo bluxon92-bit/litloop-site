@@ -35,6 +35,8 @@ Logen Ninefingers is both terrifying and oddly likeable, Jezal is so insufferabl
 
 Abercrombie doesn’t ease you in gently, he throws you into the mud, laughs while you scramble, and somehow makes it all addictive.
 
+<button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie">Buy The Blade Itself</button>
+
 ### 2. Before They Are Hanged
 
 This book is where the whole world really started to open up for me. The stakes feel bigger, nastier, and far more unpredictable.
@@ -45,6 +47,8 @@ Meanwhile, the “quest” with Bayaz and the crew could have been cliché, six 
 
 And in the North, somehow the Union’s generals manage to maintain their arrogance and foolishness, even as Bethod and his army of Northmen flank, surprise, and utterly annihilate whole sections of their army.
 
+<button data-buy-book data-title="Before They Are Hanged" data-author="Joe Abercrombie">Buy Before They Are Hanged</button>
+
 ### 3. Last Argument of Kings
 
 The finale, every thread from the previous books comes crashing together, but not in the neat, triumphant way most fantasy fans might hope for.
@@ -52,6 +56,8 @@ The finale, every thread from the previous books comes crashing together, but no
 Characters who looked like they were headed for redemption spiral instead; victories taste bitter; and just when you think someone might catch a break, Abercrombie yanks it away. I don’t think I’ve ever read an ending so bleak and yet so *right*. It left me both exhausted and desperate for more.
 
 *If you’re looking for something a little more hopeful with heroes and hard moral codes, check out our article on *[*David Gemmell’s Drenai Series*](https://www.litloop.co/blog/how-to-read-david-gemmells-drenai-series)
+
+<button data-buy-book data-title="Last Argument of Kings" data-author="Joe Abercrombie">Buy Last Argument of Kings</button>
 
 ## First Law Standalone Novels
 
@@ -65,17 +71,23 @@ Gathering an unlikely band of misfits—including a cold-blooded Northman, a poi
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381460/heroes-abercormbie_xvwisd.webp)
 
+<button data-buy-book data-title="Best Served Cold" data-author="Joe Abercrombie">Buy Best Served Cold</button>
+
 ### 5. The Heroes
 
 Fast forward several years and the narrative shifts to the chaos of war—a three-day, blood-soaked battle between the Union and the northern barbarians.
 
 Told from multiple points of view, including a battle-worn veteran determined to salvage honor, a scheming noble with dangerous ambitions, and a disillusioned soldier forced to confront his mortality, *The Heroes* captures the raw, unfiltered brutality of combat. Amid savage clashes and shifting alliances, Abercrombie masterfully portrays how war can both forge and shatter the human spirit.
 
+<button data-buy-book data-title="The Heroes" data-author="Joe Abercrombie">Buy The Heroes</button>
+
 ### 6. Red Country
 
 Blending the aesthetics of a Western with Abercrombie’s trademark grimdark style, *Red Country* follows Shy South on a desperate quest to rescue her kidnapped siblings. Accompanied by her hesitant stepfather and a reluctant rogue, Shy journeys across unforgiving frontiers—through scorched outposts, lawless towns gripped by gold fever, and into the remoteness of uncharted mountains. Here, the past refuses to remain buried, and redemption must be won through a relentless fight against both external enemies and internal demons.
 
 *You Might Also Like: *[*The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath*](https://www.litloop.co/blog/the-best-of-john-gwynne-gods-giants-angels-malice-and-wrath)
+
+<button data-buy-book data-title="Red Country" data-author="Joe Abercrombie">Buy Red Country</button>
 
 ## Short Stories
 
@@ -89,6 +101,8 @@ Whether you’re revisiting familiar faces or discovering new perspectives, each
 
 *You Might Also Like: *[*93 Book Tropes Writers Need to Know*](https://www.benluxonauthor.com/writers-blog/book-tropes-you-need-to-know?utm_source=chatgpt.com)
 
+<button data-buy-book data-title="Sharp Ends" data-author="Joe Abercrombie">Buy Sharp Ends</button>
+
 ## The Age of Madness Trilogy
 
 Thirty years later, the world moves on, but in true Abercrombie fashion, it doesn’t necessarily move forward. I haven’t cracked these open yet, but the themes of industrial upheaval and revolution sound like Abercrombie at his sharpest.
@@ -101,11 +115,15 @@ Thirty years later, the world moves on, but in true Abercrombie fashion, it does
 
 Ancient magics clash with modern ambitions and the collision of past and present creates a tense environment where every act of violence or kindness echoes into the future.
 
+<button data-buy-book data-title="A Little Hatred" data-author="Joe Abercrombie">Buy A Little Hatred</button>
+
 ### 9. The Trouble With Peace
 
 In a world where peace is nothing but a tenuous illusion, *The Trouble With Peace* delves into the political machinations and personal betrayals that thrive after conflict. Familiar figures like Savine dan Glokta and Leo dan Brock find themselves grappling with their conflicting desires for stability and power, even as the fragile ceasefire between warring factions begins to crack.
 
 This instalment is steeped in political intrigue and moral compromise, illustrating that, in Abercrombie’s universe, true peace is as elusive as it is dangerous.
+
+<button data-buy-book data-title="The Trouble With Peace" data-author="Joe Abercrombie">Buy The Trouble With Peace</button>
 
 ### 10. The Wisdom of Crowds
 
@@ -114,6 +132,8 @@ The climactic finale of the Age of Madness trilogy, *The Wisdom of Crowds* thrus
 This novel challenges the very nature of power and legacy. Abercrombie’s incisive wit and brutal realism shine through, leaving you to ponder whether salvation comes at the price of eternal sacrifice.
 
 *You Might Also Like: *[*Best Books by China Miéville: Perdido Street Station and More*](https://www.litloop.co/blog/best-books-by-china-miéville-perdido-street-station-and-more)
+
+<button data-buy-book data-title="The Wisdom of Crowds" data-author="Joe Abercrombie">Buy The Wisdom of Crowds</button>
 
 ## The Shattered Sea Trilogy (Young Adult)
 
@@ -127,11 +147,15 @@ Different audience, same edge. This trilogy is technically YA, but from what I�
 
 Betrayal, slavery, and a brutal struggle for survival pave his path, as he learns that ingenuity and resolve can outweigh physical might. This coming-of-age tale is both a harsh lesson in personal resilience and the spark that ignites the epic saga of the Shattered Sea.
 
+<button data-buy-book data-title="Half a King" data-author="Joe Abercrombie">Buy Half a King</button>
+
 ### Half the World
 
 In the second entry of the Shattered Sea series, the narrative shifts to a more expansive perspective with two new protagonists: Thorn Bathu, a fierce 16-year-old warrior determined to avenge her father’s death, and Brand, a conflicted fighter seeking redemption.
 
 As they join Yarvi’s ragtag crew on a perilous maritime quest to forge alliances against a tyrannical High King, they discover that the cost of ambition and revenge is measured in blood and sacrifice. Their journey across turbulent seas and hostile lands challenges their beliefs and molds them into the heroes they never imagined they could become.
+
+<button data-buy-book data-title="Half the World" data-author="Joe Abercrombie">Buy Half the World</button>
 
 ### Half a War
 
@@ -140,6 +164,8 @@ The tumultuous conclusion to the Shattered Sea trilogy, *Half a War* raises the 
 Alliances shatter and new foes arise, the characters must navigate treacherous battlefields where survival depends on both cunning intellect and deadly combat. In a world where every victory is stained with loss, *Half a War* brings Yarvi’s epic journey to a heart-pounding close—and asks whether revenge and redemption can truly coexist.
 
 *You Might Also Like: *[*10 Books Like The Name of the Wind*](https://www.litloop.co/blog/books-like-name-of-the-wind)
+
+<button data-buy-book data-title="Half a War" data-author="Joe Abercrombie">Buy Half a War</button>
 
 ## Final Thoughts: Joe Abercrombie Books In Order
 

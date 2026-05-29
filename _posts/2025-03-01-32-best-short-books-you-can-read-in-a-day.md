@@ -19,15 +19,21 @@ When you're short on time but craving a great read, there's nothing better than 
 *Page Count: 112
 *This timeless allegory is a satirical take on the Russian Revolution and the rise of Stalinism. Orwell's novella is as relevant today as it was when first published, using a farmyard rebellion to explore the dangers of totalitarianism and political corruption.
 
+<button data-buy-book data-title="Animal Farm" data-author="George Orwell">Buy Animal Farm</button>
+
 ### 2) Of Mice and Men by John Steinbeck
 
 *Page Count: 107
 *Steinbeck’s tale of two displaced ranch workers during the Great Depression is a poignant exploration of friendship, dreams, and the harsh realities of life. This tragic novella offers a glimpse into the struggles of the American working class.
 
+<button data-buy-book data-title="Of Mice and Men" data-author="John Steinbeck">Buy Of Mice and Men</button>
+
 ### 3) The Old Man and the Sea by Ernest Hemingway
 
 *Page Count: 127
 *Hemingway’s Pulitzer Prize-winning novella is a simple yet profound story of an old fisherman’s epic struggle with a giant marlin. It’s a tale of endurance, pride, and the battle between man and nature.
+
+<button data-buy-book data-title="The Old Man and the Sea" data-author="Ernest Hemingway">Buy The Old Man and the Sea</button>
 
 ## Short Books That Question Existence
 
@@ -36,21 +42,29 @@ When you're short on time but craving a great read, there's nothing better than 
 *Page Count: 123
 *Camus’ existential classic delves into the life of Meursault, an indifferent French Algerian who commits a senseless murder. The novel examines themes of absurdism, the meaning of life, and the disconnect between society and the individual.
 
+<button data-buy-book data-title="The Stranger" data-author="Albert Camus">Buy The Stranger</button>
+
 ### 5) Siddhartha by Hermann Hesse
 
 *Page Count: 152
 *Hesse’s philosophical novel follows Siddhartha, a young man on a spiritual journey to find enlightenment. It’s a beautiful exploration of self-discovery, inner peace, and the search for meaning in life.
+
+<button data-buy-book data-title="Siddhartha" data-author="Hermann Hesse">Buy Siddhartha</button>
 
 ### 6) The Metamorphosis by Franz Kafka
 
 *Page Count: 201
 *Kafka’s surreal tale of a man who wakes up one morning to find himself transformed into a giant insect is a powerful commentary on alienation, guilt, and the human condition.
 
+<button data-buy-book data-title="The Metamorphosis" data-author="Franz Kafka">Buy The Metamorphosis</button>
+
 ### 7) Pincher Martin by William Golding
 
 Page Count: 208 pages
 
 This harrowing novel follows the desperate struggle for survival of Christopher "Pincher" Martin, a naval officer who finds himself stranded on a rock in the middle of the Atlantic after his ship is torpedoed. As he battles the elements, his mind unravels, leading to profound reflections on life, death, and the nature of existence. Golding’s intense psychological exploration reveals the fragility of the human mind in isolation.
+
+<button data-buy-book data-title="Pincher Martin" data-author="William Golding">Buy Pincher Martin</button>
 
 ## Powerful Feminist Voices
 
@@ -59,16 +73,22 @@ This harrowing novel follows the desperate struggle for survival of Christopher 
 *Page Count: 244
 *Plath’s semi-autobiographical novel follows Esther Greenwood, a young woman struggling with mental illness and societal expectations. This poignant exploration of identity and depression remains a defining work of feminist literature.
 
+<button data-buy-book data-title="The Bell Jar" data-author="Sylvia Plath">Buy The Bell Jar</button>
+
 ### 9) We Should All Be Feminists by Chimamanda Ngozi Adichie
 
 *Page Count: 52
 *Adapted from her TEDx talk, Adichie’s essay is a powerful call to action for gender equality. It’s a must-read for anyone interested in understanding feminism and its relevance in today’s world.
+
+<button data-buy-book data-title="We Should All Be Feminists" data-author="Chimamanda Ngozi Adichie">Buy We Should All Be Feminists</button>
 
 ### 10) The Awakening and Selected Stories by Kate Chopin
 
 *Page Count: 240*
 
 Chopin’s groundbreaking novel explores the struggles of Edna Pontellier, a woman caught between the demands of society and her desire for independence. It’s a pioneering work in feminist literature that still resonates today.
+
+<button data-buy-book data-title="The Awakening and Selected Stories" data-author="Kate Chopin">Buy The Awakening and Selected Stories</button>
 
 ## Short Mystery and Suspense Books
 
@@ -77,15 +97,21 @@ Chopin’s groundbreaking novel explores the struggles of Edna Pontellier, a wom
 *Page Count: 264
 *Christie’s masterful whodunit brings ten strangers to a remote island, where they are systematically killed off one by one. This gripping mystery keeps readers guessing until the final page.
 
+<button data-buy-book data-title="And Then There Were None" data-author="Agatha Christie">Buy And Then There Were None</button>
+
 ### 12) The Grownup by Gillian Flynn
 
 *Page Count: 64
 *In this short story, Flynn delivers a chilling tale of psychological suspense. A con artist posing as a psychic gets more than she bargained for when she encounters a troubled client and a haunted house.
 
+<button data-buy-book data-title="The Grownup" data-author="Gillian Flynn">Buy The Grownup</button>
+
 ### 13) The Ghost Writer by Philip Roth
 
 *Page Count: 180
 *Roth’s novella introduces Nathan Zuckerman, a young writer who visits the secluded home of his literary idol. The story explores themes of identity, ambition, and the blurred line between fiction and reality.
+
+<button data-buy-book data-title="The Ghost Writer" data-author="Philip Roth">Buy The Ghost Writer</button>
 
 ## Best Short Science Fiction and Fantasy
 
@@ -94,21 +120,29 @@ Chopin’s groundbreaking novel explores the struggles of Edna Pontellier, a wom
 *Page Count: 208
 *Adams’ comedic science fiction classic follows Arthur Dent as he navigates the galaxy after Earth’s destruction. This witty, satirical romp through space is a must-read for sci-fi fans.
 
+<button data-buy-book data-title="The Hitchhiker's Guide to the Galaxy" data-author="Douglas Adams">Buy The Hitchhiker's Guide to the Galaxy</button>
+
 ### 15) The Little Prince by Antoine de Saint-Exupéry
 
 *Page Count: 96
 *This beloved novella tells the story of a young prince who travels from planet to planet, meeting curious characters along the way. It’s a philosophical tale about love, loss, and the innocence of childhood.
+
+<button data-buy-book data-title="The Little Prince" data-author="Antoine de Saint-Exupéry">Buy The Little Prince</button>
 
 ### 16) An Ocean at the End of the Lane by Neil Gaiman
 
 *Page Count: 181
 *Gaiman’s haunting tale of memory and childhood follows a man who returns to his hometown and recalls his encounters with a mysterious and magical family. It’s a dark, lyrical fantasy that lingers long after the final page.
 
+<button data-buy-book data-title="An Ocean at the End of the Lane" data-author="Neil Gaiman">Buy An Ocean at the End of the Lane</button>
+
 ### 17) "The Strange Library" by Haruki Murakami
 
 *Page Count: 96 pages*
 
 In this surreal and whimsical novella, a young boy is trapped in a bizarre library by an eccentric old man. As he tries to escape, the story blends elements of fantasy, horror, and absurdity, showcasing Murakami's signature style of magical realism.
+
+<button data-buy-book data-title="&quot;The Strange Library&quot;" data-author="Haruki Murakami">Buy &quot;The Strange Library&quot;</button>
 
 ## Best Short Literary Fiction with a Twist
 
@@ -117,10 +151,14 @@ In this surreal and whimsical novella, a young boy is trapped in a bizarre libra
 *Page Count: 208
 *Coelho’s enchanting novel follows Santiago, a shepherd boy on a quest to find a hidden treasure. Along the way, he learns profound life lessons about following one’s dreams and the nature of fate.
 
+<button data-buy-book data-title="The Alchemist" data-author="Paulo Coelho">Buy The Alchemist</button>
+
 ### 19) The House on Mango Street by Sandra Cisneros
 
 *Page Count: 110
 *Cisneros’ coming-of-age novel is a series of vignettes about Esperanza, a young Latina girl growing up in Chicago. It’s a poignant exploration of identity, culture, and the desire for a better life.
+
+<button data-buy-book data-title="The House on Mango Street" data-author="Sandra Cisneros">Buy The House on Mango Street</button>
 
 ### 20) The Bluest Eye by Toni Morrison
 
@@ -129,6 +167,8 @@ In this surreal and whimsical novella, a young boy is trapped in a bizarre libra
 
 **Related**: [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 
+<button data-buy-book data-title="The Bluest Eye" data-author="Toni Morrison">Buy The Bluest Eye</button>
+
 ## Best Short Books With Profound Narratives
 
 ### 21) The Pearl by John Steinbeck
@@ -136,15 +176,21 @@ In this surreal and whimsical novella, a young boy is trapped in a bizarre libra
 *Page Count: 96
 *Steinbeck’s novella tells the story of Kino, a poor pearl diver whose life changes after finding a massive pearl. This parable about greed, ambition, and the corrupting influence of wealth is both timeless and tragic.
 
+<button data-buy-book data-title="The Pearl" data-author="John Steinbeck">Buy The Pearl</button>
+
 ### 22) The Death of Ivan Ilyich by Leo Tolstoy
 
 *Page Count: 86
 *Tolstoy’s novella is a profound meditation on death and the meaning of life. It follows the life of Ivan Ilyich, a high-ranking judge in 19th-century Russia, as he confronts his own mortality and the emptiness of his existence.
 
+<button data-buy-book data-title="The Death of Ivan Ilyich" data-author="Leo Tolstoy">Buy The Death of Ivan Ilyich</button>
+
 ### 23) Small Things Like These by Claire Keegan
 
 *Page Count: 116
 *Set in a small Irish town in the 1980s, Keegan’s novella follows a coal merchant who uncovers a dark secret at a local convent. This beautifully written story is a poignant exploration of morality, community, and the power of silence.
+
+<button data-buy-book data-title="Small Things Like These" data-author="Claire Keegan">Buy Small Things Like These</button>
 
 ### 24) Things Fall Apart" by Chinua Achebe
 
@@ -154,6 +200,8 @@ A landmark in African literature, *Things Fall Apart* chronicles the life of Oko
 
 **Related**: [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)
 
+<button data-buy-book data-title="Things Fall Apart&quot;" data-author="Chinua Achebe">Buy Things Fall Apart&quot;</button>
+
 ## Best Short Memoirs and Non-Fiction
 
 ### 25) I’m Afraid of Men by Vivek Shraya
@@ -161,10 +209,14 @@ A landmark in African literature, *Things Fall Apart* chronicles the life of Oko
 *Page Count: 96
 *In this powerful memoir, Shraya discusses the impact of toxic masculinity and the fear it instills in both women and men. It’s a deeply personal and thought-provoking exploration of gender, identity, and the challenges faced by the LGBTQ+ community.
 
+<button data-buy-book data-title="I’m Afraid of Men" data-author="Vivek Shraya">Buy I’m Afraid of Men</button>
+
 ### 25) Men Explain Things to Me by Rebecca Solnit
 
 *Page Count: 130
 *Solnit’s collection of essays addresses the issues of gender inequality, misogyny, and the silencing of women’s voices. Her sharp and insightful writing is a rallying cry for feminist activism and social justice.
+
+<button data-buy-book data-title="Men Explain Things to Me" data-author="Rebecca Solnit">Buy Men Explain Things to Me</button>
 
 ### 26) The Prophet by Kahlil Gibran
 
@@ -173,6 +225,8 @@ A landmark in African literature, *Things Fall Apart* chronicles the life of Oko
 
 **Related**: [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories)
 
+<button data-buy-book data-title="The Prophet" data-author="Kahlil Gibran">Buy The Prophet</button>
+
 ## Best Short Contemporary Books
 
 ### 27) Before the Coffee Gets Cold by Toshikazu Kawaguchi
@@ -180,15 +234,21 @@ A landmark in African literature, *Things Fall Apart* chronicles the life of Oko
 *Page Count: 192
 *In a small Tokyo café, patrons have the chance to travel back in time—but only for the duration of their coffee. Kawaguchi’s heartwarming and bittersweet novel explores love, regret, and the importance of living in the present.
 
+<button data-buy-book data-title="Before the Coffee Gets Cold" data-author="Toshikazu Kawaguchi">Buy Before the Coffee Gets Cold</button>
+
 ### 28) The Maid by Nita Prose
 
 *Page Count: 304
 *Molly Gray, a hotel maid, becomes embroiled in a murder mystery when she discovers a dead guest in one of the rooms. This charming and clever debut is a twist on the classic whodunit, with a unique and endearing protagonist.
 
+<button data-buy-book data-title="The Maid" data-author="Nita Prose">Buy The Maid</button>
+
 ### 29) One Italian Summer by Rebecca Serle
 
 *Page Count: 272
 *Serle’s novel follows Katy, a woman grieving the loss of her mother, as she takes a trip to Italy they had planned together. There, she meets a younger version of her mother, and the story unfolds in a magical exploration of love, loss, and the bonds that transcend time.
+
+<button data-buy-book data-title="One Italian Summer" data-author="Rebecca Serle">Buy One Italian Summer</button>
 
 ### 30) Train Dreams by Denis Johnson
 
@@ -198,6 +258,8 @@ Set in the early 20th century American West, *Train Dreams* follows the life of 
 
 **Related**: [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
 
+<button data-buy-book data-title="Train Dreams" data-author="Denis Johnson">Buy Train Dreams</button>
+
 ## Best Short Books Of Poetry and Short Stories
 
 ### 31) American Sonnets for My Past and Future Assassin by Terrance Hayes
@@ -205,12 +267,16 @@ Set in the early 20th century American West, *Train Dreams* follows the life of 
 *Page Count: 88
 *Hayes’ collection of sonnets is a powerful exploration of race, identity, and the African American experience. Each poem is a meditation on history, politics, and the personal, making this a must-read for poetry lovers.
 
+<button data-buy-book data-title="American Sonnets for My Past and Future Assassin" data-author="Terrance Hayes">Buy American Sonnets for My Past and Future Assassin</button>
+
 ### 32) The Autobiography of Red by Anne Carson
 
 *Page Count: 160
 *Carson’s genre-defying work combines poetry, prose, and myth to tell the story of Geryon, a winged red monster, and his tumultuous relationship with Herakles. It’s a beautiful and haunting exploration of identity, desire, and the complexities of love, rendered in a lyrical and imaginative style that blurs the lines between reality and myth. Carson reimagines the ancient myth of Geryon with a modern sensibility, crafting a narrative that is both timeless and deeply personal.
 
 **Related**: [Read Sunset In The East](/sci-fi-short-stories) - *A collection of mind-bending science fiction short stories by Ben Luxon.*
+
+<button data-buy-book data-title="The Autobiography of Red" data-author="Anne Carson">Buy The Autobiography of Red</button>
 
 ## Final Words: Finding The Best Short Book
 

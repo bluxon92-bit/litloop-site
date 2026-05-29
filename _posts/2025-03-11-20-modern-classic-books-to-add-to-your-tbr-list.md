@@ -27,11 +27,15 @@ These books offer chilling visions of authoritarian rule, propaganda, and loss o
 
 Few books have influenced popular culture as much as *1984*. Orwell’s dystopian masterpiece paints a chilling portrait of a totalitarian regime where surveillance and propaganda are the norm. Its enduring impact on culture and language—think "Big Brother" or "thoughtcrime"—cements its status as a modern classic.
 
+<button data-buy-book data-title="1984" data-author="George Orwell">Buy 1984</button>
+
 #### **2. **[***The Handmaid’s Tale* by Margaret Atwood**](https://amzn.to/3F4LWmc)** (1985)**
 
 A chilling vision of a dystopian future, *The Handmaid’s Tale* explores a society where women’s rights have been stripped away and reproduction is tightly controlled by the state. Atwood’s novel remains a powerful cautionary tale about authoritarianism, gender oppression, and resistance.
 
 **Related**: [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
+
+<button data-buy-book data-title="The Handmaid’s Tale" data-author="Margaret Atwood">Buy The Handmaid’s Tale</button>
 
 ### War and Human Resilience in Modern Classic Books
 
@@ -41,17 +45,25 @@ War stories in modern classics go beyond battlefields, exploring the psychologic
 
 A satirical masterpiece, *Catch-22* takes a darkly comedic look at the absurdities of war and bureaucracy. Its biting critique of authority and logic makes it one of the most influential books of the 20th century.
 
+<button data-buy-book data-title="Catch-22" data-author="Joseph Heller">Buy Catch-22</button>
+
 #### **4. **[***Slaughterhouse-Five* by Kurt Vonnegut**](https://amzn.to/41AWyBX)** (1969)**
 
 This anti-war classic blends science fiction and autobiography to tell the story of Billy Pilgrim, a soldier who becomes "unstuck in time." Vonnegut’s sharp wit and poignant commentary on the absurdity of war make *Slaughterhouse-Five* a timeless critique of humanity’s darker tendencies.
+
+<button data-buy-book data-title="Slaughterhouse-Five" data-author="Kurt Vonnegut">Buy Slaughterhouse-Five</button>
 
 #### **5. **[***The Kite Runner* by Khaled Hosseini**](https://amzn.to/43m6iS2)** (2003)**
 
 Set in Afghanistan, *The Kite Runner* explores themes of friendship, betrayal, and redemption. Hosseini’s deeply emotional storytelling brings the personal and political together in a narrative that is both heart-wrenching and hopeful.
 
+<button data-buy-book data-title="The Kite Runner" data-author="Khaled Hosseini">Buy The Kite Runner</button>
+
 #### **6. **[***Pincher Martin* by William Golding**](https://amzn.to/3DdANPo)** (1956)**
 
 A harrowing and psychological war novel, *Pincher Martin* follows a shipwrecked sailor fighting for survival. As the novel unfolds, it becomes a gripping exploration of guilt, identity, and the fragility of human existence.
+
+<button data-buy-book data-title="Pincher Martin" data-author="William Golding">Buy Pincher Martin</button>
 
 ### Literary Road Trips and Journeys of Self-Discovery
 
@@ -61,9 +73,13 @@ Modern classic books often feature characters embarking on physical and emotiona
 
 This semi-autobiographical novel captures the restless energy of post-war America. Kerouac’s prose flows like a jazz improvisation as he chronicles the travels and philosophies of a group of friends seeking meaning in an uncertain world.
 
+<button data-buy-book data-title="On the Road" data-author="Jack Kerouac">Buy On the Road</button>
+
 #### **8. **[***Life of Pi* by Yann Martel**](https://amzn.to/4imDlJT)** (2001)**
 
 A philosophical and surreal tale, *Life of Pi* follows a boy stranded at sea with a tiger—or is he? The novel constantly challenges the reader’s perception of reality, making it a deeply thought-provoking work.
+
+<button data-buy-book data-title="Life of Pi" data-author="Yann Martel">Buy Life of Pi</button>
 
 #### **9. **[***Train Dreams* by Denis Johnson**](https://amzn.to/4i1sVQa)** (2011)**
 
@@ -73,6 +89,8 @@ A novella about an ordinary man witnessing extraordinary change in early 20th-ce
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/modern-classic-literature-1-_kufiw1.webp)
 
+<button data-buy-book data-title="Train Dreams" data-author="Denis Johnson">Buy Train Dreams</button>
+
 ### Satirical and Absurd Modern Classics
 
 These novels use humor, irony, and absurdity to critique society, politics, and human nature.
@@ -81,13 +99,19 @@ These novels use humor, irony, and absurdity to critique society, politics, and 
 
 A wildly inventive and hilarious sci-fi adventure, Adams’ novel follows hapless Englishman Arthur Dent as he travels through the galaxy after Earth’s destruction. Blending satire, absurd humor, and philosophy, *The Hitchhiker’s Guide to the Galaxy* has become a cultural phenomenon, reminding readers: "Don’t Panic."
 
+<button data-buy-book data-title="The Hitchhiker’s Guide to the Galaxy" data-author="Douglas Adams">Buy The Hitchhiker’s Guide to the Galaxy</button>
+
 #### **11. **[***The Secret History* by Donna Tartt**](https://amzn.to/3R3pi0l)** (1992)**
 
 A dark and gripping tale of ambition and morality, Tartt’s debut novel follows a group of elite students who commit a murder and grapple with its aftermath. Combining psychological depth with a literary thriller’s pace, *The Secret History* is a modern classic that’s impossible to put down.
 
+<button data-buy-book data-title="The Secret History" data-author="Donna Tartt">Buy The Secret History</button>
+
 #### **12. **[***The Metamorphosis* by Franz Kafka**](https://amzn.to/4i0luc1)** (1915)**
 
 Though written in the early 20th century, Kafka’s novella about Gregor Samsa’s transformation into a giant insect remains a cornerstone of modern literature. Its themes of alienation, absurdity, and existential dread continue to resonate with readers worldwide.
+
+<button data-buy-book data-title="The Metamorphosis" data-author="Franz Kafka">Buy The Metamorphosis</button>
 
 ### Love, Loss, and Memory in Modern Classic Books
 
@@ -97,17 +121,25 @@ These novels delve into deep emotions, exploring relationships, regrets, and the
 
 A haunting exploration of slavery’s enduring impact, *Beloved* tells the story of Sethe, a woman haunted by the ghost of her dead child. Morrison’s poetic prose delves deep into pain, identity, and the complexities of motherhood.
 
+<button data-buy-book data-title="Beloved" data-author="Toni Morrison">Buy Beloved</button>
+
 #### **14. **[***The Remains of the Day* by Kazuo Ishiguro**](https://amzn.to/4klQrZD)** (1989)**
 
 This introspective novel follows Stevens, a butler reflecting on his life of service at an English manor. Ishiguro’s masterful narrative examines themes of duty, regret, and the passage of time, creating a deeply human story.
+
+<button data-buy-book data-title="The Remains of the Day" data-author="Kazuo Ishiguro">Buy The Remains of the Day</button>
 
 #### **15. **[***Atonement* by Ian McEwan**](https://amzn.to/4brlpvx)** (2001)**
 
 *Atonement* achieved ‘classic’ status almost immediately, earning critical acclaim and widespread academic study. A novel about love, war, and the consequences of one devastating lie, McEwan crafts a deeply affecting and unforgettable narrative.
 
+<button data-buy-book data-title="Atonement" data-author="Ian McEwan">Buy Atonement</button>
+
 #### **16. **[***Jonathan Livingston Seagull* by Richard Bach**](https://amzn.to/4illUcE)** (1970)**
 
 A philosophical novella about a seagull who longs for freedom beyond the ordinary, Bach’s work explores self-improvement, transcendence, and the pursuit of higher purpose.
+
+<button data-buy-book data-title="Jonathan Livingston Seagull" data-author="Richard Bach">Buy Jonathan Livingston Seagull</button>
 
 ### Post-Apocalyptic and Surreal Modern Classics
 
@@ -117,19 +149,27 @@ Blending speculative fiction with deep philosophical questions, these novels exp
 
 A towering achievement in magical realism, this novel chronicles the Buendía family’s generations in the fictional town of Macondo. Themes of cyclical time, solitude, and the inevitability of history permeate the narrative.
 
+<button data-buy-book data-title="One Hundred Years of Solitude" data-author="Gabriel García Márquez">Buy One Hundred Years of Solitude</button>
+
 #### **18. **[***Kafka on the Shore* by Haruki Murakami**](https://amzn.to/3QJcJak)** (2002)**
 
 Murakami’s unique style blends surrealism, metaphysics, and deep emotion. *Kafka on the Shore* is a beautifully written, dreamlike narrative where talking cats and raining fish are just the beginning.
 
+<button data-buy-book data-title="Kafka on the Shore" data-author="Haruki Murakami">Buy Kafka on the Shore</button>
+
 #### **19. **[***Never Let Me Go* by Kazuo Ishiguro**](https://amzn.to/4i3vUaF)** (2005)**
 
 A poignant exploration of humanity and ethics, *Never Let Me Go* presents a dystopian world where clones are raised for organ donation. Ishiguro’s understated prose and haunting themes make this novel unforgettable.
+
+<button data-buy-book data-title="Never Let Me Go" data-author="Kazuo Ishiguro">Buy Never Let Me Go</button>
 
 #### **20. **[***The Road* by Cormac McCarthy**](https://amzn.to/3Xr1pmZ)** (2006)**
 
 This post-apocalyptic tale of a father and son’s journey through a desolate landscape is both harrowing and deeply moving. McCarthy’s sparse yet powerful prose makes *The Road* an unforgettable meditation on love, survival, and humanity.
 
 **Related**: [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
+
+<button data-buy-book data-title="The Road" data-author="Cormac McCarthy">Buy The Road</button>
 
 ## Modern Classics: Where to Start?
 

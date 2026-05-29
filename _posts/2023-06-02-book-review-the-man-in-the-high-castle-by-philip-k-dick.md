@@ -24,6 +24,8 @@ I can't say that I particularly enjoyed any of the characters in this book. They
 
 The gentleman involved in selling antiques was the only character whose internal monologues felt relatable and showcased some personality traits. He constantly worries about others' opinions of him, panics easily, and struggles to think optimistically within his job. However, overall, if you're looking for characters to fall in love with, this book may disappoint.
 
+<button data-buy-book data-title="The Man in the High Castle" data-author="Philip K. Dick">Buy The Man in the High Castle</button>
+
 ## Summary of The Man in the High Castle - 3.5/5
 
 As evident, I was deeply disappointed by this book. However, as I mentioned earlier, I read it after watching the Amazon Prime series. The TV adaptation explores the potential of this alternate world far more effectively, delving into the politics, danger, and scheming that would inevitably unfold under Nazi rule.
