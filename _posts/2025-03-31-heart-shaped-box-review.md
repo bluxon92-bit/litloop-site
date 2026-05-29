@@ -66,7 +66,7 @@ Hill has since published *NOS4A2*, *The Fireman*, and the *Locke and Key* graphi
 
 **Rating: 4.5/5**
 
-[**Rated 4.3 Stars on Amazon. Buy Heart-Shaped Box here.**](https://amzn.to/heartshaped-box)
+<button data-buy-book data-title="Heart-Shaped Box" data-author="Joe Hill">Buy Heart-Shaped Box</button>
 
 ### You Might Also Like
 

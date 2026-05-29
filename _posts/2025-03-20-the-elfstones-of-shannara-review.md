@@ -64,7 +64,7 @@ No. *The Elfstones of Shannara* is a sequel in the loosest sense — it shares a
 
 **Rating: 4/5**
 
-[**Rated 4.6 Stars on Amazon. Buy The Elfstones of Shannara here.**](https://amzn.to/elfstonesshannara)
+<button data-buy-book data-title="The Elfstones of Shannara" data-author="Terry Brooks">Buy The Elfstones of Shannara</button>
 
 ### You Might Also Like
 

@@ -36,7 +36,7 @@ The investigation format gives Bennett a natural engine for world-revelation —
 
 Sigrud — Shara's bodyguard, a massive and taciturn Dreyling who is considerably more complicated than he appears — is one of the great supporting characters in recent fantasy.
 
-[**Rated 4.3 Stars. Buy City of Stairs on Amazon.**](https://amzn.to/4bLMMSw)
+<button data-buy-book data-title="The Divine Cities Trilogy" data-author="">Buy The Divine Cities Trilogy</button>
 
 ---
 
@@ -46,7 +46,7 @@ The focus shifts to General Turyin Mulaghesh — a secondary character from Book
 
 Bennett makes an interesting choice: rather than follow Shara's continued adventures, he uses Book 2 to examine the cost of empire from a military rather than intelligence perspective. Mulaghesh is a very different protagonist from Shara — more physical, more direct, carrying the specific moral weight of someone who has given orders that got people killed. Her arc is the series' most emotionally difficult.
 
-[**Rated 4.4 Stars. Buy City of Blades on Amazon.**](https://amzn.to/cityofblades)
+<button data-buy-book data-title="The Divine Cities Trilogy" data-author="">Buy The Divine Cities Trilogy</button>
 
 ---
 
@@ -56,7 +56,7 @@ Sigrud takes centre stage. The series' culmination shifts the focus to the most 
 
 The trilogy's larger questions — about colonialism, about what history gets suppressed and why, about what gods actually represent in human psychology — come to a head here, and Bennett's answers are satisfying in the way that conclusions earned across three books tend to be.
 
-[**Rated 4.5 Stars. Buy City of Miracles on Amazon.**](https://amzn.to/cityofmiracles)
+<button data-buy-book data-title="The Divine Cities Trilogy" data-author="">Buy The Divine Cities Trilogy</button>
 
 ---
 
@@ -66,7 +66,7 @@ Genuinely unclear. The trilogy is critically praised, well-constructed, and emot
 
 **Rating: 5/5** for the trilogy as a whole.
 
-[**Buy City of Stairs on Amazon.**](https://amzn.to/cityofstairs)
+<button data-buy-book data-title="The Divine Cities Trilogy" data-author="">Buy The Divine Cities Trilogy</button>
 
 ### You Might Also Like
 

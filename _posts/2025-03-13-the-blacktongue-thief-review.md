@@ -64,7 +64,7 @@ Yes. Particularly if you've been finding recent fantasy a bit samey, or if you w
 
 **Rating: 4.5/5**
 
-[**Rated 4.4 Stars on Amazon. Buy The Blacktongue Thief here.**](https://amzn.to/4rzBIfY)
+<button data-buy-book data-title="The Blacktongue Thief" data-author="">Buy The Blacktongue Thief</button>
 
 ### You Might Also Like
 

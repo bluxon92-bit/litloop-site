@@ -27,7 +27,7 @@ In this list, we take a look at 20 of the best dragon books and book series for 
 
 Set in a fantasy world inspired by Korea's occupation by Japan, where magical automata and sentient animals coexist, Phoenix Extravagant is a wonderful blend of magic and technology. It tells the story of Jebi, a non-binary artist who becomes embroiled in a rebellion against the empire. When the Ministry of Armour recruits them to work on a secret project, Jebi must choose between their art and their morals.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3BwJIXr)
+<button data-buy-book data-title="Phoenix Extravagant" data-author="Yoon Ha Lee">Buy Phoenix Extravagant</button>
 
 ---
 
@@ -37,7 +37,7 @@ Set in a fantasy world inspired by Korea's occupation by Japan, where magical au
 
 Songs of Insurrection by J.C. Kang is a thrilling blend of spy thriller, epic fantasy, and romance. Set in a world where music has the power to influence and even control people, the story follows Princess Kaiya, who possesses a unique ability to harness the power of songs. Seen as nothing more than a figurehead, she is underestimated by the court — but Kaiya refuses to let this hold her back.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/42VYkLP)
+<button data-buy-book data-title="Songs of Insurrection" data-author="J.C. Kang">Buy Songs of Insurrection</button>
 
 ---
 
@@ -49,7 +49,7 @@ For those seeking an immersive epic fantasy experience, look no further than Sam
 
 At the heart of the story is a struggle for power between two opposing forces: the Eastern-inspired Virtudom and the Western-inspired Inys, each with their own religions, customs, and political agendas. Caught in the middle are a cast of compelling characters, including Tane, a dragonrider navigating the politics of her own society, and Ead, a skilled fighter and mage serving as lady-in-waiting to the queen of Inys.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3Bri5ze)
+<button data-buy-book data-title="The Priory of the Orange Tree" data-author="Samantha Shannon">Buy The Priory of the Orange Tree</button>
 
 ---
 
@@ -59,7 +59,7 @@ At the heart of the story is a struggle for power between two opposing forces: t
 
 This high-fantasy tale brims with originality and features a world of dragons and treacherous politics, with stunning illustrations by Lockwood himself. Maia and her family breed dragons for the war effort. As she grows older, she eagerly awaits the opportunity to obtain her own dragon. But her tranquil life is upended when the Summer Dragon — a rare and legendary High Dragon — unexpectedly appears in her quiet valley. With different political factions clamouring for control and the empire embroiled in war, Maia must decide what she's willing to sacrifice.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3o1lvWd)
+<button data-buy-book data-title="The Summer Dragon" data-author="Todd Lockwood">Buy The Summer Dragon</button>
 
 ---
 
@@ -69,7 +69,7 @@ This high-fantasy tale brims with originality and features a world of dragons an
 
 The heart of Dragon Mage beats with the tale of Aram Raythe, a peculiar young boy residing in a humble village who possesses a deep affection for knots and a unique perspective on the world, perceiving everything in vibrant hues. Despite his earnest desire to befriend others, Aram has always been ostracised because of his "difference." Little do they know, his capabilities far exceed their understanding — he harbours an extraordinary power that could challenge even the gods themselves. Dragon Mage is a classic epic fantasy told with a modern voice and a brilliantly written coming-of-age story.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/42HLiC8)
+<button data-buy-book data-title="The Dragon Mage" data-author="M.L. Spencer">Buy The Dragon Mage</button>
 
 ---
 
@@ -79,7 +79,7 @@ The heart of Dragon Mage beats with the tale of Aram Raythe, a peculiar young bo
 
 Drawing inspiration from Zulu lore and history, this novel tells the story of the Omehi, a people who have been mired in a seemingly endless war for close to two hundred years. Among the Omehi are those gifted with the power to command dragons or to metamorphose into wondrous creatures. But for Tau, a young boy without any such abilities, what he does possess is an unwavering drive that will lead him on a treacherous quest for vengeance.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3W1TRF8)
+<button data-buy-book data-title="The Rage of Dragons" data-author="Evan Winter">Buy The Rage of Dragons</button>
 
 ---
 
@@ -89,7 +89,7 @@ Drawing inspiration from Zulu lore and history, this novel tells the story of th
 
 In this thrilling debut, readers are challenged to ponder a weighty question: what holds greater value — the family you were born into or the one you have chosen? Set in a world where dragon riders rule over a class system, Fireborne follows two young riders who must navigate the complexities of their society as they vie for power and confront the truth about their pasts.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/41DjTzV)
+<button data-buy-book data-title="Fireborne" data-author="Rosaria Munda">Buy Fireborne</button>
 
 ---
 
@@ -99,7 +99,7 @@ In this thrilling debut, readers are challenged to ponder a weighty question: wh
 
 This book takes the form of a memoir by Isabella, a Victorian noblewoman who defies gender norms and rises to prominence as a preeminent authority on dragons. The story blends elements of a coming-of-age tale, a critique of societal expectations, and a tribute to pioneering figures like Mary Anning, a palaeontologist from the 19th century. The initial instalment is a delightful read and an excellent introduction to dragon-themed fantasy for readers who may be wary of the genre.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/42zkSCn)
+<button data-buy-book data-title="The Memoirs of Lady Trent" data-author="Marie Brennan">Buy The Memoirs of Lady Trent</button>
 
 ---
 
@@ -109,7 +109,7 @@ This book takes the form of a memoir by Isabella, a Victorian noblewoman who def
 
 In a kingdom where humans and dragons share a fragile co-existence, the body of the crown prince is discovered — with all signs pointing to murder by dragon. Seraphina, a talented young court musician, is drawn into the mystery. However, she has a secret to keep: she is, in fact, a half-dragon! Seraphina must keep her heritage hidden while uncovering a conspiracy that threatens both species.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3nTs8dj)
+<button data-buy-book data-title="The Seraphina Series" data-author="Rachel Hartman">Buy The Seraphina Series</button>
 
 ---
 
@@ -121,7 +121,7 @@ One of the most popular series featuring dragons ever written, A Song of Ice and
 
 However, dragons have been extinct for centuries — that is, until Daenerys, the last of the mad Targaryen house, hatches three dragon eggs. Can dragons tip the balance of power once more?
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/42XnFF1)
+<button data-buy-book data-title="A Song of Ice and Fire" data-author="George R.R. Martin">Buy A Song of Ice and Fire</button>
 
 ---
 
@@ -133,7 +133,7 @@ However, dragons have been extinct for centuries — that is, until Daenerys, th
 
 While their reemergence promises a nostalgic return to the time of the Elderlings and incredible magic, dragons are proud, dangerous, and terrifying creatures who have suffered at the hands of humans. Against all the odds, the cast of characters must uncover the secrets to the mysterious Elderling civilisation and the reason behind the sudden disappearance of the dragons all those centuries ago.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3MrffAr)
+<button data-buy-book data-title="The Realm of the Elderlings" data-author="Robin Hobb">Buy The Realm of the Elderlings</button>
 
 ---
 
@@ -143,7 +143,7 @@ While their reemergence promises a nostalgic return to the time of the Elderling
 
 The Wings of War by Bryce O'Connor is a thrilling dark fantasy series that follows the story of Raz i'Syul Arro, a warrior whose life is forever changed after he is betrayed by those he trusted the most. As Raz struggles to come to terms with his new reality, he finds himself caught up in a war between two powerful factions that threatens to tear apart the entire realm. With battles raging and the fate of the world hanging in the balance, Raz must choose where his loyalties lie and fight for what he believes in.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/42UaC7l)
+<button data-buy-book data-title="The Wings of War" data-author="Bryce O'Connor">Buy The Wings of War</button>
 
 ---
 
@@ -155,7 +155,7 @@ In The Draconis Memories, we follow an orphan boy named Kez who is raised by an 
 
 When he is hired to steal a powerful artefact from the royal palace, Kez finds himself in the midst of a deadly game of politics and betrayal — and begins to uncover secrets about his own past that will change everything he thought he knew about himself.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3IakNg8)
+<button data-buy-book data-title="The Draconis Memories" data-author="Anthony Ryan">Buy The Draconis Memories</button>
 
 ---
 
@@ -165,7 +165,7 @@ When he is hired to steal a powerful artefact from the royal palace, Kez finds h
 
 Margaret Weis and Tracy Hickman are known for their contributions to the world of fantasy fiction, and the Dragonships of Vindras series is no exception. Set in a world where dragons are revered and feared, the series follows the journey of two brothers who must rise to the occasion and protect their people from a terrible threat.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3nTg8IR)
+<button data-buy-book data-title="The Dragonships of Vindras" data-author="Margaret Weis and Tracy Hickman">Buy The Dragonships of Vindras</button>
 
 ---
 
@@ -175,7 +175,7 @@ Margaret Weis and Tracy Hickman are known for their contributions to the world o
 
 The Dragonrealm series by Richard A. Knaak is a classic in the world of dragon literature. It features a world where humans and dragons coexist, but the relationship between them is far from peaceful. With intricate world-building and memorable characters, this series is a must-read for any dragon enthusiast.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3W23BiA)
+<button data-buy-book data-title="The Dragonrealm" data-author="Richard A. Knaak">Buy The Dragonrealm</button>
 
 ---
 
@@ -187,7 +187,7 @@ Anne McCaffrey's Dragonriders of Pern series is a beloved classic of the fantasy
 
 In the far future, humans have colonised a planet called Pern, which is protected by dragons and riders known as Weyrs. The series follows a group of dragon riders as they fight against a deadly menace known as Thread. With vivid descriptions of dragon flight and intricate world-building, this series is a must-read for any dragon lover.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3M6rl0q)
+<button data-buy-book data-title="The Dragonriders of Pern" data-author="Anne McCaffrey">Buy The Dragonriders of Pern</button>
 
 ---
 
@@ -197,7 +197,7 @@ In the far future, humans have colonised a planet called Pern, which is protecte
 
 The Age of Fire series by E.E. Knight is a unique take on dragon literature, casting the dragons as the protagonists in their own story. Auron is a dragon hatchling who has been captured and separated from his family. To save his race from a warlord who uses dragons to fight his battles, Auron must infiltrate his army by volunteering as a fighter, navigating a dangerous world filled with conflict and betrayal. With vivid descriptions of dragon culture and complex characters, this series is a standout in the genre.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3pvVDCc)
+<button data-buy-book data-title="The Age of Fire" data-author="E.E. Knight">Buy The Age of Fire</button>
 
 ---
 
@@ -207,7 +207,7 @@ The Age of Fire series by E.E. Knight is a unique take on dragon literature, cas
 
 The Deverry Cycle by Katharine Kerr is a sprawling epic that spans multiple generations. It features a world where dragons and humans coexist, but the relationship between them is far from harmonious. With intricate world-building and complex characters, this series is a must-read for any fantasy fan.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3nYqoiM)
+<button data-buy-book data-title="The Deverry Cycle" data-author="Katharine Kerr">Buy The Deverry Cycle</button>
 
 ---
 
@@ -217,7 +217,7 @@ The Deverry Cycle by Katharine Kerr is a sprawling epic that spans multiple gene
 
 The Dragon Quartet by Marjorie B. Kellogg is a classic in the world of dragon literature. Set in a world where dragons are revered and feared, the series follows the journey of a young boy who befriends a dragon and must protect it from those who seek to harm it. With vivid descriptions of dragonflight and intricate world-building, this series is a must-read for any dragon enthusiast.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/42VMJMU)
+<button data-buy-book data-title="The Dragon Quartet" data-author="Marjorie B. Kellogg">Buy The Dragon Quartet</button>
 
 ---
 
@@ -227,7 +227,7 @@ The Dragon Quartet by Marjorie B. Kellogg is a classic in the world of dragon li
 
 Set during the Napoleonic Wars, Temeraire is an alternate history series where dragons are used as weapons of war. Captain Will Laurence unexpectedly becomes the captain of a rare Chinese dragon, Temeraire, and the two form an unlikely bond. Together they face battles, political intrigue, and dragon mutinies. As they prepare for their next mission, a shadowy figure from Laurence's past appears with a shocking revelation that threatens to tear apart their partnership and change the course of the war.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3O45xFw)
+<button data-buy-book data-title="Temeraire" data-author="Naomi Novik">Buy Temeraire</button>
 
 ---
 

@@ -45,7 +45,7 @@ I must mention that both Achilles and Patroclus are endearing characters, while 
 
 Whether you have an inclination toward romance, historical fiction, or fantasy, pick up this book and immerse yourself in its enchanting narrative.
 
-[**Rated 4.6 Stars on Amazon and 4.4 Stars on Good Reads. Buy on Amazon.**](https://amzn.to/42XGRSK)
+<button data-buy-book data-title="The Song of Achilles" data-author="Madeline Miller">Buy The Song of Achilles</button>
 
 ---
 

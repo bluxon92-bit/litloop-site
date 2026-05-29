@@ -55,7 +55,7 @@ Sam Vimes and the Ankh-Morpork City Watch. For my money, the best arc in the ser
 7. *Thud!* (2005)
 8. *Snuff* (2011)
 
-[**Buy Guards! Guards! on Amazon**](https://amzn.to/47UIbLx)
+<button data-buy-book data-title="The Watch / City Watch" data-author="Terry Pratchett's Discworld: Where To Start">Buy The Watch / City Watch</button>
 
 ---
 
@@ -70,7 +70,7 @@ Granny Weatherwax, Nanny Ogg, and eventually Tiffany Aching. These books are abo
 5. *Maskerade* (1995)
 6. *Carpe Jugulum* (1998)
 
-[**Buy Equal Rites on Amazon**](https://amzn.to/4c1Xbto)
+<button data-buy-book data-title="The Witches" data-author="Terry Pratchett's Discworld: Where To Start">Buy The Witches</button>
 
 ---
 
@@ -84,7 +84,7 @@ Death as a fully realised character — dry, curious, compassionate, and endless
 4. *Hogfather* (1996)
 5. *Thief of Time* (2001)
 
-[**Buy Mort on Amazon**](https://amzn.to/4saC5hD)
+<button data-buy-book data-title="Death" data-author="Terry Pratchett's Discworld: Where To Start">Buy Death</button>
 
 ---
 
@@ -112,7 +112,7 @@ Technically Young Adult, but don't let that put you off. Tiffany is a young witc
 4. *I Shall Wear Midnight* (2010)
 5. *The Shepherd's Crown* (2015) — Pratchett's final novel
 
-[**Buy The Wee Free Men on Amazon**](https://amzn.to/41ozllz)
+<button data-buy-book data-title="Tiffany Aching" data-author="Terry Pratchett's Discworld: Where To Start">Buy Tiffany Aching</button>
 
 ---
 
@@ -124,7 +124,7 @@ A con man drafted into running Ankh-Morpork's Post Office, then its Mint, then i
 2. *Making Money* (2007)
 3. *Raising Steam* (2013)
 
-[**Buy Going Postal on Amazon**](https://amzn.to/3Nq4FgC)
+<button data-buy-book data-title="Moist von Lipwig" data-author="Terry Pratchett's Discworld: Where To Start">Buy Moist von Lipwig</button>
 
 ---
 
@@ -139,7 +139,7 @@ Several Discworld novels don't fit neatly into any sub-series and can be read at
 - *Monstrous Regiment* (2003)
 - *Unseen Academicals* (2009)
 
-[**Buy Small Gods on Amazon**](https://amzn.to/3NTDzP0)
+<button data-buy-book data-title="Standalone Novels" data-author="Terry Pratchett's Discworld: Where To Start">Buy Standalone Novels</button>
 
 ---
 

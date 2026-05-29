@@ -41,7 +41,7 @@ A Talent for War epitomizes the fusion of science fiction and mystery. Rather th
 
 While some critics argue that this may not be McDevitt's finest literary work, it undeniably stands as his most renowned, establishing a captivating foundation for a series of highly regarded sequels.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/45SSn4w)
+<button data-buy-book data-title="A Talent for War" data-author="Jack McDevitt – 1989">Buy A Talent for War</button>
 
 ---
 
@@ -55,7 +55,7 @@ And the first book in the Vorkosigan Saga is Shards of Honor. The story revolves
 
 Bujold skillfully weaves together elements of romance, action, and political intrigue to create a rich and immersive narrative that serves as a powerful introduction to the Vorkosigan Saga, setting the stage for the epic adventures that follow in this beloved science fiction series.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3oTKc7m)
+<button data-buy-book data-title="Shards of Honor" data-author="Lois McMaster Bujold – 1988">Buy Shards of Honor</button>
 
 ---
 
@@ -71,7 +71,7 @@ When house Atreides falls to a traitorous plot, Paul must get revenge, and in so
 
 Dune is the world’s best-selling science fiction novel of all time and is described by some as the Lord of the Rings of science fiction. If you’ve never read a science fiction book before, don’t start here, but it is worth a read when you get to it.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3NiStLL)
+<button data-buy-book data-title="Dune" data-author="Frank Herbert – 1965">Buy Dune</button>
 
 ---
 
@@ -85,7 +85,7 @@ Within the pages of Ender's Game, readers are immersed in a world where young mi
 
 The novel achieved remarkable acclaim, earning both the prestigious Hugo and Nebula awards. However, not all reviews were unanimous in their praise. The New York Times, in particular, likened the plot to a subpar science-fiction movie, evoking imagery of a low-budget, made-for-television production.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/43riWvY)
+<button data-buy-book data-title="Ender’s Game" data-author="Orson Scott Card – 1985">Buy Ender’s Game</button>
 
 ---
 
@@ -97,7 +97,7 @@ In Foundation, Asimov builds a new branch of science, Psychohistory. Using stati
 
 Foundation then covers the beginning of the Galactic Empire’s collapse, and one man’s plan to return civilization to the light.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3oIwe8B)
+<button data-buy-book data-title="Foundation" data-author="Isaac Asimov – 1951">Buy Foundation</button>
 
 **You may also like **[The 10 Best Isaac Asimov Books To Read Today](https://www.litloop.co/blog/best-isaac-asimov-books)
 
@@ -111,7 +111,7 @@ Within the pages of Gateway, Pohl's adept storytelling transports readers to a w
 
 The scope of Gateway expands to grand proportions, allowing readers to immerse themselves in a narrative that feels like a sweeping cinematic adventure. Pohl's skilful balance of vulnerability, excitement, and mystery creates an atmosphere that keeps readers eagerly turning the pages.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3oHavhi)
+<button data-buy-book data-title="Gateway" data-author="Frederik Pohl – 1977">Buy Gateway</button>
 
 ---
 
@@ -123,7 +123,7 @@ Another story that I doubt needs much introduction. The genius of Douglas Adams 
 
 The story follows Arthur Dent who is rescued after the demolition of the Earth by a Vogon constructor fleet to make way for a hyperspace bypass. Dent goes from absurd adventure to absurd adventure as he travels the galaxy, barely surviving, and accompanied by a depressed robot.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3WRMiRK)
+<button data-buy-book data-title="Hitchhiker’s Guide to the Galaxy" data-author="Douglas Adams – 1979">Buy Hitchhiker’s Guide to the Galaxy</button>
 
 ---
 
@@ -139,7 +139,7 @@ Amidst an imminent Armageddon, with the galaxy engulfed in an all-encompassing w
 
 This epic tale is a testament to the power of the human spirit and the weight of choices that shape the course of civilizations.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3WQ1fE5)
+<button data-buy-book data-title="Hyperion" data-author="Dan Simmons – 1989">Buy Hyperion</button>
 
 ---
 
@@ -151,7 +151,7 @@ In the expansive universe of Peter F. Hamilton's Pandora's Star, humanity has ex
 
 With this backdrop of advanced space exploration and colonization, Hamilton delivers an exhilarating new opus that defies preconceived notions by proving that "intelligent space opera" is far from an oxymoron.
 
-[**Rated 4.4 Stars. buy on Amazon.**](https://amzn.to/3MTswAW)
+<button data-buy-book data-title="Pandora’s Star" data-author="Peter F. Hamilton – 2004">Buy Pandora’s Star</button>
 
 ---
 
@@ -163,7 +163,7 @@ In a colonized solar system, Jim Holden and his crew discover a secret on an aba
 
 As they navigate the complexities of Earth's government, Outer Planet revolutionaries, and secretive corporations, their small ship holds the power to shape the universe's fate. Written by James S.A. Corey (Daniel Abraham and Ty Franck), this gripping space opera blends political intrigue and personal quests in a thrilling tale.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3Cmq0y1)
+<button data-buy-book data-title="Leviathan Wakes" data-author="James S.A. Corey – 2011">Buy Leviathan Wakes</button>
 
 ---
 
@@ -175,7 +175,7 @@ Set in the year 2010, Earth is on the brink of devastation due to ecological dam
 
 If you enjoy this book, you will also find pleasure in the second installment of the series, Manifold: Space by Stephen Baxter.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/45Rgz7p)
+<button data-buy-book data-title="Manifold: Time" data-author="Stephen Baxter – 1999">Buy Manifold: Time</button>
 
 ---
 
@@ -189,7 +189,7 @@ Amidst the chaos, a family of scientists, accompanied by their two children, is 
 
 This enthralling science fiction saga explores the consequences of wielding unimaginable power, the clash of civilizations, and the resilience of individuals in the face of overwhelming challenges. It delves into the complexities of alien cultures, the bonds of family, and the quest for freedom in a universe gripped by turmoil.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/3OXtoHc)
+<button data-buy-book data-title="A Fire Upon the Deep" data-author="Vernor Vinge – 1992">Buy A Fire Upon the Deep</button>
 
 ---
 
@@ -201,7 +201,7 @@ In a bittersweet development, humanity has finally ventured into interstellar sp
 
 On his 75th birthday, John Perry embarks on a momentous journey. He begins by visiting his late wife's grave and then makes the life-altering decision to join the CDF. With only a vague notion of what awaits him, John is ill-prepared for the actual battle, light-years away from home. The reality he will face is far more arduous than he could have ever imagined, and the transformation he undergoes will be nothing short of extraordinary.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3qqI0Vr)
+<button data-buy-book data-title="Old Man’s War" data-author="John Scalzi – 2005">Buy Old Man’s War</button>
 
 ---
 
@@ -215,7 +215,7 @@ The story unfolds with the sudden appearance of an immense and enigmatic cylindr
 
 Rendezvous with Rama captivates readers with its rapid pace, enthralling storyline, and thought-provoking exploration of humanity's encounter with the unknown. Clarke's masterful narrative skill makes this book an essential read for science fiction enthusiasts, offering a thrilling and mesmerizing journey into the depths of the cosmos.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/43DQkja)
+<button data-buy-book data-title="Rendezvous with Rama" data-author="Arthur C. Clarke – 1973">Buy Rendezvous with Rama</button>
 
 **Read our book review of** [The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke).
 
@@ -231,7 +231,7 @@ Amidst a galaxy teeming with possibilities, a lone individual embarks on a quest
 
 Within Reynolds's narrative, the dominance of artificial intelligence in the future casts an unsettling chill upon the dark void that stretches between the stars.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3oIEJR3)
+<button data-buy-book data-title="Revelation Space" data-author="Alastair Reynolds – 2000">Buy Revelation Space</button>
 
 ---
 
@@ -243,7 +243,7 @@ This is undoubtedly my favourite book by Iain M. Banks. The Player of Games is t
 
 On the surface, this story is simply about a man looking for a new challenge. However, it’s filled with political intrigue and dangerous manipulation and set in Iain M. Banks's wonderfully complex and beautifully comprehensive Culture universe making it an absolute must-read for space opera fans.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/45PfRaG)
+<button data-buy-book data-title="The Player Of Games" data-author="Iain M. Banks – 2004">Buy The Player Of Games</button>
 
 ---
 
@@ -255,7 +255,7 @@ In a thrilling tale of redemption and fortune, a disillusioned treasure hunter a
 
 United by their shared desire, they set out to navigate the vast expanse of the universe, hoping to discover what they seek. Together, they face the challenges of their pasts and the mysteries of the cosmos, forging a bond that may lead them to the answers they've been searching for in this vast and extraordinary universe.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/43GC4qh)
+<button data-buy-book data-title="A Big Ship at the Edge of the Universe" data-author="Alex White - 2018">Buy A Big Ship at the Edge of the Universe</button>
 
 ---
 
@@ -267,7 +267,7 @@ Arguably the pinnacle of Stanislaw Lem's remarkable career, Solaris stands as a 
 
 As Kelvin and his fellow scientists investigate further, they discover that the ocean of Solaris possesses the ability to materialize repressed memories, leaving them to question its purpose and forcing them to redirect their quest. In their pursuit of understanding the vast universe, they come to realize that comprehending the enigma within their own hearts is an essential step on the path to true enlightenment.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/3WTfJCZ)
+<button data-buy-book data-title="Solaris" data-author="Stanislaw Lem – 1961">Buy Solaris</button>
 
 ---
 
@@ -281,7 +281,7 @@ As time dilates and the ship approaches relativistic speeds, the crew faces the 
 
 Poul Anderson skillfully weaves hard science into a gripping narrative, delving into the psychological and philosophical ramifications of a voyage that transcends the boundaries of time and space.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/3WXv5X9)
+<button data-buy-book data-title="Tau Zero" data-author="Poul Anderson – 1970">Buy Tau Zero</button>
 
 ---
 
@@ -295,7 +295,7 @@ On the uncharted aquatic planet of Kithrup, the Terran vessel Streaker crashes, 
 
 Startide Rising, the Hugo and Nebula award-winning sequel, immerses readers in a richly imagined world teeming with intrigue and adventure. While it is the second book in the Uplift series, many consider it a standalone gem, suggesting that the first book, Sundiver, can be safely bypassed. Prepare to embark on a thrilling journey of discovery and preservation that will expand your understanding of the Uplift universe.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3WXqK6y)
+<button data-buy-book data-title="Startide Rising" data-author="David Brin – 1983">Buy Startide Rising</button>
 
 ---
 
@@ -305,7 +305,7 @@ Startide Rising, the Hugo and Nebula award-winning sequel, immerses readers in a
 
 In a spacefaring civilization where cities thrive within living spaceships, the future ruler of the matriarchal line, Seske, remains unaware of the society’s impending collapse. Confident in the continuity of their way of life, she envisions a lasting future for her people. However, Seske's beliefs are shaken when she learns that the very creatures her civilization depends on for survival are on the brink of extinction. Complicit in their plight, Seske faces a crucial dilemma: finding a path for her people to coexist harmoniously with both these endangered creatures and their fellow spacefarers, without causing their destruction. Seske embarks on a quest for reconciliation, seeking a way to ensure the survival of all while preserving the unique symbiosis that sustains their fragile existence.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3NqTDF7)
+<button data-buy-book data-title="Escaping Exodus" data-author="Nicky Drayden - 2019">Buy Escaping Exodus</button>
 
 ---
 
@@ -317,7 +317,7 @@ Among Becky Chambers's captivating Wayfarer books, one stands out as a personal 
 
 Set in an intergalactic rest station, the story unfolds with an intriguing all-alien cast, stranded together and navigating the complexities of their shared predicament. Prepare for an unforgettable journey within the pages of this remarkable novel.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3Ne5OVx)
+<button data-buy-book data-title="The Galaxy, And The Ground Within" data-author="Becky Chambers - 2021">Buy The Galaxy, And The Ground Within</button>
 
 ---
 
@@ -329,7 +329,7 @@ In a tale of star-crossed lovers, the planet Thea faces unrest when an arranged 
 
 Amid their growing affection and intricate political schemes, the task at hand becomes increasingly daunting. Can they navigate the complexities of their feelings and the web of intrigue to salvage their lives and bring justice?
 
-[**Rated 4..4 Stars. buy on Amazon.**](https://amzn.to/43oopDS)
+<button data-buy-book data-title="Winter’s Orbit" data-author="Everina Maxwell -2021">Buy Winter’s Orbit</button>
 
 ---
 
@@ -341,7 +341,7 @@ Kel Cheris, a war veteran tarnished by disgrace, is offered a chance at redempti
 
 With the fate of an unwinnable war hanging in the balance, Kel reluctantly teams up with a treacherous general, willing to take calculated risks in pursuit of victory and a shot at redemption.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3WWsLQs)
+<button data-buy-book data-title="Ninefox Gambit" data-author="Yoon Ha Lee - 2016">Buy Ninefox Gambit</button>
 
 **You might also like** [The Best Dragon Books For Adults](https://www.litloop.co/blog/best-dragon-books) **featuring Phoenix Extravagant by Yoon Ha Lee**
 
@@ -355,7 +355,7 @@ In the midst of interstellar conflict, humanity faces a formidable adversary kno
 
 Enter Rydra Wong, a poet and linguist, who possesses the unwavering resolve to decipher the mysterious alien language and neutralize this grave menace that looms over humanity. In "Babel-17" by Samuel R. Delany, the power of words becomes the ultimate weapon against mankind's greatest peril.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/3IXQrxK)
+<button data-buy-book data-title="Babel-17" data-author="Samuel R. Delaney">Buy Babel-17</button>
 
 ---
 

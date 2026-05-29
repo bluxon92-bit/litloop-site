@@ -15,7 +15,7 @@ permalink: /blog/30-best-books-for-entreprenuers/
 
 Zero to One, by investor and entrepreneur Peter Thiel,  is all about teaching people the importance of thinking for yourself. The next Mark Zuckerberg isn’t going to build a new social media channel. Rather they are going to think outside the box, and instead of building on current ideas, they will develop entirely new way of thinking. Instead of competing in a ruthless marketplace, create and own a new market place.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3pxwqHw)
+<button data-buy-book data-title="Zero to One - Peter Thiel" data-author="">Buy Zero to One - Peter Thiel</button>
 
 ---
 
@@ -25,7 +25,7 @@ If you’ve ever had an idea for a new product or service but something stopped 
 
 The Innovator's Method outlines how to take those next steps. The authors Nathan Furr and Jeff Dyer cover detail a set of tools, that allow agile business development without the costly price tag. Furr and Dyer have developed in this book an complete process, from beginning to end, for creating, refining, and bringing ideas to market.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3BqESLr)
+<button data-buy-book data-title="The Innovator's Method - Nathan Furr, Jeff Dyer" data-author="">Buy The Innovator's Method - Nathan Furr, Jeff Dyer</button>
 
 ---
 
@@ -37,7 +37,7 @@ A collection of interviews gathered by Jessica Livingstone with founders from no
 
 She asks vital questions like: Where did they get the ideas that made them rich? How did they convince investors to back them? What went wrong, and how did they recover?
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3IcUKVP)
+<button data-buy-book data-title="Founders at Work - Jessica Livingstone" data-author="">Buy Founders at Work - Jessica Livingstone</button>
 
 ---
 
@@ -47,7 +47,7 @@ She asks vital questions like: Where did they get the ideas that made them rich?
 
 Crossing the Chasm addresses the difference between early adopters of new technology and the early majority. The early adopters are those that are willing to sacrifice for the advantage of being first, though they can’t be sure if the technology will work for them they are willing to take the risk and maybe reap the biggest rewards. The early majority wait until they are sure of the value of the technology. The challenge for innovators, marketers and new business owners is crossing that chasm between being an early majority and taking the chance for the advantage of being part of the early adopters.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3Mu09KJ)
+<button data-buy-book data-title="Crossing the Chasm - Geoffrey a. Moore" data-author="">Buy Crossing the Chasm - Geoffrey a. Moore</button>
 
 ---
 
@@ -55,7 +55,7 @@ Crossing the Chasm addresses the difference between early adopters of new techno
 
 Iconic businessman, owner of Virgin, shares his personal secrets of success. Outlining invaluable lessons he learnt first hand over the course of his career. He looks at how he got to where he is and where he thinks he will take his career next.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3o9vdps)
+<button data-buy-book data-title="Screw it, Let’s Do It - Richard Branson" data-author="">Buy Screw it, Let’s Do It - Richard Branson</button>
 
 ---
 
@@ -65,7 +65,7 @@ Iconic businessman, owner of Virgin, shares his personal secrets of success. Out
 
 Blake Mycoskie, owner of Toms Shoes, one of the fastest-growing footwear companies, shares the story of how he build a multi-billion company in less than ten years, developing a new business model of success. He explores some of the challenges and the psychological mindset you have to have to create a fast growing successful startup.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3pGlXtt)
+<button data-buy-book data-title="Start Something that Matters - Blake MyCoskie" data-author="">Buy Start Something that Matters - Blake MyCoskie</button>
 
 ---
 
@@ -77,7 +77,7 @@ Rob Kornblum shows this through dozens of interviews with mid-life founders. He 
 
 He shows how your years of experience in business will be of vital importance to your success.
 
-[**Rated 4.4 Stars. Buy on Amazon**](https://amzn.to/3Ib940Y)
+<button data-buy-book data-title="Never too late to startup - Rob Kornblum" data-author="">Buy Never too late to startup - Rob Kornblum</button>
 
 ---
 
@@ -87,7 +87,7 @@ He shows how your years of experience in business will be of vital importance to
 
 Told in his concise style, Robert Greene builds on his previous work The 48 Laws of Power to provide a developed, practical guide to achieving success with your business. We are all individuals he says, and as such we all of us have a unique view of the world. First we must understand all the rules of the game, and then we must use our uniqueness to change the rules creating original ideas to achieve your potential.
 
-[**Rated 4.7 Stars. Buy on Amazon**](https://amzn.to/41F5Aux)**.**
+<button data-buy-book data-title="Mastery - Robert Greene" data-author="">Buy Mastery - Robert Greene</button>
 
 ---
 
@@ -95,7 +95,7 @@ Told in his concise style, Robert Greene builds on his previous work The 48 Laws
 
 *The Power of Habit* explores how the wrong or right habits can ultimately affect the success or failure of your business. Duhigg looks at great men, from record-breaking Olympic gold medalist Michael Phelps to the CEO of Starbucks exploring the results that their keystone habits have helped them achieve. The right habits can mean the difference between billions and complete failure.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/42C9llQ)
+<button data-buy-book data-title="The Power of Habit - Charles Duhigg" data-author="">Buy The Power of Habit - Charles Duhigg</button>
 
 ---
 
@@ -105,7 +105,7 @@ Told in his concise style, Robert Greene builds on his previous work The 48 Laws
 
 Why do people say yes? Dr. Robert Cialdini is an expert of the psychology behind persuasion and influence. In this book he outlines the six universal principles that he has uncovered in his 35 years of rigorous evidence-based research into just why people make the decisions they do and how they can be influenced. When it comes to creating a successful business, knowing these tricks on influence could make all the difference and completely change how you approach your business.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3BqPbPG)
+<button data-buy-book data-title="Influence the Psychology of Persuasion - Robert Cialdini" data-author="">Buy Influence the Psychology of Persuasion - Robert Cialdini</button>
 
 ---
 
@@ -115,7 +115,7 @@ Why do people say yes? Dr. Robert Cialdini is an expert of the psychology behind
 
 This book is filled with sharp useful advice for anyone moving into a leadership position, whether that’s taking on your own business or just moving up the food chain in your company. Michael Watkins continuously reminds the reader that you don’t just ‘find’ the answer, you have to figure it out, you have to work for it. This book shows you how, and will help the reader get ahead of the game.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3obeHW1)
+<button data-buy-book data-title="The First 90 Days - Michael Watkins" data-author="">Buy The First 90 Days - Michael Watkins</button>
 
 ---
 
@@ -147,7 +147,7 @@ Eric Ries describes the avoidable reasons so many startups fail. It is all about
 
 Nir Eyal explores some integral questions startups have to ask. Why do certain products capture consumer attention? What is it about those engaging products that captivates people? Once you know the answer to these questions you can begin to use the answers in your own business. This book offers practical insights and actionable steps to create attention grabbing products that people love.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3I9mXwA)
+<button data-buy-book data-title="Hooked - Nir Eyal" data-author="">Buy Hooked - Nir Eyal</button>
 
 ---
 
@@ -179,7 +179,7 @@ The Internet has opened up and given everybody access to unparalleled resources,
 
 Atul Gawande makes an argument that everyone should use the simplest method to organise and deliver our thoughts. A checklist. He outlines the striking improvements in efficiency and productivity that a powerful checklist will develop, helping you succeed.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3pIM8Qn)
+<button data-buy-book data-title="The Checklist Manifesto - Atul Gawande" data-author="">Buy The Checklist Manifesto - Atul Gawande</button>
 
 ---
 
@@ -213,7 +213,7 @@ This book teaches how to quickly and effectively build a loyal growing customer 
 
 David Schwartz, P.H.D. has his advice rooted deeply in psychology. He argues, drawing on illuminating anecdotes, that you don’t need some incredible innate talent or intellect to be successful, rather you need to understand habitual thinking and behaviours.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/453p5jh)
+<button data-buy-book data-title="The Magic of Thinking Big – David Schwartz" data-author="">Buy The Magic of Thinking Big – David Schwartz</button>
 
 ---
 
@@ -229,7 +229,7 @@ It’s the little decisions that make the final decision. *The Compound Effect* 
 
 Drawing on examples from literature to philosophy *Ego is the Enemy *offers analysis of how some of the highest achieving historical figures achieved their success and how we can adopt their strategies and tactics as our own.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/41JKMBX)
+<button data-buy-book data-title="Ego is the Enemy – Ryan Holiday" data-author="">Buy Ego is the Enemy – Ryan Holiday</button>
 
 ---
 
@@ -245,7 +245,7 @@ This book breaks down how to plot your course from the beginning and effectively
 
 This is a detailed guide on how you can launch your next product. In it you learn everything from evaluating your business idea to best ways to market a business, and building a customer base quickly and cost-efficiently. Drawing from real-life experiences, this book aims to outline how to quickly and easily launch a successful business, avoiding those common pitfalls that often scuttle new startups.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3OcBPOr)
+<button data-buy-book data-title="The Seven Day Startup - Dan Norris" data-author="">Buy The Seven Day Startup - Dan Norris</button>
 
 ---
 
@@ -273,4 +273,4 @@ Steve Case, the internet pioneer behind the company AOL argues that there is a t
 
 In The Third Wave, he uses his insights garnered from nearly four decades of working as an innovator, investor, and businessman to argue the importance of entrepreneurship and to chart a path for future innovators.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/454N4OY)
+<button data-buy-book data-title="The Third Wave - Steve Case" data-author="">Buy The Third Wave - Steve Case</button>

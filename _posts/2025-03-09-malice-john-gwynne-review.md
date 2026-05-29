@@ -61,7 +61,7 @@ The full quartet is outstanding. *Malice* is the worthy first chapter.
 
 **Rating: 4/5**
 
-[**Rated 4.4 Stars on Amazon. Buy Malice here.**](https://amzn.to/4rzBLZc)
+<button data-buy-book data-title="Malice" data-author="John Gwynne">Buy Malice</button>
 
 ### You Might Also Like
 

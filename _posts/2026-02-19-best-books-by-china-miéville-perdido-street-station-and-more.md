@@ -39,7 +39,7 @@ As Isaac delves deeper into his research, he becomes embroiled in a web of intri
 
 Perdido Street Station is a thrilling and immersive read, with a [richly-detailed world](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building) and [complex characters](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile). Miéville skilfully weaves together multiple plot threads into a cohesive and satisfying whole.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/3BqUoXy)
+<button data-buy-book data-title="Perdido Street Station" data-author="China Miéville">Buy Perdido Street Station</button>
 
 ---
 
@@ -53,7 +53,7 @@ Armada is a city unlike any other, built from the remains of countless ships and
 
 One of the standout aspects of The Scar is the world-building — rich, detailed, and filled with strange and wonderful creatures and a host of intriguing cultures and societies.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3O8QEld)
+<button data-buy-book data-title="The Scar" data-author="China Miéville">Buy The Scar</button>
 
 ---
 
@@ -69,7 +69,7 @@ Unexpected tensions between the humans and the Hosts are sparked when a new Amba
 
 Embassy Town is a thought-provoking and imaginative novel exploring themes of language, identity, and colonialism.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3MlVZEn)
+<button data-buy-book data-title="Embassy Town" data-author="China Miéville">Buy Embassy Town</button>
 
 **Fans of China Miéville might also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
 

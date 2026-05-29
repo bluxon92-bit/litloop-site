@@ -36,31 +36,31 @@ These are the books that define his career and that most serious readers would c
 
 A failed writer takes a winter caretaker job at a remote hotel with his wife and young son. The hotel is haunted in a way that finds and amplifies exactly what's worst in each of them. Jack Torrance's deterioration is King writing at his most psychologically precise. The horror works because the family dynamics work first.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/stephenking-shining)
+<button data-buy-book data-title="The Shining" data-author="Stephen King">Buy The Shining</button>
 
 ### IT (1986)
 
 The masterpiece. Childhood, memory, friendship, and one of the most effective monsters in fiction. [Full review here.](https://www.litloop.co/blog/stephen-king-it-review)
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/stephenking-it)
+<button data-buy-book data-title="IT" data-author="Stephen King">Buy IT</button>
 
 ### Misery (1987)
 
 A novelist is rescued from a car crash by his self-described number one fan. She's read all his books. She has opinions about the most recent one. A masterclass in sustained dread with only two characters and a single location. King's most tightly constructed novel.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/stephenking-misery)
+<button data-buy-book data-title="Misery" data-author="Stephen King">Buy Misery</button>
 
 ### The Stand (1978, extended edition 1990)
 
 A pandemic kills most of humanity. The survivors sort themselves into two camps — good and evil, essentially — and prepare for a final confrontation. Enormous, sprawling, deeply American, and among the most ambitious things King has attempted. Start with the uncut version.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/stephenking-thestand)
+<button data-buy-book data-title="The Stand" data-author="Stephen King">Buy The Stand</button>
 
 ### Pet Sematary (1983)
 
 Possibly King's most disturbing novel, which given the competition is a significant claim. A family moves to a house beside a very busy road. The local children have a burial ground in the woods for pets. The ground has other properties. This is the book King reportedly felt went too far. He published it anyway.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/stephenking-petsematary)
+<button data-buy-book data-title="Pet Sematary" data-author="Stephen King">Buy Pet Sematary</button>
 
 ---
 
@@ -74,7 +74,7 @@ The short version: yes, with caveats. Books one through four are exceptional. Bo
 
 Start with **The Gunslinger** and give it three books before making a judgement.
 
-[**Buy The Gunslinger on Amazon.**](https://amzn.to/stephenking-gunslinger)
+<button data-buy-book data-title="The Dark Tower Series" data-author="Stephen King">Buy The Dark Tower Series</button>
 
 ---
 
@@ -97,7 +97,7 @@ King's post-accident output (post-2000) is more uneven but has produced several 
 
 **11/22/63** (2011) — a time-travel novel about preventing JFK's assassination. King's most ambitious structural achievement outside The Dark Tower. One of his best.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/stephenking-112263)
+<button data-buy-book data-title="Later Career Highlights" data-author="Stephen King">Buy Later Career Highlights</button>
 
 **Doctor Sleep** (2013) — the sequel to *The Shining*, following Danny Torrance as an adult. Better than it has any right to be.
 

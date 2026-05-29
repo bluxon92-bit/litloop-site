@@ -63,7 +63,7 @@ If you ever get the chance to see the stage production — do that rather than r
 
 **Rating: 3/5**
 
-[**Rated 3.7 Stars on Amazon. Buy Harry Potter and the Cursed Child here.**](https://amzn.to/cursedchild)
+<button data-buy-book data-title="Harry Potter and the Cursed Child" data-author="">Buy Harry Potter and the Cursed Child</button>
 
 ### You Might Also Like
 

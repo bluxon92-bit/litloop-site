@@ -56,7 +56,7 @@ If you've read the first three Stormlight books, this is not optional. Read it.
 
 **Rating: 4.5/5**
 
-[**Rated 4.7 Stars on Amazon. Buy Rhythm of War here.**](https://amzn.to/rhythmofwar)
+<button data-buy-book data-title="Rhythm of War" data-author="Sanderson">Buy Rhythm of War</button>
 
 ### You Might Also Like
 

@@ -28,7 +28,7 @@ The one that started everything. Published in 1984, *Neuromancer* didn't just de
 
 Gibson's prose is dense, elliptical, and unlike anything else in science fiction. It takes a chapter or two to tune into his frequency, but once you're in, you're in. The Matrix wouldn't exist without it. The word "cyberspace" wouldn't exist without it. Read it.
 
-[**Buy Neuromancer on Amazon**](https://amzn.to/4rPERZ6)
+<button data-buy-book data-title="Neuromancer" data-author="William Gibson">Buy Neuromancer</button>
 
 ---
 
@@ -38,7 +38,7 @@ If *Neuromancer* is the genre's founding text, *Snow Crash* is its most fun one.
 
 It's fast, funny, and stuffed with ideas. Stephenson predicted avatar identity, platform capitalism, and the attention economy with a kind of manic, gleeful accuracy. And somehow, through all of it, it's still a cracking thriller.
 
-[**Buy Snow Crash on Amazon**](https://amzn.to/4uLbYA8)
+<button data-buy-book data-title="Snow Crash" data-author="Neal Stephenson">Buy Snow Crash</button>
 
 ---
 
@@ -48,7 +48,7 @@ One of the best science fiction novels of the 2000s, full stop, and the book I r
 
 Morgan runs this premise through a noir detective thriller and doesn't flinch. Sharp, violent, morally complex, and gripping from the first page. The Netflix adaptation is decent; the book is substantially better.
 
-[**Buy Altered Carbon on Amazon**](https://amzn.to/486Jrey)
+<button data-buy-book data-title="Altered Carbon" data-author="Richard K. Morgan">Buy Altered Carbon</button>
 
 ---
 
@@ -56,7 +56,7 @@ Morgan runs this premise through a noir detective thriller and doesn't flinch. S
 
 The novel behind *Blade Runner*, and in many ways more interesting than the film. Dick was never really interested in the action — he was interested in the philosophical vertigo. What separates a human from an android sophisticated enough to fake empathy? What does it mean to feel? Set in a post-nuclear San Francisco, it's quieter and stranger than you'd expect. The questions it raises haven't gone anywhere.
 
-[**Buy Do Androids Dream of Electric Sheep? on Amazon**](https://amzn.to/3NJ3sRA)
+<button data-buy-book data-title="Do Androids Dream of Electric Sheep?" data-author="Philip K. Dick">Buy Do Androids Dream of Electric Sheep?</button>
 
 ---
 
@@ -64,7 +64,7 @@ The novel behind *Blade Runner*, and in many ways more interesting than the film
 
 Cyberpunk goes to Southeast Asia — and the result is one of the most distinctive novels in the genre. Set in a biopunk future Bangkok where calories are currency and genetic engineering has reshaped the food supply, *The Windup Girl* follows an engineered human navigating a city that doesn't consider her fully human. Bacigalupi won both the Hugo and Nebula for it. It's dark, intricate, and genuinely hard to shake once you've read it.
 
-[**Buy The Windup Girl on Amazon**](https://amzn.to/4bKOAtO)
+<button data-buy-book data-title="The Windup Girl" data-author="Paolo Bacigalupi">Buy The Windup Girl</button>
 
 ---
 
@@ -72,7 +72,7 @@ Cyberpunk goes to Southeast Asia — and the result is one of the most distincti
 
 The second book in Gibson's Sprawl trilogy, and one I'd argue is more accessible than *Neuromancer*. Three separate storylines weave across a world where corporate war is fought through mercenaries and AIs have begun fragmenting into something resembling gods. A more confident, richer book than its predecessor. Read *Neuromancer* first, then come straight here.
 
-[**Buy Count Zero on Amazon**](https://amzn.to/47gpJNd)
+<button data-buy-book data-title="Count Zero" data-author="William Gibson">Buy Count Zero</button>
 
 ---
 
@@ -80,7 +80,7 @@ The second book in Gibson's Sprawl trilogy, and one I'd argue is more accessible
 
 The most underrated novel on this list, and one I want more people to know about. Set in a future Middle Eastern city where personality modifications can be installed like software — literally slotted into your brain — *When Gravity Fails* follows Marid Audran, a low-level fixer trying to stay out of trouble in a neighbourhood where the rules keep changing. Effinger shifts the genre's usual Western lens entirely and the result is something genuinely original. It's a crime novel, a cyberpunk novel, and a character study all at once.
 
-[**Buy When Gravity Fails on Amazon**](https://amzn.to/4bzePTS)
+<button data-buy-book data-title="When Gravity Fails" data-author="George Alec Effinger">Buy When Gravity Fails</button>
 
 ---
 
@@ -88,7 +88,7 @@ The most underrated novel on this list, and one I want more people to know about
 
 Often overlooked next to Gibson and Stephenson, which is a shame. *Hardwired* is cyberpunk at its most kinetic — Cowboy is a smuggler running contraband in a combat hovercraft across a corporate-controlled America. Williams delivers action with real weight and the world-building — orbital corporations that bought out the governments decades ago — is as relevant now as it was when he wrote it in 1986.
 
-[**Buy Hardwired on Amazon**](https://amzn.to/4rP4Z6E)
+<button data-buy-book data-title="Hardwired" data-author="Walter Jon Williams">Buy Hardwired</button>
 
 ---
 
@@ -96,7 +96,7 @@ Often overlooked next to Gibson and Stephenson, which is a shame. *Hardwired* is
 
 Sterling was Gibson's closest collaborator in the early cyberpunk movement and *Schismatrix Plus* is his masterwork. Set in a far-future solar system split between genetically engineered Shapers and cybernetically enhanced Mechanists, it follows one man's centuries-long life across the full sweep of that conflict. Denser and more philosophical than most of this list, but extraordinarily rewarding if you're willing to commit to it.
 
-[**Buy Schismatrix Plus on Amazon**](https://amzn.to/4lKpBvk)
+<button data-buy-book data-title="Schismatrix Plus" data-author="Bruce Sterling">Buy Schismatrix Plus</button>
 
 ---
 
@@ -104,7 +104,7 @@ Sterling was Gibson's closest collaborator in the early cyberpunk movement and *
 
 The conclusion to the Sprawl trilogy. The world of *Neuromancer* has expanded — more characters, more corporations, more tangled threads running through cyberspace — and Gibson brings it all together with his characteristic oblique elegance. Best read after *Neuromancer* and *Count Zero*, and a satisfying end to the trilogy.
 
-[**Buy Mona Lisa Overdrive on Amazon**](https://amzn.to/47hzSsZ)
+<button data-buy-book data-title="Mona Lisa Overdrive" data-author="William Gibson">Buy Mona Lisa Overdrive</button>
 
 ---
 
@@ -112,7 +112,7 @@ The conclusion to the Sprawl trilogy. The world of *Neuromancer* has expanded �
 
 A step sideways from pure cyberpunk into something more speculative — nanotechnology rather than cyberspace, Victorian neo-tribalism rather than corporate noir. But the DNA is the same: a world reshaped by technology, with the poor and the powerful navigating it very differently. A young girl receives a stolen interactive book designed to raise a subversive, independent thinker. What follows is one of the most unusual coming-of-age stories in science fiction.
 
-[**Buy The Diamond Age on Amazon**](https://amzn.to/4uVqwNR)
+<button data-buy-book data-title="The Diamond Age" data-author="Neal Stephenson">Buy The Diamond Age</button>
 
 ---
 
@@ -120,7 +120,7 @@ A step sideways from pure cyberpunk into something more speculative — nanotech
 
 Not strictly cyberpunk, but essential reading for anyone drawn to the genre's harder philosophical edge. A first-contact story told from the perspective of a crew of posthuman specialists sent to investigate an alien signal — with a narrator who has had half his brain removed. Watts goes harder on the science than almost anyone else writing science fiction today, and the questions *Blindsight* asks about consciousness and identity are genuinely unsettling. One of the best science fiction novels of the last twenty years.
 
-[**Buy Blindsight on Amazon**](https://amzn.to/3PFlyEy)
+<button data-buy-book data-title="Blindsight" data-author="Peter Watts">Buy Blindsight</button>
 
 ---
 

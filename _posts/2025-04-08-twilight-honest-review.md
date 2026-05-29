@@ -56,7 +56,7 @@ The genre it created — paranormal romance with YA sensibility — has produced
 
 **Rating: 3/5** (with the acknowledgement that this rating says nothing about why it connected with so many readers so powerfully)
 
-[**Rated 4.1 Stars on Amazon. Buy Twilight here.**](https://amzn.to/twilight-meyer)
+<button data-buy-book data-title="Twilight — An Honest" data-author="">Buy Twilight — An Honest</button>
 
 ### You Might Also Like
 

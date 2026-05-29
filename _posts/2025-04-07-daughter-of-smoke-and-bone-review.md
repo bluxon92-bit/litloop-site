@@ -56,7 +56,7 @@ The Daughter of Smoke and Bone trilogy continues with *Days of Blood and Starlig
 
 **Rating: 4.5/5**
 
-[**Rated 4.4 Stars on Amazon. Buy Daughter of Smoke and Bone here.**](https://amzn.to/414PDQn)
+<button data-buy-book data-title="Daughter of Smoke and Bone" data-author="Fantasy">Buy Daughter of Smoke and Bone</button>
 
 ### You Might Also Like
 

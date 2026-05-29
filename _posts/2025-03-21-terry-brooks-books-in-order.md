@@ -34,19 +34,19 @@ Start with **The Elfstones of Shannara**. It's the book where Brooks found his o
 
 The debut. A young man discovers he's the only person who can wield a magical sword and defeat a dark lord. Tolkien's fingerprints are on every page. Not bad — just not as good as what came after.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/swordshannara)
+<button data-buy-book data-title="The Sword of Shannara" data-author="Terry Brooks">Buy The Sword of Shannara</button>
 
 ### 2. The Elfstones of Shannara (1982)
 
 The series-best, by wide consensus. A dying tree, demons breaking through into the world, a quest with a devastating ending. Start here. [Full review.](https://www.litloop.co/blog/the-elfstones-of-shannara-review)
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/elfstonesshannara)
+<button data-buy-book data-title="The Elfstones of Shannara" data-author="Terry Brooks">Buy The Elfstones of Shannara</button>
 
 ### 3. The Wishsong of Shannara (1985)
 
 The concluding volume of the original trilogy. Two siblings with magical abilities go on a quest to defeat an evil druid. A strong finish to the arc.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/wishsongshannara)
+<button data-buy-book data-title="The Wishsong of Shannara" data-author="Terry Brooks">Buy The Wishsong of Shannara</button>
 
 ---
 
@@ -59,7 +59,7 @@ The concluding volume of the original trilogy. Two siblings with magical abiliti
 
 Set three centuries after the original trilogy, this four-book arc involves descendants of the original characters and a world that has changed significantly. Many readers consider this sequence the strongest sustained run in the series. The four books work best read consecutively.
 
-[**Buy the Heritage of Shannara on Amazon.**](https://amzn.to/heritageshannara)
+<button data-buy-book data-title="The Talismans of Shannara" data-author="Terry Brooks">Buy The Talismans of Shannara</button>
 
 ---
 
@@ -71,7 +71,7 @@ Set three centuries after the original trilogy, this four-book arc involves desc
 
 An airship voyage to a lost continent, with a new female protagonist — the Ilse Witch — who is one of Brooks' most compelling antagonist-turned-protagonist characters. The airship setting gives this trilogy a different feel from the earlier books.
 
-[**Buy Ilse Witch on Amazon.**](https://amzn.to/ilsewitch)
+<button data-buy-book data-title="Morgawr" data-author="Terry Brooks">Buy Morgawr</button>
 
 ---
 
@@ -115,7 +115,7 @@ One of the more propulsive later trilogies, involving a search for lost Elfstone
 
 Three standalone novels set in the same world, lighter in scope. Accessible entry points for new readers who want something self-contained.
 
-[**Buy The High Druid's Blade on Amazon.**](https://amzn.to/highdruidsblade)
+<button data-buy-book data-title="The Sorcerer's Daughter" data-author="Terry Brooks">Buy The Sorcerer's Daughter</button>
 
 ---
 
@@ -128,7 +128,7 @@ Three standalone novels set in the same world, lighter in scope. Accessible entr
 
 Brooks' announced conclusion to the Shannara saga. Set further into the future than any previous books. A worthy send-off for a series that's earned its longevity.
 
-[**Buy The Black Elfstone on Amazon.**](https://amzn.to/blackelfstone)
+<button data-buy-book data-title="The Last Druid" data-author="Terry Brooks">Buy The Last Druid</button>
 
 ---
 

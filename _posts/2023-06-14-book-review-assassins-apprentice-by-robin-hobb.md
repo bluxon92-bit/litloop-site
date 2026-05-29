@@ -18,7 +18,7 @@ Robin Hobb’s Assassin’s Apprentice is an old favourite of mine that I fell i
 
 The first book in the Farseer trilogy, Assassin's Apprentice, follows the journey of Fitz, an abandoned orphan who rises from obscurity to earn respect and become a figure others look up to. In this debut novel, we are introduced to the world, witness Fitz's struggles, and encounter some of the remarkable characters who will populate the pages of its sequels. Hobb's talent shines through, not just in storytelling but also in her writing.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/42qRInW)
+<button data-buy-book data-title="Assassin's Apprentice" data-author="Robin Hobb">Buy Assassin's Apprentice</button>
 
 ## Assassin’s Apprentice Plot - 4/5
 
@@ -44,7 +44,7 @@ Fitz, the main character, and the story is told from his perspective, allowing r
 
 Then there are the villains. Some you identify straight away, and others are surprises, so I won't name names. However, their intentions become evident early on, and they grow increasingly spiteful. Fitz's status as a bastard prince incites envy and dislike among some characters. You'll despise these characters and their continuous successes will have you ready to climb into the pages and physically attack them.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/42qRInW)
+<button data-buy-book data-title="Assassin's Apprentice" data-author="Robin Hobb">Buy Assassin's Apprentice</button>
 
 ## Overall Rating of Assassin's Apprentice by Robin Hobb - 4.5/5
 
@@ -54,7 +54,7 @@ I was inclined to give [Assassin's Apprentice](https://amzn.to/42qRInW) five sta
 
 Nevertheless, it remains a fantastically written and highly intriguing first book in a new fantasy series for me, with sequels that surpass it and I highly recommend you explore the entire series, if not [embark on a full journey into the realm of the Elderlings](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond).
 
-[**Buy The Farseer Trilogy On Amazon**](https://amzn.to/3NcbO0S)
+<button data-buy-book data-title="Assassin's Apprentice" data-author="Robin Hobb">Buy Assassin's Apprentice</button>
 
 ---
 

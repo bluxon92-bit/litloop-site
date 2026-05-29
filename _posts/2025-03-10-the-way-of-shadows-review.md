@@ -54,7 +54,7 @@ If you want a fast, dark, emotionally engaging fantasy that doesn't take itself 
 
 **Rating: 3.5/5**
 
-[**Rated 4.3 Stars on Amazon. Buy The Way of Shadows here.**](https://amzn.to/wayofshadows)
+<button data-buy-book data-title="The Way of Shadows" data-author="Brent Weeks">Buy The Way of Shadows</button>
 
 ### You Might Also Like
 

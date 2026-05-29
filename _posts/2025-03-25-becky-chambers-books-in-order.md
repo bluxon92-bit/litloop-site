@@ -32,7 +32,7 @@ Five novels, all set in the same galaxy — the Galactic Commons, a multi-specie
 
 The debut. A tunnelling ship, a diverse crew, a very long journey across a very strange galaxy. Almost entirely about character and the texture of life aboard a small vessel. The most accessible entry point and still the best starting place for new readers. [Full review here.](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/longwaysmallangryplanet)
+<button data-buy-book data-title="The Long Way to a Small, Angry Planet" data-author="Becky Chambers">Buy The Long Way to a Small, Angry Planet</button>
 
 ---
 
@@ -42,7 +42,7 @@ Follows two characters from *The Long Way* — Lovelace, an AI who has been give
 
 Technically a standalone but benefits from knowing who Lovelace is before her transformation. Read *Long Way* first.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/closedcommonorbit)
+<button data-buy-book data-title="A Closed and Common Orbit" data-author="Becky Chambers">Buy A Closed and Common Orbit</button>
 
 ---
 
@@ -52,7 +52,7 @@ The Exodans — descendants of humanity's original generation ships, still livin
 
 Not the best starting point — its emotional impact depends partly on knowing the wider GC context from the first two books.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/recordspacebornfew)
+<button data-buy-book data-title="Record of a Spaceborn Few" data-author="Becky Chambers">Buy Record of a Spaceborn Few</button>
 
 ---
 
@@ -62,7 +62,7 @@ Five characters — all alien species, no human POVs — stranded together at a 
 
 It sounds slight. It isn't. Chambers is at her best when she gives characters room, and this novel is almost nothing but room.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/galaxygroundwithin)
+<button data-buy-book data-title="The Galaxy, and the Ground Within" data-author="Becky Chambers">Buy The Galaxy, and the Ground Within</button>
 
 ---
 
@@ -80,13 +80,13 @@ A separate series from the Wayfarers, set in a different future Earth. Shorter, 
 
 A tea monk named Dex, dissatisfied with their life, takes a journey into the wilderness — and meets a robot who has been living alone since robots gained consciousness and chose to leave human society. A conversation between two beings trying to understand what they need. Gentle, wise, and over in an afternoon.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/psalmwildbuilt)
+<button data-buy-book data-title="A Psalm for the Wild-Built" data-author="Becky Chambers">Buy A Psalm for the Wild-Built</button>
 
 ### 2. A Prayer for the Crown-Shy (2022)
 
 Dex and Mosscap continue their journey and encounter human settlements. Expands slightly on the world and the relationship. Best read after *A Psalm*.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/prayercrownshy)
+<button data-buy-book data-title="A Prayer for the Crown-Shy" data-author="Becky Chambers">Buy A Prayer for the Crown-Shy</button>
 
 ---
 

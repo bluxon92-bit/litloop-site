@@ -136,7 +136,7 @@ The complete series in reading order, with a brief, spoiler-light summary of eac
 
 ---
 
-[**Buy the Dungeon Crawler Carl box set (books 1–3) on Amazon →**](https://amzn.to/4wW3CXx)
+<button data-buy-book data-title="Dungeon Crawler Carl Series" data-author="">Buy Dungeon Crawler Carl Series</button>
 
 ---
 
@@ -309,7 +309,7 @@ If you loved [Kings of the Wyld](https://www.litloop.co/blog/kings-of-the-wyld-r
 
 The series has no genuinely weak entries. Start at book one and don't stop.
 
-[**Buy the box set (books 1–3) on Amazon →**](https://amzn.to/4wW3CXx)
+<button data-buy-book data-title="Dungeon Crawler Carl Series" data-author="">Buy Dungeon Crawler Carl Series</button>
 
 ---
 

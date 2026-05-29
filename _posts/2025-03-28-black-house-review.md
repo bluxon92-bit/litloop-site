@@ -54,7 +54,7 @@ Read *The Talisman* first. It's excellent. Then come here.
 
 **Rating: 3.5/5** (for readers who know *The Talisman*; non-applicable without that context)
 
-[**Rated 4.0 Stars on Amazon. Buy Black House here.**](https://amzn.to/4rxGF90)
+<button data-buy-book data-title="Black House" data-author="King">Buy Black House</button>
 
 ### You Might Also Like
 

@@ -34,49 +34,49 @@ Celaena Sardothien is an assassin — the best in the kingdom — who's been ens
 
 Be aware: this first book is lighter than what comes after. Some readers find it a bit slow to grab them. Stick with it.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/throneofglass)
+<button data-buy-book data-title="Throne of Glass" data-author="Sarah J. Maas">Buy Throne of Glass</button>
 
 ### 2. Crown of Midnight
 
 This is where the series properly takes off. Stakes escalate, the world opens up, and Celaena becomes considerably more interesting. If you're on the fence after book one, [Crown of Midnight](https://www.litloop.co/blog/crown-of-midnight-review) is the one that turns doubters into devotees.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/crownofmidnight)
+<button data-buy-book data-title="Crown of Midnight" data-author="Sarah J. Maas">Buy Crown of Midnight</button>
 
 ### 3. Heir of Fire
 
 The scope expands dramatically. New lands, new magic, and a protagonist grappling with who she really is. [Heir of Fire](https://www.litloop.co/blog/heir-of-fire-review) is where Maas starts writing at the level she became famous for.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/heiroffire)
+<button data-buy-book data-title="Heir of Fire" data-author="Sarah J. Maas">Buy Heir of Fire</button>
 
 ### 4. Queen of Shadows
 
 Old alliances fracture. New ones form. Celaena/Aelin takes on the empire more directly. This is big, sprawling, action-heavy fantasy.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/queenofshadows)
+<button data-buy-book data-title="Queen of Shadows" data-author="Sarah J. Maas">Buy Queen of Shadows</button>
 
 ### 5. Empire of Storms
 
 The penultimate entry cranks everything up. At this point you'll either be fully invested or you'll have bailed several books ago. If you're still here, Empire of Storms won't disappoint.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/empireofstorms)
+<button data-buy-book data-title="Empire of Storms" data-author="Sarah J. Maas">Buy Empire of Storms</button>
 
 ### 6. Tower of Dawn
 
 Technically a companion novel to Empire of Storms, set concurrently. You can read it before, after, or interleaved. Most readers enjoy it after, but it works either way.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/towerofdawn)
+<button data-buy-book data-title="Tower of Dawn" data-author="Sarah J. Maas">Buy Tower of Dawn</button>
 
 ### 7. Kingdom of the Wicked
 
 The finale. Everything converges. It's enormous. It's emotionally devastating. It earns its ending.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/kingdomofthewicked)
+<button data-buy-book data-title="Kingdom of the Wicked" data-author="Sarah J. Maas">Buy Kingdom of the Wicked</button>
 
 ### The Assassin's Blade (Prequel Novellas)
 
 Five prequel novellas collected in one volume. Read them after Heir of Fire for maximum impact — they hit differently once you know who Celaena really is.
 
-[**Buy on Amazon.**](https://amzn.to/assassinsblade)
+<button data-buy-book data-title="The Assassin's Blade (Prequel Novellas)" data-author="Sarah J. Maas">Buy The Assassin's Blade (Prequel Novellas)</button>
 
 ---
 
@@ -88,19 +88,19 @@ Published from 2015 onwards, ACOTAR is set in a completely separate world from T
 
 A huntress kills a wolf in the woods. It was a faerie. This does not go well for her. The first book is relatively self-contained and works as a retelling with its own complete arc.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/acothorns)
+<button data-buy-book data-title="A Court of Thorns and Roses" data-author="Sarah J. Maas">Buy A Court of Thorns and Roses</button>
 
 ### 2. A Court of Mist and Fury
 
 Widely considered the best book in the series. If ACOTAR didn't fully hook you, ACOMAF likely will. The worldbuilding explodes, the characters become genuinely fascinating, and Maas is writing at her peak here.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/acomaf)
+<button data-buy-book data-title="A Court of Mist and Fury" data-author="Sarah J. Maas">Buy A Court of Mist and Fury</button>
 
 ### 3. A Court of Wings and Ruin
 
 The conclusion to the main arc. Big battles, high stakes, satisfying resolutions.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/acowar)
+<button data-buy-book data-title="A Court of Wings and Ruin" data-author="Sarah J. Maas">Buy A Court of Wings and Ruin</button>
 
 ### 4. A Court of Frost and Starlight
 
@@ -110,7 +110,7 @@ A bridge novella between the main trilogy and the next books. More quiet charact
 
 Focus shifts to Nesta. More intense, more explicit, and a genuinely strong standalone within the series.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/acosilverflames)
+<button data-buy-book data-title="A Court of Silver Flames" data-author="Sarah J. Maas">Buy A Court of Silver Flames</button>
 
 ---
 
@@ -122,19 +122,19 @@ Maas' most recent series is a contemporary fantasy — set in a world much like 
 
 Bryce Quinlan investigates a murder in a magic-soaked city. It's longer than it needs to be in places but the world-building is impressive and the characters stick.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/houseofearth)
+<button data-buy-book data-title="House of Earth and Blood" data-author="Sarah J. Maas">Buy House of Earth and Blood</button>
 
 ### 2. House of Sky and Breath
 
 Expands the world significantly and starts connecting threads to her other series in ways that will either thrill or bewilder you depending on how deep in you are.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/houseofsky)
+<button data-buy-book data-title="House of Sky and Breath" data-author="Sarah J. Maas">Buy House of Sky and Breath</button>
 
 ### 3. House of Flame and Shadow
 
 The finale. Maas goes full Cosmere here — connections to both TOG and ACOTAR feature prominently.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/houseofflame)
+<button data-buy-book data-title="House of Flame and Shadow" data-author="Sarah J. Maas">Buy House of Flame and Shadow</button>
 
 ---
 

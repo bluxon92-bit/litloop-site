@@ -24,7 +24,7 @@ If you enjoy richly detailed [epic fantasy world-building](/blog/epic-fantasy-be
 
 The core series. Ten volumes, originally published between 1999 and 2011, following the rise and fall of mighty empires, the interplay of gods and mortals, and the high-stakes personal journeys of an enormous cast of characters. Start here.
 
-[**Buy the Malazan Book of the Fallen on Amazon.**](https://amzn.to/4l8gfZT)
+<button data-buy-book data-title="Malazan Book of the Fallen (Steven Erikson)" data-author="">Buy Malazan Book of the Fallen (Steven Erikson)</button>
 
 1. **Gardens of the Moon** — Introduces the sprawling empire and the war-torn world of Malazan. Political intrigue, ancient powers, and early skirmishes that hint at vastly larger conflicts to come.
 2. **Deadhouse Gates** — Follows the harrowing Chain of Dogs, a military retreat across a hostile land. One of fantasy's greatest depictions of duty, sacrifice, and the brutal cost of war.
@@ -45,7 +45,7 @@ Chronologically aligned with Erikson's series, Esslemont's six novels offer a co
 
 ![Novels of the Malazan Empire](https://m.media-amazon.com/images/I/81datSK8aiL._SL1500_.jpg)
 
-[**Buy the Novels of the Malazan Empire on Amazon.**](https://amzn.to/4r84p3y)
+<button data-buy-book data-title="Novels of the Malazan Empire (Ian C. Esslemont)" data-author="">Buy Novels of the Malazan Empire (Ian C. Esslemont)</button>
 
 1. **Night of Knives** — A prequel delving into the formation of the empire, revealing the early conspiracies and shadowy events that forged Malazan's future.
 2. **Return of the Crimson Guard** — Military heroes, strategic exploits, and the empire's early campaigns. Political machinations and warfare blend into a rich, complex narrative.
@@ -62,7 +62,7 @@ A darker, more macabre corner of the Malazan world. These novellas follow the in
 
 ![Bauchelain and Korbal Broach](https://m.media-amazon.com/images/I/7107MHttaqL._SL1500_.jpg)
 
-[**Buy the Bauchelain & Korbal Broach novellas on Amazon.**](https://amzn.to/47lqdBu)
+<button data-buy-book data-title="Bauchelain & Korbal Broach Novellas (Steven Erikson)" data-author="">Buy Bauchelain & Korbal Broach Novellas (Steven Erikson)</button>
 
 1. **Blood Follows** — The series opener. Bauchelain and Korbal Broach navigate a bleak and bizarre underworld where horror and wit walk hand-in-hand.
 2. **The Healthy Dead** — Weaves the supernatural with satirical commentary on life, death, and everything in between.
@@ -80,7 +80,7 @@ Set thousands of years before the main events, the Kharkanas Trilogy explores th
 
 ![The Kharkanas Trilogy](https://m.media-amazon.com/images/I/91basBp3h7L._SL1500_.jpg)
 
-[**Buy the Kharkanas Trilogy on Amazon.**](https://amzn.to/4csh3H2)
+<button data-buy-book data-title="The Kharkanas Trilogy (Steven Erikson)" data-author="">Buy The Kharkanas Trilogy (Steven Erikson)</button>
 
 1. **Forge of Darkness** — Lays the mythic foundations of the world. Introduces the early struggles for power and the shaping of divine legacies that echo throughout later ages.
 2. **Fall of Light** — Examines the profound consequences of ancient choices, revealing the cost of hubris among gods and mortals alike.
@@ -94,7 +94,7 @@ A prequel series providing the backdrop to the founding of the Malazan Empire, h
 
 ![The Path to Ascendancy](https://m.media-amazon.com/images/I/71+4kjKlP5L._SL1169_.jpg)
 
-[**Buy The Path to Ascendancy on Amazon.**](https://amzn.to/4rQzLwN)
+<button data-buy-book data-title="The Path to Ascendancy Series (Ian C. Esslemont)" data-author="">Buy The Path to Ascendancy Series (Ian C. Esslemont)</button>
 
 1. **Dancer's Lament** — Unfolds the beginnings of a character who will emerge as a cornerstone of the Malazan mythos. A journey marked by personal tragedy and nascent ambition.
 2. **Deadhouse Landing** — A closer look at the early days of the empire's formation — fate, ambition, and the harsh realities of carving out a dominion.
@@ -108,7 +108,7 @@ Set after the events of *The Crippled God*, the Witness Trilogy explores the lon
 
 ![The Witness Trilogy](https://m.media-amazon.com/images/I/81OkFkwadPL._SL1500_.jpg)
 
-[**Buy The Witness Trilogy on Amazon.**](https://amzn.to/409ICNP)
+<button data-buy-book data-title="The Witness Trilogy (Steven Erikson)" data-author="">Buy The Witness Trilogy (Steven Erikson)</button>
 
 1. **The God is Not Willing** — Opens the post-epic narrative with a focus on the lingering effects of past battles on a transformed world.
 2. **No Life Forsaken** — Continues the exploration of a changed world where old legends still inform new struggles. Rebuilding, redemption, and the ongoing interplay between gods and men.

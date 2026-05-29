@@ -24,7 +24,7 @@ So what do you read next? Here are ten books that scratch similar itches.
 
 The obvious answer first: if you loved Mistborn's magic system and Sanderson's approach to world-building, the Stormlight Archive is him doing the same thing at maximum scale. Four books published, each enormous, each excellent. Start with *The Way of Kings*. [Full guide to Sanderson's books here.](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/wayofkings)
+<button data-buy-book data-title="The Stormlight Archive" data-author="Brandon Sanderson">Buy The Stormlight Archive</button>
 
 ---
 
@@ -32,7 +32,7 @@ The obvious answer first: if you loved Mistborn's magic system and Sanderson's a
 
 If what you loved about Mistborn was the intricate magic system, the plot that rewards attentive reading, and the satisfying trilogy structure — Islington does all of this. The Licanius Trilogy is complete, the ending is exceptional, and it stands as the best Sanderson-adjacent series by someone who isn't Sanderson. [Full review here.](https://www.litloop.co/blog/the-shadow-of-what-was-lost-review)
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/shadowwhatwas)
+<button data-buy-book data-title="The Shadow of What Was Lost" data-author="James Islington">Buy The Shadow of What Was Lost</button>
 
 ---
 
@@ -40,7 +40,7 @@ If what you loved about Mistborn was the intricate magic system, the plot that r
 
 If what you loved was the heist structure and the ensemble of misfit criminals — this is the book. The Gentleman Bastard Sequence follows a gang of con artists in a fantasy Venice, and the plotting is as intricate as anything Sanderson has produced.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/liesoflockelamora)
+<button data-buy-book data-title="The Lies of Locke Lamora" data-author="Scott Lynch">Buy The Lies of Locke Lamora</button>
 
 ---
 
@@ -48,7 +48,7 @@ If what you loved was the heist structure and the ensemble of misfit criminals �
 
 Slower and more character-focused than Mistborn, but the magic system — Sympathy, which has genuine internal logic and costs — will satisfy the same part of your brain. Kvothe is a more literary creation than Vin but equally compelling. [Full reading guide here.](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/nameofthewind)
+<button data-buy-book data-title="The Name of the Wind" data-author="Patrick Rothfuss">Buy The Name of the Wind</button>
 
 ---
 
@@ -56,7 +56,7 @@ Slower and more character-focused than Mistborn, but the magic system — Sympat
 
 The heist-and-mystery DNA is different here, but the sense of a beautifully constructed world being revealed one layer at a time — and a plot that pays off every setup it makes — is strongly present. The Books of Babel is the best-kept secret in current fantasy. [Full review here.](https://www.litloop.co/blog/senlin-ascends-review)
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/senlinascends)
+<button data-buy-book data-title="Senlin Ascends" data-author="Josiah Bancroft">Buy Senlin Ascends</button>
 
 ---
 
@@ -64,7 +64,7 @@ The heist-and-mystery DNA is different here, but the sense of a beautifully cons
 
 A standalone Sanderson set in an alternate-history United States, where Rithmatists draw magical chalk lines that come to life and fight. The magic system is one of Sanderson's most inventive and visually distinctive. Shorter and more accessible than the Cosmere epics.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/rithmatist)
+<button data-buy-book data-title="The Rithmatist" data-author="Brandon Sanderson">Buy The Rithmatist</button>
 
 ---
 
@@ -72,7 +72,7 @@ A standalone Sanderson set in an alternate-history United States, where Rithmati
 
 If what you valued in Mistborn was the subversion of expected fantasy outcomes — the way Sanderson sets up tropes and then does something unexpected with them — Abercrombie is the author who does this most ruthlessly. Darker in tone, less optimistic in worldview, equally excellent. [Full review here.](https://www.litloop.co/blog/the-blade-itself-review)
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/bladeitself)
+<button data-buy-book data-title="The First Law Trilogy" data-author="Joe Abercrombie">Buy The First Law Trilogy</button>
 
 ---
 
@@ -80,7 +80,7 @@ If what you valued in Mistborn was the subversion of expected fantasy outcomes �
 
 The satisfying complete-story structure and the sense of a world genuinely at stake are shared with Mistborn. Gwynne's four-book series has a similar feel of epic stakes delivered through intimate character work, and the ending pays off its four-book setup. [Full review here.](https://www.litloop.co/blog/malice-by-john-gwynne-review)
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/malicegwynne)
+<button data-buy-book data-title="The Faithful and the Fallen" data-author="John Gwynne">Buy The Faithful and the Fallen</button>
 
 ---
 
@@ -88,7 +88,7 @@ The satisfying complete-story structure and the sense of a world genuinely at st
 
 Listed separately from the Stormlight Archive entry above because it deserves its own mention: if you read Mistborn and found yourself primarily invested in the magic system and the Cosmere connections, *The Way of Kings* is where both of those go to their logical maximum. The magic is more complex, the Cosmere threads are more visible, the scale is genuinely enormous.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/wayofkings)
+<button data-buy-book data-title="The Way of Kings" data-author="Brandon Sanderson">Buy The Way of Kings</button>
 
 ---
 
@@ -96,7 +96,7 @@ Listed separately from the Stormlight Archive entry above because it deserves it
 
 For readers who loved the way Mistborn used its magic system to explore questions about oppression and liberation — the Divine Cities trilogy does the same thing through a different lens, asking what it means to live after the gods are dead and who gets to control the story of what they were. [Full review here.](https://www.litloop.co/blog/the-divine-cities-trilogy-review)
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/cityofstairs)
+<button data-buy-book data-title="The Divine Cities" data-author="Robert Jackson Bennett">Buy The Divine Cities</button>
 
 ### You Might Also Like
 

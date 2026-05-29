@@ -29,7 +29,7 @@ The Magicians by Lev Grossman is a popular contemporary fantasy series that foll
 
 Though a more mature and edgier story than Harry Potter, The Magicians is a good choice for people looking to get a magic school fix.
 
-[**Rated 4 Stars. Buy on Amazon.**](https://amzn.to/40uyoW1)
+<button data-buy-book data-title="The Magicians" data-author="Lev Grossman">Buy The Magicians</button>
 
 ---
 
@@ -41,7 +41,7 @@ Percy Jackson and the Olympians by Rick Riordan is a popular young adult fantasy
 
 The series follows Percy Jackson, who discovers he's a demigod, the son of Poseidon. Thrust into a dangerous world of [gods and monsters](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath), he must embark on a quest to save the world. The series is action-packed, full of humour, and features a lovable cast of characters.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3oy37nW)
+<button data-buy-book data-title="Percy Jackson and the Olympians" data-author="Rick Riordan">Buy Percy Jackson and the Olympians</button>
 
 ---
 
@@ -53,7 +53,7 @@ Like Harry Potter, The Hunger Games sets up a strong good vs evil dichotomy and 
 
 Katniss Everdeen is chosen to compete in a televised battle to the death — a tool of terror designed to control the population. She becomes the figurehead for a revolution and must overcome the dark forces working against her. The book deals with themes of survival, love, and rebellion, making it an excellent choice for Harry Potter fans looking for a darker, grittier story.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3AhStUJ)
+<button data-buy-book data-title="The Hunger Games" data-author="Suzanne Collins">Buy The Hunger Games</button>
 
 ---
 
@@ -65,7 +65,7 @@ His Dark Materials by Philip Pullman is a fantastical trilogy that follows Lyra 
 
 The series features expansive and imaginative [world-building](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building), complex characters, and a deep exploration of philosophy, religion, and morality.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3KU6FIz)
+<button data-buy-book data-title="His Dark Materials" data-author="Philip Pullman">Buy His Dark Materials</button>
 
 ---
 
@@ -77,7 +77,7 @@ The Chronicles of Narnia by C.S. Lewis is a [classic fantasy series](https://www
 
 The series follows the Pevensie siblings as they journey to the magical land of Narnia and encounter mythical creatures, witches, and talking animals. The series is timeless, enchanting, and full of wonder.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/43Uqkku)
+<button data-buy-book data-title="The Chronicles of Narnia" data-author="C.S. Lewis">Buy The Chronicles of Narnia</button>
 
 ---
 
@@ -89,7 +89,7 @@ Known as the father of fantasy, J.R.R. Tolkien's classic The Hobbit is an advent
 
 With trolls and goblins, [dragons](https://www.litloop.co/blog/best-dragon-books) and wizards, shapeshifters and giant spiders, this story has inspired countless works of fiction, including Harry Potter.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/41reQDg)
+<button data-buy-book data-title="The Hobbit" data-author="J.R.R. Tolkien">Buy The Hobbit</button>
 
 ---
 
@@ -101,7 +101,7 @@ Though not obviously like Harry Potter on the surface, Eragon definitely capture
 
 When Eragon discovers the egg, he becomes a target of the evil king and must go on a quest to become strong enough to one day face evil head-on as the last free dragon rider. With epic battles and [rich world-building](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond), it's an excellent choice for Harry Potter fans who enjoy action-packed fantasy.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3LhBeJt)
+<button data-buy-book data-title="The Inheritance Cycle" data-author="Christopher Paolini">Buy The Inheritance Cycle</button>
 
 ---
 
@@ -113,7 +113,7 @@ Inkheart by Cornelia Funke is a young adult fantasy novel about a girl named Meg
 
 The book is filled with adventure, magic, and danger, and has been compared to Harry Potter for its engaging plot which layers fantastical feats of magic on a world that's otherwise entirely relatable.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3mVFZPF)
+<button data-buy-book data-title="Inkheart" data-author="Cornelia Funke">Buy Inkheart</button>
 
 ---
 
@@ -125,7 +125,7 @@ The Dark is Rising by Susan Cooper follows a boy named Will Stanton, who discove
 
 Set in a rural, historical England — compared to Harry Potter's modern, urban England — and generally darker in tone, the book is filled with magic, adventure, and mythology.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3NjAtBp)
+<button data-buy-book data-title="The Dark is Rising" data-author="Susan Cooper">Buy The Dark is Rising</button>
 
 ---
 
@@ -137,7 +137,7 @@ Stardust by Neil Gaiman is a fantasy novel about a young man named Tristan who l
 
 He sets off on a journey and discovers that the star is actually a beautiful woman named Yvaine. Along the way, Tristan and Yvaine encounter various magical creatures and dangerous adversaries who are also after the star. As they make their way back to Wall, they fall in love and must navigate a series of obstacles to stay together. The novel explores themes of love, sacrifice, and the power of magic, all set against the backdrop of a rich and imaginative fantasy world.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3KZ8BiW)
+<button data-buy-book data-title="Stardust" data-author="Neil Gaiman">Buy Stardust</button>
 
 ---
 

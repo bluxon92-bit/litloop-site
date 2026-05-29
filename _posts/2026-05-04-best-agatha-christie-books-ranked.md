@@ -30,7 +30,7 @@ The best-selling mystery novel ever written, and Christie at her most audacious.
 
 Start here if you've never read Christie. It needs no knowledge of Poirot or Marple, it moves fast, and the solution is one of fiction's great surprises. Even when you've been told it's coming, it lands.
 
-[**Buy And Then There Were None on Amazon**](https://amzn.to/4cgVp7R)
+<button data-buy-book data-title="And Then There Were None (1939)" data-author="★ 4.26">Buy And Then There Were None (1939)</button>
 
 ---
 
@@ -38,7 +38,7 @@ Start here if you've never read Christie. It needs no knowledge of Poirot or Mar
 
 Poirot is called to investigate a murder on a snowbound train where every passenger is a suspect. One of the most famous mystery plots ever devised — and, crucially, one that holds up completely even after you know how it ends. The atmosphere is magnificent, Poirot is at his most entertaining, and the reveal is exactly as satisfying as its reputation suggests.
 
-[**Buy Murder on the Orient Express on Amazon**](https://amzn.to/4s9fVMu)
+<button data-buy-book data-title="Murder on the Orient Express (1934)" data-author="★ 4.20">Buy Murder on the Orient Express (1934)</button>
 
 ---
 
@@ -46,7 +46,7 @@ Poirot is called to investigate a murder on a snowbound train where every passen
 
 The novel that made Christie famous — and infamous. Its twist is one of the most controversial in detective fiction: critics accused her of cheating; defenders argue she plays absolutely fair throughout. Both sides have a point, which is exactly what makes it so interesting. Read it without knowing the ending if at all possible. It's a landmark.
 
-[**Buy The Murder of Roger Ackroyd on Amazon**](https://amzn.to/4v15PQr)
+<button data-buy-book data-title="The Murder of Roger Ackroyd (1926)" data-author="★ 4.20">Buy The Murder of Roger Ackroyd (1926)</button>
 
 ---
 
@@ -54,7 +54,7 @@ The novel that made Christie famous — and infamous. Its twist is one of the mo
 
 One of Christie's personal favourites, and one of her darkest. The Leonides family have gathered in their sprawling house following the patriarch's murder — and everyone is a suspect in ways that go well beyond the usual Christie conventions. A standalone that shows her at her most unsentimental. This one stayed with me.
 
-[**Buy Crooked House on Amazon**](https://amzn.to/3NEh0hk)
+<button data-buy-book data-title="Crooked House (1949)" data-author="★ 4.09">Buy Crooked House (1949)</button>
 
 ---
 
@@ -62,7 +62,7 @@ One of Christie's personal favourites, and one of her darkest. The Leonides fami
 
 Poirot on a Nile cruise, where a beautiful heiress is shot and every passenger had a reason to want her dead. Christie's atmosphere and character work are at their height here — it has the best setting of any Poirot novel, and the plot is as tightly constructed as anything she wrote.
 
-[**Buy Death on the Nile on Amazon**](https://amzn.to/3O0Lk5E)
+<button data-buy-book data-title="Death on the Nile (1937)" data-author="★ 4.11">Buy Death on the Nile (1937)</button>
 
 ---
 
@@ -70,7 +70,7 @@ Poirot on a Nile cruise, where a beautiful heiress is shot and every passenger h
 
 A serial killer is working through the alphabet, sending advance warning letters to Poirot before each murder. Christie uses this premise to build one of her most tightly controlled plots, with a solution that's both clever and genuinely affecting. It's also one of the books that shows Poirot at his most human.
 
-[**Buy The ABC Murders on Amazon**](https://amzn.to/48heu7u)
+<button data-buy-book data-title="The ABC Murders (1936)" data-author="★ 4.10">Buy The ABC Murders (1936)</button>
 
 ---
 
@@ -78,7 +78,7 @@ A serial killer is working through the alphabet, sending advance warning letters
 
 Poirot on holiday at a seaside hotel — which is, of course, the perfect setting for a Christie puzzle. The victim is universally loathed, the suspects are plentiful, and the solution hinges on a moment of real ingenuity. One of the most purely enjoyable books in the Poirot series.
 
-[**Buy Evil Under the Sun on Amazon**](https://amzn.to/4s8gGFM)
+<button data-buy-book data-title="Evil Under the Sun (1941)" data-author="★ 4.07">Buy Evil Under the Sun (1941)</button>
 
 ---
 
@@ -86,7 +86,7 @@ Poirot on holiday at a seaside hotel — which is, of course, the perfect settin
 
 The best Miss Marple novel, and it's not particularly close. A notice appears in the local paper announcing that a murder will take place at a specific address at a specific time — and it does. Christie at her most playful, with Marple at her most quietly devastating. If you've only ever read Poirot, this is the one that will convert you.
 
-[**Buy A Murder is Announced on Amazon**](https://amzn.to/4sbzLXv)
+<button data-buy-book data-title="A Murder is Announced (1950)" data-author="★ 4.15">Buy A Murder is Announced (1950)</button>
 
 ---
 
@@ -94,7 +94,7 @@ The best Miss Marple novel, and it's not particularly close. A notice appears in
 
 Written during World War II and locked in a safe for thirty years, *Curtain* is the conclusion to Poirot's story — and Christie's farewell to her most famous creation. I won't say anything more about it except this: read it last, after you've spent time with the character. It means significantly more that way, and the ending will stay with you.
 
-[**Buy Curtain on Amazon**](https://amzn.to/4v1qPGT)
+<button data-buy-book data-title="Curtain: Poirot's Last Case (1975)" data-author="★ 4.26">Buy Curtain: Poirot's Last Case (1975)</button>
 
 ---
 
@@ -102,7 +102,7 @@ Written during World War II and locked in a safe for thirty years, *Curtain* is 
 
 Poirot investigates a murder that happened sixteen years ago — interviewing five witnesses whose memories and motivations have shifted over time. More psychological than most Christie, and arguably her most emotionally resonant Poirot novel. The format allows her to do something different with character in a way that the more conventional detective plots don't permit.
 
-[**Buy Five Little Pigs on Amazon**](https://amzn.to/3NEhnbI)
+<button data-buy-book data-title="Five Little Pigs (1942)" data-author="★ 4.15">Buy Five Little Pigs (1942)</button>
 
 ---
 

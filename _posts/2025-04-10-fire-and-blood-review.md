@@ -52,7 +52,7 @@ Devoted ASOIAF readers who want to understand the world's history more deeply â€
 
 **Rating: 3.5/5**
 
-[**Rated 4.4 Stars on Amazon. Buy Fire and Blood here.**](https://amzn.to/40yrWjo)
+<button data-buy-book data-title="Fire and Blood" data-author="">Buy Fire and Blood</button>
 
 ### You Might Also Like
 

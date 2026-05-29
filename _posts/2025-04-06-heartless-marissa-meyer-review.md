@@ -61,7 +61,7 @@ Readers who love fairy-tale retellings. Fans of Meyer's *Lunar Chronicles* who w
 
 **Rating: 4/5**
 
-[**Rated 4.3 Stars on Amazon. Buy Heartless here.**](https://amzn.to/3NriPOq)
+<button data-buy-book data-title="Heartless" data-author="Marissa Meyer">Buy Heartless</button>
 
 ### You Might Also Like
 

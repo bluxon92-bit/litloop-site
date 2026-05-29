@@ -56,7 +56,7 @@ Star Wars fans who are also horror readers — this is obviously made for you. H
 
 **Rating: 3.5/5**
 
-[**Rated 4.1 Stars on Amazon. Buy Death Troopers here.**](https://amzn.to/deathtroopers)
+<button data-buy-book data-title="Death Troopers" data-author="Joe Schreiber">Buy Death Troopers</button>
 
 ### You Might Also Like
 

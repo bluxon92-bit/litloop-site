@@ -67,7 +67,7 @@ The Wayfarers series now runs to five books, all set in the same galaxy but foll
 
 **Rating: 4.5/5**
 
-[**Rated 4.4 Stars on Amazon. Buy The Long Way to a Small, Angry Planet here.**](https://amzn.to/longwaysmallangryplanet)
+<button data-buy-book data-title="The Long Way to a Small, Angry Planet" data-author="">Buy The Long Way to a Small, Angry Planet</button>
 
 ### You Might Also Like
 

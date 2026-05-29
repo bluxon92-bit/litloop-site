@@ -56,7 +56,7 @@ If you have any interest in horror — yes, absolutely. It's the benchmark. If y
 
 **Rating: 5/5**
 
-[**Rated 4.7 Stars on Amazon. Buy IT here.**](https://amzn.to/stephenking-it)
+<button data-buy-book data-title="IT" data-author="Stephen King">Buy IT</button>
 
 ### You Might Also Like
 

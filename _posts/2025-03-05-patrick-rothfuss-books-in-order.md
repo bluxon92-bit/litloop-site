@@ -36,7 +36,7 @@ What sets *The Name of the Wind* apart isn't really the plot, though the plot is
 
 The magic system — Sympathy, which involves creating links between objects to transfer energy between them — is one of the best constructed in modern fantasy. It has internal logic, meaningful cost, and feels genuinely learned rather than wielded.
 
-[**Rated 4.5 Stars. Buy The Name of the Wind on Amazon.**](https://amzn.to/nameofthewind)
+<button data-buy-book data-title="The Name of the Wind" data-author="Patrick Rothfuss">Buy The Name of the Wind</button>
 
 ---
 
@@ -46,7 +46,7 @@ The second day. Kvothe leaves the University and the book broadens significantly
 
 I'm in the "love it" camp. The Adem sections alone are worth the price of admission — a warrior culture built around radical honesty and a completely alien approach to emotion. And the final act, back at the University, sets up threads that will presumably pay off in Book 3.
 
-[**Rated 4.5 Stars. Buy The Wise Man's Fear on Amazon.**](https://amzn.to/wisemans)
+<button data-buy-book data-title="The Wise Man's Fear" data-author="Patrick Rothfuss">Buy The Wise Man's Fear</button>
 
 ---
 
@@ -60,7 +60,7 @@ There is no conventional plot. No conflict in the traditional sense. It's essent
 
 If you liked Auri in the main series, read it after *The Wise Man's Fear*. If you're primarily interested in Kvothe's story, it's skippable without missing anything plot-critical.
 
-[**Rated 4.1 Stars. Buy The Slow Regard of Silent Things on Amazon.**](https://amzn.to/slowregard)
+<button data-buy-book data-title="The Slow Regard of Silent Things" data-author="Patrick Rothfuss">Buy The Slow Regard of Silent Things</button>
 
 ---
 

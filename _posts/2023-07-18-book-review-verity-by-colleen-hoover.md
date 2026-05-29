@@ -46,7 +46,7 @@ On the other hand, Crawford, our secondary protagonist, initially comes across a
 
 Because of this, Verity will either ‘blow your mind’ or potentially just leave you frustrated, and I find myself sitting somewhere in the middle. I definitely enjoyed it, but I remain puzzled by the extent of the adoration expressed about it online.
 
-[**Rated 4.6 Stars on Amazon. Buy on Amazon here.**](https://amzn.to/3PNOacR)
+<button data-buy-book data-title="Verity" data-author="Colleen Hoover">Buy Verity</button>
 
 ### You Might Also Like
 

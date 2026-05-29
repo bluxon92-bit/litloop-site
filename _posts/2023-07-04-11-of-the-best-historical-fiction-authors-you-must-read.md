@@ -52,7 +52,7 @@ Bernard Cornwell is a British author known for his historical fiction novels. Hi
 
 More recently Cornwell’s [The Last Kingdom series](https://amzn.to/44834Pj) was adapted into a Netflix series (which is well worth a watch if you haven’t already). Cornwell's novels are meticulously researched and provide vivid depictions of historical events and battles.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3PFVHKE)
+<button data-buy-book data-title="Bernard Cornwell - The Last Kingdom" data-author="">Buy Bernard Cornwell - The Last Kingdom</button>
 
 ---
 
@@ -64,7 +64,7 @@ Ken Follett is a Welsh author who has written in various genres, including thril
 
 His best-known work is "[The Pillars of the Earth](https://amzn.to/448kiwg)," an epic historical novel set in 12th-century England. This also has a great  TV adaptation by the BBC. The book explores the construction of a cathedral and the lives of the people involved. Follett's novels often intertwine intricate plots with rich historical backgrounds.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3CWhl5Z)
+<button data-buy-book data-title="Ken Follett - Pillars Of The Earth" data-author="">Buy Ken Follett - Pillars Of The Earth</button>
 
 ---
 
@@ -76,7 +76,7 @@ Conn Iggulden is a British author specialising in historical fiction, particular
 
 My favourite series of his though is the [series featuring Genghis Khan](https://amzn.to/44aJzWr) starting with “Wolf Of The Plain”. Iggulden's novels are known for their fast-paced narratives, compelling characters and epic battle scenes.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3XyqVFD)
+<button data-buy-book data-title="Conn Iggulden - The Wolf Of The Plains" data-author="">Buy Conn Iggulden - The Wolf Of The Plains</button>
 
 ---
 
@@ -88,7 +88,7 @@ Wilbur Smith is a South African author known for his adventure novels set in var
 
 Smith's most popular series is the Courtney series, which spans generations and covers events from the 17th century to the present day. He’s also written a series set in ancient Egypt that I thoroughly enjoyed starting with “River God”.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3CZBW9C)
+<button data-buy-book data-title="Wilbur Smith - River God" data-author="">Buy Wilbur Smith - River God</button>
 
 ---
 
@@ -100,7 +100,7 @@ Mary Renault, a British author born in 1905, is best known for her extraordinary
 
 Renault's most celebrated work is "[The King Must Die](https://amzn.to/3NYiTCH)," a masterful retelling of the myth of Theseus. Through her vivid prose and rich characterisation, Renault t[ransports readers to ancient Greece](https://www.litloop.co/blog/best-books-about-greek-mythology), immersing them in the world of myth and legend. "[The Persian Boy](https://amzn.to/3PFyzMo)" is another notable work by Renault, exploring the life of Bagoas, a eunuch who served as a companion to Alexander the Great.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/3XBxK9f)
+<button data-buy-book data-title="Mary Renault - The King Must Die" data-author="">Buy Mary Renault - The King Must Die</button>
 
 ---
 
@@ -122,7 +122,7 @@ Beatriz Williams is an American author known for her historical fiction novels, 
 
 Notable novels by Williams include "[A Hundred Summers](https://amzn.to/3NZqOQa)" and "[The Secret Life of Violet Grant](https://amzn.to/44a2G2O)", a story of love and intrigue that spans a fifty-year time period from World War 1 to the Kennedy era.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3O8VJtD)
+<button data-buy-book data-title="Beatriz Williams - The Secret Life Of Violet Grant" data-author="">Buy Beatriz Williams - The Secret Life Of Violet Grant</button>
 
 ---
 
@@ -132,7 +132,7 @@ Notable novels by Williams include "[A Hundred Summers](https://amzn.to/3NZqOQa)
 
 Hilary Mantel is a British author renowned for her historical novels. Her most acclaimed work is the Thomas Cromwell trilogy, which includes "[Wolf Hall](https://amzn.to/3NYws5b)," "[Bring Up the Bodies](https://amzn.to/3NWghVY)," and "[The Mirror and the Light](https://amzn.to/44aJoKL)". The trilogy focuses on the life and rise to power of Thomas Cromwell in the court of Henry VIII. Mantel's writing is characterized by its meticulous attention to detail and immersive portrayal of historical figures.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/44rtpaY)
+<button data-buy-book data-title="Hilary Mantel - Wolf Hall" data-author="">Buy Hilary Mantel - Wolf Hall</button>
 
 ---
 
@@ -144,7 +144,7 @@ Colm Toibin is an Irish author known for his literary fiction and historical nov
 
 Toibin's notable works include "Brooklyn," a coming-of-age story about an Irish immigrant in 1950s New York, and "The Master," a profound and moving fictionalized account of the life of author Henry James.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/44mitvu)
+<button data-buy-book data-title="Colm Toibin - The Master" data-author="">Buy Colm Toibin - The Master</button>
 
 ---
 
@@ -156,7 +156,7 @@ Natalie Haynes is a British author and broadcaster known for her works of histor
 
 Her work tends to focus on retelling stories from the perspective of [women in ancient Greece](https://www.litloop.co/blog/best-books-about-greek-mythology) offering a voice to an otherwise underrepresented demographic. My favourite novel of hers is “[The Children of Jocasta](https://amzn.to/3D06APU)”, a retelling of Oedipus and Antigone from a female perspective.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/46B11F4)
+<button data-buy-book data-title="Natalie Haynes - The Children of Jocasta" data-author="">Buy Natalie Haynes - The Children of Jocasta</button>
 
 ---
 
@@ -168,7 +168,7 @@ Sharon Penman is an American author specialising in historical fiction, primaril
 
 Penman's notable works include "[Here Be Dragons](https://amzn.to/3NAzLy8)," "[The Sunne in Splendour](https://amzn.to/3CVeD0y)," and "[The Reckoning](https://amzn.to/3pyneTL)," which are set in a tempestuous 13th-century Wales. Her novels are known for their extensive research and engaging storytelling.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3NAzLy8)
+<button data-buy-book data-title="Sharon Penman - Here Be Dragons" data-author="">Buy Sharon Penman - Here Be Dragons</button>
 
 ---
 
@@ -182,7 +182,7 @@ Beyond "Captain Corelli's Mandolin," de Bernières has authored numerous other n
 
 De Bernières' storytelling prowess lies in his ability to seamlessly merge historical events with captivating narratives, all while exploring timeless themes of love, friendship, and the impact of war on ordinary lives.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3NBFHa2)
+<button data-buy-book data-title="Louis de Bernières - Captain Corelli’s Mandolin" data-author="">Buy Louis de Bernières - Captain Corelli’s Mandolin</button>
 
 ---
 

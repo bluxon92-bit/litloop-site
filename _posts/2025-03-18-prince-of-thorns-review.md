@@ -62,7 +62,7 @@ For readers who love it, *Prince of Thorns* is the beginning of one of the genre
 
 **Rating: 4/5**
 
-[**Rated 4.3 Stars on Amazon. Buy Prince of Thorns here.**](https://amzn.to/4bd2Jkx)
+<button data-buy-book data-title="Prince of Thorns" data-author="Mark Lawrence">Buy Prince of Thorns</button>
 
 ### You Might Also Like
 

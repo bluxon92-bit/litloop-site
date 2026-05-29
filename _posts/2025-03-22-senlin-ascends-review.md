@@ -62,7 +62,7 @@ Start here. Do not read ahead. The less you know going in, the better.
 
 **Rating: 5/5**
 
-[**Rated 4.4 Stars on Amazon. Buy Senlin Ascends here.**](https://amzn.to/senlinascends)
+<button data-buy-book data-title="Senlin Ascends" data-author="">Buy Senlin Ascends</button>
 
 ### You Might Also Like
 

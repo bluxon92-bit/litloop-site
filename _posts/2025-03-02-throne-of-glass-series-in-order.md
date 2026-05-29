@@ -26,7 +26,7 @@ Here's the order I'd recommend, and why.
 
 Start here. Celaena Sardothien, the kingdom's most feared assassin, gets yanked out of a slave mine to compete in a tournament for her freedom. Murder mystery meets political intrigue. It's lighter than what comes later but sets everything up.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/4uy2jN9)
+<button data-buy-book data-title="Throne of Glass" data-author="">Buy Throne of Glass</button>
 
 ---
 
@@ -34,7 +34,7 @@ Start here. Celaena Sardothien, the kingdom's most feared assassin, gets yanked 
 
 This is where the series genuinely begins. If book one felt a bit too YA for your taste, book two answers that concern within the first fifty pages. The plot thickens, the stakes get real, and Celaena's true nature starts to emerge. [Read our full review here.](https://www.litloop.co/blog/crown-of-midnight-review)
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/crownofmidnight)
+<button data-buy-book data-title="Crown of Midnight" data-author="">Buy Crown of Midnight</button>
 
 ---
 
@@ -42,7 +42,7 @@ This is where the series genuinely begins. If book one felt a bit too YA for you
 
 Five stories set before the main series, following a younger Celaena. You *can* read these first, and some people prefer it that way, but I'd hold off until after Crown of Midnight. The novellas hit significantly harder once you understand what they cost her.
 
-[**Buy on Amazon.**](https://amzn.to/assassinsblade)
+<button data-buy-book data-title="The Assassin's Blade (Prequel Novellas)" data-author="">Buy The Assassin's Blade (Prequel Novellas)</button>
 
 ---
 
@@ -50,7 +50,7 @@ Five stories set before the main series, following a younger Celaena. You *can* 
 
 The world doubles in size. Celaena travels to a new kingdom, trains with Fae warriors, and grapples with a secret she's been carrying the entire series. This is the book where Maas hits her stride. [Full review here.](https://www.litloop.co/blog/heir-of-fire-review)
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/heiroffire)
+<button data-buy-book data-title="Heir of Fire" data-author="">Buy Heir of Fire</button>
 
 ---
 
@@ -58,7 +58,7 @@ The world doubles in size. Celaena travels to a new kingdom, trains with Fae war
 
 She's done hiding. This is a more aggressive, more confident book — full of confrontation and long-overdue reckoning. New alliances, old enemies, explosive action.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/queenofshadows)
+<button data-buy-book data-title="Queen of Shadows" data-author="">Buy Queen of Shadows</button>
 
 ---
 
@@ -66,7 +66,7 @@ She's done hiding. This is a more aggressive, more confident book — full of co
 
 The penultimate book is enormous and doesn't slow down. Revelations stack on top of revelations. You'll want to start Kingdom of the Wicked immediately after.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/empireofstorms)
+<button data-buy-book data-title="Empire of Storms" data-author="">Buy Empire of Storms</button>
 
 ---
 
@@ -74,7 +74,7 @@ The penultimate book is enormous and doesn't slow down. Revelations stack on top
 
 Set simultaneously with Empire of Storms and following a secondary character on their own mission. You can read this before, after, or interleaved with Empire of Storms. After works fine and is probably the simplest approach.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/towerofdawn)
+<button data-buy-book data-title="Tower of Dawn (Companion Novel)" data-author="">Buy Tower of Dawn (Companion Novel)</button>
 
 ---
 
@@ -82,7 +82,7 @@ Set simultaneously with Empire of Storms and following a secondary character on 
 
 The finale. Every thread from seven books comes home to roost. Devastating and satisfying in roughly equal measure.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/kingdomofthewicked)
+<button data-buy-book data-title="Kingdom of the Wicked" data-author="">Buy Kingdom of the Wicked</button>
 
 ---
 

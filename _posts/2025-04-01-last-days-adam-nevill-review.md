@@ -57,7 +57,7 @@ If you want British horror that takes itself seriously and delivers genuine scar
 
 **Rating: 4/5**
 
-[**Rated 4.1 Stars on Amazon. Buy Last Days here.**](https://amzn.to/4s6EN8q)
+<button data-buy-book data-title="Last Days" data-author="Adam Nevill">Buy Last Days</button>
 
 ### You Might Also Like
 

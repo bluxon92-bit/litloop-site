@@ -62,7 +62,7 @@ If you love hard science fiction and have patience for technical depth in prose:
 
 **Rating: 4/5**
 
-[**Rated 3.9 Stars on Amazon. Buy Seveneves here.**](https://amzn.to/seveneves)
+<button data-buy-book data-title="Seveneves" data-author="Neal Stephenson">Buy Seveneves</button>
 
 ### You Might Also Like
 

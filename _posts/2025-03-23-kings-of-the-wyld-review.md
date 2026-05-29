@@ -56,7 +56,7 @@ If you want a book that will make you laugh, make you tear up slightly in the fi
 
 **Rating: 5/5**
 
-[**Rated 4.5 Stars on Amazon. Buy Kings of the Wyld here.**](https://amzn.to/4uLTgbM)
+<button data-buy-book data-title="Kings of the Wyld" data-author="Fantasy">Buy Kings of the Wyld</button>
 
 ### You Might Also Like
 

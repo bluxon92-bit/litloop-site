@@ -58,7 +58,7 @@ For most readers, yes. It's the more complete novel — a setup that's also a st
 
 **Rating: 5/5**
 
-[**Rated 4.8 Stars on Amazon. Buy Words of Radiance here.**](https://amzn.to/wordsofradiance)
+<button data-buy-book data-title="Words of Radiance" data-author="The Stormlight Archive">Buy Words of Radiance</button>
 
 ### You Might Also Like
 

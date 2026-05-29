@@ -34,19 +34,19 @@ Lawrence's debut. Set in a far-future world where civilisation has collapsed int
 
 The introduction to Jorg and the Broken Empire world. Violent, beautifully written, deliberately provocative. See our [full review here](https://www.litloop.co/blog/prince-of-thorns-review).
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/4d6AtzE)
+<button data-buy-book data-title="Prince of Thorns" data-author="Mark Lawrence">Buy Prince of Thorns</button>
 
 ### 2. King of Thorns (2012)
 
 Narrated from two timelines — Jorg at fourteen and Jorg at eighteen — and structured around a box of memories he can't open. Technically more ambitious than Prince of Thorns and arguably the more complex novel.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/4nahRTW)
+<button data-buy-book data-title="King of Thorns" data-author="Mark Lawrence">Buy King of Thorns</button>
 
 ### 3. Emperor of Thorns (2013)
 
 The conclusion. Everything the trilogy has been building toward resolves here, including the mystery of the world's true nature. Lawrence sticks the landing.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/4cSAuZn)
+<button data-buy-book data-title="Emperor of Thorns" data-author="Mark Lawrence">Buy Emperor of Thorns</button>
 
 ---
 
@@ -58,19 +58,19 @@ Set in the same world as The Broken Empire but following **Jalan Kendeth** — c
 
 Jalan is sent on a quest he wants absolutely no part of. His narration is among the funniest in recent fantasy fiction.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/4cS1QyO)
+<button data-buy-book data-title="Prince of Fools" data-author="Mark Lawrence">Buy Prince of Fools</button>
 
 ### 2. The Liar's Key (2015)
 
 The quest continues. Snorri's backstory deepens. Jalan continues to be exactly as cowardly as he promised.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/4cW2N7K)
+<button data-buy-book data-title="The Liar's Key" data-author="Mark Lawrence">Buy The Liar's Key</button>
 
 ### 3. The Wheel of Osheim (2016)
 
 The conclusion, involving one of fantasy's more inventive takes on the underworld. Unexpectedly moving in its final act.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/42zP4z3)
+<button data-buy-book data-title="The Wheel of Osheim" data-author="Mark Lawrence">Buy The Wheel of Osheim</button>
 
 ---
 
@@ -82,19 +82,19 @@ Lawrence's best series, and my personal recommendation for first-time readers. S
 
 Nona arrives at the Convent of Sweet Mercy under a death sentence. She turns out to be rather good at the curriculum. The school sections are some of Lawrence's best writing.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/4tbVaAf)
+<button data-buy-book data-title="Red Sister" data-author="Mark Lawrence">Buy Red Sister</button>
 
 ### 2. Grey Sister (2018)
 
 The stakes escalate. Nona grows into her powers. The world expands.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/4tKVEOW)
+<button data-buy-book data-title="Grey Sister" data-author="Mark Lawrence">Buy Grey Sister</button>
 
 ### 3. Holy Sister (2019)
 
 The conclusion. Lawrence has been constructing something intricate across three books and the finale reveals the full shape of it. Outstanding.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/4tRRkxz)
+<button data-buy-book data-title="Holy Sister" data-author="Mark Lawrence">Buy Holy Sister</button>
 
 ---
 
@@ -106,7 +106,7 @@ A companion series to Book of the Ancestor, following **Yaz** — a girl from a 
 ### 2. The Girl and the Mountain (2021)
 ### 3. The Girl and the Moon (2022)
 
-[**Buy the series on Amazon.**](https://amzn.to/4tizwKW)
+<button data-buy-book data-title="The Girl and the Moon" data-author="Mark Lawrence">Buy The Girl and the Moon</button>
 
 ---
 
@@ -118,7 +118,7 @@ Lawrence's most recent series, lighter in tone, set in a world-spanning library.
 ### 2. The Book That Broke the World (2025)
 ### 3. The Book That Held Her Heart (2026))
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3P67V1p)
+<button data-buy-book data-title="The Book That Held Her Heart (2026))" data-author="Mark Lawrence">Buy The Book That Held Her Heart (2026))</button>
 
 ---
 

@@ -35,7 +35,7 @@ The plot revolves around the mystical city of Elantris and the immortal occupant
 
 However, a tragedy strikes, the immortals fall from grace and the Shaod turns from a blessing into a curse. The protagonists must battle against the clock to uncover the mystery of this change before it’s too late.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/3MPIk9q)
+<button data-buy-book data-title="Elantris" data-author="">Buy Elantris</button>
 
 ### 2. Warbreaker
 
@@ -43,7 +43,7 @@ Warbreaker is a story that follows a young princess who is betrothed and sent to
 
 This story involves a mysterious man who can use breath — magical energy that turns people into superhumans — and wields a talking and somewhat naive sword.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3LbiaN6)
+<button data-buy-book data-title="Warbreaker" data-author="">Buy Warbreaker</button>
 
 ### 3. Steelheart
 
@@ -51,7 +51,7 @@ Set in a world where a cosmic entity known as Calamity appears and a selection o
 
 Governments collapse in the face of this new power and the Epics become the rulers of the new order. Now, one regular man, is out to stop them.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3oiNNex)
+<button data-buy-book data-title="Steelheart" data-author="">Buy Steelheart</button>
 
 ### 4. Arcanum Unbounded
 
@@ -59,13 +59,13 @@ Governments collapse in the face of this new power and the Epics become the rule
 
 Arcanum Unbounded is a collection of nine [fantasy short stories](https://www.litloop.co/blog/fantasy-short-stories). These stories will give you a sense of Sanderson's voice and style and are a great starting point for people not yet ready to dive into his larger epics.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/41WHdcv)
+<button data-buy-book data-title="Arcanum Unbounded" data-author="">Buy Arcanum Unbounded</button>
 
 ### 5. White Sand
 
 White Sand is a graphic novel (Sandersons only one to date) and follows a group of people who can manipulate the sands around them. However, the group are suddenly attacked, leaving only one survivor (or so he thinks), named Kenton. With unknown enemies and dark conspiracies circling him, he must find allies and do everything he can to survive.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/40kI8Sz)
+<button data-buy-book data-title="White Sand" data-author="">Buy White Sand</button>
 
 ### 6. Legion
 
@@ -73,7 +73,7 @@ Legion is a novella in which Brandon Sanderson explores a unique character, Step
 
 Legion is one of Sanderson’s first explorations into mental illness in his characters. Something that in his Stormlight Archive he develops and explores more fully and sensitively in several of his protagonists.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/41wBaew)
+<button data-buy-book data-title="Legion" data-author="">Buy Legion</button>
 
 **Readers who like Brandon Sanderson may also like** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
 
@@ -81,7 +81,7 @@ Legion is one of Sanderson’s first explorations into mental illness in his cha
 
 Rithmatics is a type of magic that can be wielded through chalk and geometric shapes. It is largely used to combat monsters called the Chalkings. This story follows a character named Joel, a young man who dreams of being a Rithmatist but can only watch in envy as others master the magic. However, when students begin disappearing Joel is drawn into the mystery and discovers something that will change the world forever.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3Ab8pbs)
+<button data-buy-book data-title="The Rithmatist" data-author="">Buy The Rithmatist</button>
 
 ### 8. Skyward
 
@@ -91,7 +91,7 @@ The remnants of the human race have been defeated, crushed and chased across the
 
 This story follows Spensa, a teenage girl that longs to be a pilot, longs to battle the aliens. When she discovers the ancient wreckage of a ship she realises that this dream might very well be possible - that is if she can repair it, navigate flight school and (perhaps most importantly) persuade the ship to help her. Because this ship is different, it appears to have a soul.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/3mIOWvw)
+<button data-buy-book data-title="Skyward" data-author="">Buy Skyward</button>
 
 ***Fans of Sci-fi may also enjoy**** *[*Sunset In The East. A collection of mind-bending science fiction short stories by Ben Luxon.*](https://amzn.to/3kIwfr7)[ ](https://www.litloop.co/sci-fi-short-stories)
 
@@ -101,7 +101,7 @@ Alcatraz Versus the Evil Librarians is a story for younger audiences or people l
 
 This story follows Alcatraz Smedry, a young boy who on his thirteenth birthday receives a strange gift from his parents, a bag of sand. Of course, it’s no ordinary sand, and it is quickly stolen by an evil cult. Alcatraz must stop them before they take over the world, but the only “talent” he has is breaking things.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3MTRlhy)
+<button data-buy-book data-title="Alcatraz Versus the Evil Librarians" data-author="">Buy Alcatraz Versus the Evil Librarians</button>
 
 ### 10. Mistborn: The Final Empire (Book 1 of the Mistborn Series)
 
@@ -115,7 +115,7 @@ Now, the Lord Ruler has dominated for a thousand years creating a world of injus
 
 When one of the oppressed “snaps” and realises he has powers, he rises to the challenge, gathers a team and plots to overthrow the immortal god-king. As the trilogy unfolds, the plot twists and thickens. What started our as a heist develops into a full rebellion, and our small group of heroes find themselves in way over their heads.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/41DUM01)
+<button data-buy-book data-title="Mistborn: The Final Empire (Book 1 of the Mistborn Series)" data-author="">Buy Mistborn: The Final Empire (Book 1 of the Mistborn Series)</button>
 
 ### 11. The Way of Kings (Book 1 of the Stormlight Archives)
 
@@ -129,7 +129,7 @@ The story follows Kaladin, a soldier-turned-slave who has grown bitter and angry
 
 The Way of Kings is a masterclass in originality. This epic fast-paced series is truly vast in scope with an incredibly well-developed magic system (as you’d expect from Brandon Sanderson), with a unique and detailed world that completely reimagines every from insects to seasons.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/41DUM01)
+<button data-buy-book data-title="The Way of Kings (Book 1 of the Stormlight Archives)" data-author="">Buy The Way of Kings (Book 1 of the Stormlight Archives)</button>
 
 **Fans of epic fantasy might also like the **[14 Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology).
 

@@ -20,7 +20,7 @@ Because that's the thing about Gwynne. He writes battles with real weight, conse
 
 Four books. Read all of them.
 
-[**Buy the complete Faithful and the Fallen series on Amazon**](https://amzn.to/3PHWvAN)
+<button data-buy-book data-title="The Faithful and The Fallen Series" data-author="">Buy The Faithful and The Fallen Series</button>
 
 ---
 
@@ -42,7 +42,7 @@ Some readers find it slow to start, and I'd be lying if I said the first fifty p
 
 What sets *Malice* apart from the beginning is how it handles violence. Battles here are chaotic and terrifying rather than choreographed. They cost something. Characters you care about are put in genuine danger, and that danger feels real.
 
-[**Buy Malice on Amazon**](https://amzn.to/41qDHsm)
+<button data-buy-book data-title="The Faithful and The Fallen Series" data-author="">Buy The Faithful and The Fallen Series</button>
 
 ---
 
@@ -52,7 +52,7 @@ This is where the series finds its footing. Multiple viewpoint characters — ea
 
 *Valour* is where most readers go from interested to hooked. It's the book I think about most fondly when I recommend the series to someone.
 
-[**Buy Valour on Amazon**](https://amzn.to/40MOwF1)
+<button data-buy-book data-title="The Faithful and The Fallen Series" data-author="">Buy The Faithful and The Fallen Series</button>
 
 ---
 
@@ -62,7 +62,7 @@ The best book in the series and one of the best third instalments in the genre. 
 
 *Ruin* is the book that confirms Gwynne is operating at the very top of the genre.
 
-[**Buy Ruin on Amazon**](https://amzn.to/4sut03U)
+<button data-buy-book data-title="The Faithful and The Fallen Series" data-author="">Buy The Faithful and The Fallen Series</button>
 
 ---
 
@@ -70,7 +70,7 @@ The best book in the series and one of the best third instalments in the genre. 
 
 The finale pulls together everything from the previous three books and delivers a climax that's both spectacular and emotionally earned. Gwynne doesn't shy from tragedy — this is grimdark, and it shows — but neither does he leave his characters without agency or dignity. The ending is exactly what this series deserves.
 
-[**Buy Wrath on Amazon**](https://amzn.to/47ePBZW)
+<button data-buy-book data-title="The Faithful and The Fallen Series" data-author="">Buy The Faithful and The Fallen Series</button>
 
 ---
 

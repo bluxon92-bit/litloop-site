@@ -60,7 +60,7 @@ Readers who loved *The Name of the Wind* for its prose and its first-person voic
 
 **Rating: 4.5/5**
 
-[**Rated 4.5 Stars on Amazon. Buy Empire of Silence here.**](https://amzn.to/4lwC71f)
+<button data-buy-book data-title="Empire of Silence" data-author="">Buy Empire of Silence</button>
 
 ### You Might Also Like
 

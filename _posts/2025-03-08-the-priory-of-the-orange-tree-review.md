@@ -62,7 +62,7 @@ If you're in the market for a vast, beautifully built fantasy world that doesn't
 
 **Rating: 4/5**
 
-[**Rated 4.3 Stars on Amazon. Buy The Priory of the Orange Tree here.**](https://amzn.to/47ngpY3)
+<button data-buy-book data-title="The Priory of the Orange Tree" data-author="">Buy The Priory of the Orange Tree</button>
 
 ### You Might Also Like
 

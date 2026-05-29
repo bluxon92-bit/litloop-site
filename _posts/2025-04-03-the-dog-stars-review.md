@@ -56,7 +56,7 @@ When Hig follows the radio signal and discovers there are people beyond his rang
 
 **Rating: 4.5/5**
 
-[**Rated 4.1 Stars on Amazon. Buy The Dog Stars here.**](https://amzn.to/47xUkG2)
+<button data-buy-book data-title="The Dog Stars" data-author="Peter Heller">Buy The Dog Stars</button>
 
 ### You Might Also Like
 

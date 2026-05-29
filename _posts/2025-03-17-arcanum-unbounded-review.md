@@ -62,7 +62,7 @@ The collection is uneven by nature — it's nine different pieces of different l
 
 **Rating: 4/5** (for established Cosmere readers; not applicable for newcomers)
 
-[**Rated 4.7 Stars on Amazon. Buy Arcanum Unbounded here.**](https://amzn.to/473JQOv)
+<button data-buy-book data-title="Arcanum Unbounded" data-author="">Buy Arcanum Unbounded</button>
 
 ### You Might Also Like
 

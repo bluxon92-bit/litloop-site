@@ -56,7 +56,7 @@ Adults who loved Narnia and Tolkien as children and want something with the same
 
 **Rating: 4.5/5**
 
-[**Buy The Halfmen of O on Amazon.**](https://amzn.to/halfmenofo)
+<button data-buy-book data-title="The Halfmen of O" data-author="Maurice Gee">Buy The Halfmen of O</button>
 
 ### You Might Also Like
 

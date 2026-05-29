@@ -31,7 +31,7 @@ Night Shift is a short story collection published originally in 1978, the book f
 
 Among the standout tales are "The Boogeyman," "Children of the Corn," and "Quitters, Inc." Some of the stories were adapted into successful movies and TV shows, such as The Lawnmower Man and Maximum Overdrive. Night Shift is a must-read for any horror fan, showcasing King's unparalleled flair for spine-chilling storytelling.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/438DoSb)
+<button data-buy-book data-title="Night Shift" data-author="Stephen King">Buy Night Shift</button>
 
 ---
 
@@ -43,7 +43,7 @@ Skeleton Crew is a masterpiece in horror literature and a must-read for any Step
 
 The collection's standout piece is the novella "The Mist," which introduces the reader to a post-apocalyptic world where a thick fog hides unspeakable horrors. Skeleton Crew is a testament to Stephen King's skill in the horror genre and a classic collection of spine-tingling stories for all who dare to read it.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3OzYJjc)
+<button data-buy-book data-title="Skeleton Crew" data-author="Stephen King">Buy Skeleton Crew</button>
 
 ---
 
@@ -55,7 +55,7 @@ Stephen King's collection of short stories, Nightmares & Dreamscapes, is a rolle
 
 Despite its sometimes gruesome subject matter, the collection is not without its lighter moments, with "You Know They Got a Hell of a Band" and "The House on Maple Street" offering a welcome respite in-between more terrifying tales. From start to finish, Nightmares & Dreamscapes showcases why Stephen King remains one of the most celebrated horror writers of all time.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3II1ECv)
+<button data-buy-book data-title="Nightmares & Dreamscapes" data-author="Stephen King">Buy Nightmares & Dreamscapes</button>
 
 ---
 
@@ -66,7 +66,7 @@ Despite its sometimes gruesome subject matter, the collection is not without its
 The Bazaar of Bad Dreams: Stories is a gripping [page-turner](https://www.litloop.co/blog/29-best-fantasy-books) that contains twenty stories, some of which have been previously published but with new endings. The book delves deep into human emotions such as love, loss, greed, and revenge. King's writing style is masterful and he has an excellent ability to create characters that readers can relate to.
 
 There are [supernatural](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson) elements and twists in the stories that keep readers on edge. Each story has its own unique voice and leaves readers with something to think about. The Bazaar of Bad Dreams is another excellent read for horror enthusiasts and fans of Stephen King's work.
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/45qnwfD)
+<button data-buy-book data-title="The Bazaar of Bad Dreams: Stories" data-author="Stephen King">Buy The Bazaar of Bad Dreams: Stories</button>
 
 
 
@@ -93,7 +93,7 @@ Just After Sunset: Stories is a collection of 13 short stories that showcase Kin
 
 The book is another must-read for all Stephen King fans and fans of short horror fiction.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3WGUu7y)
+<button data-buy-book data-title="Just After Sunset: Stories" data-author="Stephen King">Buy Just After Sunset: Stories</button>
 
 
 

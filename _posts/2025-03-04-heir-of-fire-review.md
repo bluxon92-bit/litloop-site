@@ -56,7 +56,7 @@ If you've got this far in the series, this is probably your favourite so far. An
 
 **Rating: 4.5/5**
 
-[**Rated 4.5 Stars on Amazon. Buy Heir of Fire here.**](https://amzn.to/heiroffire)
+<button data-buy-book data-title="Heir of Fire" data-author="">Buy Heir of Fire</button>
 
 ### You Might Also Like
 

@@ -27,7 +27,7 @@ This list covers the full range. Hard magic with strict rules, soft magic that o
 If you want magic that makes logical sense, start here. Allomancy — the ability to burn metals for power — is one of the most inventive systems in the genre, and Sanderson follows his own rules with absolute rigour. 
 The result is action sequences that feel like puzzle-solving, which sounds dry but is actually enormously satisfying. It's smart, propulsive, and the heist plot wrapped around it is terrific.
 
-[**Buy Mistborn on Amazon**](https://amzn.to/4bYZSMp)
+<button data-buy-book data-title="Mistborn: The Final Empire" data-author="Brandon Sanderson">Buy Mistborn: The Final Empire</button>
 
 ---
 
@@ -36,7 +36,7 @@ The result is action sequences that feel like puzzle-solving, which sounds dry b
 Sympathy — the magic of the Kingkiller Chronicle — is rooted in understanding: to manipulate something, you must truly know its nature. Rothfuss builds a system that feels genuinely academic, taught in a university setting complete with failing grades and financial hardship. 
 Kvothe is brilliant but he's also completely broke, and that tension drives the story as much as anything magical. One of the best fantasy novels of the last twenty years. (And i'm still holding out hope that Rothfuss will finish the trilogy...)
 
-[**Buy The Name of the Wind on Amazon**](https://amzn.to/4t9416k)
+<button data-buy-book data-title="The Name of the Wind" data-author="Patrick Rothfuss">Buy The Name of the Wind</button>
 
 ---
 
@@ -44,7 +44,7 @@ Kvothe is brilliant but he's also completely broke, and that tension drives the 
 
 Sanderson again — because when it comes to hard magic, nobody builds systems like he does. Stormlight Archive's Surgebinding ties power to ancient oaths and the psychology of the people who wield it. It's on a much larger scale than Mistborn, thousands of pages, a huge cast, an enormous world, but if you're ready to commit, the payoff is substantial.
 
-[**Buy The Way of Kings on Amazon**](https://amzn.to/3PCIrsf)
+<button data-buy-book data-title="The Way of Kings" data-author="Brandon Sanderson">Buy The Way of Kings</button>
 
 ---
 
@@ -52,7 +52,7 @@ Sanderson again — because when it comes to hard magic, nobody builds systems l
 
 Abercrombie's magic is deliberately understated and costly — rare enough that when it appears, it carries real weight. Bayaz, the First of the Magi, is powerful but limited, and the gap between his reputation and his actual behaviour is one of the series' best running jokes. If you want magic as subversion of fantasy convention, this is the place to start. See our full [review of The Blade Itself](/blog/the-blade-itself-review/).
 
-[**Buy The Blade Itself on Amazon**](https://amzn.to/3NV8R8c)
+<button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie">Buy The Blade Itself</button>
 
 ---
 
@@ -62,7 +62,7 @@ Abercrombie's magic is deliberately understated and costly — rare enough that 
 
 Possibly the best fantasy novel of the last twenty years, and the one I recommend most often to readers who think they don't like fantasy. Set in an alternate Napoleonic England where magic was once common and is being slowly revived, Clarke's prose is immaculate and her magic — rooted in English folklore and fairy tale — is unlike anything else in the genre. Strange, eerie, and entirely original. Give it fifty pages and you won't want to put it down.
 
-[**Buy Jonathan Strange & Mr Norrell on Amazon**](https://amzn.to/4bOetch)
+<button data-buy-book data-title="Jonathan Strange & Mr Norrell" data-author="Susanna Clarke">Buy Jonathan Strange & Mr Norrell</button>
 
 ---
 
@@ -70,7 +70,7 @@ Possibly the best fantasy novel of the last twenty years, and the one I recommen
 
 Le Guin's magic is built on the idea that to control something you must know its true name — and that using power carelessly has real, lasting consequences. It's one of the foundational texts of the genre, and it's still one of the most philosophically serious treatments of what magic actually means. Short, clean, and quietly devastating. [Le Guin is one of the greats](/blog/the-best-sci-fi-books-by-ursula-k-le-guin/) — this is a brilliant place to start with her work.
 
-[**Buy A Wizard of Earthsea on Amazon**](https://amzn.to/4lKrnfY)
+<button data-buy-book data-title="A Wizard of Earthsea" data-author="Ursula K. Le Guin">Buy A Wizard of Earthsea</button>
 
 ---
 
@@ -78,7 +78,7 @@ Le Guin's magic is built on the idea that to control something you must know its
 
 A sweeping standalone epic with magic tied to dragons, fire, and the deep history of a world split between East and West. Shannon's magic is felt rather than explained — immersive and ancient rather than systematic. The world-building is gorgeous. See our [full review](/blog/the-priory-of-the-orange-tree-review/).
 
-[**Buy The Priory of the Orange Tree on Amazon**](https://amzn.to/47jxVwf)
+<button data-buy-book data-title="The Priory of the Orange Tree" data-author="Samantha Shannon">Buy The Priory of the Orange Tree</button>
 
 ---
 
@@ -86,7 +86,7 @@ A sweeping standalone epic with magic tied to dragons, fire, and the deep histor
 
 Lynch uses magic sparingly — a deliberate choice that makes every appearance matter. The focus here is character, heist, and city, with magic as one dangerous tool among many rather than a superpower. If you want clever, funny, brilliantly plotted fantasy with a light touch on the supernatural, this is it.
 
-[**Buy The Lies of Locke Lamora on Amazon**](https://amzn.to/4bufQOn)
+<button data-buy-book data-title="The Lies of Locke Lamora" data-author="Scott Lynch">Buy The Lies of Locke Lamora</button>
 
 ---
 
@@ -96,7 +96,7 @@ Lynch uses magic sparingly — a deliberate choice that makes every appearance m
 
 Kuang's shamanism is terrifying because of what it requires. To channel the gods of war and destruction, you have to become capable of atrocity. Based on Chinese history and unflinchingly brutal, this is one of the most morally serious fantasy novels of recent years. Not for the faint-hearted — but if you want magic that actually means something, this delivers.
 
-[**Buy The Poppy War on Amazon**](https://amzn.to/4d0YTMK)
+<button data-buy-book data-title="The Poppy War" data-author="R.F. Kuang">Buy The Poppy War</button>
 
 ---
 
@@ -104,7 +104,7 @@ Kuang's shamanism is terrifying because of what it requires. To channel the gods
 
 A fantasy world inspired by pre-Columbian American civilisations, with magic tied to sacrifice, celestial mechanics, and the body. Roanhorse builds something genuinely different from the European-derived default, and the magic system reflects every bit of that. Vivid, strange, and worth every page.
 
-[**Buy Black Sun on Amazon**](https://amzn.to/3PVdVdc)
+<button data-buy-book data-title="Black Sun" data-author="Rebecca Roanhorse">Buy Black Sun</button>
 
 ---
 
@@ -112,7 +112,7 @@ A fantasy world inspired by pre-Columbian American civilisations, with magic tie
 
 Magic powered by bone shards taken from living people — literally parasitic. The emperor's control over his subjects is exercised through their own stolen fragments of self. It's clever, dark, and original in a genre where originality isn't always easy to come by.
 
-[**Buy The Bone Shard Daughter on Amazon**](https://amzn.to/3NJ9At5)
+<button data-buy-book data-title="The Bone Shard Daughter" data-author="Andrea Stewart">Buy The Bone Shard Daughter</button>
 
 ---
 
@@ -120,7 +120,7 @@ Magic powered by bone shards taken from living people — literally parasitic. T
 
 Not traditional magic — Baru's power is economic and political. But Dickinson constructs systems of control so intricate and all-encompassing that they function like magic in the story. For readers who want their fantasy to operate right on the edge of the fantastical.
 
-[**Buy The Traitor Baru Cormorant on Amazon**](https://amzn.to/4tay91b)
+<button data-buy-book data-title="The Traitor Baru Cormorant" data-author="Seth Dickinson">Buy The Traitor Baru Cormorant</button>
 
 ---
 
@@ -130,7 +130,7 @@ Not traditional magic — Baru's power is economic and political. But Dickinson 
 
 Hogwarts if Hogwarts was genuinely trying to kill you. El is the most powerful student in the school and is desperately trying not to become a dark sorceress. Novik's wit is razor-sharp, the magic system is inventive, and the whole thing is far more fun than it has any right to be.
 
-[**Buy A Deadly Education on Amazon**](https://amzn.to/4lN2dNL)
+<button data-buy-book data-title="A Deadly Education" data-author="Naomi Novik">Buy A Deadly Education</button>
 
 ---
 
@@ -138,7 +138,7 @@ Hogwarts if Hogwarts was genuinely trying to kill you. El is the most powerful s
 
 Six magicians compete for a place in a secret society with access to the world's most dangerous knowledge. The magic here is highly specialised — each character has a unique ability — and the drama comes from how those abilities interact under pressure. Clever, stylish, and pleasingly cynical about ambition. See our [full review](/blog/book-review-the-atlas-six-by-olivie-blake/).
 
-[**Buy The Atlas Six on Amazon**](https://amzn.to/4sC7wT0)
+<button data-buy-book data-title="The Atlas Six" data-author="Olivie Blake">Buy The Atlas Six</button>
 
 ---
 
@@ -148,7 +148,7 @@ Six magicians compete for a place in a secret society with access to the world's
 
 Tolkien's magic is mythic and largely off-page — Gandalf is a being of ancient power, and magic in Middle-earth is part of the world's fabric rather than a learnable skill. The restraint is exactly what makes it work. Everything feels weighty because power is rare and dangerous.
 
-[**Buy The Lord of the Rings on Amazon**](https://amzn.to/4bDZeCI)
+<button data-buy-book data-title="The Lord of the Rings" data-author="J.R.R. Tolkien">Buy The Lord of the Rings</button>
 
 ---
 
@@ -158,7 +158,7 @@ Tolkien's magic is mythic and largely off-page — Gandalf is a being of ancient
 
 Clarke's second novel — shorter, stranger, and no less extraordinary than *Jonathan Strange*. Magic is woven into the architecture of an infinite House with tidal halls and the bones of the dead. It's unlike anything else on this list. Read it without knowing too much about the plot. Trust me on this one.
 
-[**Buy Piranesi on Amazon**](https://amzn.to/4uJEylD)
+<button data-buy-book data-title="Piranesi" data-author="Susanna Clarke">Buy Piranesi</button>
 
 ---
 
@@ -166,7 +166,7 @@ Clarke's second novel — shorter, stranger, and no less extraordinary than *Jon
 
 Magic rooted in Indian classical tradition, tied to a dying goddess and wielded only by Ahiranyi women. Suri builds a world that feels genuinely different from fantasy's defaults, and the magic system reflects its cultural roots in every detail. Beautiful and original.
 
-[**Buy The Jasmine Throne on Amazon**](https://amzn.to/4bHe1fR)
+<button data-buy-book data-title="The Jasmine Throne" data-author="Tasha Suri">Buy The Jasmine Throne</button>
 
 ---
 
@@ -174,7 +174,7 @@ Magic rooted in Indian classical tradition, tied to a dying goddess and wielded 
 
 Translation as magic. In an alternate 1830s Oxford, silver bars engraved with words in two languages release the meaning lost in translation as a form of power — and the British Empire runs on it. One of the most original magic systems in recent fantasy, wrapped around a devastating critique of colonialism. Kuang is one of the most exciting writers in the genre right now.
 
-[**Buy Babel on Amazon**](https://amzn.to/4d7jYoK)
+<button data-buy-book data-title="Babel" data-author="R.F. Kuang">Buy Babel</button>
 
 ---
 

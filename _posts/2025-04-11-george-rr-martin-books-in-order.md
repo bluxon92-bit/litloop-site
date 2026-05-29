@@ -36,31 +36,31 @@ The main series. Seven planned books, five published. Epic fantasy set in the co
 
 The Stark family of Winterfell are drawn south into the politics of King's Landing when Lord Eddard Stark is asked to serve as the King's Hand. Everyone knows what happens next. If you somehow don't — read it without spoilers. It remains one of the great opening volumes in fantasy.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/gameofthrones)
+<button data-buy-book data-title="A Game of Thrones" data-author="George R.R. Martin">Buy A Game of Thrones</button>
 
 ### 2. A Clash of Kings (1998)
 
 The realm fractures into war. Multiple claimants to the throne. The scope expands dramatically. Contains some of the finest battle writing in the series.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/clashofkings)
+<button data-buy-book data-title="A Clash of Kings" data-author="George R.R. Martin">Buy A Clash of Kings</button>
 
 ### 3. A Storm of Swords (2000)
 
 The best book in the series by wide consensus. The Red Wedding. The Purple Wedding. The trial. Events cascade in ways that feel simultaneously shocking and inevitable. If you're going to read one ASOIAF book, it's this one — though you need the first two to earn it.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/stormofswords)
+<button data-buy-book data-title="A Storm of Swords" data-author="George R.R. Martin">Buy A Storm of Swords</button>
 
 ### 4. A Feast for Crows (2005)
 
 Published four years after Book 3, covering only half the cast while Martin finished the other half separately. More political and slower than its predecessor. Often cited as the series' weakest volume, though the Cersei and Brienne chapters are exceptional.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/feastofcrows)
+<button data-buy-book data-title="A Feast for Crows" data-author="George R.R. Martin">Buy A Feast for Crows</button>
 
 ### 5. A Dance with Dragons (2011)
 
 The other half of the Feast for Crows cast, running concurrently with Book 4 and then extending beyond it. Returns to fan favourites including Tyrion, Jon, and Daenerys. Ends on cliffhangers that remain unresolved fourteen years later.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/dancedragons)
+<button data-buy-book data-title="A Dance with Dragons" data-author="George R.R. Martin">Buy A Dance with Dragons</button>
 
 ---
 
@@ -68,7 +68,7 @@ The other half of the Feast for Crows cast, running concurrently with Book 4 and
 
 A gorgeous illustrated encyclopedia of Westerosi history, co-written with Elio Garcia and Linda Antonsson. Best read after the main series as a reference and supplement.
 
-[**Buy on Amazon.**](https://amzn.to/worldicefire)
+<button data-buy-book data-title="The World of Ice and Fire Companion" data-author="George R.R. Martin">Buy The World of Ice and Fire Companion</button>
 
 ---
 
@@ -78,7 +78,7 @@ A gorgeous illustrated encyclopedia of Westerosi history, co-written with Elio G
 
 A chronicle of House Targaryen's first 150 years of rule, written as in-world history. The Dance of the Dragons section — the Targaryen civil war — is the source material for *House of the Dragon*. [Full review here.](https://www.litloop.co/blog/fire-and-blood-review)
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/fireandblood)
+<button data-buy-book data-title="Fire and Blood" data-author="George R.R. Martin">Buy Fire and Blood</button>
 
 ### The Princess and the Queen / The Rogue Prince (Novellas)
 
@@ -90,7 +90,7 @@ Shorter pieces covering specific periods of Targaryen history. Available in the 
 
 Set roughly ninety years before the main series, following Ser Duncan the Tall and his squire Egg (later King Aegon V). Three novellas published, collected in *A Knight of the Seven Kingdoms*. Lighter in tone than ASOIAF — warmer, more adventurous, with the kind of heroic fantasy Martin deliberately avoided in the main series. Excellent.
 
-[**Rated 4.7 Stars. Buy A Knight of the Seven Kingdoms on Amazon.**](https://amzn.to/knightsevenkingdoms)
+<button data-buy-book data-title="The Dunk and Egg Novellas" data-author="George R.R. Martin">Buy The Dunk and Egg Novellas</button>
 
 ---
 
@@ -100,7 +100,7 @@ Martin was primarily a science fiction writer before *Game of Thrones*. His earl
 
 **Fevre Dream (1982)** — a vampire novel set on the Mississippi river in the 1850s. Genuinely excellent and criminally underread. If you want to see what Martin was doing before Westeros, start here.
 
-[**Buy Fevre Dream on Amazon.**](https://amzn.to/fevredream)
+<button data-buy-book data-title="Early Career (Pre-ASOIAF)" data-author="George R.R. Martin">Buy Early Career (Pre-ASOIAF)</button>
 
 **The Armageddon Rag (1983)** — a rock music conspiracy thriller. An oddity but an interesting one.
 

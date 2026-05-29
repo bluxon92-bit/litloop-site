@@ -62,7 +62,7 @@ The Licanius Trilogy is complete: *The Shadow of What Was Lost*, *An Echo of Thi
 
 **Rating: 4/5**
 
-[**Rated 4.4 Stars on Amazon. Buy The Shadow of What Was Lost here.**](https://amzn.to/4uDWqhJ)
+<button data-buy-book data-title="The Shadow of What Was Lost" data-author="Underrated Epic Fantasy">Buy The Shadow of What Was Lost</button>
 
 ### You Might Also Like
 

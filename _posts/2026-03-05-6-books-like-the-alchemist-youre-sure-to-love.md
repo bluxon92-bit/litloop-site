@@ -48,7 +48,7 @@ Siddhartha is a philosophical novel by Hermann Hesse that loosely mimics the sto
 
 Like The Alchemist, Siddhartha features accessible writing and a simple yet thought-provoking plot that will help you see the world in a new light.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3oxmihM)
+<button data-buy-book data-title="Siddhartha" data-author="Hermann Hesse">Buy Siddhartha</button>
 
 ---
 
@@ -60,7 +60,7 @@ Candide is a satirical novel by the French philosopher Voltaire. It follows the 
 
 The book explores themes of optimism, the human condition, and the nature of reality. Like The Alchemist, Candide uses humour and allegory to explore important philosophical concepts.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/45pkBUb)
+<button data-buy-book data-title="Candide" data-author="Voltaire">Buy Candide</button>
 
 ---
 
@@ -72,7 +72,7 @@ The Celestine Prophecy by James Redfield is a captivating spiritual adventure no
 
 The book blends fiction and self-help, inspiring readers to embrace personal growth and seek a higher understanding of themselves and the world. With its engaging narrative and profound themes, The Celestine Prophecy invites readers to explore the power of human consciousness and the transformative potential of spiritual enlightenment.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3BMIKXt)
+<button data-buy-book data-title="The Celestine Prophecy" data-author="James Redfield">Buy The Celestine Prophecy</button>
 
 ---
 
@@ -84,7 +84,7 @@ The Pilgrimage is another novel by Paulo Coelho that explores similar themes to 
 
 Coelho explores themes of self-discovery, the pursuit of one's destiny, the power of transformation, and the importance of embracing the present moment. The narrative seamlessly weaves together elements of adventure, [mysticism](https://www.litloop.co/blog/books-like-harry-potter), and self-reflection, creating a compelling tale that invites readers to reflect on their own spiritual paths.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/3BS2jh3)
+<button data-buy-book data-title="The Pilgrimage" data-author="Paulo Coelho">Buy The Pilgrimage</button>
 
 ---
 
@@ -96,7 +96,7 @@ Jonathan Livingston Seagull by Richard Bach is a timeless novella that follows t
 
 This internationally bestselling book inspires individuals to break free from conformity, discover their true potential, and find meaning in their own journeys.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3MPady1)
+<button data-buy-book data-title="Jonathan Livingston Seagull" data-author="Richard Bach">Buy Jonathan Livingston Seagull</button>
 
 ---
 
@@ -108,7 +108,7 @@ The Prophet by Kahlil Gibran was published in 1923 and has since become one of t
 
 Gibran's prose is filled with profound and timeless teachings, offering philosophical reflections on the human condition and the nature of existence. Through poetic language and metaphorical storytelling, he addresses universal themes, encouraging readers to reflect on their own lives, relationships, and spiritual growth.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/3q8VDZ5)
+<button data-buy-book data-title="The Prophet" data-author="Kahlil Gibran">Buy The Prophet</button>
 
 ---
 

@@ -35,7 +35,7 @@ Born to a king, Clytemnestra marries a tyrant who sacrifices her child to appeas
 
 As her husband returns victorious, Clytemnestra must choose between acceptance and vengeance. She knows that either choice will bring infamy, but she bides her time and manipulates the gods into helping her exact her retribution. This novel is a gripping tale of a woman's struggle against oppressive patriarchy and the lengths she goes to claim her rightful place in history.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/41yTiEr)
+<button data-buy-book data-title="Clytemnestra" data-author="Costanza Casati">Buy Clytemnestra</button>
 
 ---
 
@@ -49,7 +49,7 @@ It begins with Circe's childhood in the house of Helios, the mighty Titan of the
 
 During the novel she encounters some of the most famous figures in mythology — the Minotaur, Daedalus and Icarus, Medea, and cunning Odysseus. This is a story [of men and gods and wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath), of power and revenge, and of love. Circe is a triumph of storytelling and a must-read for fans of Greek mythology.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3A4QxyK)
+<button data-buy-book data-title="Circe" data-author="Madeline Miller">Buy Circe</button>
 
 If you like Circe you will also enjoy Madeline Miller's [The Song of Achilles](https://amzn.to/41hQtYv).
 
@@ -63,7 +63,7 @@ Mythos by Stephen Fry is a modern and witty retelling of the classic Greek myths
 
 The tales span from Pandora's box to Prometheus's fire and the punishments of the gods. Mythos celebrates the thrills and grandeur of the Greek myths, making them accessible, relatable, and deeply entertaining.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/43Fticg)
+<button data-buy-book data-title="Mythos: A Modern Telling of Classical Greek Myths" data-author="Stephen Fry">Buy Mythos: A Modern Telling of Classical Greek Myths</button>
 
 ---
 
@@ -75,7 +75,7 @@ In Steven Sherrill's novel, the Minotaur — five thousand years old and long si
 
 As his life begins to unravel over a two-week period, the Minotaur discovers the possibility of happiness and the capacity for love, despite feeling broken and alienated.
 
-[**Rated 4.2 Stars. Buy on Amazon.**](https://amzn.to/3A4Vvf2)
+<button data-buy-book data-title="The Minotaur Takes a Cigarette Break" data-author="Steven Sherrill">Buy The Minotaur Takes a Cigarette Break</button>
 
 ---
 
@@ -87,7 +87,7 @@ Mary Renault's The King Must Die offers a vivid portrayal of the mythic hero The
 
 The novel follows Theseus on his journey from Troizen to Eleusis, where he faces the titular death, and from Athens to Crete, where he proves his worth by mastering the challenge of jumping bulls. Renault expertly captures the spirit of Theseus's time, making this book both a page-turner and a daring work of imagination.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/3A8PPR8)
+<button data-buy-book data-title="The King Must Die (Theseus #1)" data-author="Mary Renault">Buy The King Must Die (Theseus #1)</button>
 
 ---
 
@@ -99,7 +99,7 @@ Regular readers of this blog will know that no list is complete without an entry
 
 However, my favourite of his books set in ancient Greece is The Lion of Macedon. This novel follows the character of Parmenion from his birthplace in Sparta, where he learns strategy from the famous Athenian and student of Socrates, [Xenophon](https://www.masterclass.com/articles/xenophon-life-and-philosophy). From there he travels to Thebes and finally to Macedonia where he meets Philip of Macedon and lays the foundation for the conquest of Alexander the Great. He's a mighty warrior, an unbeatable strategist, and hated by the gods. Along the way, he leads Thebes to beat Sparta in a pitched battle of equal numbers for the first time ever, meets Aristotle, and travels to the underworld.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3mHw5RI)
+<button data-buy-book data-title="The Lion of Macedon" data-author="David Gemmell">Buy The Lion of Macedon</button>
 
 **Related:** [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)
 
@@ -113,7 +113,7 @@ Margaret Atwood has returned with a witty and perceptive retelling of the myth o
 
 The maids form a Chorus, singing and chanting, and questioning the events that led to their hanging and Penelope's true intentions. Atwood believes the story as told in the Odyssey has too many inconsistencies, and she has always been troubled by the fate of the hanged maids. In The Penelopiad, Penelope is similarly haunted by their deaths.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/40gjXVs)
+<button data-buy-book data-title="The Penelopiad" data-author="Margaret Atwood">Buy The Penelopiad</button>
 
 ---
 
@@ -125,7 +125,7 @@ Medusa, the youngest of the Gorgon sisters, is the only mortal in her family of 
 
 In Stone Blind, classicist and comedian Natalie Haynes turns our understanding of this legendary myth on its head by bringing empathy and nuance to Medusa's story. The novel challenges the portrayal of women as monsters, punished for the assault of powerful men, and brings a fresh and timely perspective to one of the earliest stories of its kind.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/3URnU1J)
+<button data-buy-book data-title="Stone Blind" data-author="Natalie Haynes">Buy Stone Blind</button>
 
 ---
 
@@ -137,7 +137,7 @@ The Greek gods of Olympus are still alive and kicking in the twenty-first centur
 
 As tensions rise between Aphrodite and Apollo, the conflict quickly escalates into a battle that puts the fate of humanity at risk. Caught in the middle are Alice and Neil, two ordinary humans who must summon their own heroic qualities to save not only themselves but the world as well. Marie Phillips puts a modern twist on ancient mythology and asks whether or not mere mortals can rise to the level of the gods.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/43RVwki)
+<button data-buy-book data-title="Gods Behaving Badly" data-author="Marie Phillips">Buy Gods Behaving Badly</button>
 
 ---
 
@@ -149,7 +149,7 @@ Piranesi's dwelling is no ordinary edifice. Its rooms are limitless, its corrido
 
 Apart from Piranesi, there is just one other individual who frequents the house — a man referred to as The Other, who visits twice a week to solicit aid with researching A Great and Secret Knowledge. Yet, as Piranesi ventures deeper, clues surface of another presence, and a ghastly reality starts to unravel, exposing a world beyond Piranesi's familiar realm.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3A7tTWA)
+<button data-buy-book data-title="Piranesi" data-author="Susanna Clarke">Buy Piranesi</button>
 
 ---
 
@@ -161,7 +161,7 @@ Agamemnon makes a fatal decision on the day of his daughter's wedding: he orders
 
 As Electra silently watches the family's game of innocence and Orestes is forced into dangerous exile, they must find a way to right the wrongs of the past, even if it means committing a terrible and barbarous act. House of Names is a stunning work of literature that explores themes of betrayal, longing, and vengeance.
 
-[**Rated 4.1 Stars. Buy on Amazon.**](https://amzn.to/3mEzrF3)
+<button data-buy-book data-title="House of Names" data-author="Colm Tóibín">Buy House of Names</button>
 
 ---
 
@@ -173,7 +173,7 @@ Amara was once a cherished daughter, but her father's death left her family in p
 
 Despite the oppressive conditions, Amara refuses to lose her spirit and bonds with her fellow she-wolves who walk the streets of Pompeii during the day. In the bustling city, Amara learns that everything has a price — including her freedom. The Wolf Den explores the lives of women who have long been overlooked and reimagines the reality of the lupanar in Pompeii.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/3KNuVft)
+<button data-buy-book data-title="The Wolf Den" data-author="Elodie Harper">Buy The Wolf Den</button>
 
 ---
 
@@ -185,7 +185,7 @@ Every seven years, the Agon begins, forcing nine Greek gods to walk the earth as
 
 However, as the next hunt approaches in New York City, a childhood friend believed long dead — Castor — and a gravely wounded Athena seek Lore's help. Binding her fate to Athena's and rejoining the hunt will come at a deadly cost, and may not be enough to stop the rise of a new god with the power to bring humanity to its knees.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3mLogub)
+<button data-buy-book data-title="Lore" data-author="Alexandra Bracken">Buy Lore</button>
 
 ---
 
@@ -199,7 +199,7 @@ Lore Olympus is a modernised retelling of the classic love story between Hades a
 
 This contemporary reimagining of the Greek pantheon captures the all-too-human emotions of these all-powerful deities as they battle and bicker amongst themselves, commit terrifying acts of wrath against humanity, and struggle with love and fear and jealousy. One of the most exceptional aspects is the way creator Rachel Smythe deals with trauma and abuse, powerlessness and power.
 
-[**Rated 4.9 Stars. Buy on Amazon.**](https://amzn.to/3mHxkjQ)
+<button data-buy-book data-title="Lore Olympus Series" data-author="Rachel Smythe">Buy Lore Olympus Series</button>
 
 ---
 

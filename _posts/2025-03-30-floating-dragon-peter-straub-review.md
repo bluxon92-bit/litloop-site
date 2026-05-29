@@ -65,7 +65,7 @@ If you've read King's major novels and want to explore what else exists in serio
 
 **Rating: 4.5/5**
 
-[**Rated 4.1 Stars on Amazon. Buy Floating Dragon here.**](https://amzn.to/floatingdragon)
+<button data-buy-book data-title="Floating Dragon" data-author="Peter Straub">Buy Floating Dragon</button>
 
 ### You Might Also Like
 

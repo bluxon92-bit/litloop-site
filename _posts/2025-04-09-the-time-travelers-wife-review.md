@@ -52,7 +52,7 @@ Anyone who wants a love story that takes love seriously, rendered in a structure
 
 **Rating: 5/5**
 
-[**Rated 4.3 Stars on Amazon. Buy The Time Traveler's Wife here.**](https://amzn.to/timetravelerwife)
+<button data-buy-book data-title="The Time Traveler's Wife" data-author="">Buy The Time Traveler's Wife</button>
 
 ### You Might Also Like
 

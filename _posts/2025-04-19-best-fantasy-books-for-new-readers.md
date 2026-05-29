@@ -27,13 +27,13 @@ This guide organises recommendations by reader type. Find where you recognise yo
 
 Still the best entry point to fantasy as a genre. A small, homely creature is persuaded against his better judgement to join a quest. Tolkien writes it with warmth, wit, and a pace that honours a reader's time. It's shorter than most people expect and it ends properly.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/thehobbit)
+<button data-buy-book data-title="The Hobbit" data-author="J.R.R. Tolkien">Buy The Hobbit</button>
 
 ### Mistborn — Brandon Sanderson
 
 A heist in an ash-covered world where the dark lord already won. The magic system (Allomancy, using swallowed metals) is inventive and rigorously logical, the plot moves efficiently, and the trilogy has one of the most satisfying conclusions in modern fantasy. Sanderson is the genre's most accessible serious author.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/mistborn)
+<button data-buy-book data-title="Mistborn" data-author="Brandon Sanderson">Buy Mistborn</button>
 
 ---
 
@@ -43,13 +43,13 @@ A heist in an ash-covered world where the dark lord already won. The magic syste
 
 The TV series improved on the books' pacing but compressed and eventually diverged from the source material. The books are richer, more complex, and give you characters the show never developed. Start here and expect around 5,000 pages of investment if you go the full distance.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/gameofthrones)
+<button data-buy-book data-title="A Game of Thrones" data-author="George R.R. Martin">Buy A Game of Thrones</button>
 
 ### The Blade Itself — Joe Abercrombie
 
 If what you loved about GoT was the moral complexity, the subversion of fantasy conventions, and the sense that being good doesn't protect you — Abercrombie is the author who does this most consistently and the First Law is where to start. [Full review here.](https://www.litloop.co/blog/the-blade-itself-review)
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/bladeitself)
+<button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie">Buy The Blade Itself</button>
 
 ---
 
@@ -59,13 +59,13 @@ If what you loved about GoT was the moral complexity, the subversion of fantasy 
 
 The most emotionally devastating fantasy series I know. FitzChivalry Farseer's life is a prolonged study in the gap between capability and outcome, in how people who care about you can still ruin you, in what it means to be expendable to the people you love. Unforgettable. [Full guide here.](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/assassinsapprentice)
+<button data-buy-book data-title="The Farseer Trilogy" data-author="Robin Hobb">Buy The Farseer Trilogy</button>
 
 ### The Name of the Wind — Patrick Rothfuss
 
 The finest prose in modern fantasy, a narrator who makes you believe in his own legend, and a magic system (Sympathy) built with genuine intellectual rigour. Less plot-driven than most fantasy — this is fundamentally about character — but for the right reader it's one of the best things in the genre. [Full guide here.](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/nameofthewind)
+<button data-buy-book data-title="The Name of the Wind" data-author="Patrick Rothfuss">Buy The Name of the Wind</button>
 
 ---
 
@@ -75,13 +75,13 @@ The finest prose in modern fantasy, a narrator who makes you believe in his own 
 
 Cozy sci-fi rather than fantasy, but the appeal is the same: a diverse crew on a small ship, a long journey, and the texture of daily life among genuinely interesting people. No trauma. No grimdark. Deeply comforting. [Full review here.](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/longwaysmallangryplanet)
+<button data-buy-book data-title="The Long Way to a Small, Angry Planet" data-author="Becky Chambers">Buy The Long Way to a Small, Angry Planet</button>
 
 ### The Goblin Emperor — Katherine Addison
 
 A sheltered young man inherits an empire he doesn't want and has to figure out how to rule with kindness in a court designed to punish it. Warm, intelligent, complete in one volume. No villain wins. Good things happen. Radical in the current fantasy landscape.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/goblinemperor)
+<button data-buy-book data-title="The Goblin Emperor" data-author="Katherine Addison">Buy The Goblin Emperor</button>
 
 ---
 
@@ -91,13 +91,13 @@ A sheltered young man inherits an empire he doesn't want and has to figure out h
 
 Fifty thousand words. A man in a House with infinite halls. A mystery about identity and reality that rewards careful reading. One of the most original fantasy novels of the last decade and short enough to read in a single sitting if you're so inclined. [On our standalone fantasy list.](https://www.litloop.co/blog/best-standalone-fantasy-novels)
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/piranesi)
+<button data-buy-book data-title="Piranesi" data-author="Susanna Clarke">Buy Piranesi</button>
 
 ### Senlin Ascends — Josiah Bancroft
 
 A schoolteacher loses his wife on honeymoon in the Tower of Babel. The world-building is extraordinary, the prose is beautiful, and the plot is genuinely surprising. The best-kept secret in contemporary fantasy. [Full review here.](https://www.litloop.co/blog/senlin-ascends-review)
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/senlinascends)
+<button data-buy-book data-title="Senlin Ascends" data-author="Josiah Bancroft">Buy Senlin Ascends</button>
 
 ---
 

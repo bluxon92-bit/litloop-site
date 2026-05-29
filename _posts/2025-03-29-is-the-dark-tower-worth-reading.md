@@ -73,7 +73,7 @@ Published late and set between books four and five. A story-within-a-story-withi
 
 My honest recommendation: read books one through four and treat book five onwards as optional based on how much you're enjoying the ride.
 
-[**Buy The Gunslinger on Amazon.**](https://amzn.to/stephenking-gunslinger)
+<button data-buy-book data-title="So Is It Worth Reading?" data-author="">Buy So Is It Worth Reading?</button>
 
 ### You Might Also Like
 

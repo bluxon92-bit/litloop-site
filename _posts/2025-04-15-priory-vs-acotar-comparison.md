@@ -56,7 +56,7 @@ Both books feature female protagonists in secondary world fantasy settings with 
 
 **Read both if:** You have the time. They scratch genuinely different itches and the readers who love one don't always love the other, but those who love both get something distinct from each.
 
-[**Buy on Amazon.**](https://amzn.to/4sdImJW)
+<button data-buy-book data-title="The Verdict" data-author="">Buy The Verdict</button>
 
 ### You Might Also Like
 

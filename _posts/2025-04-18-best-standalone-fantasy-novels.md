@@ -24,7 +24,7 @@ Standalone fantasy is the antidote. One book. Complete story. You find out what 
 
 848 pages, three POV characters, a world inspired by East Asian mythology, dragons treated with genuine awe. Shannon decided to tell her entire epic fantasy story in a single volume and pulled it off. The ending is earned and complete. [Full review here.](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review)
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/prioryorangetree)
+<button data-buy-book data-title="The Priory of the Orange Tree" data-author="Samantha Shannon">Buy The Priory of the Orange Tree</button>
 
 ---
 
@@ -32,7 +32,7 @@ Standalone fantasy is the antidote. One book. Complete story. You find out what 
 
 England. The Napoleonic Wars. Two magicians who disagree about the nature of English magic and whose disagreement has consequences reaching into faerie. Clarke's novel is magisterial, quietly funny, and unlike anything else in the genre. It reads like a Victorian novel written by someone who has absorbed Tolkien completely and emerged with their own thing.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/jonathanstrange)
+<button data-buy-book data-title="Jonathan Strange & Mr Norrell" data-author="Susanna Clarke">Buy Jonathan Strange & Mr Norrell</button>
 
 ---
 
@@ -40,7 +40,7 @@ England. The Napoleonic Wars. Two magicians who disagree about the nature of Eng
 
 Two magicians are trained from childhood by rival masters and pitted against each other in a competition neither fully understands. The arena is a circus that appears without warning, open only at night. Morgenstern writes the circus with extraordinary sensory richness and the love story at the centre has genuine ache.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/nightcircus)
+<button data-buy-book data-title="The Night Circus" data-author="Erin Morgenstern">Buy The Night Circus</button>
 
 ---
 
@@ -48,7 +48,7 @@ Two magicians are trained from childhood by rival masters and pitted against eac
 
 Clarke's second novel is entirely different from her first — shorter, stranger, operating as a mystery as much as a fantasy. A man lives in a House with infinite halls and tidal statues, and he has incomplete knowledge of how he came to be there. The House itself is one of the great fantasy settings of recent decades.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/piranesi)
+<button data-buy-book data-title="Piranesi" data-author="Susanna Clarke">Buy Piranesi</button>
 
 ---
 
@@ -56,7 +56,7 @@ Clarke's second novel is entirely different from her first — shorter, stranger
 
 A young woman is chosen by a wizard called the Dragon to serve in his tower for ten years. The relationship is more complicated than it appears. The forest that borders the Dragon's valley is actively malevolent and getting worse. Novik writes a fairy-tale fantasy that earns its emotional climax with rigour and care.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/uprooted)
+<button data-buy-book data-title="Uprooted" data-author="Naomi Novik">Buy Uprooted</button>
 
 ---
 
@@ -64,7 +64,7 @@ A young woman is chosen by a wizard called the Dragon to serve in his tower for 
 
 The foundation text for every standalone fantasy that followed it. A young boy with remarkable talent trains at a school of wizards on an island and makes a terrible mistake. Le Guin's prose is precise and beautiful and the moral architecture of Earthsea remains one of the most interesting in the genre. The sequels are excellent but this first volume is entirely self-contained.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/wizardearthsea)
+<button data-buy-book data-title="A Wizard of Earthsea" data-author="Ursula K. Le Guin">Buy A Wizard of Earthsea</button>
 
 ---
 
@@ -72,7 +72,7 @@ The foundation text for every standalone fantasy that followed it. A young boy w
 
 The best Sanderson novella and one of the best pieces of shorter fantasy fiction. A Forger imprisoned and given ninety days to reconstruct a man's soul. It's about art, identity, and the moral implications of creation. Read in an afternoon. Worth a week. [Brief discussion in our Arcanum Unbounded review.](https://www.litloop.co/blog/arcanum-unbounded-review)
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/emperorssoul)
+<button data-buy-book data-title="The Emperor's Soul" data-author="Brandon Sanderson">Buy The Emperor's Soul</button>
 
 ---
 
@@ -80,7 +80,7 @@ The best Sanderson novella and one of the best pieces of shorter fantasy fiction
 
 The youngest, most despised son of an elven emperor unexpectedly inherits the throne when his father and brothers die in an airship crash. He has no training, no allies, and no desire for power. What follows is a fantasy about learning to govern with kindness in a court designed to prevent it. Warm, intelligent, and deeply satisfying.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/goblinemperor)
+<button data-buy-book data-title="The Goblin Emperor" data-author="Katherine Addison">Buy The Goblin Emperor</button>
 
 ---
 
@@ -88,7 +88,7 @@ The youngest, most despised son of an elven emperor unexpectedly inherits the th
 
 A province has been magically erased from the memory of everyone born outside it — its name cannot be heard or spoken. The survivors remember what has been taken from them and work quietly toward restoration. Kay writes literary fantasy at a level that earns the comparison to serious fiction, and *Tigana* is his most emotionally devastating standalone.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/tigana)
+<button data-buy-book data-title="Tigana" data-author="Guy Gavriel Kay">Buy Tigana</button>
 
 ---
 
@@ -96,7 +96,7 @@ A province has been magically erased from the memory of everyone born outside it
 
 Technically the beginning of a long series but works completely as a standalone — a complete story with a proper ending. A kitchen boy discovers he has magical talent as two worlds collide through a rift in space. Covers fifteen years of story with remarkable economy. [Full review here.](https://www.litloop.co/blog/magician-raymond-feist-review)
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/magician-feist)
+<button data-buy-book data-title="Magician" data-author="Raymond E. Feist">Buy Magician</button>
 
 ### You Might Also Like
 

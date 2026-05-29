@@ -58,7 +58,7 @@ Read *Magician* first, in the expanded 1992 edition if you can find it.
 
 **Rating: 4.5/5**
 
-[**Rated 4.6 Stars on Amazon. Buy Magician here.**](https://amzn.to/471Duza)
+<button data-buy-book data-title="Magician" data-author="Raymond E. Feist">Buy Magician</button>
 
 ### You Might Also Like
 

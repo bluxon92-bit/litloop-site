@@ -27,19 +27,19 @@ In this article, we explore some of my favourite and possibly the best Isaac Asi
 
 "[Foundation](https://amzn.to/3KVShPT)" is the first book in Asimov's Foundation series and a great place for any new Asimov fan to start. It tells the story of a group of scientists and engineers who establish a colony at the edge of the galaxy to preserve human knowledge and culture after the collapse of a vast interstellar empire.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/3KVShPT)
+<button data-buy-book data-title="&quot;Foundation&quot;" data-author="">Buy &quot;Foundation&quot;</button>
 
 ### 2. "I, Robot" (1950)
 
 "I, Robot" is a collection of short stories featuring Asimov's famous "Three Laws of Robotics" and the earliest robots in his fictional universe. This book was the basis for the popular film adaptation of the same name featuring Will Smith which introduced Asimov’s worlds and imagination to popular culture.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3KVlt9P)
+<button data-buy-book data-title="&quot;I, Robot&quot;" data-author="">Buy &quot;I, Robot&quot;</button>
 
 ### 3. "Foundation and Empire" (1952)
 
 "[Foundation and Empire](https://amzn.to/3GWBOd1)" is the second book in Asimov's Foundation series. It continues the story of the colony established in "Foundation" and introduces new characters and conflicts, including a powerful mutant with the ability to predict the future.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/3KVlt9P)
+<button data-buy-book data-title="&quot;Foundation and Empire&quot;" data-author="">Buy &quot;Foundation and Empire&quot;</button>
 
 ![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381486/foundation-series-by-asimov-1-_g5ygus.webp)
 
@@ -47,31 +47,31 @@ In this article, we explore some of my favourite and possibly the best Isaac Asi
 
 "[The Caves of Steel](https://amzn.to/41oBvzX)" is at its heart a murder mystery with Asimov’s science fiction flair. The novel is set in a future where Earth is ruled by an authoritarian government and the majority of humanity lives in sprawling underground cities. It follows a murder investigation by a human detective who is paired with a robot partner. It shares many of the same themes as I, Robot, and if you enjoyed the former you’ll no doubt enjoy this one too.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/41oBvzX)
+<button data-buy-book data-title="&quot;The Caves of Steel&quot;" data-author="">Buy &quot;The Caves of Steel&quot;</button>
 
 ### 5. "The End of Eternity" (1955)
 
 "[The End of Eternity](https://amzn.to/3AetXny)" is definitely one of Isaac Asimov’s best books. It is a standalone novel about time travel and the consequences of changing the past. It is one of the few time travel books that I’ve read that successfully avoids undoing itself with time paradox-induced plot holes. The protagonist is a member of an organization called "Eternity," which exists outside of time. Over the millennia they have been manipulating history to ensure humanity’s survival as a species. But, who really has the right to play god like this? And do even the mysterious members of eternity truly understand the damage that comes with changing the past.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3AetXny)
+<button data-buy-book data-title="&quot;The End of Eternity&quot;" data-author="">Buy &quot;The End of Eternity&quot;</button>
 
 ### 6. "The Naked Sun" (1957)
 
 "[The Naked Sun](https://amzn.to/3ovA3NO)" is another murder mystery style science fiction novel. It is set in the same universe as "The Caves of Steel" and it continues the story of the same human detective and his robot partner as they investigate a murder on a distant planet where robots are banned.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3ovA3NO)
+<button data-buy-book data-title="&quot;The Naked Sun&quot;" data-author="">Buy &quot;The Naked Sun&quot;</button>
 
 ### 7. "Foundation's Edge" (1982)
 
 "[Foundation's Edge](https://amzn.to/3mPoeBs)" is the fourth book in the Foundation series and it tells the story of a group of scientists and politicians as they search for the mysterious "Second Foundation," which is said to control the future of humanity.
 
-[**Rated 4.6 Stars. Buy on Amazon.**](https://amzn.to/3mPoeBs)
+<button data-buy-book data-title="&quot;Foundation's Edge&quot;" data-author="">Buy &quot;Foundation's Edge&quot;</button>
 
 ### 8. "Robots and Empire" (1985)
 
 "[Robots and Empir](https://amzn.to/41i4WUp)[e](https://www.amazon.com/Robots-Empire-I-Asimov/dp/0008277796/)" is another [science fiction story](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read) set in the same universe as the Robot series. It is set later than the others and explores the decline of human civilization and the emergence of robots as dominant life forms on Earth. The story takes place in a galaxy-spanning empire where humanity relies on robots for labor and protection. It closely explores the relationship between the robots and their creators and how that shapes the future of the galaxy.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/41i4WUp)
+<button data-buy-book data-title="&quot;Robots and Empire&quot;" data-author="">Buy &quot;Robots and Empire&quot;</button>
 
 ### 9. "Nightfall" (1990)
 
@@ -83,7 +83,7 @@ In this article, we explore some of my favourite and possibly the best Isaac Asi
 
 "[The Gods Themselves](https://amzn.to/41w9o1V)" is another brilliant standalone science fiction novel by Isaac Asimov, first published in 1972. The story takes place in a parallel universe where the inhabitants, called "Eternals," possess a unique ability to tap into an alternate dimension of energy called "the energy sea." A small group of humans discover this and must navigate the politics and conflicts of both their world and the Eternal's, as they race against time to prevent a catastrophic event that could destroy both universes. The novel deals with themes of science and technology, as well as political and personal power struggles.
 
-[**Rated 4.3 Stars. Buy on Amazon.**](https://amzn.to/41w9o1V)
+<button data-buy-book data-title="&quot;The Gods Themselves&quot;" data-author="">Buy &quot;The Gods Themselves&quot;</button>
 
 ## Final Words: The Best Books by Isaac Asimov
 

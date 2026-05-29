@@ -62,7 +62,7 @@ One of the best first entries in a fantasy trilogy. Full stop.
 
 **Rating: 4.5/5**
 
-[**Rated 4.5 Stars on Amazon. Buy The Blade Itself here.**](https://amzn.to/bladeitself)
+<button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie">Buy The Blade Itself</button>
 
 ### You Might Also Like
 

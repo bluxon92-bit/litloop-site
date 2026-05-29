@@ -68,7 +68,7 @@ A collection of eight short sci-fi stories that sit somewhere in the territory o
  
 — Tim, Amazon Review
  
-[**Buy on Amazon**](https://amzn.to/3LD3MO3)
+<button data-buy-book data-title="[Sunset In The East](https://amzn.to/3SOrcBT)" data-author="Ben Luxon">Buy [Sunset In The East](https://amzn.to/3SOrcBT)</button>
  
 ---
  

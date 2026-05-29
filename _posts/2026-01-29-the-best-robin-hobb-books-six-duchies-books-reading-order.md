@@ -27,7 +27,7 @@ The Farseer Trilogy is set in a world of magics that are both revered and feared
 
 However, this isn't a fun story about a prince realising his destiny. Fitz is an outcast, despised by the courts for what he represents — a child manipulated and used by almost everyone around him. As the name of the first book, Assassin's Apprentice, suggests, he is apprenticed to the court assassin and regularly placed in dangerous scenarios as an expendable asset.
 
-[**Buy the Farseer Trilogy on Amazon**](https://amzn.to/42ohACi)
+<button data-buy-book data-title="The Farseer Trilogy: An Overview" data-author="">Buy The Farseer Trilogy: An Overview</button>
 
 ### Robin Hobb and Magic in the Six Duchies
 
@@ -94,7 +94,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 **Assassin's Quest (1997)** — The final book sees Fitz on a quest to avenge his loved ones and reunite with lost family.
 
-[**Buy the Farseer Trilogy on Amazon**](https://amzn.to/42ohACi)
+<button data-buy-book data-title="The Farseer Trilogy" data-author="">Buy The Farseer Trilogy</button>
 
 ---
 
@@ -108,7 +108,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 **Ship of Destiny (2000)** — The final book brings all the various plot threads together in a thrilling conclusion. The liveships themselves play a crucial role, and the book features crossover with characters from the Farseer Trilogy, tying the two series together.
 
-[**Buy the Liveship Trilogy on Amazon**](https://amzn.to/3JwUFfn)
+<button data-buy-book data-title="The Liveship Traders Series" data-author="">Buy The Liveship Traders Series</button>
 
 ---
 
@@ -122,7 +122,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 **Fool's Fate (2004)** — The final book sees Fitz and the Fool on a perilous journey to save the Six Duchies from destruction.
 
-[**Buy the Tawny Man Trilogy on Amazon**](https://amzn.to/3n8wU61)
+<button data-buy-book data-title="The Tawny Man Trilogy" data-author="">Buy The Tawny Man Trilogy</button>
 
 ---
 
@@ -138,7 +138,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 **Blood of Dragons (2013)** — The final book sees the dragon keepers facing their greatest challenge yet as they try to save the dragons from a deadly disease.
 
-[**Buy the Rain Wild Chronicles on Amazon**](https://amzn.to/3Jt7yHn)
+<button data-buy-book data-title="The Rain Wild Chronicles" data-author="">Buy The Rain Wild Chronicles</button>
 
 ---
 
@@ -152,7 +152,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 **Assassin's Fate (2017)** — The final book sees Fitz facing his greatest challenge yet as he confronts his own mortality and once again finds the fate of the Six Duchies in his hands.
 
-[**Buy the Fitz and The Fool Trilogy on Amazon**](https://amzn.to/42Eba2b)
+<button data-buy-book data-title="The Fitz and the Fool Trilogy" data-author="">Buy The Fitz and the Fool Trilogy</button>
 
 ---
 
@@ -168,7 +168,7 @@ Robin Hobb's Farseer Trilogy and subsequent works have left an indelible mark on
 
 From experience, I believe starting at the beginning offers the best reading order. The first trilogy is also my favourite, followed closely by the Liveship books — both have dramatic reveals in the final books that will change how you see the rest of the story.
 
-[**Buy the Farseer Trilogy on Amazon**](https://amzn.to/42ohACi)
+<button data-buy-book data-title="Robin Hobb and the Farseer Trilogy: Final Words" data-author="">Buy Robin Hobb and the Farseer Trilogy: Final Words</button>
 
 Robin Hobb's books are an unforgettable journey for any fantasy lover. So buckle up and get ready to dive into a world of dragons, magic, and adventure with one of the most beloved fantasy authors of our time.
 

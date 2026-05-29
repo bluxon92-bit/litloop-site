@@ -27,7 +27,7 @@ This isn't a Wikipedia roundup. These are series I'd press into someone's hands 
 
 Yes, it's first. It has to be. Tolkien didn't just write a great fantasy series — he essentially invented the template every other entry on this list is working from or reacting against. The world-building remains unmatched. The languages, the mythologies, the sense of deep history — Middle-earth feels like a place that existed before the story began and will continue after it ends. If you somehow haven't read it, start with *The Hobbit* and go from there.
 
-[**Rated 4.9 Stars. Buy on Amazon.**](https://amzn.to/lotr)
+<button data-buy-book data-title="The Lord of the Rings" data-author="J.R.R. Tolkien">Buy The Lord of the Rings</button>
 
 ---
 
@@ -37,7 +37,7 @@ Yes, it's first. It has to be. Tolkien didn't just write a great fantasy series 
 
 The series that dragged fantasy kicking and screaming into moral ambiguity. Abercrombie's First Law trilogy takes everything you expect from the genre — the quest, the warrior, the tortured inquisitor — and uses them to ask uncomfortable questions about heroism, power, and whether people actually change. Glokta alone is worth the price of admission, but the whole trilogy is exceptional. Read [our review of The Blade Itself](https://www.litloop.co/blog/the-blade-itself-review) if you need convincing.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/bladeitself)
+<button data-buy-book data-title="The First Law Trilogy" data-author="Joe Abercrombie">Buy The First Law Trilogy</button>
 
 ---
 
@@ -45,7 +45,7 @@ The series that dragged fantasy kicking and screaming into moral ambiguity. Aber
 
 Sanderson is the most ambitious fantasy writer working today and *The Stormlight Archive* is his masterpiece in progress. Four books in, with six planned, it's already one of the great fantasy epics — enormous in scope, meticulously constructed, and emotionally devastating in a way Sanderson's detractors rarely acknowledge. Kaladin's arc across the first two books is some of the best character writing in modern fantasy.
 
-[**Rated 4.8 Stars. Buy on Amazon.**](https://amzn.to/wayofkings)
+<button data-buy-book data-title="The Stormlight Archive" data-author="Brandon Sanderson">Buy The Stormlight Archive</button>
 
 ---
 
@@ -53,7 +53,7 @@ Sanderson is the most ambitious fantasy writer working today and *The Stormlight
 
 If you want to know what it feels like to have your heart broken by a fantasy series, read [Robin Hobb](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond). The Farseer Trilogy follows FitzChivalry Farseer — bastard son, assassin's apprentice, man perpetually done dirty by everyone who claims to care about him — across one of the most emotionally intelligent fantasy series ever written. Devastating. Perfect.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/assassinsapprentice)
+<button data-buy-book data-title="The Farseer Trilogy" data-author="Robin Hobb">Buy The Farseer Trilogy</button>
 
 ---
 
@@ -61,7 +61,7 @@ If you want to know what it feels like to have your heart broken by a fantasy se
 
 Two books and a decade of waiting, and it's still on this list. *The Name of the Wind* and *The Wise Man's Fear* are among the most beautifully written fantasy novels in the genre. Kvothe is an extraordinary creation and Rothfuss' prose is genuinely unlike anyone else's. The wait for Book 3 is agony, but what exists is worth reading twice while you wait. See our [full reading guide here](https://www.litloop.co/blog/patrick-rothfuss-books-in-order).
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/nameofthewind)
+<button data-buy-book data-title="The Kingkiller Chronicle" data-author="Patrick Rothfuss">Buy The Kingkiller Chronicle</button>
 
 ---
 
@@ -69,7 +69,7 @@ Two books and a decade of waiting, and it's still on this list. *The Name of the
 
 Books one through three of ASOIAF are as good as fantasy gets — complex, brutal, politically intelligent, and genuinely surprising. The later volumes have tested the patience of even the most devoted fans, and the series remains unfinished. But *A Game of Thrones*, *A Clash of Kings*, and *A Storm of Swords* constitute one of the most thrilling runs in the genre's history.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/gameofthrones)
+<button data-buy-book data-title="A Song of Ice and Fire" data-author="George R.R. Martin">Buy A Song of Ice and Fire</button>
 
 ---
 
@@ -77,7 +77,7 @@ Books one through three of ASOIAF are as good as fantasy gets — complex, bruta
 
 Gwynne's four-book series is the best modern successor to Gemmell's heroic fantasy tradition. The Banished Lands feel real, the battles are extraordinary, and the characters — Corban, Maquin, the incomparable Fidele — earn their place in the story. If you love [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series) and want something with more contemporary scale, start with [*Malice*](https://www.litloop.co/blog/malice-by-john-gwynne-review).
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/malicegwynne)
+<button data-buy-book data-title="The Faithful and the Fallen" data-author="John Gwynne">Buy The Faithful and the Fallen</button>
 
 ---
 
@@ -85,7 +85,7 @@ Gwynne's four-book series is the best modern successor to Gemmell's heroic fanta
 
 The original trilogy is the perfect entry point to Sanderson's Cosmere. A heist story set in an ash-covered world where the dark lord won — the magic system alone (Allomancy, in which swallowed metals are burned to grant powers) is one of the most inventive in the genre. Tight, satisfying, and with one of the best final volumes in a fantasy trilogy.
 
-[**Rated 4.7 Stars. Buy on Amazon.**](https://amzn.to/mistborn)
+<button data-buy-book data-title="Mistborn" data-author="Brandon Sanderson">Buy Mistborn</button>
 
 ---
 
@@ -93,7 +93,7 @@ The original trilogy is the perfect entry point to Sanderson's Cosmere. A heist 
 
 Gemmell invented heroic fantasy as we understand it, and the Drenai Saga is his finest work. *Legend* alone — the story of an aging, dying warrior who chooses to go down fighting rather than rot on a mountaintop — is one of the most emotionally powerful fantasy novels ever written. If you haven't read Gemmell, our [full guide to the Drenai series](https://www.litloop.co/blog/david-gemmells-drenai-series) is the place to start.
 
-[**Rated 4.5 Stars. Buy on Amazon.**](https://amzn.to/drenaigemmell)
+<button data-buy-book data-title="The Drenai Saga" data-author="David Gemmell">Buy The Drenai Saga</button>
 
 ---
 
@@ -101,7 +101,7 @@ Gemmell invented heroic fantasy as we understand it, and the Drenai Saga is his 
 
 The most divisive entry on this list. Prince of Thorns opens with a scene that will make a significant portion of readers put the book down immediately. Those who don't will find one of the most interesting anti-hero arcs in the genre, set in a post-apocalyptic world disguised as medieval fantasy. Jorg Ancrath is monstrous and compelling in roughly equal measure. Not for everyone. Absolutely worth knowing about.
 
-[**Rated 4.4 Stars. Buy on Amazon.**](https://amzn.to/princeofthorns)
+<button data-buy-book data-title="The Broken Empire" data-author="Mark Lawrence">Buy The Broken Empire</button>
 
 ---
 

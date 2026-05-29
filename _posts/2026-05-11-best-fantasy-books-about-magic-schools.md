@@ -26,7 +26,7 @@ The gold standard of the adult magic school novel, and one I'd put in anyone's h
 
 What makes it work is that Kvothe is brilliant but broke, and the gap between his talent and his resources is as much the engine of the story as any magical threat. The school feels genuinely lived-in. I've been waiting for book three for years and I'd still recommend it without reservation.
 
-[**Buy The Name of the Wind on Amazon**](https://amzn.to/3Oc7sdu)
+<button data-buy-book data-title="The Name of the Wind" data-author="Patrick Rothfuss">Buy The Name of the Wind</button>
 
 *Want more? See our [Patrick Rothfuss reading guide](/blog/patrick-rothfuss-books-in-order/) or [10 books like The Name of the Wind](/blog/books-like-name-of-the-wind/).*
 
@@ -38,7 +38,7 @@ Not a magic school story in the conventional sense, more an apprenticeship reall
 
 Clarke's Regency England is extraordinary, and the magic feels genuinely dangerous and ancient in a way most of the genre doesn't attempt. If you haven't read this yet, it's one of the best fantasy novels of the last twenty years.
 
-[**Buy Jonathan Strange & Mr Norrell on Amazon**](https://amzn.to/3PDrRZu)
+<button data-buy-book data-title="Jonathan Strange & Mr Norrell" data-author="Susanna Clarke">Buy Jonathan Strange & Mr Norrell</button>
 
 ---
 
@@ -48,7 +48,7 @@ This one is a lot of fun. The Scholomance is a school with no teachers, no admin
 
 El, the protagonist, is the most powerful student in the school and is desperately trying not to become a dark sorceress. Novik's wit is sharp throughout and the world-building is inventive. A quick, addictive read — and a strong answer if you've exhausted our [books like Harry Potter](/blog/books-like-harry-potter/) list and want something darker.
 
-[**Buy A Deadly Education on Amazon**](https://amzn.to/4sEPrU5)
+<button data-buy-book data-title="A Deadly Education" data-author="Naomi Novik">Buy A Deadly Education</button>
 
 ---
 
@@ -58,7 +58,7 @@ Another one which is less traditional school, more brutal selection process — 
 
 But the dynamic of gifted, ambitious young people testing themselves against each other in an enclosed setting is the same, and Blake is very good at the tension that creates. Clever, stylish, and pleasingly cynical about what ambition does to people. See our full [review](/blog/book-review-the-atlas-six-by-olivie-blake/).
 
-[**Buy The Atlas Six on Amazon**](https://amzn.to/4dqvX0Z)
+<button data-buy-book data-title="The Atlas Six" data-author="Olivie Blake">Buy The Atlas Six</button>
 
 ---
 
@@ -68,7 +68,7 @@ Hogwarts for adults who've grown up and feel disappointed by the real world. Que
 
 If you've ever read a fantasy novel and wondered what the aftermath really looks like, this is the book for you. It's also the most direct literary response to everything the [Harry Potter series](/blog/books-like-harry-potter/) promises and doesn't deliver.
 
-[**Buy The Magicians on Amazon**](https://amzn.to/4sOyeYw)
+<button data-buy-book data-title="The Magicians" data-author="Lev Grossman">Buy The Magicians</button>
 
 ---
 
@@ -78,7 +78,7 @@ The first third of this is a military academy story — Rin, a war orphan, and h
 
 Then the war starts, and the book becomes something much harder and darker. Kuang uses the school setting to establish everything that gets tested and broken in the rest of the novel. Based on Chinese history and not for the faint-hearted, but if you want a magic school story that doesn't flinch, this is it. Fans of the darkness here should also check out our [grimdark fantasy guide](/blog/grimdark-fantasy-books/).
 
-[**Buy The Poppy War on Amazon**](https://amzn.to/4sKj5HO)
+<button data-buy-book data-title="The Poppy War" data-author="R.F. Kuang">Buy The Poppy War</button>
 
 ---
 
@@ -88,7 +88,7 @@ Translation as magic. In an alternate 1830s Oxford, silver bars engraved with ma
 
 Four students from across the Empire study together at the Oxford Royal Institute of Translation, and the gap between what they're being taught and what their education actually serves is the engine of the whole novel. One of the most original books on this list.
 
-[**Buy Babel on Amazon**](https://amzn.to/4bRW4eI)
+<button data-buy-book data-title="Babel" data-author="R.F. Kuang">Buy Babel</button>
 
 ---
 
@@ -98,7 +98,7 @@ Ged attends the wizard school on Roke Island, and in his arrogance releases some
 
 One of the foundational texts of the subgenre, and still one of the best. [Le Guin is a writer worth exploring in depth](/blog/the-best-sci-fi-books-by-ursula-k-le-guin/) — this is a brilliant place to start.
 
-[**Buy A Wizard of Earthsea on Amazon**](https://amzn.to/4bRWamA)
+<button data-buy-book data-title="A Wizard of Earthsea" data-author="Ursula K. Le Guin">Buy A Wizard of Earthsea</button>
 
 ---
 
@@ -108,7 +108,7 @@ A battle school in space where children are trained as military commanders again
 
 It's nominally sci-fi rather than fantasy but earns its place on this list completely.
 
-[**Buy Ender's Game on Amazon**](https://amzn.to/4sbAyHX)
+<button data-buy-book data-title="Ender's Game" data-author="Orson Scott Card">Buy Ender's Game</button>
 
 ---
 
@@ -120,7 +120,7 @@ We soon discover that her father is the Abhorsen, a necromancer protector of the
 
 Nix's world-building is extraordinary and his magic system — the bells, the Charter, the boundary between life and death — is one of the most original in the genre. Additionally, the next book in the series Lirael genuinely is a magic school book and some argue even better than the first novel.
 
-[**Buy Sabriel on Amazon**](https://amzn.to/4tlvwcV)
+<button data-buy-book data-title="Sabriel" data-author="Garth Nix">Buy Sabriel</button>
 
 ---
 
@@ -130,7 +130,7 @@ A standalone Sanderson in an alternate America where Rithmatics, the ability to 
 
 Lighter than most of his work and built around a magic system based on geometry, which sounds dry but is genuinely clever in practice. A good entry point for readers new to Sanderson, or anyone who wants something more accessible than the Stormlight Archive. For more, see our [complete Sanderson guide](/blog/11-best-books-by-brandon-sanderson/).
 
-[**Buy The Rithmatist on Amazon**](https://amzn.to/4dTD2Hm)
+<button data-buy-book data-title="The Rithmatist" data-author="Brandon Sanderson">Buy The Rithmatist</button>
 
 ---
 
@@ -138,7 +138,7 @@ Lighter than most of his work and built around a magic system based on geometry,
 
 A Roman Empire-inspired fantasy with a brutal military academy at its centre, Blackcliff, where elite soldiers are made through four years of systematic violence and dehumanisation. Laia infiltrates as a slave to spy; Elias is a student trying to escape. Tahir's action is propulsive and the world has real moral weight. A strong series opener.
 
-[**Buy An Ember in the Ashes on Amazon**](https://amzn.to/4dlndJk)
+<button data-buy-book data-title="An Ember in the Ashes" data-author="Sabaa Tahir">Buy An Ember in the Ashes</button>
 
 ---
 
@@ -148,7 +148,7 @@ The second Kingkiller Chronicle novel takes Kvothe beyond the University and int
 
 Longer and more sprawling than *The Name of the Wind*, but if you loved the first book, you'll want this one immediately. And then you can join the rest of us in the long wait for the final release of the series. See our [Patrick Rothfuss reading guide](/blog/patrick-rothfuss-books-in-order/) for the full picture.
 
-[**Buy The Wise Man's Fear on Amazon**](https://amzn.to/4dffoVz)
+<button data-buy-book data-title="The Wise Man's Fear" data-author="Patrick Rothfuss">Buy The Wise Man's Fear</button>
 
 ---
 
@@ -159,7 +159,7 @@ What makes it interesting is the class tension at its core.
 
 Sonea doesn't arrive at the Guild as a celebrated prodigy. She arrives as someone the institution would rather not have to deal with. Canavan uses that friction well, and the trilogy builds satisfyingly from this opener.
 
-[**Buy The Magician's Guild on Amazon**](https://amzn.to/3PeHlDa)
+<button data-buy-book data-title="The Magicians' Guild" data-author="Trudi Canavan">Buy The Magicians' Guild</button>
 
 ---
 
@@ -169,7 +169,7 @@ Not a school in the conventional sense, but Maia, the unexpected heir to an impe
 
 Addison's novel is about the education of a genuinely good person in the exercise of power, and it's one of the warmest, most quietly radical fantasies I've read in years. A different kind of magic school story, but a magic school story nonetheless.
 
-[**Buy The Goblin Emperor on Amazon**](https://amzn.to/4s9zQem)
+<button data-buy-book data-title="The Goblin Emperor" data-author="Katherine Addison">Buy The Goblin Emperor</button>
 
 ---
 

@@ -34,7 +34,7 @@ What's remarkable is that it never feels like world-building for its own sake. E
 
 If you haven't read it, that's where you start. Full stop.
 
-[**Buy Dune on Amazon**](https://amzn.to/41qCFfY)
+<button data-buy-book data-title="Dune (1965)" data-author="★ 4.25">Buy Dune (1965)</button>
 
 ---
 
@@ -44,7 +44,7 @@ The most misunderstood book in the series, and the one that most new readers bou
 
 Give it the patience it asks for. It earns it.
 
-[**Buy Dune Messiah on Amazon**](https://amzn.to/40RdzGV)
+<button data-buy-book data-title="Dune Messiah (1969)" data-author="★ 3.87">Buy Dune Messiah (1969)</button>
 
 ---
 
@@ -52,7 +52,7 @@ Give it the patience it asks for. It earns it.
 
 Paul's children, Leto and Ghanima, navigate a world transformed by the events of the first two books. The political intrigue deepens, the ecological and religious themes evolve, and the consequences of what happened in *Dune* are still rippling outward. This feels like the last book in the series that's entirely under Herbert's control — tight, purposeful, and rich.
 
-[**Buy Children of Dune on Amazon**](https://amzn.to/4rTJjX8)
+<button data-buy-book data-title="Children of Dune (1976)" data-author="★ 3.88">Buy Children of Dune (1976)</button>
 
 ---
 
@@ -62,7 +62,7 @@ The strangest and most divisive book in the series. Set 3,500 years after *Child
 
 Some readers find it impenetrable. Others think it's Herbert's most ambitious work. I lean towards the latter, but I won't pretend the first hundred pages aren't hard going.
 
-[**Buy God Emperor of Dune on Amazon**](https://amzn.to/41p9BWc)
+<button data-buy-book data-title="God Emperor of Dune (1981)" data-author="★ 3.85">Buy God Emperor of Dune (1981)</button>
 
 ---
 
@@ -70,7 +70,7 @@ Some readers find it impenetrable. Others think it's Herbert's most ambitious wo
 
 Another 1,500 years on. The empire Herbert built has fractured and new power structures are rising from the wreckage. *Heretics* puts the Bene Gesserit at the centre and examines gender, sexuality, and power with more directness than the earlier books. A strong return to form after the severity of *God Emperor*.
 
-[**Buy Heretics of Dune on Amazon**](https://amzn.to/3NJ4rBg)
+<button data-buy-book data-title="Heretics of Dune (1984)" data-author="★ 3.82">Buy Heretics of Dune (1984)</button>
 
 ---
 
@@ -78,7 +78,7 @@ Another 1,500 years on. The empire Herbert built has fractured and new power str
 
 Herbert's last Dune novel, published the year before his death. The Bene Gesserit are under existential threat and the story builds toward a cliffhanger he never got to resolve. It's an incomplete ending to an extraordinary series — but it's still unmistakably Herbert, still strange and rich, and worth reading if you've come this far.
 
-[**Buy Chapterhouse: Dune on Amazon**](https://amzn.to/3Psqo8k)
+<button data-buy-book data-title="Chapterhouse: Dune (1986)" data-author="★ 3.84">Buy Chapterhouse: Dune (1986)</button>
 
 ---
 
@@ -92,7 +92,7 @@ If you need closure after *Chapterhouse*, *Hunters* and *Sandworms* provide it. 
 
 Picks up the threads from *Chapterhouse* and attempts to resolve Herbert's cliffhanger using his notes. Competent, occasionally exciting, and satisfying enough for completionists.
 
-[**Buy Hunters of Dune on Amazon**](https://amzn.to/3NJ8AVR)
+<button data-buy-book data-title="Hunters of Dune (2006)" data-author="★ 3.72">Buy Hunters of Dune (2006)</button>
 
 ---
 
@@ -100,13 +100,13 @@ Picks up the threads from *Chapterhouse* and attempts to resolve Herbert's cliff
 
 The conclusion to the storyline begun in *Hunters*. Provides closure, which matters. Most readers find it a decent ending to the continuation, if not to Herbert's original vision.
 
-[**Buy Sandworms of Dune on Amazon**](https://amzn.to/3NAbITZ)
+<button data-buy-book data-title="Sandworms of Dune (2007)" data-author="★ 3.65">Buy Sandworms of Dune (2007)</button>
 
 ---
 
 ### 9. Paul of Dune (2008) — ★ 3.57
 
-[**Buy Paul of Dune on Amazon**](https://amzn.to/4rMZWDx)
+<button data-buy-book data-title="Paul of Dune (2008)" data-author="★ 3.57">Buy Paul of Dune (2008)</button>
 
 An interquel filling in Paul's story between *Dune* and *Dune Messiah*. Adds relatively little to what Herbert established, and the comparison is not kind.
 
@@ -114,7 +114,7 @@ An interquel filling in Paul's story between *Dune* and *Dune Messiah*. Adds rel
 
 ### 10. The Winds of Dune (2009) — ★ 3.52
 
-[**Buy The Winds of Dune on Amazon**](https://amzn.to/4rMTBrN)
+<button data-buy-book data-title="The Winds of Dune (2009)" data-author="★ 3.52">Buy The Winds of Dune (2009)</button>
 
 Covers the period between *Dune Messiah* and *Children of Dune*. For dedicated fans who want more time in the universe. Not essential.
 
