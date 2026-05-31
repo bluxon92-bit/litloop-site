@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dungeon Crawler Carl Series Review: All 8 Matt Dinniman Books Ranked (2026)"
-date: 2026-05-28
+date: 2026-05-31
 category: Reviews
 genre: Fantasy, LitRPG
 excerpt: "A full review of all 8 Dungeon Crawler Carl books by Matt Dinniman. Series overview, every book summarised, ranked, and honestly assessed. Read this first."
