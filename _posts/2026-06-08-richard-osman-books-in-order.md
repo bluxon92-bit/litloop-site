@@ -31,61 +31,62 @@ It's [cosy mystery](/genres/crime-mystery/) — warm, witty, genuinely funny —
 
 ---
 
-### 1. The Thursday Murder Club (2020)
-
-![The Thursday Murder Club](https://m.media-amazon.com/images/I/71zrZf-nvTL._SL1500_.jpg)
-
-The one that started everything. A property developer is found dead near Coopers Chase, and the Thursday Murder Club — who have never actually investigated a live case before — find themselves in the thick of it.
-
-The setup is pure Agatha Christie — if you haven't read her, [our ranked guide to the best Agatha Christie books](/blog/best-agatha-christie-books-ranked/) is a good place to start — but the voice is entirely Osman's own. It became the fastest-selling debut crime novel in UK history and spent months at the top of the bestseller charts. The Netflix film adaptation arrived in August 2025 if you want to see it on screen first, but the book is richer and funnier.
-
-<button data-buy-book data-title="The Thursday Murder Club" data-author="Richard Osman">Buy The Thursday Murder Club</button>
-
----
-
-### 2. The Man Who Died Twice (2021)
-
-![The Man Who Died Twice](https://m.media-amazon.com/images/I/71juXlhTfmL._SL1500_.jpg)
-
-Elizabeth's ex-husband turns up at Coopers Chase with a significant problem: he's been accused of stealing £20 million worth of diamonds from a very dangerous man, and that man wants them back. The Club are drawn into a case that goes well beyond their usual territory.
-
-The second book is where you realise Osman isn't just doing cosy mystery for the laughs. The Elizabeth backstory deepens considerably here, and the book is sharper and more emotionally complex than the first.
-
-<button data-buy-book data-title="The Man Who Died Twice" data-author="Richard Osman" data-isbn="9781984880994">Buy The Man Who Died Twice</button>
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+  <img src="https://m.media-amazon.com/images/I/71zrZf-nvTL._SL1500_.jpg" alt="The Thursday Murder Club" style="width:120px; flex-shrink:0; border-radius:4px;">
+  <div>
+    <h3>1. The Thursday Murder Club (2020)</h3>
+    <p>The one that started everything. A property developer is found dead near Coopers Chase, and the Thursday Murder Club — who have never actually investigated a live case before — find themselves in the thick of it.</p>
+    <p>The setup is pure Agatha Christie — if you haven't read her, <a href="/blog/best-agatha-christie-books-ranked/">our ranked guide to the best Agatha Christie books</a> is a good place to start — but the voice is entirely Osman's own. It became the fastest-selling debut crime novel in UK history and spent months at the top of the bestseller charts. The Netflix film adaptation arrived in August 2025 if you want to see it on screen first, but the book is richer and funnier.</p>
+    <p><button data-buy-book data-title="The Thursday Murder Club" data-author="Richard Osman">Buy The Thursday Murder Club</button></p>
+  </div>
+</div>
 
 ---
 
-### 3. The Bullet That Missed (2022)
-
-![The Bullet That Missed](https://m.media-amazon.com/images/I/71VZHVFiywL._SL1500_.jpg)
-
-A cold case: a TV journalist died in a hit-and-run ten years ago, officially ruled an accident. The Club don't think so. Meanwhile, a new and genuinely threatening villain enters the picture — the first real sense of danger the series has had.
-
-Osman expands the world here, introducing characters who carry through into later books. The mystery plotting is among the best in the series.
-
-<button data-buy-book data-title="The Bullet That Missed" data-author="Richard Osman">Buy The Bullet That Missed</button>
-
----
-
-### 4. The Last Devil to Die (2023)
-
-![The Last Devil to Die](https://m.media-amazon.com/images/I/71KxJWnYxZL._SL1500_.jpg)
-
-An antiques dealer and old friend of the Club is murdered, and a consignment of heroin goes missing from his shop. The case pulls the group into the world of serious organised crime — further out of their depth than they've ever been.
-
-This is the most emotionally affecting book in the series. Osman deals directly with dementia and loss in a way that's neither mawkish nor avoiding. If you've laughed through the first three books, this one will also make you cry. Many readers consider it the best of the five.
-
-<button data-buy-book data-title="The Last Devil to Die" data-author="Richard Osman" data-isbn="9780593299425">Buy The Last Devil to Die</button>
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+  <img src="https://m.media-amazon.com/images/I/71juXlhTfmL._SL1500_.jpg" alt="The Man Who Died Twice" style="width:120px; flex-shrink:0; border-radius:4px;">
+  <div>
+    <h3>2. The Man Who Died Twice (2021)</h3>
+    <p>Elizabeth's ex-husband turns up at Coopers Chase with a significant problem: he's been accused of stealing £20 million worth of diamonds from a very dangerous man, and that man wants them back. The Club are drawn into a case that goes well beyond their usual territory.</p>
+    <p>The second book is where you realise Osman isn't just doing cosy mystery for the laughs. The Elizabeth backstory deepens considerably here, and the book is sharper and more emotionally complex than the first.</p>
+    <p><button data-buy-book data-title="The Man Who Died Twice" data-author="Richard Osman" data-isbn="9781984880994">Buy The Man Who Died Twice</button></p>
+  </div>
+</div>
 
 ---
 
-### 5. The Impossible Fortune (2025)
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+  <img src="https://m.media-amazon.com/images/I/71VZHVFiywL._SL1500_.jpg" alt="The Bullet That Missed" style="width:120px; flex-shrink:0; border-radius:4px;">
+  <div>
+    <h3>3. The Bullet That Missed (2022)</h3>
+    <p>A cold case: a TV journalist died in a hit-and-run ten years ago, officially ruled an accident. The Club don't think so. Meanwhile, a new and genuinely threatening villain enters the picture — the first real sense of danger the series has had.</p>
+    <p>Osman expands the world here, introducing characters who carry through into later books. The mystery plotting is among the best in the series.</p>
+    <p><button data-buy-book data-title="The Bullet That Missed" data-author="Richard Osman">Buy The Bullet That Missed</button></p>
+  </div>
+</div>
 
-![The Impossible Fortune](https://m.media-amazon.com/images/I/71sf-FKircL._SL1500_.jpg)
+---
 
-The latest instalment. A ruthless villain is hunting for an uncrackable code, and the Club are the only ones who can stop them finding it. The fifth book in the series, and proof that Osman hasn't run out of road. Osman has confirmed more books are coming.
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+  <img src="https://m.media-amazon.com/images/I/71KxJWnYxZL._SL1500_.jpg" alt="The Last Devil to Die" style="width:120px; flex-shrink:0; border-radius:4px;">
+  <div>
+    <h3>4. The Last Devil to Die (2023)</h3>
+    <p>An antiques dealer and old friend of the Club is murdered, and a consignment of heroin goes missing from his shop. The case pulls the group into the world of serious organised crime — further out of their depth than they've ever been.</p>
+    <p>This is the most emotionally affecting book in the series. Osman deals directly with dementia and loss in a way that's neither mawkish nor avoiding. If you've laughed through the first three books, this one will also make you cry. Many readers consider it the best of the five.</p>
+    <p><button data-buy-book data-title="The Last Devil to Die" data-author="Richard Osman" data-isbn="9780593299425">Buy The Last Devil to Die</button></p>
+  </div>
+</div>
 
-<button data-buy-book data-title="The Impossible Fortune" data-author="Richard Osman" data-isbn="9780593653258">Buy The Impossible Fortune</button>
+---
+
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+  <img src="https://m.media-amazon.com/images/I/71sf-FKircL._SL1500_.jpg" alt="The Impossible Fortune" style="width:120px; flex-shrink:0; border-radius:4px;">
+  <div>
+    <h3>5. The Impossible Fortune (2025)</h3>
+    <p>The latest instalment. A ruthless villain is hunting for an uncrackable code, and the Club are the only ones who can stop them finding it. The fifth book in the series, and proof that Osman hasn't run out of road. Osman has confirmed more books are coming.</p>
+    <p><button data-buy-book data-title="The Impossible Fortune" data-author="Richard Osman" data-isbn="9780593653258">Buy The Impossible Fortune</button></p>
+  </div>
+</div>
 
 ---
 
@@ -99,25 +100,26 @@ The humour is still there — Osman can't help himself — but the stakes are hi
 
 ---
 
-### 1. We Solve Murders (2024)
-
-![We Solve Murders](https://m.media-amazon.com/images/I/5129HHoNxBL._SY445_SX342_ML2_.jpg)
-
-The series opener. Rosie D'Antonio is receiving death threats on a private island in South Carolina, so Amy is sent to protect her. Shortly afterwards, a body turns up and the three of them find themselves tangled in something considerably bigger than a missing author.
-
-An instant New York Times bestseller. Osman described the new series as his attempt to write a different kind of mystery — faster, more international, with characters at different life stages to the Coopers Chase crew.
-
-<button data-buy-book data-title="We Solve Murders" data-author="Richard Osman" data-isbn="9780593653227">Buy We Solve Murders</button>
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+  <img src="https://m.media-amazon.com/images/I/5129HHoNxBL._SY445_SX342_ML2_.jpg" alt="We Solve Murders" style="width:120px; flex-shrink:0; border-radius:4px;">
+  <div>
+    <h3>1. We Solve Murders (2024)</h3>
+    <p>The series opener. Rosie D'Antonio is receiving death threats on a private island in South Carolina, so Amy is sent to protect her. Shortly afterwards, a body turns up and the three of them find themselves tangled in something considerably bigger than a missing author.</p>
+    <p>An instant New York Times bestseller. Osman described the new series as his attempt to write a different kind of mystery — faster, more international, with characters at different life stages to the Coopers Chase crew.</p>
+    <p><button data-buy-book data-title="We Solve Murders" data-author="Richard Osman" data-isbn="9780593653227">Buy We Solve Murders</button></p>
+  </div>
+</div>
 
 ---
 
-### 2. We Chase Shadows (September 2026)
-
-![We Chase Shadows](https://m.media-amazon.com/images/I/71-Nn0vPuZL._SY522_.jpg)
-
-The second *We Solve Murders* book, out 10 September 2026. A body is found on the steps of a private villa in the Italian hills at sunrise, with a threatening note on it. Amy, Steve and Rosie take on their first official case — tracking through Italy, Barcelona and Palm Springs as the suspects multiply and the killer stays one step ahead.
-
-<button data-buy-book data-title="We Chase Shadows" data-author="Richard Osman" data-isbn="9780241745892">Pre-order We Chase Shadows</button>
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+  <img src="https://m.media-amazon.com/images/I/71-Nn0vPuZL._SY522_.jpg" alt="We Chase Shadows" style="width:120px; flex-shrink:0; border-radius:4px;">
+  <div>
+    <h3>2. We Chase Shadows (September 2026)</h3>
+    <p>The second <em>We Solve Murders</em> book, out 10 September 2026. A body is found on the steps of a private villa in the Italian hills at sunrise, with a threatening note on it. Amy, Steve and Rosie take on their first official case — tracking through Italy, Barcelona and Palm Springs as the suspects multiply and the killer stays one step ahead.</p>
+    <p><button data-buy-book data-title="We Chase Shadows" data-author="Richard Osman" data-isbn="9780241745892">Pre-order We Chase Shadows</button></p>
+  </div>
+</div>
 
 ---
 
