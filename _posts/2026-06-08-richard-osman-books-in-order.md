@@ -3,7 +3,7 @@ layout: post
 title: "Richard Osman Books in Order: The Complete Guide (2026)"
 date: 2026-06-08
 category: Book Recommendations
-genre: Crime, Mystery
+genre: Crime
 excerpt: "Every Richard Osman book in order — the Thursday Murder Club series, We Solve Murders, and the new book out September 2026. Full guide with what to read first."
 image: "https://m.media-amazon.com/images/I/71HfBgLzxtL._SL1200_.jpg"
 permalink: /blog/richard-osman-books-in-order/
