@@ -121,4 +121,4 @@ The best book clubs become something more than a reading group. They become a fi
 
 ---
 
-*Looking for your first book club pick? Check out our guides to [the best fantasy series](/blog/best-fantasy-series/), [the best crime and mystery reads](/blog/best-agatha-christie-books-ranked/), [the best cozy mysteries](/blog/best-cozy-mystery-books/), and [the best short books you can read in a day](/blog/32-best-short-books-you-can-read-in-a-day/).*
+*Looking for your first book club pick? Check out our guides to [the best fantasy series](/blog/best-fantasy-series/), [the best crime and mystery reads](/blog/best-agatha-christie-books-ranked/), [the best cozy mysteries](/blog/best-cozy-mystery-books/), and [the best short books you can read in a day](/blog/32-best-short-books-you-can-read-in-a-day/).* 
