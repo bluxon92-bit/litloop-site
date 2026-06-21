@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Books Like The Thursday Murder Club: 10 Reads If You Loved Richard Osman"
-date: 2026-06-22
+date: 2026-06-21
 category: Book Recommendations
 genre: Crime
 excerpt: "Loved The Thursday Murder Club? Here are 10 books with the same warmth, wit and amateur sleuthing. From Agatha Christie to the Marlow Murder Club."
