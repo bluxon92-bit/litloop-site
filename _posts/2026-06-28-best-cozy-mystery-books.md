@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Cozy Mystery Books and Series to Read Now"
-date: 2026-06-29
+date: 2026-06-28
 category: Book Recommendations
 genre: Crime
 excerpt: "The best cozy mystery books and series — from Agatha Christie to Richard Osman, Louise Penny to Alexander McCall Smith. The definitive guide."
