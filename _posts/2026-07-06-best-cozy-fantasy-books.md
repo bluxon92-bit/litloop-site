@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Cozy Fantasy Books to Read Right Now"
-date: 2026-07-06
+date: 2026-07-05
 category: Book Recommendations
 genre: Fantasy
 excerpt: "The best cozy fantasy books. From Legends and Lattes to The House in the Cerulean Sea. Low stakes, warm worlds, and magic that feels like a hug."
@@ -23,7 +23,7 @@ The best books in the genre give you all the escapism of high fantasy without th
 
 ## What is Cozy Fantasy?
 
-Cozy fantasy is fantasy fiction with a warm, low-threat atmosphere. Think small settings over vast kingdoms, community over chosen-one prophecy, and magic that tends toward the domestic — coffee shops, bookshops, herb gardens, inns. The conflicts are usually personal: learning to trust people, finding where you belong, building something that matters.
+Cozy fantasy is fantasy fiction with a warm, low-threat atmosphere. Think small settings over vast kingdoms, community over chosen-one prophecy, and magic that tends toward the domestic, think coffee shops, bookshops, herb gardens, inns. The conflicts are usually personal: learning to trust people, finding where you belong, building something that matters.
 
 It doesn't always mean low stakes. Some cozy fantasy has genuine threat and consequence. What it consistently offers is a tone, an assurance that reading this book is going to feel good.
 
