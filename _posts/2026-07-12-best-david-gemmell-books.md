@@ -37,7 +37,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91XE0J2cSUL._SL1500_.jpg" alt="Lion of Macedon by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>1. Lion of Macedon (1990)</h3>
@@ -53,7 +53,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/814gHGdKAnS._SL1500_.jpg" alt="Echoes of the Great Song by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>2. Echoes of the Great Song (1997)</h3>
@@ -67,7 +67,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81hz7duckZL._SL1500_.jpg" alt="Legend by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>3. Legend (1984)</h3>
@@ -81,7 +81,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81O6GjEbkRL._SL1500_.jpg" alt="Waylander by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>4. Waylander (1986)</h3>
@@ -96,7 +96,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81qWdzA03yL._SL1500_.jpg" alt="White Wolf by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>5. White Wolf (2003)</h3>
@@ -110,7 +110,7 @@ If you want to understand where he came from and plan to read through the whole 
 <button data-buy-book data-title="White Wolf" data-author="David Gemmell" data-isbn="">Buy White Wolf</button>
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91mPsTFn4eL._SL1500_.jpg" alt="Wolf in Shadow by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>6. Wolf in Shadow (1987)</h3>
@@ -123,7 +123,7 @@ If you want to understand where he came from and plan to read through the whole 
 <button data-buy-book data-title="Wolf in Shadow" data-author="David Gemmell" data-isbn="">Buy Wolf in Shadow</button>
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91L2R0HUc3L._SL1500_.jpg" alt="Ravenheart by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>7. Ravenheart (2001)</h3>
@@ -138,7 +138,7 @@ If you want to understand where he came from and plan to read through the whole 
 <button data-buy-book data-title="Ravenheart" data-author="David Gemmell" data-isbn="">Buy Ravenheart</button>
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81jMpFBxriL._SL1500_.jpg" alt="Dark Moon by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>8. Dark Moon (1996)</h3>
@@ -151,7 +151,7 @@ If you want to understand where he came from and plan to read through the whole 
 <button data-buy-book data-title="Dark Moon" data-author="David Gemmell" data-isbn="">Buy Dark Moon</button>
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91Ixq-q-2GL._SL1500_.jpg" alt="Sword in the Storm by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>9. Sword in the Storm (1998)</h3>
@@ -166,7 +166,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91esYqspoGL._SL1500_.jpg" alt="Knights of Dark Renown by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>10. Knights of Dark Renown (1989)</h3>
