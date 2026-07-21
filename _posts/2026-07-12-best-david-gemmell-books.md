@@ -37,7 +37,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91XE0J2cSUL._SL1500_.jpg" alt="Lion of Macedon by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>1. Lion of Macedon (1990)</h3>
@@ -46,28 +46,28 @@ If you want to understand where he came from and plan to read through the whole 
     <p>At the centre is Parmenion, only half-Spartan and hated for his Macedonian blood. He's not a Chosen One, and he's not destined to save the world. According to the seer Tamis who watches over him, he is in fact destined to destroy it. The dark god is coming, and Parmenion is the door it walks through.</p>
     <p>Tamis spends the novel trying to weaken him, to blunt his potential, to keep him from becoming the instrument she fears. In doing so she forges him anyway. His hardships, his defeats, his losses are what make him into the very man she was trying to prevent. It's a tragedy with the shape of an adventure. Parmenion becomes great not because fate ordained it, but because every attempt to stop him gave him someone to fight, something to prove, a reason not to break.</p>
     <p>The battle sequences are superb, the characterisation among the best Gemmell ever produced. And the ending opens into <em>Dark Prince</em>, the sequel that takes the story into genuinely strange, mythological territory. Start here. Come back to the Drenai after.</p>
-    <p><strong>Connect with:</strong> <em>Dark Prince</em> (direct sequel, though definitely weaker than book one), and the Troy trilogy (later Gemmell Greek-world writing — if that period of history grips you, see also our guide to the [best books about Greek mythology](https://www.litloop.co/blog/best-books-about-greek-mythology/)).</p>
+    <p><strong>Connect with:</strong> <em>Dark Prince</em> (direct sequel, though definitely weaker than book one), and the Troy trilogy (later Gemmell Greek-world writing — if that period of history grips you, see also our guide to the <a href="https://www.litloop.co/blog/best-books-about-greek-mythology/">best books about Greek mythology</a>).</p>
   </div>
 </div>
 <button data-buy-book data-title="Lion of Macedon" data-author="David Gemmell" data-isbn="">Buy Lion of Macedon</button>
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/814gHGdKAnS._SL1500_.jpg" alt="Echoes of the Great Song by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>2. Echoes of the Great Song (1997)</h3>
     <p>A standalone novel with no series baggage, <em>Echoes of the Great Song</em> is set in a dying civilisation loosely inspired by Atlantis. Long ago the Avatars discovered how to harness sunlight and use that power to make themselves effectively immortal. They ruled for centuries, assured of their near godhood.</p>
     <p>Then the world shifts on its axis (a recurring theme in Gemmell's books — see the Jon Shannow books below), the oceans rise, and their great civilisation is destroyed. The surviving Avatars desperately cling to power, to immortality, becoming parasites and monsters.</p>
     <p>The book has everything you'd expect from Gemmell: the impossible last charge, the psychopathic general finding his way back to something human, a love story with more weight than it has any right to, the quiet heroism of ordinary people in extraordinary circumstances.</p>
-    <p>But it's also doing something more ambitious, interrogating what happens when privilege becomes structural, when a whole civilisation builds its survival on the suffering of others, and what it takes to dismantle that. Fans of politically-charged [standalone fantasy novels](https://www.litloop.co/blog/best-standalone-fantasy-novels/) should make this a priority.</p>
+    <p>But it's also doing something more ambitious, interrogating what happens when privilege becomes structural, when a whole civilisation builds its survival on the suffering of others, and what it takes to dismantle that. Fans of politically-charged <a href="https://www.litloop.co/blog/best-standalone-fantasy-novels/">standalone fantasy novels</a> should make this a priority.</p>
   </div>
 </div>
 <button data-buy-book data-title="Echoes of the Great Song" data-author="David Gemmell" data-isbn="">Buy Echoes of the Great Song</button>
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81hz7duckZL._SL1500_.jpg" alt="Legend by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>3. Legend (1984)</h3>
@@ -81,7 +81,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81O6GjEbkRL._SL1500_.jpg" alt="Waylander by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>4. Waylander (1986)</h3>
@@ -96,7 +96,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81qWdzA03yL._SL1500_.jpg" alt="White Wolf by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>5. White Wolf (2003)</h3>
@@ -110,7 +110,7 @@ If you want to understand where he came from and plan to read through the whole 
 <button data-buy-book data-title="White Wolf" data-author="David Gemmell" data-isbn="">Buy White Wolf</button>
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91mPsTFn4eL._SL1500_.jpg" alt="Wolf in Shadow by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>6. Wolf in Shadow (1987)</h3>
@@ -123,7 +123,7 @@ If you want to understand where he came from and plan to read through the whole 
 <button data-buy-book data-title="Wolf in Shadow" data-author="David Gemmell" data-isbn="">Buy Wolf in Shadow</button>
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91L2R0HUc3L._SL1500_.jpg" alt="Ravenheart by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>7. Ravenheart (2001)</h3>
@@ -138,7 +138,7 @@ If you want to understand where he came from and plan to read through the whole 
 <button data-buy-book data-title="Ravenheart" data-author="David Gemmell" data-isbn="">Buy Ravenheart</button>
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/81jMpFBxriL._SL1500_.jpg" alt="Dark Moon by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>8. Dark Moon (1996)</h3>
@@ -151,7 +151,7 @@ If you want to understand where he came from and plan to read through the whole 
 <button data-buy-book data-title="Dark Moon" data-author="David Gemmell" data-isbn="">Buy Dark Moon</button>
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91Ixq-q-2GL._SL1500_.jpg" alt="Sword in the Storm by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>9. Sword in the Storm (1998)</h3>
@@ -166,7 +166,7 @@ If you want to understand where he came from and plan to read through the whole 
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91esYqspoGL._SL1500_.jpg" alt="Knights of Dark Renown by David Gemmell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>10. Knights of Dark Renown (1989)</h3>
