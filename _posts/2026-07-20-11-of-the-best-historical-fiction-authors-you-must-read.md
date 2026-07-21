@@ -39,7 +39,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381464/last-kingdom-1-_sg5u4x.webp" alt="The Last Kingdom by Bernard Cornwell" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>1. Bernard Cornwell - The Last Kingdom</h3>
@@ -52,7 +52,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/pillars-of-the-earth-1-_qgyma9.jpg" alt="Pillars of the Earth by Ken Follett" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>2. Ken Follett - Pillars Of The Earth</h3>
@@ -66,7 +66,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/813fNgNHkZL._SL1500_.jpg" alt="The Other Boleyn Girl by Philippa Gregory" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>3. Philippa Gregory - The Other Boleyn Girl</h3>
@@ -79,7 +79,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/91eyhVWMf1L._SL1500_.jpg" alt="Outlander by Diana Gabaldon" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>4. Diana Gabaldon - Outlander</h3>
@@ -92,7 +92,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381455/wolf-of-the-plains-1-_xs3pxs.webp" alt="Wolf Of The Plains by Conn Iggulden" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>5. Conn Iggulden - Wolf Of The Plains</h3>
@@ -105,7 +105,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/river-god-1-_oj3vdq.jpg" alt="River God by Wilbur Smith" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>6. Wilbur Smith - River God</h3>
@@ -118,7 +118,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/the-king-must-die-1-_kipscm.webp" alt="The King Must Die by Mary Renault" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>7. Mary Renault - The King Must Die</h3>
@@ -131,7 +131,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/71mYpCtN53L._SL1500_.jpg" alt="The Nightingale by Kristin Hannah" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>8. Kristin Hannah - The Nightingale</h3>
@@ -144,7 +144,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381482/secret-life-of-violet-1-_nnfdtt.webp" alt="The Secret Life Of Violet Grant by Beatriz Williams" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>9. Beatriz Williams - The Secret Life Of Violet Grant</h3>
@@ -157,7 +157,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381494/wolf-hall-1-_do15ml.webp" alt="Wolf Hall by Hilary Mantel" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>10. Hilary Mantel - Wolf Hall</h3>
@@ -170,7 +170,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://m.media-amazon.com/images/I/A1d080MlgaL._SL1500_.jpg" alt="The Underground Railroad by Colson Whitehead" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>11. Colson Whitehead - The Underground Railroad</h3>
@@ -183,7 +183,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381527/the-master-1-_flh7kh.webp" alt="The Master by Colm Toibin" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>12. Colm Toibin - The Master</h3>
@@ -196,7 +196,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/children-of-jocasta-1-_bnadoc.jpg" alt="The Children Of Jocasta by Natalie Haynes" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>13. Natalie Haynes - The Children Of Jocasta</h3>
@@ -209,7 +209,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381488/here-be-dragons-1-_apq1pp.webp" alt="Here Be Dragons by Sharon Penman" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>14. Sharon Penman - Here Be Dragons</h3>
@@ -222,7 +222,7 @@ There's no wrong place to begin. The genre covers such a wide range of tone that
 
 ---
 
-<div markdown="1" style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem;">
   <img src="https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381463/captain-corelli-s-mandolin-1-_yzot4o.webp" alt="Captain Corelli's Mandolin by Louis de Bernieres" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
     <h3>15. Louis de Bernières - Captain Corelli's Mandolin</h3>
