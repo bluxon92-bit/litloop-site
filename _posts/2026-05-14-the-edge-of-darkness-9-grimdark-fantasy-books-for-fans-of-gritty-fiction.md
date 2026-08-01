@@ -17,7 +17,7 @@ permalink: /blog/grimdark-fantasy-books/
 
 Grimdark fantasy is a subgenre of speculative fiction that has gained increasing popularity in recent years. With its dark and gritty themes, morally ambiguous characters, and often violent and bleak settings, grimdark fantasy provides a unique and immersive reading experience for those who enjoy a challenge.
 
-But what is grimdark fantasy, and where should you start if you're interested in exploring this subgenre? In this post, we delve into the defining characteristics of grimdark fantasy, highlight some of the best grimdark and dark fantasy [books for fantasy lovers](https://www.litloop.co/blog/29-best-fantasy-books), and provide some tips on where to begin your grimdark journey.
+But what is grimdark fantasy, and where should you start if you're interested in exploring this subgenre? In this post, we delve into the defining characteristics of grimdark fantasy, highlight some of the best grimdark and dark fantasy [books for fantasy lovers](https://www.litloop.co/blog/best-fantasy-books-you-need-to-read-today/), and provide some tips on where to begin your grimdark journey.
 
 ## What is Grimdark Fantasy?
 

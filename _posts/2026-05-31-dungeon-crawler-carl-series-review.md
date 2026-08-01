@@ -331,7 +331,7 @@ That's the experience. Laughing and then catching yourself, because something ha
 
 It's a rare thing, that balance. Matt Dinniman pulls it off for eight books and counting. 
 
-If you want to explore what else fantasy has to offer once you're through, our guide to the [best fantasy series](https://www.litloop.co/blog/best-fantasy-series/) is a good place to start.
+If you want to explore what else fantasy has to offer once you're through, our guide to the [31 best fantasy books](https://www.litloop.co/blog/best-fantasy-books-you-need-to-read-today/) is a good place to start.
 
 ---
 

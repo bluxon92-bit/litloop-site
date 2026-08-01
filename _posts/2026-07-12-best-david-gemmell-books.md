@@ -263,7 +263,7 @@ David Gemmell didn't write comfortable fantasy. His heroes bleed, break, and dou
 
 Start wherever pulls you in. *Legend* for the origin story, *Lion of Macedon* for something closer to historical fiction, *Waylander* if you want a darker protagonist. However you get in, you won't run out of Gemmell to read for a long time.
 
-If you're building out your fantasy shelf more broadly, our guide to the [best fantasy series](https://www.litloop.co/blog/best-fantasy-series/) and the [29 best fantasy books](https://www.litloop.co/blog/29-best-fantasy-books/) are good places to keep exploring.
+If you're building out your fantasy shelf more broadly, our guide to the [best fantasy series](https://www.litloop.co/blog/best-fantasy-series/) and the [31 best fantasy books](https://www.litloop.co/blog/best-fantasy-books-you-need-to-read-today/) are good places to keep exploring.
 
 ---
 
