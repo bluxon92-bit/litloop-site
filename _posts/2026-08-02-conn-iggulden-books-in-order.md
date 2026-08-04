@@ -16,7 +16,7 @@ author: Ben Luxon
 
 ---
 
-[Conn Iggulden](https://www.goodreads.com/author/show/119121.Conn_Iggulden) writes dramatic, action packed historical fiction, and he covers a huge amount of ground within his works. From ancient Rome to the Mongol conquests to the Persian Wars in Ancient Greece, and even the Wars of the Roses in medieval England.
+Conn Iggulden writes dramatic, action packed historical fiction, and he covers a huge amount of ground within his works. From ancient Rome to the Mongol conquests to the Persian Wars in Ancient Greece, and even the Wars of the Roses in medieval England.
 
 Unlike an author like Kate Quinn or Ken Follett whose works span generations and sometimes jump backwards and forwards in time, Iggulden's series are sequential, telling a single continuous story following a primary protagonist across multiple books. What this means is if you get invested in the characters in book one of a series, you can follow them all the way to the end. But it also means you should always start on book one in a series.
 
@@ -236,6 +236,7 @@ If you take one thing away from this guide, let it be this: start with whichever
 - [The Best Historical Fiction Books](https://www.litloop.co/blog/best-historical-fiction-books/)
 - [11 of the Best Historical Fiction Authors You Must Read](https://www.litloop.co/blog/11-of-the-best-historical-fiction-authors-you-must-read/)
 - [Fan Guide to the Best David Gemmell Books](https://www.litloop.co/blog/best-david-gemmell-books/)
+- [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology/)
 
 ---
 
