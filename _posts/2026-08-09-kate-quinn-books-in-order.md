@@ -1,0 +1,173 @@
+---
+layout: post
+title: "Kate Quinn Books in Order: The Complete Reading Guide (2026)"
+date: 2026-08-09
+category: Historical Fiction
+genre: Historical Fiction
+excerpt: "Every Kate Quinn series in order: her WWII run, the Empress of Rome series, the Borgia Chronicles, and everything since. Where to start, and how her catalogue fits together."
+image: "https://m.media-amazon.com/images/I/81Lu0-tgdVL._SL1500_.jpg"
+permalink: /blog/kate-quinn-books-in-order/
+author: Ben Luxon
+---
+
+![The Alice Network by Kate Quinn book cover](https://m.media-amazon.com/images/I/81Lu0-tgdVL._SL1500_.jpg)
+
+*This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
+
+---
+
+Kate Quinn is a historical fiction author whose work spans multiple eras. She started in ancient Rome and Renaissance Italy, then broke out with a run of WWII novels that turned her into one of the biggest names in the genre.
+
+The good news is that unlike something like Outlander, you don't need to read Quinn in strict chronological order. Her series are all self-contained, and most of her later books are standalone. This guide takes a closer look at the different corners of her catalogue so you can figure out the best place to start, or, if you're already familiar with her work, where to go next.
+
+If you're building out your historical fiction shelf more broadly, our guides to [the best historical fiction books](https://www.litloop.co/blog/best-historical-fiction-books/) and [11 of the best historical fiction authors](https://www.litloop.co/blog/11-of-the-best-historical-fiction-authors-you-must-read/) are good places to start too.
+
+---
+
+## Where Most Readers Start: The WWII Novels
+
+This is almost certainly how you found Kate Quinn, and it's the strongest run of books in her catalogue.
+
+![The Alice Network by Kate Quinn book cover](https://m.media-amazon.com/images/I/81Lu0-tgdVL._SL1500_.jpg)
+
+### The Alice Network (2017)
+
+Quinn's breakout novel, and still the best entry point. It connects two women across two wars: Eve, a young Englishwoman recruited into the real-life [Alice Network](https://en.wikipedia.org/wiki/Alice_Network) of female spies in WWI-era France, and Charlie, a pregnant American socialite searching for her missing cousin in 1947. Decades apart, their stories collide in ways that reframe both.
+
+<button data-buy-book data-title="The Alice Network" data-author="Kate Quinn" data-isbn="">Buy The Alice Network</button>
+
+![The Huntress by Kate Quinn book cover](https://m.media-amazon.com/images/I/71EQJyZEvVL._SL1500_.jpg)
+
+### The Huntress (2019)
+
+A British war correspondent and a Russian female bomber pilot join forces to track down a Nazi war criminal who's gone to ground in postwar America. Quinn's structural trick, jumping between the hunt and the crime being hunted for, is put to excellent use here.
+
+<button data-buy-book data-title="The Huntress" data-author="Kate Quinn" data-isbn="">Buy The Huntress</button>
+
+![The Rose Code by Kate Quinn book cover](https://m.media-amazon.com/images/I/81ErRJAlWPL._SL1500_.jpg)
+
+### The Rose Code (2021)
+
+Three women, a debutante, a working-class shop girl, and a shy crossword-solving spinster, become codebreakers at [Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park) during WWII, only to reunite years later, estranged, to unmask a traitor in their own ranks. It was one of ten titles to win a 2022 Alex Award, recognising adult books with strong appeal for teen readers, and is probably Quinn's most decorated novel.
+
+<button data-buy-book data-title="The Rose Code" data-author="Kate Quinn" data-isbn="">Buy The Rose Code</button>
+
+![The Diamond Eye by Kate Quinn book cover](https://m.media-amazon.com/images/I/91ugS+ThTTL._SL1500_.jpg)
+
+### The Diamond Eye (2022)
+
+Based on the real story of [Lyudmila Pavlichenko](https://en.wikipedia.org/wiki/Lyudmila_Pavlichenko), the Red Army's most lethal female sniper, credited with over 300 confirmed kills before being pulled from the front and sent on a diplomatic tour of the United States. If you want more Eastern Front perspective than most WWII fiction offers, this is the one.
+
+<button data-buy-book data-title="The Diamond Eye" data-author="Kate Quinn" data-isbn="">Buy The Diamond Eye</button>
+
+If you only read one strand of Kate Quinn's work, this is it. Read *The Alice Network* first, then *The Huntress*, *The Rose Code*, and *The Diamond Eye* in any order you like. They're not a continuous story, just four books that share a period and a sensibility. For more of the genre, our [historical fiction hub](https://www.litloop.co/genres/historical-fiction/) covers the wider WWII shelf.
+
+---
+
+## Where Quinn Started: Ancient Rome
+
+Before the WWII novels, Quinn built her career on ancient Rome, and this is where to go if that's more your interest, or if you want to see how her writing developed.
+
+![The Empress of Rome series by Kate Quinn book covers](https://m.media-amazon.com/images/I/81ULgvfOdcL._CLa%7C2792,2337%7C81BuaOh0VWL.jpg,812T+Q0vXmL.jpg%7C0,0,1269,2337+1523,0,1269,2337+634,0,1523,2337__UY300_FMwebp_.jpg)
+
+### The Empress of Rome Series
+
+*Mistress of Rome* (2010) — a slave girl rises to become the mistress of one of the most powerful men in Rome, under the reign of [Domitian](https://en.wikipedia.org/wiki/Domitian).
+
+*Daughters of Rome* (2011) — four women from a powerful Roman family navigate the chaos of AD 69's [Year of the Four Emperors](https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors).
+
+*Empress of the Seven Hills* (2012) — an ex-gladiator returns to Rome and is drawn back into a dangerous bond with a senator's daughter.
+
+*The Three Fates* (2015) — a shorter entry (sometimes listed as book 3.5) set during the reign of [Commodus](https://en.wikipedia.org/wiki/Commodus).
+
+*Lady of the Eternal City* (2015) — the series closer, following Vix as he navigates the crumbling empire's politics.
+
+If ancient Rome is your primary interest, our guide to [the best historical fiction books](https://www.litloop.co/blog/best-historical-fiction-books/) places Quinn alongside Robert Harris, Colleen McCullough, and [Conn Iggulden](https://www.litloop.co/blog/conn-iggulden-books-in-order/).
+
+<button data-buy-book data-title="Mistress of Rome" data-author="Kate Quinn" data-isbn="">Buy Mistress of Rome</button>
+
+![The Borgia Chronicles by Kate Quinn book covers](https://m.media-amazon.com/images/I/91EfG-OtZbL._CLa%7C3197,2393%7C91BMkj20gnL.jpg%7C0,0,1595,2393+1602,0,1595,2393__UY300_FMwebp_.jpg)
+
+### The Borgia Chronicles
+
+A shorter, two-book detour into Renaissance Italy:
+
+*The Serpent and the Pearl* (2013)
+
+*The Lion and the Rose* (2014)
+
+Both follow the infamous [Borgia family's](https://en.wikipedia.org/wiki/House_of_Borgia) rise through the eyes of a courtesan and an ambitious cook caught up in the danger of the papal court. A good pick if Renaissance intrigue appeals to you more than ancient Rome specifically.
+
+<button data-buy-book data-title="The Serpent and the Pearl" data-author="Kate Quinn" data-isbn="">Buy The Serpent and the Pearl</button>
+
+---
+
+## Beyond Rome and WWII: Where Quinn Has Gone Since
+
+Quinn's more recent work shows a writer actively expanding her range rather than repeating herself.
+
+![The Phoenix Crown by Kate Quinn book cover](https://m.media-amazon.com/images/I/81s2zAC8ruL._SL1500_.jpg)
+
+### The Phoenix Crown (2023)
+
+Co-written with Janie Chang. Gilded Age San Francisco, following two women whose lives intersect around the [1906 earthquake](https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake).
+
+<button data-buy-book data-title="The Phoenix Crown" data-author="Kate Quinn and Janie Chang" data-isbn="">Buy The Phoenix Crown</button>
+
+![The Briar Club by Kate Quinn book cover](https://m.media-amazon.com/images/I/817E7iDLOFL._SL1500_.jpg)
+
+### The Briar Club (2024)
+
+[McCarthy-era](https://en.wikipedia.org/wiki/McCarthyism) Washington DC, centred on the residents of a women's boardinghouse and the secrets they're keeping from each other.
+
+<button data-buy-book data-title="The Briar Club" data-author="Kate Quinn" data-isbn="">Buy The Briar Club</button>
+
+![The Astral Library by Kate Quinn book cover](https://m.media-amazon.com/images/I/815VdHlCqvL._SL1500_.jpg)
+
+### The Astral Library (2026)
+
+Her most recent book, and a genuine departure: a work of magical realism about a hidden library where books function as doorways into the stories themselves. Not historical fiction in the traditional sense, but worth knowing about if you're a completist.
+
+<button data-buy-book data-title="The Astral Library" data-author="Kate Quinn" data-isbn="">Buy The Astral Library</button>
+
+---
+
+## The Collaborative Anthologies
+
+![A Song of War by various authors book cover](https://m.media-amazon.com/images/I/81p8GMpjSjL._SL1500_.jpg)
+
+Quinn has also written as part of several multi-author historical fiction anthologies, each author contributing a different perspective on the same event:
+
+*A Day of Fire* — [Pompeii](https://en.wikipedia.org/wiki/Pompeii), on the day [Vesuvius](https://en.wikipedia.org/wiki/Mount_Vesuvius) erupted.
+
+*A Year of Ravens* — [Boudica's](https://en.wikipedia.org/wiki/Boudica) rebellion against Rome.
+
+*A Song of War* — the [Trojan War](https://en.wikipedia.org/wiki/Trojan_War), told across multiple perspectives.
+
+*Ribbons of Scarlet* — six women living through the [French Revolution](https://en.wikipedia.org/wiki/French_Revolution).
+
+These are a fun way to sample several authors at once, Quinn included, but they're very much a side dish rather than the main course of her bibliography.
+
+---
+
+You might also be interested in *Sunset in the East* by Ben Luxon
+
+Distant futures, bizarre aliens, AI and automatons come together in this compelling collection of thought-provoking science fiction short stories. Perfect for sci-fi enthusiasts and fans of Black Mirror. [Learn more →](https://amzn.to/4ruP0up)
+
+Now available for Kindle and paperback, and free for Kindle Unlimited users.
+
+---
+
+## So, Where Should You Actually Start?
+
+If you want the version of Kate Quinn most readers know and love, start with *The Alice Network* and work through her WWII run. If you'd rather see where she began, start with *Mistress of Rome*. Either way works, that's the real advantage of an author whose books don't demand to be read in a single unbroken order. Pick the era that interests you most, and the rest of her catalogue will still be there once you're hooked.
+
+### You Might Also Like
+
+- [The Best Historical Fiction Books](https://www.litloop.co/blog/best-historical-fiction-books/)
+- [11 of the Best Historical Fiction Authors You Must Read](https://www.litloop.co/blog/11-of-the-best-historical-fiction-authors-you-must-read/)
+- [Conn Iggulden Books in Order](https://www.litloop.co/blog/conn-iggulden-books-in-order/)
+
+---
+
+*Track your progress through Kate Quinn's novels, and find your next read, on [Litloop](https://www.litloop.co), the free reading tracker for fiction fans.*
