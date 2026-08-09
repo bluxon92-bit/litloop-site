@@ -150,17 +150,11 @@ These are a fun way to sample several authors at once, Quinn included, but they'
 
 ---
 
-You might also be interested in *Sunset in the East* by Ben Luxon
+## So, Where Should You Start?
 
-Distant futures, bizarre aliens, AI and automatons come together in this compelling collection of thought-provoking science fiction short stories. Perfect for sci-fi enthusiasts and fans of Black Mirror. [Learn more →](https://amzn.to/4ruP0up)
+If you want the version of Kate Quinn most readers know and love, start with *The Alice Network* and work through her WWII run. 
 
-Now available for Kindle and paperback, and free for Kindle Unlimited users.
-
----
-
-## So, Where Should You Actually Start?
-
-If you want the version of Kate Quinn most readers know and love, start with *The Alice Network* and work through her WWII run. If you'd rather see where she began, start with *Mistress of Rome*. Either way works, that's the real advantage of an author whose books don't demand to be read in a single unbroken order. Pick the era that interests you most, and the rest of her catalogue will still be there once you're hooked.
+If you'd rather see where she began, start with *Mistress of Rome*. Either way works, that's the real advantage of an author whose books don't demand to be read in a single unbroken order. Pick the era that interests you most, and the rest of her catalogue will still be there once you're hooked.
 
 ### You Might Also Like
 
