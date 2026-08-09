@@ -5,12 +5,12 @@ date: 2026-08-09
 category: Historical Fiction
 genre: Historical Fiction
 excerpt: "Every Kate Quinn series in order: her WWII run, the Empress of Rome series, the Borgia Chronicles, and everything since. Where to start, and how her catalogue fits together."
-image: "https://m.media-amazon.com/images/I/81Lu0-tgdVL._SL1500_.jpg"
+image: "https://m.media-amazon.com/images/I/81ULgvfOdcL._CLa%7C2792,2337%7C81BuaOh0VWL.jpg,812T+Q0vXmL.jpg%7C0,0,1269,2337+1523,0,1269,2337+634,0,1523,2337__UY300_FMwebp_.jpg"
 permalink: /blog/kate-quinn-books-in-order/
 author: Ben Luxon
 ---
 
-![The Alice Network by Kate Quinn book cover](https://m.media-amazon.com/images/I/81Lu0-tgdVL._SL1500_.jpg)
+![The Empress of Rome series by Kate Quinn book covers](https://m.media-amazon.com/images/I/81ULgvfOdcL._CLa%7C2792,2337%7C81BuaOh0VWL.jpg,812T+Q0vXmL.jpg%7C0,0,1269,2337+1523,0,1269,2337+634,0,1523,2337__UY300_FMwebp_.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -28,37 +28,45 @@ If you're building out your historical fiction shelf more broadly, our guides to
 
 This is almost certainly how you found Kate Quinn, and it's the strongest run of books in her catalogue.
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
+### The Alice Network (2017)
+
+<div style="display:flex; gap:1.5rem; align-items:center; margin-bottom:1.5rem;">
   <img src="https://m.media-amazon.com/images/I/81Lu0-tgdVL._SL1500_.jpg" alt="The Alice Network by Kate Quinn book cover" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-    <p><strong>The Alice Network (2017)</strong> — Quinn's breakout novel, and still the best entry point. It connects two women across two wars: Eve, a young Englishwoman recruited into the real-life <a href="https://en.wikipedia.org/wiki/Alice_Network">Alice Network</a> of female spies in WWI-era France, and Charlie, a pregnant American socialite searching for her missing cousin in 1947. Decades apart, their stories collide in ways that reframe both.</p>
+    <p>Quinn's breakout novel, and still the best entry point. It connects two women across two wars: Eve, a young Englishwoman recruited into the real-life <a href="https://en.wikipedia.org/wiki/Alice_Network">Alice Network</a> of female spies in WWI-era France, and Charlie, a pregnant American socialite searching for her missing cousin in 1947. Decades apart, their stories collide in ways that reframe both.</p>
   </div>
 </div>
 
 <button data-buy-book data-title="The Alice Network" data-author="Kate Quinn" data-isbn="">Buy The Alice Network</button>
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
+### The Huntress (2019)
+
+<div style="display:flex; gap:1.5rem; align-items:center; margin-bottom:1.5rem;">
   <img src="https://m.media-amazon.com/images/I/71EQJyZEvVL._SL1500_.jpg" alt="The Huntress by Kate Quinn book cover" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-    <p><strong>The Huntress (2019)</strong> — a British war correspondent and a Russian female bomber pilot join forces to track down a Nazi war criminal who's gone to ground in postwar America. Quinn's structural trick, jumping between the hunt and the crime being hunted for, is put to excellent use here.</p>
+    <p>A British war correspondent and a Russian female bomber pilot join forces to track down a Nazi war criminal who's gone to ground in postwar America. Quinn's structural trick, jumping between the hunt and the crime being hunted for, is put to excellent use here.</p>
   </div>
 </div>
 
 <button data-buy-book data-title="The Huntress" data-author="Kate Quinn" data-isbn="">Buy The Huntress</button>
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
+### The Rose Code (2021)
+
+<div style="display:flex; gap:1.5rem; align-items:center; margin-bottom:1.5rem;">
   <img src="https://m.media-amazon.com/images/I/81ErRJAlWPL._SL1500_.jpg" alt="The Rose Code by Kate Quinn book cover" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-    <p><strong>The Rose Code (2021)</strong> — three women, a debutante, a working-class shop girl, and a shy crossword-solving spinster, become codebreakers at <a href="https://en.wikipedia.org/wiki/Bletchley_Park">Bletchley Park</a> during WWII, only to reunite years later, estranged, to unmask a traitor in their own ranks. It was one of ten titles to win a 2022 Alex Award, recognising adult books with strong appeal for teen readers, and is probably Quinn's most decorated novel.</p>
+    <p>Three women, a debutante, a working-class shop girl, and a shy crossword-solving spinster, become codebreakers at <a href="https://en.wikipedia.org/wiki/Bletchley_Park">Bletchley Park</a> during WWII, only to reunite years later, estranged, to unmask a traitor in their own ranks. It was one of ten titles to win a 2022 Alex Award, recognising adult books with strong appeal for teen readers, and is probably Quinn's most decorated novel.</p>
   </div>
 </div>
 
 <button data-buy-book data-title="The Rose Code" data-author="Kate Quinn" data-isbn="">Buy The Rose Code</button>
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
+### The Diamond Eye (2022)
+
+<div style="display:flex; gap:1.5rem; align-items:center; margin-bottom:1.5rem;">
   <img src="https://m.media-amazon.com/images/I/91ugS+ThTTL._SL1500_.jpg" alt="The Diamond Eye by Kate Quinn book cover" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-    <p><strong>The Diamond Eye (2022)</strong> — based on the real story of <a href="https://en.wikipedia.org/wiki/Lyudmila_Pavlichenko">Lyudmila Pavlichenko</a>, the Red Army's most lethal female sniper, credited with over 300 confirmed kills before being pulled from the front and sent on a diplomatic tour of the United States. If you want more Eastern Front perspective than most WWII fiction offers, this is the one.</p>
+    <p>Based on the real story of <a href="https://en.wikipedia.org/wiki/Lyudmila_Pavlichenko">Lyudmila Pavlichenko</a>, the Red Army's most lethal female sniper, credited with over 300 confirmed kills before being pulled from the front and sent on a diplomatic tour of the United States. If you want more Eastern Front perspective than most WWII fiction offers, this is the one.</p>
   </div>
 </div>
 
@@ -72,12 +80,11 @@ If you only read one strand of Kate Quinn's work, this is it. Read *The Alice Ne
 
 Before the WWII novels, Quinn built her career on ancient Rome, and this is where to go if that's more your interest, or if you want to see how her writing developed.
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
-  <img src="https://m.media-amazon.com/images/I/81ULgvfOdcL._CLa%7C2792,2337%7C81BuaOh0VWL.jpg,812T+Q0vXmL.jpg%7C0,0,1269,2337+1523,0,1269,2337+634,0,1523,2337__UY300_FMwebp_.jpg" alt="The Empress of Rome series by Kate Quinn book covers" style="width:120px; flex-shrink:0; border-radius:4px;">
-  <div>
-    <p><strong>The Empress of Rome Series</strong> — a five-book saga tracing the Roman Empire from the reign of Domitian through to its crumbling politics decades later, following an ensemble cast of slaves, gladiators, and senators' daughters caught up in imperial power struggles.</p>
-  </div>
-</div>
+![The Empress of Rome series by Kate Quinn book covers](https://m.media-amazon.com/images/I/81ULgvfOdcL._CLa%7C2792,2337%7C81BuaOh0VWL.jpg,812T+Q0vXmL.jpg%7C0,0,1269,2337+1523,0,1269,2337+634,0,1523,2337__UY300_FMwebp_.jpg)
+
+### The Empress of Rome Series
+
+A five-book saga tracing the Roman Empire from the reign of Domitian through to its crumbling politics decades later, following an ensemble cast of slaves, gladiators, and senators' daughters caught up in imperial power struggles.
 
 *Mistress of Rome* (2010) — a slave girl rises to become the mistress of one of the most powerful men in Rome, under the reign of [Domitian](https://en.wikipedia.org/wiki/Domitian).
 
@@ -93,12 +100,11 @@ If ancient Rome is your primary interest, our guide to [the best historical fict
 
 <button data-buy-book data-title="Mistress of Rome" data-author="Kate Quinn" data-isbn="">Buy Mistress of Rome</button>
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
-  <img src="https://m.media-amazon.com/images/I/91EfG-OtZbL._CLa%7C3197,2393%7C91BMkj20gnL.jpg%7C0,0,1595,2393+1602,0,1595,2393__UY300_FMwebp_.jpg" alt="The Borgia Chronicles by Kate Quinn book covers" style="width:120px; flex-shrink:0; border-radius:4px;">
-  <div>
-    <p><strong>The Borgia Chronicles</strong> — a shorter, two-book detour into Renaissance Italy, following the infamous <a href="https://en.wikipedia.org/wiki/House_of_Borgia">Borgia family's</a> rise through the eyes of a courtesan and an ambitious cook caught up in the danger of the papal court.</p>
-  </div>
-</div>
+![The Borgia Chronicles by Kate Quinn book covers](https://m.media-amazon.com/images/I/91EfG-OtZbL._CLa%7C3197,2393%7C91BMkj20gnL.jpg%7C0,0,1595,2393+1602,0,1595,2393__UY300_FMwebp_.jpg)
+
+### The Borgia Chronicles
+
+A shorter, two-book detour into Renaissance Italy, following the infamous [Borgia family's](https://en.wikipedia.org/wiki/House_of_Borgia) rise through the eyes of a courtesan and an ambitious cook caught up in the danger of the papal court.
 
 *The Serpent and the Pearl* (2013)
 
@@ -114,28 +120,34 @@ A good pick if Renaissance intrigue appeals to you more than ancient Rome specif
 
 Quinn's more recent work shows a writer actively expanding her range rather than repeating herself.
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
+### The Phoenix Crown (2023)
+
+<div style="display:flex; gap:1.5rem; align-items:center; margin-bottom:1.5rem;">
   <img src="https://m.media-amazon.com/images/I/81s2zAC8ruL._SL1500_.jpg" alt="The Phoenix Crown by Kate Quinn book cover" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-    <p><strong>The Phoenix Crown (2023)</strong> — co-written with Janie Chang. Gilded Age San Francisco, following two women whose lives intersect around the <a href="https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake">1906 earthquake</a>.</p>
+    <p>Co-written with Janie Chang. Gilded Age San Francisco, following two women whose lives intersect around the <a href="https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake">1906 earthquake</a>.</p>
   </div>
 </div>
 
 <button data-buy-book data-title="The Phoenix Crown" data-author="Kate Quinn and Janie Chang" data-isbn="">Buy The Phoenix Crown</button>
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
+### The Briar Club (2024)
+
+<div style="display:flex; gap:1.5rem; align-items:center; margin-bottom:1.5rem;">
   <img src="https://m.media-amazon.com/images/I/817E7iDLOFL._SL1500_.jpg" alt="The Briar Club by Kate Quinn book cover" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-    <p><strong>The Briar Club (2024)</strong> — <a href="https://en.wikipedia.org/wiki/McCarthyism">McCarthy-era</a> Washington DC, centred on the residents of a women's boardinghouse and the secrets they're keeping from each other.</p>
+    <p><a href="https://en.wikipedia.org/wiki/McCarthyism">McCarthy-era</a> Washington DC, centred on the residents of a women's boardinghouse and the secrets they're keeping from each other.</p>
   </div>
 </div>
 
 <button data-buy-book data-title="The Briar Club" data-author="Kate Quinn" data-isbn="">Buy The Briar Club</button>
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
+### The Astral Library (2026)
+
+<div style="display:flex; gap:1.5rem; align-items:center; margin-bottom:1.5rem;">
   <img src="https://m.media-amazon.com/images/I/815VdHlCqvL._SL1500_.jpg" alt="The Astral Library by Kate Quinn book cover" style="width:120px; flex-shrink:0; border-radius:4px;">
   <div>
-    <p><strong>The Astral Library (2026)</strong> — her most recent book, and a genuine departure: a work of magical realism about a hidden library where books function as doorways into the stories themselves. Not historical fiction in the traditional sense, but worth knowing about if you're a completist.</p>
+    <p>Her most recent book, and a genuine departure: a work of magical realism about a hidden library where books function as doorways into the stories themselves. Not historical fiction in the traditional sense, but worth knowing about if you're a completist.</p>
   </div>
 </div>
 
@@ -145,12 +157,9 @@ Quinn's more recent work shows a writer actively expanding her range rather than
 
 ## The Collaborative Anthologies
 
-<div style="display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:1.5rem;">
-  <img src="https://m.media-amazon.com/images/I/81p8GMpjSjL._SL1500_.jpg" alt="A Song of War by various authors book cover" style="width:120px; flex-shrink:0; border-radius:4px;">
-  <div>
-    <p>Quinn has also written as part of several multi-author historical fiction anthologies, each author contributing a different perspective on the same event.</p>
-  </div>
-</div>
+![A Song of War by various authors book cover](https://m.media-amazon.com/images/I/81p8GMpjSjL._SL1500_.jpg)
+
+Quinn has also written as part of several multi-author historical fiction anthologies, each author contributing a different perspective on the same event.
 
 *A Day of Fire* — [Pompeii](https://en.wikipedia.org/wiki/Pompeii), on the day [Vesuvius](https://en.wikipedia.org/wiki/Mount_Vesuvius) erupted.
 
