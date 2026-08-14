@@ -70,7 +70,7 @@ Genuinely unclear. The trilogy is critically praised, well-constructed, and emot
 
 ### You Might Also Like
 
-- [The Blacktongue Thief Review](https://www.litloop.co/blog/the-blacktongue-thief-review)
-- [Senlin Ascends Review](https://www.litloop.co/blog/senlin-ascends-review)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [The Blacktongue Thief Review](https://www.litloop.co/blog/the-blacktongue-thief-review/)
+- [Senlin Ascends Review](https://www.litloop.co/blog/senlin-ascends-review/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

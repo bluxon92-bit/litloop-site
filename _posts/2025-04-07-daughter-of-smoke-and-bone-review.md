@@ -60,7 +60,7 @@ The Daughter of Smoke and Bone trilogy continues with *Days of Blood and Starlig
 
 ### You Might Also Like
 
-- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review)
-- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [The Priory of the Orange Tree Review](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review/)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order/)
+- [The Priory of the Orange Tree Review](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

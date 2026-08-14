@@ -1,22 +1,15 @@
 ---
 layout: post
 title: "31 Best Fantasy Books You Need To Read Today"
-date: 2026-12-03
+date: 2026-03-13
 category: Book Recommendations
 genre: Fantasy
-excerpt: "-
-  7 Of The Best Classic Fantasy Books
--
-  12 Of The Best Modern Fantasy Books
--
-  12 Of The Best Fantasy Books You Haven’t Heard Of
--
-  The Best Fantasy Books: Wrapping Up"
+excerpt: "Not all fantasy books are created equal. We take a closer look at 31 of the best fantasy books ever. From the classics to modern marvels."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/fantasy-book-overflowing-1-_oboxw2.jpg"
 permalink: /blog/best-fantasy-books-you-need-to-read-today/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/fantasy-book-overflowing-1-_oboxw2.jpg)
+![31 Best Fantasy Books You Need To Read Today cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/fantasy-book-overflowing-1-_oboxw2.jpg)
 
 #### Contents
 
@@ -39,7 +32,7 @@ Whether you're looking for tales of dragons, knights, and magical creatures, or 
 
 ## 7 of the Best Classic Fantasy Books
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381467/narnia-fantasy-books-1-_essomq.webp)
+![31 Best Fantasy Books You Need To Read Today cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381467/narnia-fantasy-books-1-_essomq.webp)
 
 ### 1. [The Lion, The Witch, And The Wardrobe](https://www.amazon.com/Lion-Witch-Wardrobe-C-Lewis/dp/0064471047/) by C.S. Lewis
 
@@ -67,7 +60,7 @@ The first volume launches an unlikely band of heroes on a vast journey, from Mid
 
 ### 4. [The Bloody Chamber](https://www.amazon.com/Bloody-Chamber-Stories-75th-Anniversary-Classics/dp/0143107615/) by Angela Carter
 
-The Bloody Chamber is actually a selection of ten [fantasy short stories](https://www.litloop.co/blog/fantasy-short-stories). They were first collectively published in 1979 and have since become a polemical text for feminist fantasy. Each story revisits a traditional fairy tale - Sleeping Beauty, Little Red Riding Hood and Beauty and the Beast, to name a few - and reexamines and subverts the role of women in these stories. An instant classic, The Bloody Chamber by Angela Carter is cited by numerous authors as a major influence on their own work.
+The Bloody Chamber is actually a selection of ten [fantasy short stories](https://www.litloop.co/blog/fantasy-short-stories/). They were first collectively published in 1979 and have since become a polemical text for feminist fantasy. Each story revisits a traditional fairy tale - Sleeping Beauty, Little Red Riding Hood and Beauty and the Beast, to name a few - and reexamines and subverts the role of women in these stories. An instant classic, The Bloody Chamber by Angela Carter is cited by numerous authors as a major influence on their own work.
 
 <button data-buy-book data-title="The Bloody Chamber" data-author="Angela Carter">Buy The Bloody Chamber</button>
 
@@ -97,7 +90,7 @@ In the story, Phantasmion is the king of a fantastical realm who is forced into 
 
 ## 12 of the Best Modern Fantasy Books
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/game-of-thrones-shelf-1-_br90qf.webp)
+![[Phantasmion](https://www.amazon.com/Phantasmion-Sara-Coleridge-ebook/dp/B08Y6Y8DYH/) by Sara Coleridge book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/game-of-thrones-shelf-1-_br90qf.webp)
 
 ### 8. [Game of Thrones](https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553381687) by George R.R. Martin
 
@@ -115,7 +108,7 @@ Interestingly, this story is told from the first person in the future where thin
 
 ### 10. [The Wheel of Time](https://www.amazon.com/Wheel-Time-Premium-Boxed-Set/dp/1250251516/) by Robert Jordan
 
-Published in 1990, The Wheel of Time is one of the most popular and influential fantasy epics ever written. It is a hugely ambitious undertaking, steeped in rich history and with incredible scale to its world-building. The series spans fourteen books and ultimately redefined the genre of epic fantasy. This skillfully written series was finished after Jordan’s death by [Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson), an author you’ll find further down this list.
+Published in 1990, The Wheel of Time is one of the most popular and influential fantasy epics ever written. It is a hugely ambitious undertaking, steeped in rich history and with incredible scale to its world-building. The series spans fourteen books and ultimately redefined the genre of epic fantasy. This skillfully written series was finished after Jordan’s death by [Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/), an author you’ll find further down this list.
 
 <button data-buy-book data-title="The Wheel of Time" data-author="Robert Jordan">Buy The Wheel of Time</button>
 
@@ -123,7 +116,7 @@ Published in 1990, The Wheel of Time is one of the most popular and influential 
 
 Fitz is the bastard son of the crown prince, a young man born between two worlds. When it is determined that he might be of use to the crown he is adopted into the court and thrown into a new world of intrigue and plotting, courtly manners and murder. Friendless and lonely, it’s only his magical link with animals - the old art known as the Wit - that gives him solace and companionship. But the Wit is a dangerous magic and one that is abhorred by the nobility.
 
-**Learn more about Robin Hobb:** [The Farseer Trilogy and Beyond: Robin Hobb's Books and Reading Order Explained](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+**Learn more about Robin Hobb:** [The Farseer Trilogy and Beyond: Robin Hobb's Books and Reading Order Explained](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/)
 
 <button data-buy-book data-title="Assassin’s Apprentice" data-author="Robin Hobb">Buy Assassin’s Apprentice</button>
 
@@ -135,9 +128,9 @@ In the first book in the Earthsea Quartet, Ursula K Le Guin does something a lit
 
 ### 13. [The Way of Kings](https://www.amazon.com/Way-Kings-Book-Stormlight-Archive/dp/0765326353/) by Brandon Sanderson
 
-Book 1 in the Stormlight Series, [The Way of Kings is Brandon Sanderson’s ](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)biggest challenge yet. The book explores the lives of the Heralds, the leaders of the Knights Radiant. The Heralds have waged war against a race of monsters, called Voidbringers, for thousands of years, protecting humanity from certain destruction. However, after countless rebirths, the Heralds abandon their calling and cast the world into chaos. This story is epic in scope and scale and arguably Sanderson’s masterwork.
+Book 1 in the Stormlight Series, [The Way of Kings is Brandon Sanderson’s ](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)biggest challenge yet. The book explores the lives of the Heralds, the leaders of the Knights Radiant. The Heralds have waged war against a race of monsters, called Voidbringers, for thousands of years, protecting humanity from certain destruction. However, after countless rebirths, the Heralds abandon their calling and cast the world into chaos. This story is epic in scope and scale and arguably Sanderson’s masterwork.
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)
+![[The Way of Kings](https://www.amazon.com/Way-Kings-Book-Stormlight-Archive/dp/0765326353/) by Brandon Sanderson book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)
 
 <button data-buy-book data-title="The Way of Kings" data-author="Brandon Sanderson">Buy The Way of Kings</button>
 
@@ -171,7 +164,7 @@ The novel is filled with witty dialogue, clever puns, and satirical social comme
 
 ### 18. [Echoes of the Great Song](https://www.amazon.com/Echoes-Great-Song-Heroic-Fantasy-ebook/dp/B0031RS6TG/) by David Gemmel
 
-Echoes of the Great Song is one of my favourite [David Gemmel](https://www.litloop.co/blog/david-gemmells-drenai-series) books with complex heroes, magic, and evil. Set in a world where a race known as Avatars had once mastered the power of the sun and become gods, however, after an apocalypse their powers wane and a new threat arises. The Avatars must choose to save themselves or save the world from this rising evil. It’s a story of bravery, friendship, sacrifice and courage, and one of Gemmel’s absolute classics.
+Echoes of the Great Song is one of my favourite [David Gemmel](https://www.litloop.co/blog/david-gemmells-drenai-series/) books with complex heroes, magic, and evil. Set in a world where a race known as Avatars had once mastered the power of the sun and become gods, however, after an apocalypse their powers wane and a new threat arises. The Avatars must choose to save themselves or save the world from this rising evil. It’s a story of bravery, friendship, sacrifice and courage, and one of Gemmel’s absolute classics.
 
 <button data-buy-book data-title="Echoes of the Great Song" data-author="David Gemmel">Buy Echoes of the Great Song</button>
 
@@ -187,7 +180,7 @@ Throughout the novel, Murakami employs dreamlike imagery and magical realism to 
 
 ## 12 Best New Fantasy Books You Haven’t Heard Of
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/the-night-circus-fantasy-books-1-_ktgzln.jpg)
+![[Hard Boiled Wonderland at the Edge of The World](https://www.amazon.com/Hard-Boiled-Wonderland-World-Haruki-Murakami-ebook/dp/B005TKD9D6/) by Haruki Murakami book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/the-night-circus-fantasy-books-1-_ktgzln.jpg)
 
 ### 20. [The Night Circus](https://www.amazon.com/Night-Circus-Erin-Morgenstern/dp/0307744434/) by Erin Morgenstern
 
@@ -197,7 +190,7 @@ Morgenstern’s debut novel is an atmospheric fairy tale about Le Cirque des Rê
 
 ### 21. [Perdido Street Station](https://www.amazon.com/Perdido-Street-Station-Deckle-Publisher/dp/B004VJX9G8/) by China Miéville
 
-[Perdido Street Station by China Miéville](https://www.litloop.co/blog/best-books-by-china-mieville) is a fantasy novel set in the city of New Crobuzon, where humans, non-humans, and sentient machines live together. The novel follows Isaac Dan der Grimnebulin, a scientist who is commissioned by a garuda to create a winged human. This leads Isaac on a journey of discovery, as he uncovers the secrets of the city, including dark magic and a powerful alien race. With its blend of science fiction, fantasy, and horror, Perdido Street Station is a bizarre and twisting adventure you won’t forget.
+[Perdido Street Station by China Miéville](https://www.litloop.co/blog/best-books-by-china-mieville/) is a fantasy novel set in the city of New Crobuzon, where humans, non-humans, and sentient machines live together. The novel follows Isaac Dan der Grimnebulin, a scientist who is commissioned by a garuda to create a winged human. This leads Isaac on a journey of discovery, as he uncovers the secrets of the city, including dark magic and a powerful alien race. With its blend of science fiction, fantasy, and horror, Perdido Street Station is a bizarre and twisting adventure you won’t forget.
 
 <button data-buy-book data-title="Perdido Street Station" data-author="China Miéville">Buy Perdido Street Station</button>
 
@@ -253,13 +246,13 @@ This is the first book in a 10-book epic fantasy series, and it's full of comple
 
 This is the first book in an ongoing series, and it tells the story of Logen Ninefingers, a barbarian warrior who's trying to put his past behind him. It's a great read and full of action and adventure.
 
-**Related**: [Joe Abercrombie Books in Order: A Complete Reading Guide](https://www.litloop.co/blog/joe-abercrombie-books-in-order-a-complete-reading-guide)
+**Related**: [Joe Abercrombie Books in Order: A Complete Reading Guide](https://www.litloop.co/blog/joe-abercrombie-books-in-order/)
 
 <button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie">Buy The Blade Itself</button>
 
 ### 31. [Malice](https://www.amazon.com/Malice-Faithful-Fallen-John-Gwynne/dp/0316399736) by John Gwynne
 
-[The Faithful and the Fallen series by John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) consists of four books and is situated in a [unique fantasy world](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building) the Banished Lands where long-dormant creatures of legend are stirring, and an impending war of unprecedented scale is on the horizon. Malice, the initial book of the series, narrates a tale of avarice, aspiration, and disloyalty through no less than seven distinct perspectives. The critically acclaimed series has garnered significant attention for its captivating plot and imaginative world-building.
+[The Faithful and the Fallen series by John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/) consists of four books and is situated in a [unique fantasy world](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building) the Banished Lands where long-dormant creatures of legend are stirring, and an impending war of unprecedented scale is on the horizon. Malice, the initial book of the series, narrates a tale of avarice, aspiration, and disloyalty through no less than seven distinct perspectives. The critically acclaimed series has garnered significant attention for its captivating plot and imaginative world-building.
 
 ---
 
@@ -268,9 +261,9 @@ This is the first book in an ongoing series, and it tells the story of Logen Nin
 ## The Best Fantasy Books: Wrapping Up
 [
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/drenai-series-banner_h2ybfk.png)
+![[Malice](https://www.amazon.com/Malice-Faithful-Fallen-John-Gwynne/dp/0316399736) by John Gwynne book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/drenai-series-banner_h2ybfk.png)
 
-](https://www.litloop.co/blog/david-gemmells-drenai-series)
+](https://www.litloop.co/blog/david-gemmells-drenai-series/)
 
 As a final note, I'd like to pick out my personal favourites of the authors featured in this list. For these authors, I’d recommend more or less every single one of their not-insignificant bodies of work.
 
@@ -278,19 +271,19 @@ As a final note, I'd like to pick out my personal favourites of the authors feat
 
 On that same note, [Neil Gaiman](https://www.neilgaiman.com), a lifelong friend of Pratchett’s, is far less prolific than many of the others on this list but is an incredible author. His stories have a mystery and darkness to them which is compelling and bizarre.
 
-[Brandon Sanderson’s books](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson) all share fast-paced and dynamic plots with [great characters](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile) and intricate magic systems, making them perfect escapes from reality.
+[Brandon Sanderson’s books](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/) all share fast-paced and dynamic plots with [great characters](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile) and intricate magic systems, making them perfect escapes from reality.
 
-And finally, David Gemmel. I spent many of my later teen years devouring his books, everything from his [Drenai series](https://www.litloop.co/blog/david-gemmells-drenai-series) to his later historical fantasy [fiction works that revolve around ancient Greece](https://www.litloop.co/blog/best-books-about-greek-mythology) - a particular favourite of mine is The Lion of Macedon.
+And finally, David Gemmel. I spent many of my later teen years devouring his books, everything from his [Drenai series](https://www.litloop.co/blog/david-gemmells-drenai-series/) to his later historical fantasy [fiction works that revolve around ancient Greece](https://www.litloop.co/blog/best-books-about-greek-mythology/) - a particular favourite of mine is The Lion of Macedon.
 
 ### You Might Like
 
 -
-  [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read)
+  [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read/)
 -
-  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
+  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
 -
-  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)
 -
-  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
+  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
 [
-](https://www.litloop.co/sci-fi-short-stories)
+](https://www.litloop.co/sci-fi-short-stories/)

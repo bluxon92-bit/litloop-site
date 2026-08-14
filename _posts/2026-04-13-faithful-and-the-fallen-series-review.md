@@ -14,7 +14,7 @@ image: "https://m.media-amazon.com/images/I/91mnOi2eavL._SL1500_.jpg"
 
 ---
 
-John Gwynne is one of the best fantasy writers working today — and I don't say that lightly. *The Faithful and the Fallen* is the series that established him, and it's the series I recommend most often to readers who tell me they love [grimdark fantasy](/blog/the-edge-of-darkness-9-grimdark-fantasy-books-for-fans-of-gritty-fiction/) but want something that actually makes them care about the characters.
+John Gwynne is one of the best fantasy writers working today — and I don't say that lightly. *The Faithful and the Fallen* is the series that established him, and it's the series I recommend most often to readers who tell me they love [grimdark fantasy](/blog/grimdark-fantasy-books/) but want something that actually makes them care about the characters.
 
 Because that's the thing about Gwynne. He writes battles with real weight, consequences that stick, and deaths that hurt. But his characters are warm in a way that most grimdark writers don't attempt. You don't just respect them — you root for them. And in a genre where characters tend to be either grimly competent or expendably tragic, that's rarer than it should be.
 
@@ -86,7 +86,7 @@ You might struggle if you need a fast-paced, action-heavy opening. *Malice* is p
 
 Gwynne's follow-up trilogy, *Of Blood and Bone*, is set in the same world 130 years later. Start with *A Time of Dread*. If you've already read that, his Bloodsworn Saga — beginning with [*The Shadow of the Gods*](/blog/book-review-the-shadow-of-the-gods-by-john-gwynne/) — is something else entirely and possibly even better.
 
-For more from Gwynne, check out our [deep dive into his complete bibliography](/blog/the-best-of-john-gwynne-gods-giants-angels-malice-and-wrath/).
+For more from Gwynne, check out our [deep dive into his complete bibliography](/blog/john-gwynne-gods-malice-and-wrath/).
 
 ---
 

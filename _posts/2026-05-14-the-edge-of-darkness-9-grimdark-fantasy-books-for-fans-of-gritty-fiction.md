@@ -9,7 +9,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-tril
 permalink: /blog/grimdark-fantasy-books/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-trilogy-1-_ztj537.jpg)
+![The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-trilogy-1-_ztj537.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -21,7 +21,7 @@ But what is grimdark fantasy, and where should you start if you're interested in
 
 ## What is Grimdark Fantasy?
 
-Though challenging to get a precise description of grimdark fantasy, many common elements are found throughout grimdark fiction. For example, it's characterised by its dark and gritty themes, which are often explored through morally ambiguous characters and settings that are bleak and unforgiving. Some even go so far as to describe it as the fantasy equivalent of [dystopian sci-fi](https://www.litloop.co/blog/9-dystopian-novels-to-read).
+Though challenging to get a precise description of grimdark fantasy, many common elements are found throughout grimdark fiction. For example, it's characterised by its dark and gritty themes, which are often explored through morally ambiguous characters and settings that are bleak and unforgiving. Some even go so far as to describe it as the fantasy equivalent of [dystopian sci-fi](https://www.litloop.co/blog/9-dystopian-novels-to-read/).
 
 Below we break down some of the key characteristics frequently found in grimdark fantasy:
 
@@ -39,7 +39,7 @@ Here's our list of grimdark fantasy books and series that you should consider re
 
 ### 1. The First Law Trilogy by Joe Abercrombie (published 2006–2008)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/the-first-law-1-_ac3w5j.jpg)
+![The First Law Trilogy by Joe Abercrombie book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/the-first-law-1-_ac3w5j.jpg)
 
 The First Law Trilogy takes place in a world of war and political intrigue, where characters must navigate a brutal and unforgiving landscape. The series focuses on a cast of gritty characters including a barbarian warrior, a crippled torturer, and a self-centred nobleman. Each of them must confront their own flaws and prejudices as they struggle to survive in a world full of violence, betrayal, and treachery.
 
@@ -55,7 +55,7 @@ The First Law Trilogy takes place in a world of war and political intrigue, wher
 
 ### 2. The Malazan Book of the Fallen by Steven Erikson (published 1999–2011)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381454/malazan-book-of-the-fallen-reading-order-copy-1-_l6bqmc.webp)
+![The Malazan Book of the Fallen by Steven Erikson book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381454/malazan-book-of-the-fallen-reading-order-copy-1-_l6bqmc.webp)
 
 The Malazan Book of the Fallen is an epic series that explores themes of mortality, power, and the human condition. Set in a world of gods, magic, and warfare, the series follows a vast cast of characters, including soldiers, assassins, and sorcerers. With its richly detailed world-building, intricate plotting, and morally complex characters, The Malazan Book of the Fallen is a monumental work of grimdark fantasy that challenges readers to think deeply about the nature of power and the consequences of war.
 
@@ -76,7 +76,7 @@ The Malazan Book of the Fallen is an epic series that explores themes of mortali
 
 ### 3. The Black Company by Glen Cook (published 1984–1985)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381461/black-company-books-1-_pfwtab.webp)
+![The Black Company by Glen Cook book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381461/black-company-books-1-_pfwtab.webp)
 
 The Black Company follows a group of mercenaries as they navigate a world of war and politics. Led by their enigmatic and ruthless captain, the company becomes embroiled in a conflict between two powerful sorcerers, forcing them to confront their own loyalties and morality. With stark realism and complex themes, The Black Company is a classic grimdark fantasy series.
 
@@ -90,7 +90,7 @@ The Black Company follows a group of mercenaries as they navigate a world of war
 
 ### 4. The Broken Empire Trilogy by Mark Lawrence (published 2011–2013)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-trilogy-1-_ztj537.jpg)
+![The Broken Empire Trilogy by Mark Lawrence book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-trilogy-1-_ztj537.jpg)
 
 The first in the Broken Empire Trilogy — and Mark Lawrence's debut novel — is *A Prince of Thorns*. It tells a tale of blood and treachery, magic and brotherhood, and paints a compelling, brutal, and sometimes beautiful picture of the young prince Jorg Ancrath on his journey toward manhood and the throne. With his ruthless tactics and disregard for human life, Jorg is a compelling antihero who must confront the consequences of his own actions as he seeks to conquer the world around him.
 
@@ -104,7 +104,7 @@ The first in the Broken Empire Trilogy — and Mark Lawrence's debut novel — i
 
 ### 5. A Song of Ice and Fire by George R.R. Martin (published 1996–present)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/game-of-thrones-1-_gby0bz.jpg)
+![A Song of Ice and Fire by George R.R. Martin book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/game-of-thrones-1-_gby0bz.jpg)
 
 A Song of Ice and Fire is a sprawling epic that follows a vast cast of characters spread across the seven kingdoms of Westeros and beyond. It is one of the most ambitious examples of world-building since Tolkien, exploring themes of power, family, and the consequences of human ambition.
 
@@ -118,7 +118,7 @@ The series is famous for its shocking violence, where even central characters ar
 6. The Winds of Winter (forthcoming)
 7. A Dream of Spring (planned)
 
-**Readers looking for more fantasy book recommendations can visit our blog featuring** [the 31 best fantasy books of all time](https://www.litloop.co/blog/29-best-fantasy-books).
+**Readers looking for more fantasy book recommendations can visit our blog featuring** [the 31 best fantasy books of all time](https://www.litloop.co/blog/29-best-fantasy-books/).
 
 ---
 
@@ -126,7 +126,7 @@ The series is famous for its shocking violence, where even central characters ar
 
 ### 6. The Farseer Trilogy by Robin Hobb (published 1995–1997)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381490/the-farseer-trilogy-robin-hobb-copy-1-1-_ajke9p.webp)
+![The Farseer Trilogy by Robin Hobb book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381490/the-farseer-trilogy-robin-hobb-copy-1-1-_ajke9p.webp)
 
 Robin Hobb's Farseer Trilogy follows the story of FitzChivalry Farseer, the bastard son of a prince who is trained as an assassin for the royal family. Set in a world of political intrigue and courtly scheming, the novel explores themes of duty, loyalty, and the high cost of power.
 
@@ -136,7 +136,7 @@ While some readers may not consider *Assassin's Apprentice* to be strictly grimd
 2. [Royal Assassin](https://amzn.to/3TrOg9T) (1996)
 3. [Assassin's Quest](https://amzn.to/40jxBro) (1997)
 
-**For more on Robin Hobb's books read:** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+**For more on Robin Hobb's books read:** [The Farseer Trilogy, Dragons and Beyond: Robin Hobb's Books](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/)
 
 ---
 
@@ -144,7 +144,7 @@ While some readers may not consider *Assassin's Apprentice* to be strictly grimd
 
 ### 7. The Poppy War by R. F. Kuang (published 2018–2020)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381492/the-poppy-war-1-_h3egib.webp)
+![The Poppy War by R. F. Kuang book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381492/the-poppy-war-1-_h3egib.webp)
 
 The Poppy War series is one of the best examples of grimdark fantasy of recent years. The books explore themes of corruption and power, lust and vengeance, and delve into the darkest depths of humanity and savagery.
 
@@ -160,7 +160,7 @@ The story follows Rin, who comes from a poor background but gets into an elite m
 
 ### 8. War for the Rose Throne by Peter McLean (published 2018–2022)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381459/rosethronecovers-1-_q6prxi.webp)
+![War for the Rose Throne by Peter McLean book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381459/rosethronecovers-1-_q6prxi.webp)
 
 *Priest of Bones* is the first in the War for the Rose Throne series — a dark and gritty tale set in a world of gangsters and magic. The story follows Tomas Piety, a former soldier turned crime lord, as he returns to his hometown to reclaim his territory and seek revenge against those who betrayed him. With his loyal crew of soldiers and his cunning mind, Tomas must navigate the dangerous world of crime and politics while dealing with the supernatural forces that threaten his rule. Along the way, he grapples with his own morality and struggles to reconcile his violent past with his newfound position as a man of power and influence.
 
@@ -175,7 +175,7 @@ The story follows Rin, who comes from a poor background but gets into an elite m
 
 ### 9. Empires of Dust by Anna Smith Spark (published 2017–2019)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381521/empires-of-dust-1-_sljslh.webp)
+![Empires of Dust by Anna Smith Spark book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381521/empires-of-dust-1-_sljslh.webp)
 
 *The Court of Broken Knives* is the first book in the Empires of Dust series — a dark and atmospheric fantasy set in a world of political intrigue, violence, and magic. The story follows a cast of morally ambiguous characters, including a ruthless assassin, a disgraced prince, and a powerful sorceress, as they navigate the treacherous court of the Emperor, where alliances shift constantly and betrayal is the norm.
 
@@ -185,7 +185,7 @@ As tensions rise and secrets are revealed, the characters are forced to confront
 2. [The Tower of Living and Dying](https://amzn.to/40kFqxf) (2018)
 3. [The House of Sacrifice](https://amzn.to/40hGkdZ) (2019)
 
-**Readers who like the books listed above may also enjoy** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
+**Readers who like the books listed above may also enjoy** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/).
 
 ---
 
@@ -201,7 +201,7 @@ Grimdark, on the other hand, is characterised by harsh realism, moral ambiguity,
 
 Ultimately, both subgenres offer readers a chance to explore mature and complex themes in the context of a rich and imaginative fantasy world.
 
-**Like dark fiction? Try these** [5 Bone-Chilling Horror Short Story Collections by Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king).
+**Like dark fiction? Try these** [5 Bone-Chilling Horror Short Story Collections by Stephen King](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king/).
 
 ---
 
@@ -213,13 +213,13 @@ If you're new to grimdark fantasy, starting can be intimidating. Here are a few 
 
 **Read reviews and recommendations** — Reading reviews from others who have already read the books can give you a good sense of what to expect. You'll get an idea of the writing style, the characters, and the overall tone. This can help you decide if a particular series is right for you.
 
-My personal favourites on this list are [Joe Abercrombie's The First Law Trilogy](/blog/joe-abercrombie-books-in-order) and [Robin Hobb's Farseer Trilogy](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond) — so if you're really stuck, these are great places to begin. Other fantasy authors you might enjoy but who didn't make this list include [John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath) (his Bloodsworn Saga is phenomenal), and my personal favourite [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series).
+My personal favourites on this list are [Joe Abercrombie's The First Law Trilogy](/blog/joe-abercrombie-books-in-order) and [Robin Hobb's Farseer Trilogy](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/) — so if you're really stuck, these are great places to begin. Other fantasy authors you might enjoy but who didn't make this list include [John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/) (his Bloodsworn Saga is phenomenal), and my personal favourite [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series/).
 
 ---
 
 ### You Might Like
 
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
-- [13 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories/)
+- [13 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)

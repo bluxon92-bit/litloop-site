@@ -11,17 +11,17 @@ redirect_from:
   - /blog/the-city-and-the-stars-art/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/city-and-the-stars-1-_dld81n.webp)
+![Review: The City and The Stars by Arthur C Clarke cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/city-and-the-stars-1-_dld81n.webp)
 
 The City and The Stars by Arthur C Clarke, published in 1956, was the first novel by Arthur C Clarke I read. It was the reason I went on to read many more — a few of my favourites include 2001: A Space Odyssey, The Fountain of Paradise, and Rendezvous with Rama.
 
-Arthur C Clarke is seen by some (and I think rightly so) as one of the fathers of the [science fiction](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read) genre alongside the likes of Asimov and Heinlein. The ideas he postulated revolutionised not just fiction, but reality too. He is credited, for example, for coming up with the idea of [global communications satellites](https://web.mit.edu/m-i-t/science_fiction/jenkins/jenkins_4.html).
+Arthur C Clarke is seen by some (and I think rightly so) as one of the fathers of the [science fiction](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/) genre alongside the likes of Asimov and Heinlein. The ideas he postulated revolutionised not just fiction, but reality too. He is credited, for example, for coming up with the idea of [global communications satellites](https://web.mit.edu/m-i-t/science_fiction/jenkins/jenkins_4.html).
 
 However, it's not the writer Arthur C Clarke we're looking at today, or his more popular work 2001: A Space Odyssey, but his classic work, The City and The Stars.
 
 ## About The City and The Stars
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/city-and-the-stars_bkenwh.jpg)
+![Review: The City and The Stars by Arthur C Clarke cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/city-and-the-stars_bkenwh.jpg)
 
 [The City and The Stars by Arthur C Clarke](https://www.amazon.co.uk/City-Stars-S-F-MASTERWORKS/dp/1857987632) is an interesting tale, not without its flaws. Millennia ago an unknown threat — believed to be an interstellar war — nearly annihilated humanity. In response, humanity retreated, withdrew from the stars and built a city: enclosed, safe and hidden, called Diaspar. (Interesting sidebar: the name Diaspar is derived from the word [diaspora](https://www.merriam-webster.com/dictionary/diaspora), meaning the dispersion or spread of people from their original homeland. This city then is the realisation of the opposite.)
 
@@ -41,13 +41,13 @@ If I could say one bad thing about The City and The Stars, it's that Clarke perh
 
 That being said, this is one of the reasons I love Arthur C Clarke's work. His originality and flair, his apparently endless imaginings of the future, of the progress of technology, and his vision make you step back, take a deep breath, and say wow.
 
-**You might also like** [The 25 Best Space Opera Books Ever Written](https://www.litloop.co/blog/best-space-opera-books)
+**You might also like** [The 25 Best Space Opera Books Ever Written](https://www.litloop.co/blog/best-space-opera-books/)
 
 ## Final Words
 
 The City and The Stars is a delightful dalliance of imagination. But it lacks in several places — everything takes second place to Clarke's awe-inspiring ideas. It fails, in my opinion, to make me really care about the main [character](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile); he's a vehicle for the author rather than the other way round. This leads to a plot that is a little disjointed, and it lacks the grit and realism that readers might want, reading almost like a fable at points.
 
-However, I don't really care. Clarke's vision of mankind's future is bizarre and unique. The City and The Stars offers an incredible reflection on humanity's past and future, and for these reasons it has undoubtedly influenced the genre and become a staple [for sci-fi fans](https://www.litloop.co/sci-fi-short-stories).
+However, I don't really care. Clarke's vision of mankind's future is bizarre and unique. The City and The Stars offers an incredible reflection on humanity's past and future, and for these reasons it has undoubtedly influenced the genre and become a staple [for sci-fi fans](https://www.litloop.co/sci-fi-short-stories/).
 
 ---
 
@@ -55,7 +55,7 @@ However, I don't really care. Clarke's vision of mankind's future is bizarre and
 
 ### You Might Like
 
-- [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
-- [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read)
+- [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
+- [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read/)
 - [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)
-- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin/)

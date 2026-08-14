@@ -61,7 +61,7 @@ If you want British horror that takes itself seriously and delivers genuine scar
 
 ### You Might Also Like
 
-- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)
-- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review)
-- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
-- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review/)
+- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review/)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review/)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order/)

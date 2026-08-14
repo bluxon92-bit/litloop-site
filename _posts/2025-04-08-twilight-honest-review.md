@@ -60,7 +60,7 @@ The genre it created — paranormal romance with YA sensibility — has produced
 
 ### You Might Also Like
 
-- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review)
-- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review)
-- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)
+- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review/)
+- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review/)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order/)
+- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter/)

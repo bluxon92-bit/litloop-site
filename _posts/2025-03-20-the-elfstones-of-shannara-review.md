@@ -60,7 +60,7 @@ Wil is a less interesting protagonist than Amberle and spends much of the novel 
 
 ## Do You Need to Read The Sword of Shannara First?
 
-No. *The Elfstones of Shannara* is a sequel in the loosest sense — it shares a world and the Ohmsford family name — but it stands completely alone. I'd start here, and if you love it, the [Terry Brooks reading guide](https://www.litloop.co/blog/terry-brooks-books-in-order) covers where to go next.
+No. *The Elfstones of Shannara* is a sequel in the loosest sense — it shares a world and the Ohmsford family name — but it stands completely alone. I'd start here, and if you love it, the [Terry Brooks reading guide](https://www.litloop.co/blog/terry-brooks-books-in-order/) covers where to go next.
 
 **Rating: 4/5**
 
@@ -68,7 +68,7 @@ No. *The Elfstones of Shannara* is a sequel in the loosest sense — it shares a
 
 ### You Might Also Like
 
-- [Terry Brooks Books in Order](https://www.litloop.co/blog/terry-brooks-books-in-order)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Terry Brooks Books in Order](https://www.litloop.co/blog/terry-brooks-books-in-order/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

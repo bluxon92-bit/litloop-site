@@ -8,7 +8,7 @@ excerpt: "Best Star Wars books ranked — a fan's guide to the Expanded Universe
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/best-star-wars-books-science-fiction.jpg_kyltlb.webp"
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/best-star-wars-books-science-fiction.jpg_kyltlb.webp)
+![The Best Star Wars Books: A Fan’s Guide to the Galaxy’s Greatest Reads cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/best-star-wars-books-science-fiction.jpg_kyltlb.webp)
 
 I've been a Star Wars fan for as long as I can remember, and like a lot of fans, the films were just the start. Once you fall down the rabbit hole of Star Wars books, it's hard to climb back out. Especially considering there’s nearly 400 of them. An entire galaxy of stories beyond the Skywalker saga, some thrilling, some epic, some heartbreaking, and some that well, maybe you can skip.
 
@@ -44,7 +44,7 @@ If you're just starting your journey beyond the movies, these are the easiest (a
 
 [**Master & Apprentice**](https://www.amazon.com/dp/1984819194?tag=ctbooks09e-20) – Dive into the Jedi way of life through the lens of Qui-Gon and Obi-Wan's partnership.
 
-These books don't overwhelm you with lore but still deliver all the thrills you'd expect from a galaxy far, far away. For more recommendations on [epic space opera series](https://www.litloop.co/blog/the-25-best-space-opera-books-ever-written), check out our guide to the genre.
+These books don't overwhelm you with lore but still deliver all the thrills you'd expect from a galaxy far, far away. For more recommendations on [epic space opera series](https://www.litloop.co/blog/best-space-opera-books/), check out our guide to the genre.
 
 ## Best Star Wars Books for Fans of The Clone Wars
 
@@ -103,7 +103,7 @@ These are the ones I'd recommend to anyone, whether you're a casual fan or someo
 10.   [**Alphabet Squadron Trilogy**](https://www.amazon.com/dp/1984820265?tag=ctbooks09e-20) – Alexander Freed
 <button data-buy-book data-title="Alphabet Squadron Trilogy" data-author="Alexander Freed">Buy Alphabet Squadron Trilogy</button>
 
-Looking for more [science fiction](https://www.litloop.co/blog/classic-science-fiction-short-stories-you-need-to-read) with tactical brilliance? The Thrawn books deliver that in spades.
+Looking for more [science fiction](https://www.litloop.co/blog/classic-science-fiction-short-stories-you-need-to-read/) with tactical brilliance? The Thrawn books deliver that in spades.
 
 ## Canon vs. Legends: Should You Care?
 
@@ -119,4 +119,4 @@ When I first read [Darth Plagueis](https://www.amazon.com/dp/0345511298?tag=ctbo
 
 If you're ready to explore the galaxy beyond the big screen, these are the best Star Wars books to start with. Just be warned: once you start reading, you may not want to stop until you've explored every corner of this galaxy far, far away.
 
-For more recommendations on [epic book series](https://www.litloop.co/blog/best-fantasy-books-you-need-to-read-today) that will keep you reading for weeks, explore our curated lists of the best in sci-fi and fantasy.
+For more recommendations on [epic book series](https://www.litloop.co/blog/best-fantasy-books-you-need-to-read-today/) that will keep you reading for weeks, explore our curated lists of the best in sci-fi and fantasy.

@@ -11,7 +11,7 @@ redirect_from:
   - /blog/12-classic-science-fiction-short-stories-you-need-to-read/
 ---
  
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381446/space-travel-sci-fi-1-_djbebg.webp)
+![15+ Classic Science Fiction Short Stories You Need To Read cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381446/space-travel-sci-fi-1-_djbebg.webp)
  
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
  
@@ -60,7 +60,7 @@ This one starts like a summer camp story and slowly reveals itself to be somethi
  
 ### 5. [Sunset In The East](https://amzn.to/3SOrcBT) by Ben Luxon
  
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381486/ebook-cover-no-bg-copy_dyxh3k.webp)
+![[Sunset In The East](https://amzn.to/3SOrcBT) by Ben Luxon book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381486/ebook-cover-no-bg-copy_dyxh3k.webp)
  
 A collection of eight short sci-fi stories that sit somewhere in the territory of *Black Mirror*. Dark, funny, and pointed. Distant futures, AI, and strange aliens, but always with something human at the centre.
  
@@ -83,7 +83,7 @@ It's a short, sad story that uses genre scaffolding to say something very precis
  
 Jemisin is best known for the Broken Earth trilogy, which won the Hugo Award three years in a row, but her short fiction is worth your time too. This is a steampunk spy story set against the backdrop of Haitian independence — our protagonist Jessaline is looking for a scientific partnership, finds something more complicated, and ends up in a story that moves fast and has real stakes. Jemisin writes action and attraction with equal confidence.
  
-*→ Lovers of sci-fi may also like [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)*
+*→ Lovers of sci-fi may also like [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin/)*
 
  
 ### 8. [The Game of Smash and Recovery](http://strangehorizons.com/fiction/the-game-of-smash-and-recovery/) by Kelly Link
@@ -123,30 +123,30 @@ Asimov is one of the architects of modern science fiction, and this late story s
 
 It's not stylistically flashy. It doesn't need to be. The idea carries everything.
  
-*→ New to Asimov? See our [guide to his best books](https://www.litloop.co/blog/best-isaac-asimov-books).*
+*→ New to Asimov? See our [guide to his best books](https://www.litloop.co/blog/best-isaac-asimov-books/).*
  
-### 14. [A Little Journey](https://www.litloop.co/free-short-stories) by Ray Bradbury
+### 14. [A Little Journey](https://www.litloop.co/free-short-stories/) by Ray Bradbury
  
 Bradbury's relationship with science fiction was always a little unusual — he was never really interested in the science, only in what the science permitted him to feel. 
 
 *A Little Journey* is about an elderly woman on a space voyage, and about what she believes waits for her at the end of it. It's a story about memory and faith and the particular stubbornness of hope in old age. Bradbury at his most unguarded.
  
-### 15. [A Spaceship Named McGuire](https://www.litloop.co/free-short-stories) by Randall Garrett
+### 15. [A Spaceship Named McGuire](https://www.litloop.co/free-short-stories/) by Randall Garrett
  
 A lighter, faster piece than most of what's on this list — a group of engineers wrestling with the problems of an AI-controlled spacecraft, and the kind of human ingenuity and stubbornness that makes the thing work anyway. It's fun. Not everything has to be devastating.
  
 ---
  
-[**Get 10 free classic sci-fi stories delivered directly to your inbox. Learn more →**](https://www.litloop.co/free-short-stories)
+[**Get 10 free classic sci-fi stories delivered directly to your inbox. Learn more →**](https://www.litloop.co/free-short-stories/)
 
 ---
  
 ## You Might Like
  
-- [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories)
-- [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
-- [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read)
-- [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
+- [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories/)
+- [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
+- [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read/)
+- [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke/)
 
 ---
  

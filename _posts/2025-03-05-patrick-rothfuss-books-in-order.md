@@ -28,7 +28,7 @@ The series follows Kvothe — legendary hero, feared warrior, accomplished music
 
 ### 1. The Name of the Wind (2007)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/name-of-the-wind-cover_bfnbm3.jpg)
+![The Name of the Wind book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/name-of-the-wind-cover_bfnbm3.jpg)
 
 The first day of Kvothe's account. We follow him from a difficult childhood in a travelling troupe of performers, through poverty and loss, to his arrival at the University — a place of learning and arcane magic — and his early years there.
 
@@ -82,11 +82,11 @@ Worth mentioning: the audiobooks, narrated by Nick Podehl, are exceptional. Pode
 
 *The Kingkiller Chronicle* is for readers who value prose and character above all else. If you want constant forward momentum and are allergic to introspection, this might frustrate you. If you love language, complex characters, and a world that feels genuinely inhabited, this is among the best the genre has to offer.
 
-Readers who love Rothfuss tend to also enjoy [*Empire of Silence* by Christopher Ruocchio](https://www.litloop.co/blog/empire-of-silence-review) — another first-person account of a legendary figure's early life, enormous in scope and beautifully written.
+Readers who love Rothfuss tend to also enjoy [*Empire of Silence* by Christopher Ruocchio](https://www.litloop.co/blog/empire-of-silence-review/) — another first-person account of a legendary figure's early life, enormous in scope and beautifully written.
 
 ### You Might Also Like
 
-- [10 Books Like The Name of the Wind](https://www.litloop.co/blog/books-like-name-of-the-wind)
-- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
-- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [10 Books Like The Name of the Wind](https://www.litloop.co/blog/books-like-name-of-the-wind/)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review/)
+- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

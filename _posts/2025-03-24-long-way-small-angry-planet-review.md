@@ -63,7 +63,7 @@ That turns out to be harder than it sounds.
 
 ## The Series
 
-The Wayfarers series now runs to five books, all set in the same galaxy but following different characters. Each is standalone. The reading order is flexible — [see our Becky Chambers guide](https://www.litloop.co/blog/becky-chambers-books-in-order) for recommendations.
+The Wayfarers series now runs to five books, all set in the same galaxy but following different characters. Each is standalone. The reading order is flexible — [see our Becky Chambers guide](https://www.litloop.co/blog/becky-chambers-books-in-order/) for recommendations.
 
 **Rating: 4.5/5**
 
@@ -71,7 +71,7 @@ The Wayfarers series now runs to five books, all set in the same galaxy but foll
 
 ### You Might Also Like
 
-- [Becky Chambers Books in Order](https://www.litloop.co/blog/becky-chambers-books-in-order)
-- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Becky Chambers Books in Order](https://www.litloop.co/blog/becky-chambers-books-in-order/)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

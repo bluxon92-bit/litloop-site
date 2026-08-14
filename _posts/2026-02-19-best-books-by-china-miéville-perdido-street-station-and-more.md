@@ -11,7 +11,7 @@ redirect_from:
   - /blog/best-books-by-china-miéville-perdido-street-station-and-more/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381495/china-mieville-2-_kjtcb5.webp)
+![Best Books by China Miéville: Perdido Street Station and More cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381495/china-mieville-2-_kjtcb5.webp)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -21,17 +21,17 @@ China Miéville is a British author and academic, best known for his works of sc
 
 Miéville made his literary debut in 2000 with the publication of King Rat, a fantasy novel set in London. He gained widespread recognition for his next book, Perdido Street Station, which won the Arthur C. Clarke Award and the British Fantasy Award. Since then, Miéville has published numerous other novels, including The Scar, Iron Council, The City & The City, and Embassy Town.
 
-His work is known for its complex world-building, fully-realised characters, and vivid and evocative writing style. Miéville is widely respected within the sci-fi and fantasy community and is considered one of the foremost writers in the genre, [pushing the boundaries of science fiction and fantasy](https://www.litloop.co/blog/grimdark-fantasy-books).
+His work is known for its complex world-building, fully-realised characters, and vivid and evocative writing style. Miéville is widely respected within the sci-fi and fantasy community and is considered one of the foremost writers in the genre, [pushing the boundaries of science fiction and fantasy](https://www.litloop.co/blog/grimdark-fantasy-books/).
 
 I will say that Miéville's books can be hard going. His ideas are complex and it often seems that language is insufficient to convey them. This can be a bit off-putting for some. However, if you stick with it you'll find his work incredibly rewarding. My favourites — and the ones we're going to be looking at in this article — are Perdido Street Station, The Scar, and Embassy Town.
 
-**You might also like** [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+**You might also like** [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)
 
 ---
 
 ## Perdido Street Station by China Miéville
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381479/perdidon-street-station-1-_ilbumk.webp)
+![Best Books by China Miéville: Perdido Street Station and More cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381479/perdidon-street-station-1-_ilbumk.webp)
 
 Perdido Street Station is a sprawling, complex, and imaginative novel set in the fictional city of New Crobuzon — a melting pot of different cultures and species. At the centre of the story is Isaac Dan der Grimnebulin, a scientist working on a project to resurrect a long-extinct species. His work brings him into contact with a host of strange and dangerous creatures, including the flying insects known as garuda and the shape-shifting Remade.
 
@@ -45,7 +45,7 @@ Perdido Street Station is a thrilling and immersive read, with a [richly-detaile
 
 ## The Scar by China Miéville
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/the-scar-1-_uy6deg.jpg)
+![Best Books by China Miéville: Perdido Street Station and More cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/the-scar-1-_uy6deg.jpg)
 
 The Scar is the second book in China Miéville's Bas-Lag series, set in the same world as Perdido Street Station. The novel follows the journey of a sailor named Bellis Coldwine, who is unwillingly swept up in a daring plan to sail to the mysterious city of Armada.
 
@@ -59,7 +59,7 @@ One of the standout aspects of The Scar is the world-building — rich, detailed
 
 ## Embassy Town by China Miéville
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381475/embassy-town-1-_n9olyc.webp)
+![Best Books by China Miéville: Perdido Street Station and More cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381475/embassy-town-1-_n9olyc.webp)
 
 Embassy Town is a science fiction novel set in a distant future in which humanity has spread out across the stars. The story follows Avice Benner Cho, a native of Embassy Town — a city located on a distant planet and home to a unique and mysterious alien species known as the Hosts.
 
@@ -71,7 +71,7 @@ Embassy Town is a thought-provoking and imaginative novel exploring themes of la
 
 <button data-buy-book data-title="Embassy Town" data-author="China Miéville">Buy Embassy Town</button>
 
-**Fans of China Miéville might also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+**Fans of China Miéville might also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin/)
 
 ---
 
@@ -110,8 +110,8 @@ For first-timers, his best-known work, Perdido Street Station, is a great place 
 
 ### You Might Also Like
 
-- [The 10 Best Isaac Asimov Books To Read Today](https://www.litloop.co/blog/best-isaac-asimov-books)
-- [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
-- [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read)
-- [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
+- [The 10 Best Isaac Asimov Books To Read Today](https://www.litloop.co/blog/best-isaac-asimov-books/)
+- [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke/)
+- [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read/)
+- [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
 - [Joe Abercrombie Books in Order: A Complete Reading Guide](https://springtail-aqua-9brd.squarespace.com/blog/joe-abercrombie-books-in-order)

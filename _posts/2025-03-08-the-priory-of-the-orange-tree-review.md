@@ -66,7 +66,7 @@ If you're in the market for a vast, beautifully built fantasy world that doesn't
 
 ### You Might Also Like
 
-- [20 Best Dragon Books for Adults](https://www.litloop.co/blog/best-dragon-books)
-- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
-- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [20 Best Dragon Books for Adults](https://www.litloop.co/blog/best-dragon-books/)
+- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

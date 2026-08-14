@@ -60,7 +60,7 @@ If you have any interest in horror — yes, absolutely. It's the benchmark. If y
 
 ### You Might Also Like
 
-- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)
-- [Black House Review](https://www.litloop.co/blog/black-house-review)
-- [Is The Dark Tower Series Worth Reading?](https://www.litloop.co/blog/dark-tower-worth-reading)
-- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order/)
+- [Black House Review](https://www.litloop.co/blog/black-house-review/)
+- [Is The Dark Tower Series Worth Reading?](https://www.litloop.co/blog/dark-tower-worth-reading/)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review/)

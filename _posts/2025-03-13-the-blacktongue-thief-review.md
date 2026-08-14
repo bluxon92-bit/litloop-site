@@ -68,7 +68,7 @@ Yes. Particularly if you've been finding recent fantasy a bit samey, or if you w
 
 ### You Might Also Like
 
-- [The Blade Itself Review](https://www.litloop.co/blog/the-blade-itself-review)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books)
-- [Kings of the Wyld Review](https://www.litloop.co/blog/kings-of-the-wyld-review)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [The Blade Itself Review](https://www.litloop.co/blog/the-blade-itself-review/)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books/)
+- [Kings of the Wyld Review](https://www.litloop.co/blog/kings-of-the-wyld-review/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

@@ -8,7 +8,7 @@ excerpt: "10 books like Eragon for fantasy fans — dragon riders, coming-of-age
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381481/inheritance-cycle-1-_uv6rho.webp"
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381481/inheritance-cycle-1-_uv6rho.webp)
+![10 Books Like Eragon Perfect for Fantasy Fans cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381481/inheritance-cycle-1-_uv6rho.webp)
 
 Christopher Paolini’s *Eragon* and *The Inheritance Cycle* captivated a generation of fantasy readers with its coming-of-age story, epic world-building, and, of course, dragons.
 
@@ -42,7 +42,7 @@ Holt Cook is a servant in the Order Hall, destined for a life in the kitchens—
 
 With an underdog protagonist, an immersive magic system, and plenty of dragon action, this series is tailor-made for fans of *The Inheritance Cycle*.
 
-**Related**: [20 Best Dragon Books For Adults](https://www.litloop.co/blog/best-dragon-books)
+**Related**: [20 Best Dragon Books For Adults](https://www.litloop.co/blog/best-dragon-books/)
 
 <button data-buy-book data-title="Songs of Chaos" data-author="Michael R. Miller">Buy Songs of Chaos</button>
 
@@ -64,7 +64,7 @@ Ged, a young boy with great magical potential, is sent to a wizarding school to 
 
 A beautifully written fantasy with deep themes of identity, power, and redemption, *The Earthsea Cycle* is an essential read for any fantasy fan.
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/wheel-of-time_wkulox.jpg)
+![**5. **[**The Earthsea Cycle**](https://amzn.to/3DoZ8lh)** by Ursula K. Le Guin** book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/wheel-of-time_wkulox.jpg)
 
 <button data-buy-book data-title="The Earthsea Cycle" data-author="Ursula K. Le Guin">Buy The Earthsea Cycle</button>
 
@@ -76,7 +76,7 @@ For those looking for an expansive epic fantasy with an intricate world and a sw
 
 If you loved the world-building and grand storytelling of *Eragon*, this 14-book series will keep you hooked for a long time.
 
-**Related**: [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
+**Related**: [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/)
 
 <button data-buy-book data-title="The Wheel of Time" data-author="Robert Jordan">Buy The Wheel of Time</button>
 
@@ -116,7 +116,7 @@ Pug, an orphaned kitchen boy, is discovered to have a rare magical gift that cou
 
 Filled with rich storytelling, magic, and epic battles, *The Riftwar Saga* is an excellent choice for fans of *The Inheritance Cycle* looking for another immersive fantasy series.
 
-**Related**: [The Best Robin Hobb Books: Six Duchies Books Reading Order](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+**Related**: [The Best Robin Hobb Books: Six Duchies Books Reading Order](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/)
 
 <button data-buy-book data-title="The Riftwar Saga" data-author="Raymond E. Feist">Buy The Riftwar Saga</button>
 
@@ -133,7 +133,7 @@ If you’re wondering what makes these books similar to *Eragon*, here are some 
 -
   **Epic Battles and Worldbuilding**: Large-scale conflicts, war, and rich, immersive worlds are a staple of *Eragon* and similar books.
 
-**Related**: [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+**Related**: [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)
 
 ## **Conclusion: More Books Like Eragon Await!**
 
@@ -142,12 +142,12 @@ If you loved *Eragon* and want more books like it, this list should give you ple
 ### You Might Like
 
 -
-  [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read)
+  [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read/)
 -
-  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
+  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
 -
-  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)
 -
-  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
+  [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
 [
 ](/sci-fi-short-stories)

@@ -30,7 +30,7 @@ Five novels, all set in the same galaxy — the Galactic Commons, a multi-specie
 
 ### 1. The Long Way to a Small, Angry Planet (2014)
 
-The debut. A tunnelling ship, a diverse crew, a very long journey across a very strange galaxy. Almost entirely about character and the texture of life aboard a small vessel. The most accessible entry point and still the best starting place for new readers. [Full review here.](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
+The debut. A tunnelling ship, a diverse crew, a very long journey across a very strange galaxy. Almost entirely about character and the texture of life aboard a small vessel. The most accessible entry point and still the best starting place for new readers. [Full review here.](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review/)
 
 <button data-buy-book data-title="The Long Way to a Small, Angry Planet" data-author="Becky Chambers">Buy The Long Way to a Small, Angry Planet</button>
 
@@ -100,7 +100,7 @@ For readers who bounced off *Long Way*: Try **A Closed and Common Orbit** — it
 
 ### You Might Also Like
 
-- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
-- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
-- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review/)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review/)
+- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

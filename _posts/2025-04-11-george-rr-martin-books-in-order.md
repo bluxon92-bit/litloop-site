@@ -76,7 +76,7 @@ A gorgeous illustrated encyclopedia of Westerosi history, co-written with Elio G
 
 ### Fire and Blood (2018)
 
-A chronicle of House Targaryen's first 150 years of rule, written as in-world history. The Dance of the Dragons section — the Targaryen civil war — is the source material for *House of the Dragon*. [Full review here.](https://www.litloop.co/blog/fire-and-blood-review)
+A chronicle of House Targaryen's first 150 years of rule, written as in-world history. The Dance of the Dragons section — the Targaryen civil war — is the source material for *House of the Dragon*. [Full review here.](https://www.litloop.co/blog/fire-and-blood-review/)
 
 <button data-buy-book data-title="Fire and Blood" data-author="George R.R. Martin">Buy Fire and Blood</button>
 
@@ -114,7 +114,7 @@ For most readers: **A Game of Thrones → A Clash of Kings → A Storm of Swords
 
 ### You Might Also Like
 
-- [Fire and Blood Review](https://www.litloop.co/blog/fire-and-blood-review)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books)
-- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order)
+- [Fire and Blood Review](https://www.litloop.co/blog/fire-and-blood-review/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books](https://www.litloop.co/blog/grimdark-fantasy-books/)
+- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order/)

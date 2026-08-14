@@ -8,13 +8,13 @@ excerpt: "How to send ebooks to your Kindle — the quickest methods in 2026, co
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381521/kindle-1-_zpwe4q.webp"
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381521/kindle-1-_zpwe4q.webp)
+![How To Send Ebooks To Your Kindle cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381521/kindle-1-_zpwe4q.webp)
 
 The Amazon Kindle is widely acclaimed as one of the best ebook readers around, but its tight integration with Amazon's own store can make it feel like you're locked in. You're not. Sending your own ebooks — free downloads, indie author ARCs, public domain classics, whatever you've picked up outside the Kindle store — is straightforward once you know the options.
 
 Amazon now offers four main ways to do it: the web uploader, the desktop app, the Kindle mobile app, and the old email method. For most people, the web uploader is the place to start.
 
-**You might also like** [What is Audible, How Does It Work, And Is It Worth it?](https://www.litloop.co/blog/is-audible-worth-it)
+**You might also like** [What is Audible, How Does It Work, And Is It Worth it?](https://www.litloop.co/blog/is-audible-worth-it/)
 
 ---
 
@@ -106,6 +106,6 @@ If you toggled **Add to Library** when sending, the file will be available acros
 
 - [93 Book Tropes That Writers Need To Know About](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about)
 - [Fiction vs Nonfiction: What's the difference?](https://www.benluxonauthor.com/blog/fiction-vs-nonfiction-whats-the-difference)
-- [15 Best Apps to Read Books for Free](https://www.litloop.co/blog/15-best-apps-to-read-books-for-free)
-- [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
-- [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+- [15 Best Apps to Read Books for Free](https://www.litloop.co/blog/15-best-apps-to-read-books-for-free/)
+- [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love/)
+- [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)

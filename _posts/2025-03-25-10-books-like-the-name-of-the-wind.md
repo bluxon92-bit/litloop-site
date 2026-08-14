@@ -9,7 +9,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/name-of-th
 permalink: /blog/books-like-name-of-the-wind/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/name-of-the-wind-banner-1-_wmglzp.webp)
+![10 Books Like The Name of the Wind cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/name-of-the-wind-banner-1-_wmglzp.webp)
 
 If you’ve ever been completely swept away by Patrick Rothfuss’s *The Name of the Wind*, you’re not alone. The lyrical prose, deep character insights, and immersive world-building have captured the hearts of fantasy fans everywhere.
 
@@ -45,7 +45,7 @@ What if the Dark Lord won? Well, this is the question Sanderson asks with a worl
 
 
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)
+![[Mistborn: The Final Empire](https://amzn.to/41qGXUd) by Brandon Sanderson book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)
 
 <button data-buy-book data-title="Mistborn: The Final Empire" data-author="Brandon Sanderson">Buy Mistborn: The Final Empire</button>
 
@@ -54,7 +54,7 @@ What if the Dark Lord won? Well, this is the question Sanderson asks with a worl
 As you can probably tell, I’m a Sanderson fan - and so no list would be complete without his Stormlight Archive. This epic installment introduces the world of Roshar where the gods Honor, Odium, and Cultivation wage war. Here, multiple characters’ destiny’s intertwine against the backdrop of a war-torn, meticulously crafted world.
 **Why It’s Similar:** With deep lore, immense and complex world-building and an expansive narrative, it offers the kind of layered storytelling and immersive environment that draws readers in.
 
-**Related**: [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+**Related**: [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
 
 <button data-buy-book data-title="The Way of Kings" data-author="Brandon Sanderson">Buy The Way of Kings</button>
 
@@ -72,7 +72,7 @@ Get ready for a gritty, no-holds-barred narrative filled with morally complex he
 Dive into the intricate political chessboard of Westeros, where every character has secrets and every decision can tip the scales of power.
 **Why It’s Similar:** The expansive world, multifaceted characters, and unpredictable twists create an epic saga that fans of deep fantasy will adore.
 
-**Related**: [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
+**Related**: [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
 
 
 
@@ -80,7 +80,7 @@ Dive into the intricate political chessboard of Westeros, where every character 
 
 
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/game-of-thrones-shelf-1-_br90qf.webp)
+![[A Game of Thrones](https://amzn.to/3Dlnb4y) by George R.R. Martin book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/game-of-thrones-shelf-1-_br90qf.webp)
 
 <button data-buy-book data-title="A Game of Thrones" data-author="George R.R. Martin">Buy A Game of Thrones</button>
 
@@ -117,7 +117,7 @@ This standalone epic weaves tales of dragons, ancient magic, and a world on the 
 Set in an alternative 19th-century England, this novel reimagines history with a magical twist, as two magicians alter the course of events.
 **Why It’s Similar:** Elegant prose and meticulously revealed magical lore create a thoughtful, immersive reading experience that echoes the gradual unfolding of secrets in Rothfuss’s narrative.
 
-**Related**: [11 Of The Best Historical Fiction Authors You Must Read](https://www.litloop.co/blog/11-of-the-best-historical-fiction-authors-you-must-read)
+**Related**: [11 Of The Best Historical Fiction Authors You Must Read](https://www.litloop.co/blog/11-of-the-best-historical-fiction-authors-you-must-read/)
 
 <button data-buy-book data-title="Jonathan Strange & Mr Norrell" data-author="Susanna Clarke">Buy Jonathan Strange & Mr Norrell</button>
 
@@ -147,13 +147,13 @@ While none of them can quite replicate the magic of *The Name of the Wind*, each
 ### You Might Also Like
 
 -
-  [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+  [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)
 -
-  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
+  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories/)
 -
-  [The Best Robin Hobb Books: Six Duchies Books Reading Order](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+  [The Best Robin Hobb Books: Six Duchies Books Reading Order](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/)
 -
-  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology)
+  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology/)
 
 
 

@@ -70,7 +70,7 @@ Hill has since published *NOS4A2*, *The Fireman*, and the *Locke and Key* graphi
 
 ### You Might Also Like
 
-- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
-- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review)
-- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review)
-- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review/)
+- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review/)
+- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review/)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order/)

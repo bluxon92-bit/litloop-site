@@ -11,7 +11,7 @@ permalink: /blog/9-dystopian-novels-to-read/
 
 [
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381516/reading-fiction-1-_lrtesd.webp)
+![9 Dystopian Novels That Will Change How You View The World cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381516/reading-fiction-1-_lrtesd.webp)
 
 ](reading dystopian novels)
 
@@ -23,7 +23,7 @@ Dystopian novels aren't just about scaring us or thrilling us or making us belie
 
 However, they also illuminate some of humanity’s best character traits. They look at what we will sacrifice for love, what we’re willing to sacrifice for the future. In this article, we take a look at some of the most influential dystopian novels ever written, their key messages, and why you need to get your hands on a copy if you haven’t already.
 
-**Lovers of dark short stories may also like** [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories)
+**Lovers of dark short stories may also like** [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories/)
 
 ## The Dystopian Novels You Need To Read
 
@@ -59,7 +59,7 @@ Brave New World tells the story of a single individual, the story's protagonist 
 
 Adapted into the award-winning TV show [The Handmaid’s Tale](https://amzn.to/3kPW4p2) focuses on The Handmaid's, a group of women who are forcibly assigned to produce children for the commanders, the ruling class of the dystopian society. The novel itself explores themes of the subjugation of women in a patriarchal society, the loss of female agency and individuality and perhaps most importantly, the means of resistance and the attempts to regain individuality and independence.
 
-**Fans of speculative **[**fiction**](https://www.benluxonauthor.com/blog/fiction-vs-nonfiction-whats-the-difference)** may also enjoy **[**the best sci-fi books of Ursla K Le Guin.**](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+**Fans of speculative **[**fiction**](https://www.benluxonauthor.com/blog/fiction-vs-nonfiction-whats-the-difference)** may also enjoy **[**the best sci-fi books of Ursla K Le Guin.**](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin/)
 
 <button data-buy-book data-title="The Handmaid's Tale" data-author="Margaret Atwood">Buy The Handmaid's Tale</button>
 
@@ -89,19 +89,19 @@ Stylistically, it's immensely innovative with a large cast of characters present
 
 [IQ84](https://amzn.to/3KZS2Fh) is a love story and mystery and a dystopia an ambitious undertaking by Haruki Murakami that rivals George Orwell's 1984. When a young woman named Aomame follows a taxi drivers enigmatic suggestion, she begins to notice rather puzzling discrepancies in the world around her. And through these discrepancies, she suddenly realises that she's entered a parallel existence, a world where the norm governances of the universe don't seem to apply, at least not in the same way.
 
-**Lovers of dark fiction may also love** [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
+**Lovers of dark fiction may also love** [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
 
 <button data-buy-book data-title="IQ84" data-author="Haruki Murakami">Buy IQ84</button>
 
 ### You Might Like
 
 -
-  [The 10 Best Isaac Asimov Books To Read Today](https://www.litloop.co/blog/best-isaac-asimov-books)
+  [The 10 Best Isaac Asimov Books To Read Today](https://www.litloop.co/blog/best-isaac-asimov-books/)
 -
-  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)
 -
-  [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke)
+  [Review: The City and The Stars by Arthur C Clarke](https://www.litloop.co/blog/the-city-and-the-stars-arthur-c-clarke/)
 -
-  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
+  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
 [
-](https://www.litloop.co/sci-fi-short-stories)
+](https://www.litloop.co/sci-fi-short-stories/)

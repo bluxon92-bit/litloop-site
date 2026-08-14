@@ -47,7 +47,7 @@ The TV series improved on the books' pacing but compressed and eventually diverg
 
 ### The Blade Itself — Joe Abercrombie
 
-If what you loved about GoT was the moral complexity, the subversion of fantasy conventions, and the sense that being good doesn't protect you — Abercrombie is the author who does this most consistently and the First Law is where to start. [Full review here.](https://www.litloop.co/blog/the-blade-itself-review)
+If what you loved about GoT was the moral complexity, the subversion of fantasy conventions, and the sense that being good doesn't protect you — Abercrombie is the author who does this most consistently and the First Law is where to start. [Full review here.](https://www.litloop.co/blog/the-blade-itself-review/)
 
 <button data-buy-book data-title="The Blade Itself" data-author="Joe Abercrombie">Buy The Blade Itself</button>
 
@@ -57,13 +57,13 @@ If what you loved about GoT was the moral complexity, the subversion of fantasy 
 
 ### The Farseer Trilogy — Robin Hobb
 
-The most emotionally devastating fantasy series I know. FitzChivalry Farseer's life is a prolonged study in the gap between capability and outcome, in how people who care about you can still ruin you, in what it means to be expendable to the people you love. Unforgettable. [Full guide here.](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond)
+The most emotionally devastating fantasy series I know. FitzChivalry Farseer's life is a prolonged study in the gap between capability and outcome, in how people who care about you can still ruin you, in what it means to be expendable to the people you love. Unforgettable. [Full guide here.](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/)
 
 <button data-buy-book data-title="The Farseer Trilogy" data-author="Robin Hobb">Buy The Farseer Trilogy</button>
 
 ### The Name of the Wind — Patrick Rothfuss
 
-The finest prose in modern fantasy, a narrator who makes you believe in his own legend, and a magic system (Sympathy) built with genuine intellectual rigour. Less plot-driven than most fantasy — this is fundamentally about character — but for the right reader it's one of the best things in the genre. [Full guide here.](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
+The finest prose in modern fantasy, a narrator who makes you believe in his own legend, and a magic system (Sympathy) built with genuine intellectual rigour. Less plot-driven than most fantasy — this is fundamentally about character — but for the right reader it's one of the best things in the genre. [Full guide here.](https://www.litloop.co/blog/patrick-rothfuss-books-in-order/)
 
 <button data-buy-book data-title="The Name of the Wind" data-author="Patrick Rothfuss">Buy The Name of the Wind</button>
 
@@ -73,7 +73,7 @@ The finest prose in modern fantasy, a narrator who makes you believe in his own 
 
 ### The Long Way to a Small, Angry Planet — Becky Chambers
 
-Cozy sci-fi rather than fantasy, but the appeal is the same: a diverse crew on a small ship, a long journey, and the texture of daily life among genuinely interesting people. No trauma. No grimdark. Deeply comforting. [Full review here.](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
+Cozy sci-fi rather than fantasy, but the appeal is the same: a diverse crew on a small ship, a long journey, and the texture of daily life among genuinely interesting people. No trauma. No grimdark. Deeply comforting. [Full review here.](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review/)
 
 <button data-buy-book data-title="The Long Way to a Small, Angry Planet" data-author="Becky Chambers">Buy The Long Way to a Small, Angry Planet</button>
 
@@ -89,13 +89,13 @@ A sheltered young man inherits an empire he doesn't want and has to figure out h
 
 ### Piranesi — Susanna Clarke
 
-Fifty thousand words. A man in a House with infinite halls. A mystery about identity and reality that rewards careful reading. One of the most original fantasy novels of the last decade and short enough to read in a single sitting if you're so inclined. [On our standalone fantasy list.](https://www.litloop.co/blog/best-standalone-fantasy-novels)
+Fifty thousand words. A man in a House with infinite halls. A mystery about identity and reality that rewards careful reading. One of the most original fantasy novels of the last decade and short enough to read in a single sitting if you're so inclined. [On our standalone fantasy list.](https://www.litloop.co/blog/best-standalone-fantasy-novels/)
 
 <button data-buy-book data-title="Piranesi" data-author="Susanna Clarke">Buy Piranesi</button>
 
 ### Senlin Ascends — Josiah Bancroft
 
-A schoolteacher loses his wife on honeymoon in the Tower of Babel. The world-building is extraordinary, the prose is beautiful, and the plot is genuinely surprising. The best-kept secret in contemporary fantasy. [Full review here.](https://www.litloop.co/blog/senlin-ascends-review)
+A schoolteacher loses his wife on honeymoon in the Tower of Babel. The world-building is extraordinary, the prose is beautiful, and the plot is genuinely surprising. The best-kept secret in contemporary fantasy. [Full review here.](https://www.litloop.co/blog/senlin-ascends-review/)
 
 <button data-buy-book data-title="Senlin Ascends" data-author="Josiah Bancroft">Buy Senlin Ascends</button>
 
@@ -109,7 +109,7 @@ Come back and read everything else after.
 
 ### You Might Also Like
 
-- [Best Standalone Fantasy Novels](https://www.litloop.co/blog/best-standalone-fantasy-novels)
-- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Best Standalone Fantasy Novels](https://www.litloop.co/blog/best-standalone-fantasy-novels/)
+- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

@@ -11,7 +11,7 @@ redirect_from:
   - /blog/spine-tingling-horror-short-stories/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381517/horror-story-1-_audzv7.webp)
+![40+ Spine-Tingling Horror Short Stories cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381517/horror-story-1-_audzv7.webp)
 
 Horror stories have always held a special place in my heart. As a writer, I'm constantly seeking out new sources of inspiration, and there's something about the genre that never fails to captivate me. Horror short stories, in particular, are a fascinating subset of horror fiction — like little snapshots of terror, each one crafted with care to send a shiver down your spine.
 
@@ -19,17 +19,17 @@ Over the years, I've read countless horror short stories, and I've come to appre
 
 In this article, I've compiled a list of 40+ horror short stories that I believe are worth reading. Some of these stories have been around for decades, while others are more recent creations. What they all have in common is that they're masterful examples of the horror short story form that will leave you on the edge of your seat.
 
-**You might also like:** [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+**You might also like:** [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)
 
 ---
 
 ## 15 Classic Horror Short Stories
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381475/horror-books-1-_rcc8zi.webp)
+![40+ Spine-Tingling Horror Short Stories cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381475/horror-books-1-_rcc8zi.webp)
 
 When it comes to horror short stories, it's hard to beat the classics. These are the stories that set the stage for the genre, laying the foundation for all the spine-tingling tales that would follow. They may have been written over a century ago, but they're just as creepy and unsettling today as they were when first published.
 
-**You might also like** [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
+**You might also like** [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
 
 Here are 15 classic horror short stories to read today:
 
@@ -93,7 +93,7 @@ A man becomes convinced that an invisible creature called the Horla is haunting 
 
 A man who disregards a warning not to blow a certain whistle discovers that some things are better left untouched. A classic ghost story that still manages to give readers chills today.
 
-[**Download 10 Free Sci Fi Short Stories Now →**](https://www.litloop.co/free-short-stories)
+[**Download 10 Free Sci Fi Short Stories Now →**](https://www.litloop.co/free-short-stories/)
 
 ---
 
@@ -101,7 +101,7 @@ A man who disregards a warning not to blow a certain whistle discovers that some
 
 The 20th century brought a new wave of horror short stories, each with its own unique style and terrifying elements. From unsettling psychological horror to spine-chilling supernatural tales, these stories will keep you up at night.
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/scary-short-story-2-1-_f94dp0.jpg)
+!["[Oh, Whistle, and I'll Come To You, My Lad](https://gutenberg.ca/ebooks/jamesmr-ohwhistle/jamesmr-ohwhistle-00-h.html)" by M R James book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/scary-short-story-2-1-_f94dp0.jpg)
 
 ### 16. "[The Lottery](https://www.newyorker.com/magazine/1948/06/26/the-lottery)" by Shirley Jackson (1948)
 
@@ -125,7 +125,7 @@ A man is plagued by a small, seemingly harmless creature that he discovers is no
 
 ### 21. "The Jaunt" by Stephen King (1981)
 
-In a world where teleportation is possible, a family embarks on a trip to Mars, but things quickly go wrong. King's ability to create a sense of mounting dread and tension is on full display in this chilling [horror story by Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king).
+In a world where teleportation is possible, a family embarks on a trip to Mars, but things quickly go wrong. King's ability to create a sense of mounting dread and tension is on full display in this chilling [horror story by Stephen King](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king/).
 
 ### 22. "The Monkey" by Stephen King (1980)
 
@@ -151,13 +151,13 @@ A young man on a business trip checks into a bed and breakfast run by a seemingl
 
 A man becomes obsessed with the idea of killing his wife, leading him down a dark and twisted path. A disturbing and thought-provoking story that explores the nature of human desire and obsession.
 
-**You might also like** [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
+**You might also like** [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories/)
 
 ---
 
 ## 17 Short Horror Stories From Modern Authors
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381513/horror-story-2-1-_l87tag.webp)
+!["[The October Game](http://www.davidglensmith.com/lonestar/1302/PDFs/Bradbury-October.pdf)" by Ray Bradbury book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381513/horror-story-2-1-_l87tag.webp)
 
 ### 28. "[The Specialist's Hat](https://kellylink.net/specialists-hat)" by Kelly Link (1998)
 
@@ -227,7 +227,7 @@ Originally published in Clarkesworld Magazine in 2007 and nominated for a Shirle
 
 Originally published in 2015 as a fund-drive bonus in Strange Horizons, this story delivers a serious creep factor. The story follows two siblings playing a unique version of hide-and-seek on an alien planet while waiting for their parents to return. It is a standout in [Link's collection, Get in Trouble](https://amzn.to/3IDfvKo).
 
-**You might also like** [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/5-bone-chilling-horror-short-story-collections-by-stephen-king)
+**You might also like** [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king/)
 
 ---
 
@@ -255,7 +255,7 @@ I encourage readers to continue exploring the world of horror short stories and 
 
 ### You Might Also Like
 
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
-- [Best Books by China Miéville: Perdido Street Station and More](https://www.litloop.co/blog/best-books-by-china-mieville)
-- [20 Best Dragon Books For Adults](https://www.litloop.co/blog/best-dragon-books)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
+- [Best Books by China Miéville: Perdido Street Station and More](https://www.litloop.co/blog/best-books-by-china-mieville/)
+- [20 Best Dragon Books For Adults](https://www.litloop.co/blog/best-dragon-books/)

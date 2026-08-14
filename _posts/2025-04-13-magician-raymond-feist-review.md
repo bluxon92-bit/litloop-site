@@ -62,7 +62,7 @@ Read *Magician* first, in the expanded 1992 edition if you can find it.
 
 ### You Might Also Like
 
-- [The Elfstones of Shannara Review](https://www.litloop.co/blog/the-elfstones-of-shannara-review)
-- [Terry Brooks Books in Order](https://www.litloop.co/blog/terry-brooks-books-in-order)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [The Elfstones of Shannara Review](https://www.litloop.co/blog/the-elfstones-of-shannara-review/)
+- [Terry Brooks Books in Order](https://www.litloop.co/blog/terry-brooks-books-in-order/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

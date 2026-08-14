@@ -69,7 +69,7 @@ If you've read King's major novels and want to explore what else exists in serio
 
 ### You Might Also Like
 
-- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
-- [Black House Review](https://www.litloop.co/blog/black-house-review)
-- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)
-- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review/)
+- [Black House Review](https://www.litloop.co/blog/black-house-review/)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review/)
+- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review/)

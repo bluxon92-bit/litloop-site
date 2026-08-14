@@ -9,7 +9,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/unsplash-image-s3nuoqd
 permalink: /blog/modern-classic-books-to-add-to-your-tbr-list/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/unsplash-image-s3nuoqdmuvc_bcr8v8.jpg)
+![20 Modern Classic Books To Add To Your TBR List cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/unsplash-image-s3nuoqdmuvc_bcr8v8.jpg)
 
 Some books don’t just tell a story—they leave a mark. They sneak into your thoughts, reshape how you see the world, and somehow, years later, you’re still bringing them up in conversations. That’s the magic of modern classics. These aren’t just books that got good reviews or sold a ton of copies. They’re the ones that changed literature, inspired generations of writers, and continue to feel fresh and relevant no matter how much time passes.
 
@@ -33,7 +33,7 @@ Few books have influenced popular culture as much as *1984*. Orwell’s dystopia
 
 A chilling vision of a dystopian future, *The Handmaid’s Tale* explores a society where women’s rights have been stripped away and reproduction is tightly controlled by the state. Atwood’s novel remains a powerful cautionary tale about authoritarianism, gender oppression, and resistance.
 
-**Related**: [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
+**Related**: [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read/)
 
 <button data-buy-book data-title="The Handmaid’s Tale" data-author="Margaret Atwood">Buy The Handmaid’s Tale</button>
 
@@ -85,9 +85,9 @@ A philosophical and surreal tale, *Life of Pi* follows a boy stranded at sea wit
 
 A novella about an ordinary man witnessing extraordinary change in early 20th-century America. Johnson’s spare yet poetic prose makes this story of isolation and resilience an unforgettable modern classic.
 
-**Related**: [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love)
+**Related**: [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love/)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/modern-classic-literature-1-_kufiw1.webp)
+![Literary Road Trips and Journeys of Self-Discovery book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/modern-classic-literature-1-_kufiw1.webp)
 
 <button data-buy-book data-title="Train Dreams" data-author="Denis Johnson">Buy Train Dreams</button>
 
@@ -167,7 +167,7 @@ A poignant exploration of humanity and ethics, *Never Let Me Go* presents a dyst
 
 This post-apocalyptic tale of a father and son’s journey through a desolate landscape is both harrowing and deeply moving. McCarthy’s sparse yet powerful prose makes *The Road* an unforgettable meditation on love, survival, and humanity.
 
-**Related**: [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
+**Related**: [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
 
 <button data-buy-book data-title="The Road" data-author="Cormac McCarthy">Buy The Road</button>
 

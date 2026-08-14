@@ -64,7 +64,7 @@ Readers who loved *The Name of the Wind* for its prose and its first-person voic
 
 ### You Might Also Like
 
-- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
-- [10 Books Like The Name of the Wind](https://www.litloop.co/blog/books-like-name-of-the-wind)
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order/)
+- [10 Books Like The Name of the Wind](https://www.litloop.co/blog/books-like-name-of-the-wind/)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

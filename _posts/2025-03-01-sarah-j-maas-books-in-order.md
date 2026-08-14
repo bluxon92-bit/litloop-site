@@ -38,13 +38,13 @@ Be aware: this first book is lighter than what comes after. Some readers find it
 
 ### 2. Crown of Midnight
 
-This is where the series properly takes off. Stakes escalate, the world opens up, and Celaena becomes considerably more interesting. If you're on the fence after book one, [Crown of Midnight](https://www.litloop.co/blog/crown-of-midnight-review) is the one that turns doubters into devotees.
+This is where the series properly takes off. Stakes escalate, the world opens up, and Celaena becomes considerably more interesting. If you're on the fence after book one, [Crown of Midnight](https://www.litloop.co/blog/crown-of-midnight-review/) is the one that turns doubters into devotees.
 
 <button data-buy-book data-title="Crown of Midnight" data-author="Sarah J. Maas">Buy Crown of Midnight</button>
 
 ### 3. Heir of Fire
 
-The scope expands dramatically. New lands, new magic, and a protagonist grappling with who she really is. [Heir of Fire](https://www.litloop.co/blog/heir-of-fire-review) is where Maas starts writing at the level she became famous for.
+The scope expands dramatically. New lands, new magic, and a protagonist grappling with who she really is. [Heir of Fire](https://www.litloop.co/blog/heir-of-fire-review/) is where Maas starts writing at the level she became famous for.
 
 <button data-buy-book data-title="Heir of Fire" data-author="Sarah J. Maas">Buy Heir of Fire</button>
 
@@ -156,7 +156,7 @@ Just clear your schedule first.
 
 ### You Might Also Like
 
-- [Throne of Glass Series in Order](https://www.litloop.co/blog/throne-of-glass-series-in-order)
-- [Crown of Midnight Review](https://www.litloop.co/blog/crown-of-midnight-review)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Throne of Glass Series in Order](https://www.litloop.co/blog/throne-of-glass-series-in-order/)
+- [Crown of Midnight Review](https://www.litloop.co/blog/crown-of-midnight-review/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

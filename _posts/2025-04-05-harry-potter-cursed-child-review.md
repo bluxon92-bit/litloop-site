@@ -67,7 +67,7 @@ If you ever get the chance to see the stage production — do that rather than r
 
 ### You Might Also Like
 
-- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)
-- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter/)
+- [Heartless by Marissa Meyer Review](https://www.litloop.co/blog/heartless-review/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

@@ -9,7 +9,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/drenai-series-banner_h
 permalink: /blog/david-gemmells-drenai-series/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/drenai-series-banner_h2ybfk.png)
+![How To Read David Gemmell's Drenai Series cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/drenai-series-banner_h2ybfk.png)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
@@ -19,7 +19,7 @@ permalink: /blog/david-gemmells-drenai-series/
 
 The Drenai series is a heroic fantasy series by British author David Gemmell. The series focuses on a selection of heroes, mainly from the Drenai lands, and their fight against evil, whether that's a personal enemy, an existential demonic threat, or barbarian hordes.
 
-There are 11 books in the Drenai series with two additional ones set before the rise of the Drenai. These [books](https://www.litloop.co/blog/9-dystopian-novels-to-read) focus on singular characters and the epic quests they undertake, quests in which they will have to risk everything to succeed and that will make them legends across the lands.
+There are 11 books in the Drenai series with two additional ones set before the rise of the Drenai. These [books](https://www.litloop.co/blog/9-dystopian-novels-to-read/) focus on singular characters and the epic quests they undertake, quests in which they will have to risk everything to succeed and that will make them legends across the lands.
 
 ## The Best Reading Order of the Drenai Series
 
@@ -29,7 +29,7 @@ I always generally suggest reading a series in publication order, simply because
 
 However, several of the books in this series can be read as standalone books, and for those of you not willing to commit to reading all 13, I've also picked my favourite (must-reads) towards the bottom of this article.
 
-**You Might Like:** [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
+**You Might Like:** [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
 
 ## The Iron Code of Druss The Legend
 
@@ -65,9 +65,9 @@ The Drenai King has been assassinated, murdered ruthlessly in the night. With hi
 
 <button data-buy-book data-title="Waylander" data-author="David Gemmell">Buy Waylander</button>
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381495/legend-gemmell_hjn3dq.webp)
+![[Waylander](https://amzn.to/3ZlQiuv) book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381495/legend-gemmell_hjn3dq.webp)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/quest-for-lost-heroes-drenai-series_iydefo.webp)
+![[Waylander](https://amzn.to/3ZlQiuv) book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/quest-for-lost-heroes-drenai-series_iydefo.webp)
 
 ### 4. [Quest for Lost Heroes](https://amzn.to/3JfVRos)[ ](https://www.amazon.com/dp/0345379047)
 
@@ -93,9 +93,9 @@ Druss, now known as Deathwalker by the Nadir must join the warrior Talisman on a
 
 <button data-buy-book data-title="The Legend of Deathwalker" data-author="David Gemmell">Buy The Legend of Deathwalker</button>
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381520/legend-of-deathwalker_pkc8ob.webp)
+![[The Legend of Deathwalker](https://amzn.to/3ZJ66qU) book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381520/legend-of-deathwalker_pkc8ob.webp)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/winter-warriors_ogmgp3.jpg)
+![[The Legend of Deathwalker](https://amzn.to/3ZJ66qU) book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/winter-warriors_ogmgp3.jpg)
 
 ### 8. [Winter Warriors](https://amzn.to/3KZR5No)
 
@@ -121,9 +121,9 @@ A thousand years have gone passed since Druss and Skilgannon walked the earth, t
 
 <button data-buy-book data-title="The Swords of Night and Day" data-author="David Gemmell">Buy The Swords of Night and Day</button>
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381489/swords_of_night_and_day_hqesgd.webp)
+![[The Swords of Night and Day](https://amzn.to/3KZzEfO) book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381489/swords_of_night_and_day_hqesgd.webp)
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381498/hero_in_the_shadows_ttlkoq.webp)
+![[The Swords of Night and Day](https://amzn.to/3KZzEfO) book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381498/hero_in_the_shadows_ttlkoq.webp)
 
 ---
 
@@ -141,7 +141,7 @@ Angostin invaders have surged through the highlands, laying waste to everything 
 
 <button data-buy-book data-title="Morningstar" data-author="David Gemmell">Buy Morningstar</button>
 
-**Fans of David Gemmell may also like our article on **[Grimdark Fantasy books](https://www.litloop.co/blog/grimdark-fantasy-books).
+**Fans of David Gemmell may also like our article on **[Grimdark Fantasy books](https://www.litloop.co/blog/grimdark-fantasy-books/).
 
 ---
 
@@ -171,7 +171,7 @@ As mentioned already many of the stories in the Drenai series can be grouped log
 
 ### The Druss The Legend Books
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381520/legend-of-deathwalker_pkc8ob.webp)
+![The Druss The Legend Books book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381520/legend-of-deathwalker_pkc8ob.webp)
 
 [The First Chronicles of Druss the Legend](https://amzn.to/3JgNBon)
 
@@ -181,7 +181,7 @@ As mentioned already many of the stories in the Drenai series can be grouped log
 
 ### The Waylander Books
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381467/waylander-the-drenai-saga-book-3_diypaa.webp)
+![The Waylander Books book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381467/waylander-the-drenai-saga-book-3_diypaa.webp)
 
 [Waylander](https://amzn.to/3ZlQiuv)
 
@@ -191,7 +191,7 @@ As mentioned already many of the stories in the Drenai series can be grouped log
 
 ### The Skilgannon Books
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/white-wolf_hisqzc.jpg)
+![The Skilgannon Books book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/white-wolf_hisqzc.jpg)
 
 [White Wolf](https://amzn.to/3ZG8OgS)
 
@@ -199,7 +199,7 @@ As mentioned already many of the stories in the Drenai series can be grouped log
 
 ### Standalone Books in the Drenai Series
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/king-beyond-the-gate_uljibs.jpg)
+![Standalone Books in the Drenai Series book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/king-beyond-the-gate_uljibs.jpg)
 
 [Knights of Dark Renown](https://amzn.to/3LgXvb5)
 
@@ -229,13 +229,13 @@ Waylander is an enigmatic assassin. By all accounts, he should be a villain. But
 
 For [the best reading](https://www.litloop.co) experience, I’d suggest sticking with the publishing order of the Drenai series. With that being said, that’s quite a lot of books, which is why I’ve also offered the character groupings and my personal recommendations.
 
-I’ve no doubt though, that once you get started you’ll want to read them all. David Gemmell fans may also want to check out the authors, [Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson), [John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath), and [Robin Hobb](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond).
+I’ve no doubt though, that once you get started you’ll want to read them all. David Gemmell fans may also want to check out the authors, [Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/), [John Gwynne](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/), and [Robin Hobb](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/).
 
 #### **You Might Like **
 
-- [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
-- [29 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
-- [Joe Abercrombie Books in Order: A Complete Reading Guide](https://www.litloop.co/blog/joe-abercrombie-books-in-order-a-complete-reading-guide)
+- [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)
+- [29 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
+- [Joe Abercrombie Books in Order: A Complete Reading Guide](https://www.litloop.co/blog/joe-abercrombie-books-in-order/)
 - [Download Your Free Sci-Fi Short Story Collection](https://www.litloop.co/free-downloads/)

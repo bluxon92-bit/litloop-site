@@ -8,7 +8,7 @@ excerpt: "10 best fantasy horror books ranked — dark fiction where magic meets
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/books-skeleting-horror-1-_wnrmvv.jpg"
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/books-skeleting-horror-1-_wnrmvv.jpg)
+![10 Best Fantasy Horror Books (Ranked) cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/books-skeleting-horror-1-_wnrmvv.jpg)
 
 When it comes to fantasy horror books, I’m always on the lookout for stories that balance fantastical worldbuilding with a genuine chill that lingers long after the final page.
 
@@ -16,7 +16,7 @@ Whether you’re drawn to modern urban nightmares, twisted fairy tales, or gothi
 
 ### 1. Coraline by Neil Gaiman
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381451/coraline-book-cover_j0bt4o.webp)
+![Coraline by Neil Gaiman book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381451/coraline-book-cover_j0bt4o.webp)
 
 There's something irresistibly eerie about stepping through a mysterious door into a world that mirrors—and distorts—our own.
 
@@ -42,13 +42,13 @@ If you're after a modern fairy-tale with a dark twist, [**The Changeling**](http
 
 ### 4. Ninth House by Leigh Bardugo
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381465/ninth-house-leigh-bardugo_ctabc3.webp)
+![Ninth House by Leigh Bardugo book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381465/ninth-house-leigh-bardugo_ctabc3.webp)
 
 Diving into the occult and dark academia, [**Ninth House**](https://www.amazon.com/dp/1250313074?tag=ctbooks09e-20) offers a unique cocktail of supernatural mystery and campus intrigue set against the backdrop of Yale University.
 
 Bardugo's exploration of secret societies and hidden rituals was both intellectually engaging and frightfully immersive.
 
-This book completely redefined my idea of what [fantasy horror books](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king) can be when they intersect with real-life settings and institutions.
+This book completely redefined my idea of what [fantasy horror books](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king/) can be when they intersect with real-life settings and institutions.
 
 <button data-buy-book data-title="Ninth House" data-author="Leigh Bardugo">Buy Ninth House</button>
 
@@ -70,7 +70,7 @@ Moreno-Garcia masterfully intertwines dark supernatural elements with historical
 
 ### 7. The Blacktongue Thief by Christopher Buehlman
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381451/library-at-mount-char-book-cover-1-_u8okyt.webp)
+![The Blacktongue Thief by Christopher Buehlman book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381451/library-at-mount-char-book-cover-1-_u8okyt.webp)
 
 For those who crave a dose of dark humor mixed with high stakes and grim adventure, [**The Blacktongue Thief**](https://www.amazon.com/dp/125079997X?tag=ctbooks09e-20) is a wild ride.
 
@@ -92,7 +92,7 @@ I was captivated by its audacious storytelling and intricate mythos that kept me
 
 A true cult classic, [**House of Leaves**](https://www.amazon.com/dp/0375703764?tag=ctbooks09e-20) redefines what a book can be. Its experimental format—replete with unconventional typography, footnotes, and layered narratives—draws you into a horrifying tale of a house that is impossibly larger on the inside than the outside.
 
-This is a [fantasy horror](https://www.litloop.co/blog/spine-tingling-horror-short-stories) that challenges your perception and invites deep, lingering unease, making it one of the most memorable reads in my collection.
+This is a [fantasy horror](https://www.litloop.co/blog/spine-tingling-horror-short-stories/) that challenges your perception and invites deep, lingering unease, making it one of the most memorable reads in my collection.
 
 <button data-buy-book data-title="House of Leaves" data-author="Mark Z. Danielewski">Buy House of Leaves</button>
 
@@ -108,12 +108,12 @@ No list of horror recommendations is complete without a nod to Stephen King, the
 
 I found it to be an enchanting tale that bridges the gap between the fantastical and the fearful—an excellent bonus pick for those who appreciate King’s storytelling genius.
 
-**Related**: [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king)
+**Related**: [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king/)
 
 ## Final Words: The Best Fantasy Horror Books
 
 Each of these books offers something distinct—whether it's a clever twist on a childhood myth, a deep dive into occult academia, or a sprawling gothic epic—and they all share that rare blend of fantasy and horror that makes the genre so endlessly fascinating. I highly recommend giving any (or all) of these titles a try if you're ready to embark on a journey that's as intellectually stimulating as it is terrifying.
 
-For more [book recommendations](https://www.litloop.co/blog/category/Book+Recommendations) and literary insights, explore our other guides to [horror fiction](https://www.litloop.co/blog/spine-tingling-horror-short-stories), [dark fantasy](https://www.litloop.co/blog/the-edge-of-darkness-9-grimdark-fantasy-books-for-fans-of-gritty-fiction), and [contemporary literature](https://www.litloop.co/blog/modern-classic-books-to-add-to-your-tbr-list).
+For more [book recommendations](https://www.litloop.co/blog/category/Book+Recommendations) and literary insights, explore our other guides to [horror fiction](https://www.litloop.co/blog/spine-tingling-horror-short-stories/), [dark fantasy](https://www.litloop.co/blog/grimdark-fantasy-books/), and [contemporary literature](https://www.litloop.co/blog/modern-classic-books-to-add-to-your-tbr-list/).
 
 Happy reading, and prepare to be haunted—in the best possible way!

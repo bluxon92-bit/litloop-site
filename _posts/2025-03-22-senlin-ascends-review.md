@@ -66,7 +66,7 @@ Start here. Do not read ahead. The less you know going in, the better.
 
 ### You Might Also Like
 
-- [The Blacktongue Thief Review](https://www.litloop.co/blog/the-blacktongue-thief-review)
-- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [The Blacktongue Thief Review](https://www.litloop.co/blog/the-blacktongue-thief-review/)
+- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

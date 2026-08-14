@@ -62,7 +62,7 @@ For most readers, yes. It's the more complete novel — a setup that's also a st
 
 ### You Might Also Like
 
-- [Rhythm of War Review](https://www.litloop.co/blog/rhythm-of-war-review)
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
+- [Rhythm of War Review](https://www.litloop.co/blog/rhythm-of-war-review/)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [Patrick Rothfuss Books in Order](https://www.litloop.co/blog/patrick-rothfuss-books-in-order/)

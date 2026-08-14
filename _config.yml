@@ -3,6 +3,9 @@ tagline: Because books are better shared
 description: Track what you're reading, send personal recommendations, and have real conversations about the books you love with the people you care about most.
 url: "https://www.litloop.co"
 baseurl: ""
+logo: "/assets/images/og-image.png"
+twitter:
+  card: summary_large_image
 
 author:
   name: Ben Luxon

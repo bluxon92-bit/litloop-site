@@ -8,7 +8,7 @@ excerpt: "The Shadow of the Gods by John Gwynne reviewed — brutal Norse-inspir
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/shadowofthegodsbloodsworn-saga-1-1-_d83cmt.jpg"
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/shadowofthegodsbloodsworn-saga-1-1-_d83cmt.jpg)
+![Book Review: The Shadow of The Gods by John Gwynne cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/shadowofthegodsbloodsworn-saga-1-1-_d83cmt.jpg)
 
 The Shadow of the Gods by John Gwynne immediately caught my attention after coming across a YouTube review. Intrigued by the premise, I stopped the video to avoid spoilers. Soon after, I discovered John Gwynne's name among the best active fantasy authors on a Twitter thread. Serendipitously, The Shadow of the Gods was on offer at that very moment, tying everything together seamlessly.
 
@@ -22,7 +22,7 @@ The brilliance of these three narratives kept me eagerly turning the pages, anti
 
 The individual stories within The Shadow of the Gods are masterfully crafted. Gwynne skillfully varies the pacing, seamlessly transitioning between action-packed sequences and intimate conversations that reveal the characters' innermost thoughts, enriching their development. The book delivers enchanting fantasy moments, featuring formidable monsters, exhilarating battles, and displays of bravery from the main protagonists that leave readers yearning for more.
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381498/john-gwynne-header-1-_vvisux.webp)
+![Book Review: The Shadow of The Gods by John Gwynne cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381498/john-gwynne-header-1-_vvisux.webp)
 
 ## The Shadow of the Gods Characters - 5/5
 

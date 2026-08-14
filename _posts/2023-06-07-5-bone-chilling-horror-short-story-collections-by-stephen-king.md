@@ -9,7 +9,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/scary-short-story-2-1-
 permalink: /blog/bone-chilling-horror-short-story-collections-by-stephen-king/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/scary-short-story-2-1-_f94dp0.jpg)
+![5 Bone-Chilling Horror Short Story Collections By Stephen King cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/scary-short-story-2-1-_f94dp0.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.litloop.co/cookie-policy/)*.*
 
@@ -17,7 +17,7 @@ permalink: /blog/bone-chilling-horror-short-story-collections-by-stephen-king/
 
 Stephen King is a master of the horror genre, and his short stories are no exception. From "The Raft" to "The Mist," King has proven time and time again that he can terrify readers in just a few pages. His ability to create suspense and build tension is unparalleled, and his vivid descriptions of grotesque creatures and supernatural phenomena make his stories both horrifying and captivating.
 
-What makes King's short stories truly frightening, however, is his ability to tap into our deepest fears and insecurities, leaving readers with a sense of dread long after the final page. Whether you're a seasoned horror fan or a newcomer to the genre, Stephen King's [horror short stories](https://www.litloop.co/blog/horror-short-stories) are sure to leave you feeling haunted.
+What makes King's short stories truly frightening, however, is his ability to tap into our deepest fears and insecurities, leaving readers with a sense of dread long after the final page. Whether you're a seasoned horror fan or a newcomer to the genre, Stephen King's [horror short stories](https://www.litloop.co/blog/horror-short-stories/) are sure to leave you feeling haunted.
 
 In this article, we take a look at some of his classic horror short story collections and where you should start with the modern master of horror.
 
@@ -25,7 +25,7 @@ In this article, we take a look at some of his classic horror short story collec
 
 ### 1. Night Shift by Stephen King
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381469/night-shoft-stephen-king-1-_lsmrg8.webp)
+![Night Shift by Stephen King book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381469/night-shoft-stephen-king-1-_lsmrg8.webp)
 
 Night Shift is a short story collection published originally in 1978, the book features King's distinctive writing style and iconic storytelling. It contains 20 stories of varied themes and lengths, ranging from terrifying supernatural encounters to more grounded, relatable horrors.
 
@@ -37,7 +37,7 @@ Among the standout tales are "The Boogeyman," "Children of the Corn," and "Quitt
 
 ### 2. Skeleton Crew by Stephen King
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381516/skeleton-crew-sking-1-_tfwtzt.webp)
+![Skeleton Crew by Stephen King book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381516/skeleton-crew-sking-1-_tfwtzt.webp)
 
 Skeleton Crew is a masterpiece in horror literature and a must-read for any Stephen King fan. This short story collection boasts 22 gripping tales that showcase King's ability to terrify readers with his dark imagination and deft storytelling. From the haunted hotel room in "1408" to the chilling revenge of "The Monkey," each story is distinctly crafted to leave readers on edge.
 
@@ -49,7 +49,7 @@ The collection's standout piece is the novella "The Mist," which introduces the 
 
 ### 3. Nightmares & Dreamscapes by Stephen King
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/nightmares-and-dreamscapes-1-_anjywi.jpg)
+![Nightmares & Dreamscapes by Stephen King book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/nightmares-and-dreamscapes-1-_anjywi.jpg)
 
 Stephen King's collection of short stories, Nightmares & Dreamscapes, is a rollercoaster ride of terror, suspense, and, at times, even humour. With each story offering its unique blend of horror, the collection captures the essence of King's storytelling genius. Whether it's the demonic car in "Dolan's Cadillac," or the chilling tale of a memory-eating creature in "Crouch End," each story is a masterclass in suspense-building and imaginative narration.
 
@@ -61,11 +61,11 @@ Despite its sometimes gruesome subject matter, the collection is not without its
 
 ### 4. The Bazaar of Bad Dreams: Stories by Stephen King
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381516/bazaar-of-bad-dreams-1-_ozarlx.webp)
+![The Bazaar of Bad Dreams: Stories by Stephen King book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381516/bazaar-of-bad-dreams-1-_ozarlx.webp)
 
-The Bazaar of Bad Dreams: Stories is a gripping [page-turner](https://www.litloop.co/blog/29-best-fantasy-books) that contains twenty stories, some of which have been previously published but with new endings. The book delves deep into human emotions such as love, loss, greed, and revenge. King's writing style is masterful and he has an excellent ability to create characters that readers can relate to.
+The Bazaar of Bad Dreams: Stories is a gripping [page-turner](https://www.litloop.co/blog/29-best-fantasy-books/) that contains twenty stories, some of which have been previously published but with new endings. The book delves deep into human emotions such as love, loss, greed, and revenge. King's writing style is masterful and he has an excellent ability to create characters that readers can relate to.
 
-There are [supernatural](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson) elements and twists in the stories that keep readers on edge. Each story has its own unique voice and leaves readers with something to think about. The Bazaar of Bad Dreams is another excellent read for horror enthusiasts and fans of Stephen King's work.
+There are [supernatural](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/) elements and twists in the stories that keep readers on edge. Each story has its own unique voice and leaves readers with something to think about. The Bazaar of Bad Dreams is another excellent read for horror enthusiasts and fans of Stephen King's work.
 <button data-buy-book data-title="The Bazaar of Bad Dreams: Stories" data-author="Stephen King">Buy The Bazaar of Bad Dreams: Stories</button>
 
 
@@ -83,7 +83,7 @@ There are [supernatural](https://www.litloop.co/blog/11-best-books-by-brandon-sa
 
 
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/just-after-sunset-1-_agu7ou.webp)
+![Just After Sunset: Stories by Stephen King book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/just-after-sunset-1-_agu7ou.webp)
 
 
 
@@ -105,10 +105,10 @@ The book is another must-read for all Stephen King fans and fans of short horror
 ### You Might Also Like
 
 -
-  [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories)
+  [40+ Spine-Tingling Horror Short Stories](https://www.litloop.co/blog/horror-short-stories/)
 -
-  [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
+  [9 Dystopian Novels That Will Change How You View The World ](https://www.litloop.co/blog/9-dystopian-novels-to-read/)
 -
-  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
+  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories/)
 -
-  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [15+ Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)

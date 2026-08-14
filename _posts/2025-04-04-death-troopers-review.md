@@ -60,7 +60,7 @@ Star Wars fans who are also horror readers — this is obviously made for you. H
 
 ### You Might Also Like
 
-- [Seveneves Review](https://www.litloop.co/blog/seveneves-review)
-- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)
-- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review)
-- [The Dog Stars Review](https://www.litloop.co/blog/the-dog-stars-review)
+- [Seveneves Review](https://www.litloop.co/blog/seveneves-review/)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review/)
+- [Last Days by Adam Nevill Review](https://www.litloop.co/blog/last-days-review/)
+- [The Dog Stars Review](https://www.litloop.co/blog/the-dog-stars-review/)

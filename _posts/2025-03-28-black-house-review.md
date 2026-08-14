@@ -58,7 +58,7 @@ Read *The Talisman* first. It's excellent. Then come here.
 
 ### You Might Also Like
 
-- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
-- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)
-- [Is The Dark Tower Worth Reading?](https://www.litloop.co/blog/dark-tower-worth-reading)
-- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review/)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order/)
+- [Is The Dark Tower Worth Reading?](https://www.litloop.co/blog/dark-tower-worth-reading/)
+- [Floating Dragon by Peter Straub Review](https://www.litloop.co/blog/floating-dragon-review/)

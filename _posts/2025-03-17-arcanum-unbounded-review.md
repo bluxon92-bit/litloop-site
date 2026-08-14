@@ -66,7 +66,7 @@ The collection is uneven by nature — it's nine different pieces of different l
 
 ### You Might Also Like
 
-- [Words of Radiance Review](https://www.litloop.co/blog/words-of-radiance-review)
-- [Rhythm of War Review](https://www.litloop.co/blog/rhythm-of-war-review)
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [Words of Radiance Review](https://www.litloop.co/blog/words-of-radiance-review/)
+- [Rhythm of War Review](https://www.litloop.co/blog/rhythm-of-war-review/)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)

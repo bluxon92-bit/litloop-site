@@ -24,7 +24,7 @@ Navigating all of that can be genuinely confusing. Here's the guide I wish I'd h
 
 Don't start with *The Sword of Shannara*. I know it's book one. I know publication order feels right. But *The Sword of Shannara* is a deeply derivative novel — Brooks himself has acknowledged the Tolkien debt is uncomfortably heavy — and it's by some distance the weakest entry in the series.
 
-Start with **The Elfstones of Shannara**. It's the book where Brooks found his own voice, it stands completely alone, and it's the reason this series has endured. [Full review here.](https://www.litloop.co/blog/the-elfstones-of-shannara-review)
+Start with **The Elfstones of Shannara**. It's the book where Brooks found his own voice, it stands completely alone, and it's the reason this series has endured. [Full review here.](https://www.litloop.co/blog/the-elfstones-of-shannara-review/)
 
 ---
 
@@ -38,7 +38,7 @@ The debut. A young man discovers he's the only person who can wield a magical sw
 
 ### 2. The Elfstones of Shannara (1982)
 
-The series-best, by wide consensus. A dying tree, demons breaking through into the world, a quest with a devastating ending. Start here. [Full review.](https://www.litloop.co/blog/the-elfstones-of-shannara-review)
+The series-best, by wide consensus. A dying tree, demons breaking through into the world, a quest with a devastating ending. Start here. [Full review.](https://www.litloop.co/blog/the-elfstones-of-shannara-review/)
 
 <button data-buy-book data-title="The Elfstones of Shannara" data-author="Terry Brooks">Buy The Elfstones of Shannara</button>
 
@@ -140,7 +140,7 @@ For completionists: publication order works, just steel yourself for *Sword of S
 
 ### You Might Also Like
 
-- [The Elfstones of Shannara Review](https://www.litloop.co/blog/the-elfstones-of-shannara-review)
-- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [The Elfstones of Shannara Review](https://www.litloop.co/blog/the-elfstones-of-shannara-review/)
+- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

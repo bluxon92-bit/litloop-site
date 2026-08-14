@@ -60,7 +60,7 @@ If you've read the first three Stormlight books, this is not optional. Read it.
 
 ### You Might Also Like
 
-- [Words of Radiance Review](https://www.litloop.co/blog/words-of-radiance-review)
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
+- [Words of Radiance Review](https://www.litloop.co/blog/words-of-radiance-review/)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review/)

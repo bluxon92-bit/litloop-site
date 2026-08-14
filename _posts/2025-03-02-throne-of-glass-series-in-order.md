@@ -32,7 +32,7 @@ Start here. Celaena Sardothien, the kingdom's most feared assassin, gets yanked 
 
 ### 2. Crown of Midnight
 
-This is where the series genuinely begins. If book one felt a bit too YA for your taste, book two answers that concern within the first fifty pages. The plot thickens, the stakes get real, and Celaena's true nature starts to emerge. [Read our full review here.](https://www.litloop.co/blog/crown-of-midnight-review)
+This is where the series genuinely begins. If book one felt a bit too YA for your taste, book two answers that concern within the first fifty pages. The plot thickens, the stakes get real, and Celaena's true nature starts to emerge. [Read our full review here.](https://www.litloop.co/blog/crown-of-midnight-review/)
 
 <button data-buy-book data-title="Crown of Midnight" data-author="">Buy Crown of Midnight</button>
 
@@ -48,7 +48,7 @@ Five stories set before the main series, following a younger Celaena. You *can* 
 
 ### 4. Heir of Fire
 
-The world doubles in size. Celaena travels to a new kingdom, trains with Fae warriors, and grapples with a secret she's been carrying the entire series. This is the book where Maas hits her stride. [Full review here.](https://www.litloop.co/blog/heir-of-fire-review)
+The world doubles in size. Celaena travels to a new kingdom, trains with Fae warriors, and grapples with a secret she's been carrying the entire series. This is the book where Maas hits her stride. [Full review here.](https://www.litloop.co/blog/heir-of-fire-review/)
 
 <button data-buy-book data-title="Heir of Fire" data-author="">Buy Heir of Fire</button>
 
@@ -96,7 +96,7 @@ The main series runs to around 4,800 pages across eight volumes including the no
 
 ### You Might Also Like
 
-- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [Crown of Midnight Review](https://www.litloop.co/blog/crown-of-midnight-review)
-- [Heir of Fire Review](https://www.litloop.co/blog/heir-of-fire-review)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order/)
+- [Crown of Midnight Review](https://www.litloop.co/blog/crown-of-midnight-review/)
+- [Heir of Fire Review](https://www.litloop.co/blog/heir-of-fire-review/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)

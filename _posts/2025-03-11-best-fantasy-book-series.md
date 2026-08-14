@@ -23,7 +23,7 @@ This isn't a Wikipedia roundup. These are series I'd press into someone's hands 
 
 ## 1. The Lord of the Rings — J.R.R. Tolkien
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/lotr-cover_fpcuhv.jpg)
+![The Best Fantasy Book Series of All Time (Our Top Picks) cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/lotr-cover_fpcuhv.jpg)
 
 Yes, it's first. It has to be. Tolkien didn't just write a great fantasy series — he essentially invented the template every other entry on this list is working from or reacting against. The world-building remains unmatched. The languages, the mythologies, the sense of deep history — Middle-earth feels like a place that existed before the story began and will continue after it ends. If you somehow haven't read it, start with *The Hobbit* and go from there.
 
@@ -33,9 +33,9 @@ Yes, it's first. It has to be. Tolkien didn't just write a great fantasy series 
 
 ## 2. The First Law Trilogy — Joe Abercrombie
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/first-law-cover_l5tuxn.jpg)
+![The Best Fantasy Book Series of All Time (Our Top Picks) cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/first-law-cover_l5tuxn.jpg)
 
-The series that dragged fantasy kicking and screaming into moral ambiguity. Abercrombie's First Law trilogy takes everything you expect from the genre — the quest, the warrior, the tortured inquisitor — and uses them to ask uncomfortable questions about heroism, power, and whether people actually change. Glokta alone is worth the price of admission, but the whole trilogy is exceptional. Read [our review of The Blade Itself](https://www.litloop.co/blog/the-blade-itself-review) if you need convincing.
+The series that dragged fantasy kicking and screaming into moral ambiguity. Abercrombie's First Law trilogy takes everything you expect from the genre — the quest, the warrior, the tortured inquisitor — and uses them to ask uncomfortable questions about heroism, power, and whether people actually change. Glokta alone is worth the price of admission, but the whole trilogy is exceptional. Read [our review of The Blade Itself](https://www.litloop.co/blog/the-blade-itself-review/) if you need convincing.
 
 <button data-buy-book data-title="The First Law Trilogy" data-author="Joe Abercrombie">Buy The First Law Trilogy</button>
 
@@ -51,7 +51,7 @@ Sanderson is the most ambitious fantasy writer working today and *The Stormlight
 
 ## 4. The Farseer Trilogy — Robin Hobb
 
-If you want to know what it feels like to have your heart broken by a fantasy series, read [Robin Hobb](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond). The Farseer Trilogy follows FitzChivalry Farseer — bastard son, assassin's apprentice, man perpetually done dirty by everyone who claims to care about him — across one of the most emotionally intelligent fantasy series ever written. Devastating. Perfect.
+If you want to know what it feels like to have your heart broken by a fantasy series, read [Robin Hobb](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/). The Farseer Trilogy follows FitzChivalry Farseer — bastard son, assassin's apprentice, man perpetually done dirty by everyone who claims to care about him — across one of the most emotionally intelligent fantasy series ever written. Devastating. Perfect.
 
 <button data-buy-book data-title="The Farseer Trilogy" data-author="Robin Hobb">Buy The Farseer Trilogy</button>
 
@@ -59,7 +59,7 @@ If you want to know what it feels like to have your heart broken by a fantasy se
 
 ## 5. The Kingkiller Chronicle — Patrick Rothfuss
 
-Two books and a decade of waiting, and it's still on this list. *The Name of the Wind* and *The Wise Man's Fear* are among the most beautifully written fantasy novels in the genre. Kvothe is an extraordinary creation and Rothfuss' prose is genuinely unlike anyone else's. The wait for Book 3 is agony, but what exists is worth reading twice while you wait. See our [full reading guide here](https://www.litloop.co/blog/patrick-rothfuss-books-in-order).
+Two books and a decade of waiting, and it's still on this list. *The Name of the Wind* and *The Wise Man's Fear* are among the most beautifully written fantasy novels in the genre. Kvothe is an extraordinary creation and Rothfuss' prose is genuinely unlike anyone else's. The wait for Book 3 is agony, but what exists is worth reading twice while you wait. See our [full reading guide here](https://www.litloop.co/blog/patrick-rothfuss-books-in-order/).
 
 <button data-buy-book data-title="The Kingkiller Chronicle" data-author="Patrick Rothfuss">Buy The Kingkiller Chronicle</button>
 
@@ -75,7 +75,7 @@ Books one through three of ASOIAF are as good as fantasy gets — complex, bruta
 
 ## 7. The Faithful and the Fallen — John Gwynne
 
-Gwynne's four-book series is the best modern successor to Gemmell's heroic fantasy tradition. The Banished Lands feel real, the battles are extraordinary, and the characters — Corban, Maquin, the incomparable Fidele — earn their place in the story. If you love [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series) and want something with more contemporary scale, start with [*Malice*](https://www.litloop.co/blog/malice-by-john-gwynne-review).
+Gwynne's four-book series is the best modern successor to Gemmell's heroic fantasy tradition. The Banished Lands feel real, the battles are extraordinary, and the characters — Corban, Maquin, the incomparable Fidele — earn their place in the story. If you love [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series/) and want something with more contemporary scale, start with [*Malice*](https://www.litloop.co/blog/malice-by-john-gwynne-review/).
 
 <button data-buy-book data-title="The Faithful and the Fallen" data-author="John Gwynne">Buy The Faithful and the Fallen</button>
 
@@ -91,7 +91,7 @@ The original trilogy is the perfect entry point to Sanderson's Cosmere. A heist 
 
 ## 9. The Drenai Saga — David Gemmell
 
-Gemmell invented heroic fantasy as we understand it, and the Drenai Saga is his finest work. *Legend* alone — the story of an aging, dying warrior who chooses to go down fighting rather than rot on a mountaintop — is one of the most emotionally powerful fantasy novels ever written. If you haven't read Gemmell, our [full guide to the Drenai series](https://www.litloop.co/blog/david-gemmells-drenai-series) is the place to start.
+Gemmell invented heroic fantasy as we understand it, and the Drenai Saga is his finest work. *Legend* alone — the story of an aging, dying warrior who chooses to go down fighting rather than rot on a mountaintop — is one of the most emotionally powerful fantasy novels ever written. If you haven't read Gemmell, our [full guide to the Drenai series](https://www.litloop.co/blog/david-gemmells-drenai-series/) is the place to start.
 
 <button data-buy-book data-title="The Drenai Saga" data-author="David Gemmell">Buy The Drenai Saga</button>
 
@@ -111,7 +111,7 @@ A list of ten can't hold everything. Worth knowing about: *The Wheel of Time* (R
 
 ### You Might Also Like
 
-- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre)
-- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order)
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre/)
+- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order/)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

@@ -60,7 +60,7 @@ Adults who loved Narnia and Tolkien as children and want something with the same
 
 ### You Might Also Like
 
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
-- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre)
-- [The Elfstones of Shannara Review](https://www.litloop.co/blog/the-elfstones-of-shannara-review)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)
+- [Epic Fantasy: The Best of the Genre](https://www.litloop.co/blog/epic-fantasy-best-of-genre/)
+- [The Elfstones of Shannara Review](https://www.litloop.co/blog/the-elfstones-of-shannara-review/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

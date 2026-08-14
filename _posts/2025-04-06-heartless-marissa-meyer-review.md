@@ -65,7 +65,7 @@ Readers who love fairy-tale retellings. Fans of Meyer's *Lunar Chronicles* who w
 
 ### You Might Also Like
 
-- [Harry Potter and the Cursed Child Review](https://www.litloop.co/blog/cursed-child-review)
-- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review)
-- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)
-- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
+- [Harry Potter and the Cursed Child Review](https://www.litloop.co/blog/cursed-child-review/)
+- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review/)
+- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter/)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order/)

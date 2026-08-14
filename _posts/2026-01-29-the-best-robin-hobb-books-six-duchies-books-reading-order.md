@@ -9,7 +9,7 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-trilogy-1-_gf4
 permalink: /blog/robin-hobb-farseer-and-beyond/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-trilogy-1-_gf4uhi.jpg)
+![The Best Robin Hobb Books: Six Duchies Books Reading Order cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-trilogy-1-_gf4uhi.jpg)
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
@@ -17,11 +17,11 @@ permalink: /blog/robin-hobb-farseer-and-beyond/
 
 Robin Hobb is a beloved author in the fantasy genre, known for her richly imagined worlds and [complex characters](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation). One of her most significant contributions to the genre is the Farseer Trilogy — introducing readers to the realm of the Six Duchies and the character of FitzChivalry Farseer, and personally my favourite of her work.
 
-Since publishing the Farseer Trilogy, Robin Hobb has published multiple series set in the same world, including the Liveship Traders Trilogy, the Tawny Man Trilogy, and the Fitz and the Fool Trilogy. In this article, we explore the Farseer Trilogy as well as her wider body of work, discussing the importance of reading order and the impact of her writing on [the fantasy genre](https://www.litloop.co/blog/29-best-fantasy-books).
+Since publishing the Farseer Trilogy, Robin Hobb has published multiple series set in the same world, including the Liveship Traders Trilogy, the Tawny Man Trilogy, and the Fitz and the Fool Trilogy. In this article, we explore the Farseer Trilogy as well as her wider body of work, discussing the importance of reading order and the impact of her writing on [the fantasy genre](https://www.litloop.co/blog/29-best-fantasy-books/).
 
 ## The Farseer Trilogy: An Overview
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-2-1-_szlwax.jpg)
+![The Best Robin Hobb Books: Six Duchies Books Reading Order cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-2-1-_szlwax.jpg)
 
 The Farseer Trilogy is set in a world of magics that are both revered and feared, known and forgotten. The main character, FitzChivalry Farseer, is the bastard son of Prince Chivalry and is raised in the royal household of the Farseers.
 
@@ -33,9 +33,9 @@ However, this isn't a fun story about a prince realising his destiny. Fitz is an
 
 On top of being the bastard son of the beloved Chivalry, Fitz is gifted with both the Skill and the Wit. The Skill is a powerful royal magic that allows long-distance telepathy, powerful illusions, and mental manipulation. The Wit (also known as "Old Blood") is a shunned magic, despised and feared — it allows people to telepathically communicate and bond with animals. Fitz bonds with a young wolf who becomes his constant companion. However, within the Six Duchies, legends have it that practitioners of the Wit slowly lose their humanity to become more animal than man.
 
-The three books that make up the trilogy are an epic journey of self-discovery, of [dragons](https://www.litloop.co/blog/best-dragon-books), Elderlings, and ancient barely understood [magic](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson) — a story of the underdog fighting against all the odds to save a world that hates and fears him.
+The three books that make up the trilogy are an epic journey of self-discovery, of [dragons](https://www.litloop.co/blog/best-dragon-books/), Elderlings, and ancient barely understood [magic](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/) — a story of the underdog fighting against all the odds to save a world that hates and fears him.
 
-**Readers who like Robin Hobb and dark fantasy may also like** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath).
+**Readers who like Robin Hobb and dark fantasy may also like** [John Gwynne and his Bloodsworn Saga](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/).
 
 ---
 
@@ -78,7 +78,7 @@ Many of her books take place in the same world and feature [interconnected chara
 
 Each trilogy generally focuses on a different protagonist, but all take place in the same universe with many interconnected plot lines. The Liveship Traders Trilogy introduces new characters and locations while also featuring some characters from The Farseer Trilogy. The Tawny Man Trilogy continues the story of Fitz while bringing the Fool centre stage.
 
-**Fans of Robin Hobb may also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+**Fans of Robin Hobb may also like** [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin/)
 
 ---
 
@@ -86,7 +86,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 ### The Farseer Trilogy
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381490/the-farseer-trilogy-robin-hobb-copy-1-1-_ajke9p.webp)
+![The Farseer Trilogy book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381490/the-farseer-trilogy-robin-hobb-copy-1-1-_ajke9p.webp)
 
 **Assassin's Apprentice (1995)** — The first book introduces us to FitzChivalry Farseer, a young boy who is the bastard son of a prince. Fitz is trained as an assassin, and he must navigate political intrigue and personal relationships to survive.
 
@@ -100,7 +100,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 ### The Liveship Traders Series
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381478/the-liveship-traders-robin-hobb-copy-1-1-_pndilw.webp)
+![The Liveship Traders Series book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381478/the-liveship-traders-robin-hobb-copy-1-1-_pndilw.webp)
 
 **Ship of Magic (1998)** — The first book introduces readers to the city of Bingtown, where wealthy merchant families own sentient "liveships" made of magical wizardwood. The Vestrit family is preparing to launch their liveship, Vivacia, when the patriarch suddenly dies. The family's finances are in dire straits — and Vivacia's new captain has ulterior motives.
 
@@ -114,7 +114,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 ### The Tawny Man Trilogy
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/the-tawny-man-trilogy-robin-hobb-copy-1-1-_ahqjtr.webp)
+![The Tawny Man Trilogy book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/the-tawny-man-trilogy-robin-hobb-copy-1-1-_ahqjtr.webp)
 
 **Fool's Errand (2001)** — This trilogy takes place 15 years after the events of the Farseer Trilogy. Fitz is now living a quiet life as a beekeeper, but is drawn back into the world of politics and magic when an old friend returns.
 
@@ -128,7 +128,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 ### The Rain Wild Chronicles
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381473/rain-wild-trrilogy-1-1-_qkdrhh.webp)
+![The Rain Wild Chronicles book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381473/rain-wild-trrilogy-1-1-_qkdrhh.webp)
 
 **Dragon Keeper (2009)** — Set in the same universe as the Farseer Trilogy but following a new set of characters. The story begins with a group of dragon keepers tasked with transporting a group of young dragons to a new home.
 
@@ -144,7 +144,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 ### The Fitz and the Fool Trilogy
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/fitz-and-the-fool-trilogy-robin-hobb-copy-1-1-_abd4nh.jpg)
+![The Fitz and the Fool Trilogy book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/fitz-and-the-fool-trilogy-robin-hobb-copy-1-1-_abd4nh.jpg)
 
 **Fool's Assassin (2014)** — This trilogy takes place several years after the end of the Tawny Man Trilogy. Fitz is living a peaceful life with his family, but is forced to confront the past when the Fool returns.
 
@@ -158,7 +158,7 @@ Each trilogy generally focuses on a different protagonist, but all take place in
 
 ## The Importance of Robin Hobb and The Farseer Trilogy in Fantasy Literature
 
-The Farseer Trilogy is often cited as a game-changer in the [fantasy genre](https://www.litloop.co/blog/fantasy-short-stories). It features a realistic and flawed protagonist who is not the typical hero found in epic fantasy. Fitz's struggles with his identity and place in the world make him a relatable and sympathetic character. Hobb's focus on character development and emotional depth set her writing apart from other fantasy authors.
+The Farseer Trilogy is often cited as a game-changer in the [fantasy genre](https://www.litloop.co/blog/fantasy-short-stories/). It features a realistic and flawed protagonist who is not the typical hero found in epic fantasy. Fitz's struggles with his identity and place in the world make him a relatable and sympathetic character. Hobb's focus on character development and emotional depth set her writing apart from other fantasy authors.
 
 The Farseer Trilogy also paved the way for other authors to explore the nuances of character and theme in their writing. It's no coincidence that the rise of [grimdark fantasy](https://bookriot.com/guide-to-grimdark-fantasy/) coincided with the popularity of the Farseer Trilogy.
 
@@ -174,9 +174,9 @@ Robin Hobb's books are an unforgettable journey for any fantasy lover. So buckle
 
 ### You Might Like
 
-- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)
+- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series/)
 
-**Check out** [**Sunset In the East**](https://www.litloop.co/sci-fi-short-stories) — **a mind-bending short story collection from Ben Luxon.**
+**Check out** [**Sunset In the East**](https://www.litloop.co/sci-fi-short-stories/) — **a mind-bending short story collection from Ben Luxon.**

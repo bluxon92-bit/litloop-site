@@ -56,7 +56,7 @@ It ends at a point that is emphatically not a resolution. *Before They Are Hange
 
 ## Should You Read It?
 
-If you've read [Joe Abercrombie's full bibliography](https://www.litloop.co/blog/joe-abercrombie-books-in-order) and already know you're in — start here. If you're wondering whether the grimdark reputation puts you off — it probably shouldn't. Abercrombie is darker than Tolkien and lighter than the most extreme end of the genre. The brutality is never gratuitous; it's always in service of character and theme.
+If you've read [Joe Abercrombie's full bibliography](https://www.litloop.co/blog/joe-abercrombie-books-in-order/) and already know you're in — start here. If you're wondering whether the grimdark reputation puts you off — it probably shouldn't. Abercrombie is darker than Tolkien and lighter than the most extreme end of the genre. The brutality is never gratuitous; it's always in service of character and theme.
 
 One of the best first entries in a fantasy trilogy. Full stop.
 
@@ -66,7 +66,7 @@ One of the best first entries in a fantasy trilogy. Full stop.
 
 ### You Might Also Like
 
-- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
-- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Joe Abercrombie Books in Order](https://www.litloop.co/blog/joe-abercrombie-books-in-order/)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
+- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

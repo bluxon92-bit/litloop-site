@@ -37,7 +37,7 @@ The story follows primarily two POVs:
 
 Gwynne writes action extremely well. Battle scenes are physically clear — you can follow the choreography, feel the scale, understand the stakes. He was a historical reenactor before he became a novelist, and it shows. The violence has weight and consequence.
 
-The characters are what really land, though. Gwynne writes in the tradition of [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series) — heroes who are genuinely heroic, who operate by moral codes that cost them, who do the right thing even when it's punishing. After a decade of grimdark subversion, there's something quietly refreshing about a fantasy that believes in goodness without being naive about it.
+The characters are what really land, though. Gwynne writes in the tradition of [David Gemmell](https://www.litloop.co/blog/david-gemmells-drenai-series/) — heroes who are genuinely heroic, who operate by moral codes that cost them, who do the right thing even when it's punishing. After a decade of grimdark subversion, there's something quietly refreshing about a fantasy that believes in goodness without being naive about it.
 
 The wolf subplot is handled with obvious affection. Storm is one of the great animal companions in fantasy. This is a hill I will die on.
 
@@ -65,7 +65,7 @@ The full quartet is outstanding. *Malice* is the worthy first chapter.
 
 ### You Might Also Like
 
-- [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)
-- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath)
-- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series/)
+- [The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/)
+- [The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction](https://www.litloop.co/blog/grimdark-fantasy-books/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

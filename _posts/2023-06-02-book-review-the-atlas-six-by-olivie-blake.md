@@ -5,7 +5,6 @@ date: 2023-06-02
 category: Book Reviews
 genre: Fantasy
 excerpt: "The Atlas Six by Olivie Blake reviewed — dark academia fantasy with a killer premise. Does it deliver? An honest take."
-published: false
 ---
 
 The cover of The Atlas Six by Olivie Blake promises a captivating blend of science, magic, and a dark, brooding atmosphere. While this is indeed true, unfortunately, Blake fails to make it appealing to read about.

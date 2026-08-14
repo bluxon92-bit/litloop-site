@@ -9,13 +9,13 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/joe-abercr
 permalink: /blog/joe-abercrombie-books-in-order/
 ---
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/joe-abercrombie-1-_dxvbhl.webp)
+![Joe Abercrombie Books in Order: A Complete Reading Guide cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/joe-abercrombie-1-_dxvbhl.webp)
 
 *No one writes fantasy quite like Joe Abercrombie. Brutal, brilliant, and laugh-out-loud cruel. His books hit so hard you almost want to cry.*
 
 I’ve just finished his *First Law* trilogy and, honestly, I need more. So, I thought, what better excuse to dive headfirst into his best work and the recommended reading order?
 
-If you’re new to Abercrombie, well — put your socks on and buckle in. These are not the kind of stories you’ll find in classics penned by [David Gemmell](/blog/david-gemmells-drenai-series), Robert Jordan, or Eddings, where flawed heroes are still, at heart, good. In Abercrombie’s world, the characters are broken, brutal, and often downright awful. Some may mean well, but the darkness and grit of the [world-building](/writers-blog/15-steps-to-fantasy-world-building) leave little room for noble intentions. Those who rise tend to be the worst of the worst, and no good deed goes unpunished.
+If you’re new to Abercrombie, well — put your socks on and buckle in. These are not the kind of stories you’ll find in classics penned by [David Gemmell](/blog/david-gemmells-drenai-series), Robert Jordan, or Eddings, where flawed heroes are still, at heart, good. In Abercrombie’s world, the characters are broken, brutal, and often downright awful. Some may mean well, but the darkness and grit of the world-building leave little room for noble intentions. Those who rise tend to be the worst of the worst, and no good deed goes unpunished.
 
 It can be exhausting — you desperately want good to prevail, and sometimes it even looks like it might… until the only halfway competent character suddenly vomits all over the tent and keels over dead.
 
@@ -27,7 +27,7 @@ Here’s my take on the trilogy that’s got me hooked.
 
 ### 1. The Blade Itself
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/blade-itself-abercrombie_digpft.webp)
+![The Blade Itself book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/blade-itself-abercrombie_digpft.webp)
 
 This opener pulled me in straight away, not with noble heroes or epic quests, but with a gang of misfits I wasn’t sure I should even be rooting for.
 
@@ -55,7 +55,7 @@ The finale, every thread from the previous books comes crashing together, but no
 
 Characters who looked like they were headed for redemption spiral instead; victories taste bitter; and just when you think someone might catch a break, Abercrombie yanks it away. I don’t think I’ve ever read an ending so bleak and yet so *right*. It left me both exhausted and desperate for more.
 
-*If you’re looking for something a little more hopeful with heroes and hard moral codes, check out our article on *[*David Gemmell’s Drenai Series*](https://www.litloop.co/blog/how-to-read-david-gemmells-drenai-series)
+*If you’re looking for something a little more hopeful with heroes and hard moral codes, check out our article on *[*David Gemmell’s Drenai Series*](https://www.litloop.co/blog/david-gemmells-drenai-series/)
 
 <button data-buy-book data-title="Last Argument of Kings" data-author="Joe Abercrombie">Buy Last Argument of Kings</button>
 
@@ -69,7 +69,7 @@ Set three years after the original trilogy’s events, this standalone revenge e
 
 Gathering an unlikely band of misfits—including a cold-blooded Northman, a poisoner with a flair for dramatic theatrics, and an ex-inquisitor—the novel is a non-stop bloodbath of betrayal, retribution, and dark humor. Every character in her crew struggles with their own moral ambiguities, making this a tale where even the act of revenge is not black and white.
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381460/heroes-abercormbie_xvwisd.webp)
+![Best Served Cold book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381460/heroes-abercormbie_xvwisd.webp)
 
 <button data-buy-book data-title="Best Served Cold" data-author="Joe Abercrombie">Buy Best Served Cold</button>
 
@@ -85,7 +85,7 @@ Told from multiple points of view, including a battle-worn veteran determined to
 
 Blending the aesthetics of a Western with Abercrombie’s trademark grimdark style, *Red Country* follows Shy South on a desperate quest to rescue her kidnapped siblings. Accompanied by her hesitant stepfather and a reluctant rogue, Shy journeys across unforgiving frontiers—through scorched outposts, lawless towns gripped by gold fever, and into the remoteness of uncharted mountains. Here, the past refuses to remain buried, and redemption must be won through a relentless fight against both external enemies and internal demons.
 
-*You Might Also Like: *[*The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath*](https://www.litloop.co/blog/the-best-of-john-gwynne-gods-giants-angels-malice-and-wrath)
+*You Might Also Like: *[*The Best of John Gwynne: Gods, Giants, Angels, Malice and Wrath*](https://www.litloop.co/blog/john-gwynne-gods-malice-and-wrath/)
 
 <button data-buy-book data-title="Red Country" data-author="Joe Abercrombie">Buy Red Country</button>
 
@@ -107,7 +107,7 @@ Whether you’re revisiting familiar faces or discovering new perspectives, each
 
 Thirty years later, the world moves on, but in true Abercrombie fashion, it doesn’t necessarily move forward. I haven’t cracked these open yet, but the themes of industrial upheaval and revolution sound like Abercrombie at his sharpest.
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/a-little-hatred-abercrombie_whj6s3.jpg)
+![Sharp Ends book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/a-little-hatred-abercrombie_whj6s3.jpg)
 
 ### 8. A Little Hatred
 
@@ -139,7 +139,7 @@ This novel challenges the very nature of power and legacy. Abercrombie’s incis
 
 Different audience, same edge. This trilogy is technically YA, but from what I’ve read about it so far, it doesn’t pull too many punches. Another one I’ll be picking up down the line.
 
-![](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381511/half-teh-world-abercrombie_g6vg4d.webp)
+![The Wisdom of Crowds book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381511/half-teh-world-abercrombie_g6vg4d.webp)
 
 ### Half a King
 
@@ -163,7 +163,7 @@ The tumultuous conclusion to the Shattered Sea trilogy, *Half a War* raises the 
 
 Alliances shatter and new foes arise, the characters must navigate treacherous battlefields where survival depends on both cunning intellect and deadly combat. In a world where every victory is stained with loss, *Half a War* brings Yarvi’s epic journey to a heart-pounding close—and asks whether revenge and redemption can truly coexist.
 
-*You Might Also Like: *[*10 Books Like The Name of the Wind*](https://www.litloop.co/blog/books-like-name-of-the-wind)
+*You Might Also Like: *[*10 Books Like The Name of the Wind*](https://www.litloop.co/blog/books-like-name-of-the-wind/)
 
 <button data-buy-book data-title="Half a War" data-author="Joe Abercrombie">Buy Half a War</button>
 

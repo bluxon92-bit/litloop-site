@@ -64,7 +64,7 @@ Crown of Midnight is the moment Maas commits to the darker, more complex story s
 
 ### You Might Also Like
 
-- [Throne of Glass Series in Order](https://www.litloop.co/blog/throne-of-glass-series-in-order)
-- [Heir of Fire Review](https://www.litloop.co/blog/heir-of-fire-review)
-- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Throne of Glass Series in Order](https://www.litloop.co/blog/throne-of-glass-series-in-order/)
+- [Heir of Fire Review](https://www.litloop.co/blog/heir-of-fire-review/)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

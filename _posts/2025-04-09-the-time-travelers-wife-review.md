@@ -56,7 +56,7 @@ Anyone who wants a love story that takes love seriously, rendered in a structure
 
 ### You Might Also Like
 
-- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review)
-- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
-- [Becky Chambers Books in Order](https://www.litloop.co/blog/becky-chambers-books-in-order)
-- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
+- [Daughter of Smoke and Bone Review](https://www.litloop.co/blog/daughter-of-smoke-and-bone-review/)
+- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review/)
+- [Becky Chambers Books in Order](https://www.litloop.co/blog/becky-chambers-books-in-order/)
+- [31 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books/)

@@ -22,7 +22,7 @@ So what do you read next? Here are ten books that scratch similar itches.
 
 ## 1. The Stormlight Archive — Brandon Sanderson
 
-The obvious answer first: if you loved Mistborn's magic system and Sanderson's approach to world-building, the Stormlight Archive is him doing the same thing at maximum scale. Four books published, each enormous, each excellent. Start with *The Way of Kings*. [Full guide to Sanderson's books here.](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
+The obvious answer first: if you loved Mistborn's magic system and Sanderson's approach to world-building, the Stormlight Archive is him doing the same thing at maximum scale. Four books published, each enormous, each excellent. Start with *The Way of Kings*. [Full guide to Sanderson's books here.](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
 
 <button data-buy-book data-title="The Stormlight Archive" data-author="Brandon Sanderson">Buy The Stormlight Archive</button>
 
@@ -30,7 +30,7 @@ The obvious answer first: if you loved Mistborn's magic system and Sanderson's a
 
 ## 2. The Shadow of What Was Lost — James Islington
 
-If what you loved about Mistborn was the intricate magic system, the plot that rewards attentive reading, and the satisfying trilogy structure — Islington does all of this. The Licanius Trilogy is complete, the ending is exceptional, and it stands as the best Sanderson-adjacent series by someone who isn't Sanderson. [Full review here.](https://www.litloop.co/blog/the-shadow-of-what-was-lost-review)
+If what you loved about Mistborn was the intricate magic system, the plot that rewards attentive reading, and the satisfying trilogy structure — Islington does all of this. The Licanius Trilogy is complete, the ending is exceptional, and it stands as the best Sanderson-adjacent series by someone who isn't Sanderson. [Full review here.](https://www.litloop.co/blog/the-shadow-of-what-was-lost-review/)
 
 <button data-buy-book data-title="The Shadow of What Was Lost" data-author="James Islington">Buy The Shadow of What Was Lost</button>
 
@@ -46,7 +46,7 @@ If what you loved was the heist structure and the ensemble of misfit criminals �
 
 ## 4. The Name of the Wind — Patrick Rothfuss
 
-Slower and more character-focused than Mistborn, but the magic system — Sympathy, which has genuine internal logic and costs — will satisfy the same part of your brain. Kvothe is a more literary creation than Vin but equally compelling. [Full reading guide here.](https://www.litloop.co/blog/patrick-rothfuss-books-in-order)
+Slower and more character-focused than Mistborn, but the magic system — Sympathy, which has genuine internal logic and costs — will satisfy the same part of your brain. Kvothe is a more literary creation than Vin but equally compelling. [Full reading guide here.](https://www.litloop.co/blog/patrick-rothfuss-books-in-order/)
 
 <button data-buy-book data-title="The Name of the Wind" data-author="Patrick Rothfuss">Buy The Name of the Wind</button>
 
@@ -54,7 +54,7 @@ Slower and more character-focused than Mistborn, but the magic system — Sympat
 
 ## 5. Senlin Ascends — Josiah Bancroft
 
-The heist-and-mystery DNA is different here, but the sense of a beautifully constructed world being revealed one layer at a time — and a plot that pays off every setup it makes — is strongly present. The Books of Babel is the best-kept secret in current fantasy. [Full review here.](https://www.litloop.co/blog/senlin-ascends-review)
+The heist-and-mystery DNA is different here, but the sense of a beautifully constructed world being revealed one layer at a time — and a plot that pays off every setup it makes — is strongly present. The Books of Babel is the best-kept secret in current fantasy. [Full review here.](https://www.litloop.co/blog/senlin-ascends-review/)
 
 <button data-buy-book data-title="Senlin Ascends" data-author="Josiah Bancroft">Buy Senlin Ascends</button>
 
@@ -70,7 +70,7 @@ A standalone Sanderson set in an alternate-history United States, where Rithmati
 
 ## 7. The First Law Trilogy — Joe Abercrombie
 
-If what you valued in Mistborn was the subversion of expected fantasy outcomes — the way Sanderson sets up tropes and then does something unexpected with them — Abercrombie is the author who does this most ruthlessly. Darker in tone, less optimistic in worldview, equally excellent. [Full review here.](https://www.litloop.co/blog/the-blade-itself-review)
+If what you valued in Mistborn was the subversion of expected fantasy outcomes — the way Sanderson sets up tropes and then does something unexpected with them — Abercrombie is the author who does this most ruthlessly. Darker in tone, less optimistic in worldview, equally excellent. [Full review here.](https://www.litloop.co/blog/the-blade-itself-review/)
 
 <button data-buy-book data-title="The First Law Trilogy" data-author="Joe Abercrombie">Buy The First Law Trilogy</button>
 
@@ -78,7 +78,7 @@ If what you valued in Mistborn was the subversion of expected fantasy outcomes �
 
 ## 8. The Faithful and the Fallen — John Gwynne
 
-The satisfying complete-story structure and the sense of a world genuinely at stake are shared with Mistborn. Gwynne's four-book series has a similar feel of epic stakes delivered through intimate character work, and the ending pays off its four-book setup. [Full review here.](https://www.litloop.co/blog/malice-by-john-gwynne-review)
+The satisfying complete-story structure and the sense of a world genuinely at stake are shared with Mistborn. Gwynne's four-book series has a similar feel of epic stakes delivered through intimate character work, and the ending pays off its four-book setup. [Full review here.](https://www.litloop.co/blog/malice-by-john-gwynne-review/)
 
 <button data-buy-book data-title="The Faithful and the Fallen" data-author="John Gwynne">Buy The Faithful and the Fallen</button>
 
@@ -94,13 +94,13 @@ Listed separately from the Stormlight Archive entry above because it deserves it
 
 ## 10. The Divine Cities — Robert Jackson Bennett
 
-For readers who loved the way Mistborn used its magic system to explore questions about oppression and liberation — the Divine Cities trilogy does the same thing through a different lens, asking what it means to live after the gods are dead and who gets to control the story of what they were. [Full review here.](https://www.litloop.co/blog/the-divine-cities-trilogy-review)
+For readers who loved the way Mistborn used its magic system to explore questions about oppression and liberation — the Divine Cities trilogy does the same thing through a different lens, asking what it means to live after the gods are dead and who gets to control the story of what they were. [Full review here.](https://www.litloop.co/blog/the-divine-cities-trilogy-review/)
 
 <button data-buy-book data-title="The Divine Cities" data-author="Robert Jackson Bennett">Buy The Divine Cities</button>
 
 ### You Might Also Like
 
-- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson)
-- [Words of Radiance Review](https://www.litloop.co/blog/words-of-radiance-review)
-- [10 Best Fantasy Books Like The Blade Itself](https://www.litloop.co/blog/best-fantasy-books-like-the-blade-itself)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [11 of the Best Books by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson/)
+- [Words of Radiance Review](https://www.litloop.co/blog/words-of-radiance-review/)
+- [10 Best Fantasy Books Like The Blade Itself](https://www.litloop.co/blog/best-fantasy-books-like-the-blade-itself/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)

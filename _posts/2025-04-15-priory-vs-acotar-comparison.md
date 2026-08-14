@@ -22,9 +22,9 @@ The short version: they're much more different than they appear on the surface. 
 
 ## The Basics
 
-**The Priory of the Orange Tree** by Samantha Shannon is a standalone epic fantasy — 848 pages, complete story, no sequels required. It's influenced by East Asian mythology, features three female POV characters, and is fundamentally a book about the politics of religion and the relationship between different cultures. The romance is present but not the engine. [Full review here.](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review)
+**The Priory of the Orange Tree** by Samantha Shannon is a standalone epic fantasy — 848 pages, complete story, no sequels required. It's influenced by East Asian mythology, features three female POV characters, and is fundamentally a book about the politics of religion and the relationship between different cultures. The romance is present but not the engine. [Full review here.](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review/)
 
-**A Court of Thorns and Roses** by Sarah J. Maas is the first book in a five-book series. It begins as a Beauty and the Beast retelling, becomes something considerably more adult and explicit by Book 2, and has a romantic relationship — several, actually — at its absolute centre. The world-building is rich but the emotional core is the love story. [Full series guide here.](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
+**A Court of Thorns and Roses** by Sarah J. Maas is the first book in a five-book series. It begins as a Beauty and the Beast retelling, becomes something considerably more adult and explicit by Book 2, and has a romantic relationship — several, actually — at its absolute centre. The world-building is rich but the emotional core is the love story. [Full series guide here.](https://www.litloop.co/blog/sarah-j-maas-books-in-order/)
 
 ---
 
@@ -60,7 +60,7 @@ Both books feature female protagonists in secondary world fantasy settings with 
 
 ### You Might Also Like
 
-- [The Priory of the Orange Tree Review](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review)
-- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order)
-- [20 Best Dragon Books for Adults](https://www.litloop.co/blog/best-dragon-books)
-- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series)
+- [The Priory of the Orange Tree Review](https://www.litloop.co/blog/the-priory-of-the-orange-tree-review/)
+- [Sarah J. Maas Books in Order](https://www.litloop.co/blog/sarah-j-maas-books-in-order/)
+- [20 Best Dragon Books for Adults](https://www.litloop.co/blog/best-dragon-books/)
+- [The Best Fantasy Book Series of All Time](https://www.litloop.co/blog/best-fantasy-series/)

@@ -77,7 +77,7 @@ My honest recommendation: read books one through four and treat book five onward
 
 ### You Might Also Like
 
-- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order)
-- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review)
-- [Black House Review](https://www.litloop.co/blog/black-house-review)
-- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review)
+- [Stephen King Books in Order](https://www.litloop.co/blog/stephen-king-books-in-order/)
+- [IT by Stephen King Review](https://www.litloop.co/blog/stephen-king-it-review/)
+- [Black House Review](https://www.litloop.co/blog/black-house-review/)
+- [Heart-Shaped Box by Joe Hill Review](https://www.litloop.co/blog/heart-shaped-box-review/)

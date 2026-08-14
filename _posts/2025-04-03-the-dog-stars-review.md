@@ -60,7 +60,7 @@ When Hig follows the radio signal and discovers there are people beyond his rang
 
 ### You Might Also Like
 
-- [Seveneves Review](https://www.litloop.co/blog/seveneves-review)
-- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review)
-- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review)
-- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin)
+- [Seveneves Review](https://www.litloop.co/blog/seveneves-review/)
+- [The Long Way to a Small, Angry Planet Review](https://www.litloop.co/blog/the-long-way-to-a-small-angry-planet-review/)
+- [Empire of Silence Review](https://www.litloop.co/blog/empire-of-silence-review/)
+- [The Best Sci-Fi Books by Ursula K Le Guin](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin/)
