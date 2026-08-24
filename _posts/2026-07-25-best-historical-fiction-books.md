@@ -3,7 +3,7 @@ title: The Best Historical Fiction Books (2026 Guide)
 description: "15 of the best historical fiction books of all time, from Wolf Hall to Kindred, with ratings, adaptations, and where to start."
 image: https://m.media-amazon.com/images/I/71GAuaRCtbL._SL1500_.jpg
 date: 2026-07-26
-category: Historical Fiction
+genre: Historical Fiction
 author: Ben Luxon
 ---
 

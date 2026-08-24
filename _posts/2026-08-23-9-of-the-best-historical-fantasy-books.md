@@ -3,7 +3,7 @@ layout: post
 title: "9 of the Best Historical Fantasy Books"
 date: 2026-08-23
 category: Guides
-genre: Fantasy, Historical Fantasy
+genre: Fantasy, Historical Fiction
 excerpt: "Nine historical fantasy novels, grouped by what their magic is actually doing: propping up an empire, holding onto a folklore that's being erased, or making an argument the history books left out."
 image: "https://covers.openlibrary.org/b/isbn/0063021420-L.jpg"
 permalink: /blog/best-historical-fantasy-books/
