@@ -216,10 +216,10 @@ For anyone deciding what to prioritise, here's how the full catalogue scores wit
 
 The Last Graduate edges out the rest of the catalogue in terms of ratings, and Will Supervillains Be on the Final? is the clear outlier at the bottom, less a knock on the writing than a sign it was reaching for a different audience entirely.
 
-## Where Should You Actually Start?
+## Naomi Novik, Where Should You Start?
 
 If you want dragons, war, and a slow-burn found-family plot that takes nine books to pay off properly, start with _His Majesty's Dragon_ and commit to the whole run, Temeraire doesn't reward skipping ahead. 
 
 If you want something darker, faster, and finished in three books, the Scholomance is the better entry point, and _A Deadly Education_ is one of the strongest opening chapters in recent fantasy. And if you just want to know what the fuss is about without signing up for a series at all, _Uprooted_ or _Spinning Silver_ will tell you everything you need to know about why people keep putting Novik on their reading lists without needing to track a second or third book down afterwards.
 
-Whichever door you go through, log it before you forget half the dragon names like I did somewhere around book six. [Litloop's](https://www.litloop.co) currently-reading shelf exists for exactly this problem, and it's a much better place to rant about Laurence's decision-making than a group chat that's moved on to something else.
+Whichever door you go through, log it before you forget half the dragon names like I did somewhere around book six. [Litloop's](https://www.litloop.co) currently-reading shelf exists for exactly this problem, and it's a much better place to rant about Laurence's decision-making than a group chat that's moved on to something else. 
