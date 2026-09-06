@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Fantasy Book Series of All Time (Our Top Picks)"
-date: 2025-03-11
+date: 2026-09-04
 category: Book Recommendations
 genre: Fantasy
 excerpt: "From Tolkien to Abercrombie, Sanderson to Hobb — our opinionated list of the best fantasy book series ever written, with a personal take on each."
@@ -43,7 +43,7 @@ The series that dragged fantasy kicking and screaming into moral ambiguity. Aber
 
 ## 3. The Stormlight Archive — Brandon Sanderson
 
-Sanderson is the most ambitious fantasy writer working today and *The Stormlight Archive* is his masterpiece in progress. Four books in, with six planned, it's already one of the great fantasy epics — enormous in scope, meticulously constructed, and emotionally devastating in a way Sanderson's detractors rarely acknowledge. Kaladin's arc across the first two books is some of the best character writing in modern fantasy.
+Sanderson is the most ambitious fantasy writer working today and *The Stormlight Archive* is his masterpiece. With *Wind and Truth* (2024), the first five-book arc is now complete — enormous in scope, meticulously constructed, and emotionally devastating in a way Sanderson's detractors rarely acknowledge. Kaladin's arc across the series is some of the best character writing in modern fantasy, and a second arc is still to come.
 
 <button data-buy-book data-title="The Stormlight Archive" data-author="Brandon Sanderson">Buy The Stormlight Archive</button>
 
@@ -107,7 +107,7 @@ The most divisive entry on this list. Prince of Thorns opens with a scene that w
 
 ## Honourable Mentions
 
-A list of ten can't hold everything. Worth knowing about: *The Wheel of Time* (Robert Jordan), *The Gentleman Bastard Sequence* (Scott Lynch), *The Realm of the Elderlings* (Robin Hobb), *The Bloodsworn Saga* (John Gwynne), and *The Sun Eater* (Christopher Ruocchio).
+A list of ten can't hold everything. Worth knowing about: *The Wheel of Time* (Robert Jordan), *The Gentleman Bastard Sequence* (Scott Lynch), *The Realm of the Elderlings* (Robin Hobb), *The Bloodsworn Saga* (John Gwynne), *The Sun Eater* (Christopher Ruocchio), *The Roots of Chaos* (Samantha Shannon, starting with *The Priory of the Orange Tree*), and Mark Lawrence's *Library Trilogy*, which wrapped up in 2025 with *The Book That Held Her Heart*.
 
 ### You Might Also Like
 

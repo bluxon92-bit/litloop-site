@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Read David Gemmell's Drenai Series"
-date: 2025-09-12
+date: 2026-09-02
 category: Author Profiles
 genre: Fantasy
 excerpt: "David Gemmell's Drenai Series reading order — how to tackle the heroic fantasy series that defined a genre. Start here."
@@ -29,7 +29,9 @@ I always generally suggest reading a series in publication order, simply because
 
 However, several of the books in this series can be read as standalone books, and for those of you not willing to commit to reading all 13, I've also picked my favourite (must-reads) towards the bottom of this article.
 
-**You Might Like:** [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
+**You Might Like:** [11 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/11-of-the-best-science-fiction-authors-that-everyone-should-read/)
+
+If you're weighing up where the Drenai fits into Gemmell's wider catalogue, our [guide to the best David Gemmell books](https://www.litloop.co/blog/best-david-gemmell-books/) ranks his ten essential novels across all his series, Drenai included.
 
 ## The Iron Code of Druss The Legend
 
@@ -53,7 +55,7 @@ When he receives a message begging him to come down from his mountaintop to help
 
 <button data-buy-book data-title="Legend" data-author="David Gemmell">Buy Legend</button>
 
-### 2. [The King Beyond the Gate ](https://amzn.to/3ZD9iEc)
+### 2. [The King Beyond the Gate](https://amzn.to/3ZD9iEc)
 
 Set years after Legend, in this story, the mighty fortress of Dros Delnoch has now fallen and a tyrannical mad Emperor has seized control of it. His twisted creations, Joinings, half man half beast roam the land, carrying out his evil will. However, there are always heroes to battle evil, and Tenaka Khan, a halfbreed himself, has a plan.
 
@@ -203,7 +205,7 @@ As mentioned already many of the stories in the Drenai series can be grouped log
 
 [Knights of Dark Renown](https://amzn.to/3LgXvb5)
 
-[Morningstar](https://www.amazon.com/dp/B004ZZJ9Y4) [Morningstar](https://amzn.to/3EYSn7t)
+[Morningstar](https://amzn.to/3EYSn7t)
 
 [The King Beyond the Gate](https://amzn.to/3ZD9iEc)
 

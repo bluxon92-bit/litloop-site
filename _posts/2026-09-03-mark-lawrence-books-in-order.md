@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mark Lawrence Books in Order: A Complete Reading Guide"
-date: 2025-03-19
+date: 2026-09-03
 category: Author Profiles
 genre: Fantasy
 excerpt: "Mark Lawrence has written five fantasy series — here's every book in order, where to start, and a personal take on each series."
@@ -14,7 +14,7 @@ image: "https://m.media-amazon.com/images/I/81VA7SoWDEL._SL1500_.jpg"
 
 ---
 
-Mark Lawrence is one of the most prolific and interesting fantasy authors working today. He writes fast, he writes dark, and he writes with a precision that makes even his most extreme material feel purposeful. Since his debut in 2011 he's published five separate fantasy series set in connected or overlapping worlds, plus standalone novels and short fiction.
+Mark Lawrence is one of the most prolific and interesting fantasy authors working today. He writes fast, he writes dark, and he writes with a precision that makes even his most extreme material feel purposeful. Since his debut in 2011 he's published five separate fantasy series set in connected or overlapping worlds, plus standalone novels and short fiction — and in 2026 he kicked off a sixth, the Academy of Kindness.
 
 Here's everything in the order I'd recommend reading it.
 
@@ -115,10 +115,24 @@ A companion series to Book of the Ancestor, following **Yaz** — a girl from a 
 Lawrence's most recent series, lighter in tone, set in a world-spanning library. Still in progress.
 
 ### 1. The Book That Wouldn't Burn (2023)
-### 2. The Book That Broke the World (2025)
-### 3. The Book That Held Her Heart (2026))
+### 2. The Book That Broke the World (2024)
+### 3. The Book That Held Her Heart (2025)
 
-<button data-buy-book data-title="The Book That Held Her Heart (2026))" data-author="Mark Lawrence">Buy The Book That Held Her Heart (2026))</button>
+The trilogy is now complete. Livira and Evar's story wraps up here, with Lawrence tying off the war at the heart of the library and, by most accounts, sticking the landing. If you started this series and stalled after book one or two, this is your sign to finish it.
+
+<button data-buy-book data-title="The Book That Held Her Heart" data-author="Mark Lawrence">Buy The Book That Held Her Heart</button>
+
+---
+
+## The Academy of Kindness (New Series)
+
+Lawrence's newest series, and a return to the pure grimdark of the Broken Empire after two lighter-toned trilogies. Still in progress.
+
+### 1. Daughter of Crows (2026)
+
+Every year, a hundred girls are sold to the Academy of Kindness to be forged into agents of retribution. Ten years later, only three survive. Decades on, one of those survivors — an old woman who thought she'd finally found peace — has war brought to her doorstep, and the past she buried refuses to stay buried. It's Lawrence at his darkest, and it hit the Sunday Times bestseller list at #3 on release. If you loved the moral bleakness of Prince of Thorns, start here.
+
+<button data-buy-book data-title="Daughter of Crows" data-author="Mark Lawrence">Buy Daughter of Crows</button>
 
 ---
 

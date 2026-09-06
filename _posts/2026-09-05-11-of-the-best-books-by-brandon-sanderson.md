@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "11 of the Best Books by Brandon Sanderson"
-date: 2023-08-03
+date: 2026-09-05
 category: Author Profiles
 genre: Fantasy
-excerpt: "Brandon Sanderson's best books ranked — from Mistborn to The Way of Kings. Where to start with the Cosmere and beyond."
+excerpt: "Brandon Sanderson's best books ranked — from Mistborn to The Way of Kings. Ten essential reads and where to start."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp"
 permalink: /blog/11-best-books-by-brandon-sanderson/
 ---
@@ -22,6 +22,8 @@ Brandon Sanderson is one of the best-selling fantasy authors of our time. With a
 With that being said, while some, like the Stormlight Archive, are vast and sprawling multi-volume series, many of the novels are excellent stand-alone fantasy books - so, where do you start? In this article, we take a look at 11 of the best Brandon Sanderson books to help guide you on the next step in your journey exploring this fantastic fantasy author.
 
 **Readers that like Brandon Sanderson may also like** [David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series/).
+
+If you're planning to read the whole Cosmere and want the full reading order rather than our picks, see our [complete Brandon Sanderson reading order guide](https://www.litloop.co/blog/brandon-sanderson-books-in-order/).
 
 ## 11 Best Brandon Sanderson Books
 
@@ -121,7 +123,7 @@ When one of the oppressed “snaps” and realises he has powers, he rises to th
 
 ![The Way of Kings (Book 1 of the Stormlight Archives) book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)
 
-The Way of Kings is Sanderson’s most ambitious series to date. A decade of planning and writing brings a rich world, a compelling narrative, and engaging characters.
+The Way of Kings is the opening volume of Sanderson's most ambitious series. With the release of *Wind and Truth* in December 2024, the first five-book arc of the Stormlight Archive is now complete, which makes this a genuinely good time to start - you can read the whole opening arc back to back without waiting on the next instalment. A decade of planning and writing brings a rich world, a compelling narrative, and engaging characters.
 
 The Knights Radiant have been gone from the world for centuries, but they left their mystical swords and armour (shards) behind. Men using these artefacts turn into near-invincible warriors and wars have been won and lost because of them. When King Gavilar is assassinated, the powerful kingdom of Alethkar, armed with more shards than anyone else, marches against the Parshendi in a war of retribution. The Parshendi a strange off-shoot of the Alethi slaves known as Parshmen, aren’t human. And the war on the shattered plains drags on for years.
 
@@ -135,7 +137,7 @@ The Way of Kings is a masterclass in originality. This epic fast-paced series is
 
 ## Which is Better: The Mistborn Series or Stormlight Archives?
 
-Ultimately, whether you prefer the Mistborn series or Stormligt Archives comes down to personal preference. Both series are gripping page-turners with compelling characters. To give you an idea of what I mean, I finished the first book in the Stormlight series, a vast 1,000 page epic, in less than a week.
+Ultimately, whether you prefer the Mistborn series or Stormlight Archive comes down to personal preference. Both series are gripping page-turners with compelling characters. To give you an idea of what I mean, I finished the first book in the Stormlight series, a vast 1,000 page epic, in less than a week. With *Wind and Truth* now out, the first arc of the Stormlight Archive is complete at five books, so you're no longer signing up for an open-ended commitment the way you were a couple of years ago.
 
 The Stormlight Archives’ [world-building](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building) is richer and more detailed. With thousands of years of history, highly original and disparate customs and cultures unique to specific geographic locations. Even the eco-systems are carefully thought out with plants and animals with hard carapaces designed to survive the terrifying high storms.
 
@@ -147,18 +149,22 @@ If I really had to choose which of the Mistborn series or Stormlight Archives wa
 
 If you’re looking for a standalone fantasy novel and a good introduction to Sanderson’s work, go with his first novel, Elantris. If you’re a fan of Sci-fi you might start with something like Skyward. Or if you’re more interested in something shorter, a psychological thriller like Legion may be for you.
 
-For lovers of epic fantasies though, you might want to start with either The Way of Kings or Mistborn. As discussed above both are great reads, though with the caveat, that The Mistborn series is a little easier, a little more compact (though by no means short), and maybe a more suitable option as an introduction - The Stormlight Archives embarking on a sprawling and truly vast narrative.
+For lovers of epic fantasies though, you might want to start with either The Way of Kings or Mistborn. As discussed above both are great reads, though with the caveat, that The Mistborn series is a little easier, a little more compact (though by no means short), and maybe a more suitable option as an introduction - The Stormlight Archives embarking on a sprawling and truly vast narrative, though now at least a complete one with the first arc finished.
+
+If you want the full picture of where everything fits, our [complete Brandon Sanderson reading order guide](https://www.litloop.co/blog/brandon-sanderson-books-in-order/) covers the whole shared universe, standalones included.
 
 ---
 
 ### You Might Like
 
 -
+  [Brandon Sanderson Books in Order: The Complete Cosmere Reading Order](https://www.litloop.co/blog/brandon-sanderson-books-in-order/)
+-
   [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories/)
 -
   [The Farseer Trilogy and Beyond: Robin Hobb's Books and Reading Order Explained](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond/)
 -
-  [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors/)
+  [11 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/11-of-the-best-science-fiction-authors-that-everyone-should-read/)
 -
   [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read/)
 [
