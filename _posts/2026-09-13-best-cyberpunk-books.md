@@ -16,7 +16,7 @@ image: "https://m.media-amazon.com/images/I/81pIICZO2PL._SL1500_.jpg"
 
 We're all familiar with the Cyberpunk aesthetic. Neon lights and skyscraper cities, hackers and augmented humans enhanced with futuristic tech stripped straight out of a fever dream. Bladerunner, the game Cyerpunks 2077, and a hundred other examples. High technology in the hands of the desperate, the criminal, and the forgotten. 
 
-The best cyberpunk books though, do more than lean into a glowing lights reflecting of diesel filled puddles. The genre cuts through the sometimes optimistic veneer of science fiction and asks the question, "What does all this new technology cost us, as people, and as a society?" The answer to this thought experiement, more often than not, is our humanity.
+The best cyberpunk books though, do more than lean into glowing lights reflecting off diesel-filled puddles. The genre cuts through the sometimes optimistic veneer of science fiction and asks the question, "What does all this new technology cost us, as people, and as a society?" The answer to this thought experiement, more often than not, is our humanity.
 
 Here are twelve of ny favourite cuberpunk novels, starting with the book that kicked it all off with the epic opening line, "The sky above the port was the color of television, tuned to a dead channel."
 
@@ -24,9 +24,9 @@ Here are twelve of ny favourite cuberpunk novels, starting with the book that ki
 
 ## 1. Neuromancer — William Gibson
 
-This is the novel that basically created the genre. Published in 1984, *Neuromancer* is about the ethereal digital reality of the burned-ou up hacker, Case, as he get's drawn into an impossible job, a job that involves a rogue AI and the kind of people who'd kill for sport. It is at it's heart a heist novel.
+This is the novel that basically created the genre. Published in 1984, *Neuromancer* is about the ethereal digital reality of the burned-out hacker, Case, as he get's drawn into an impossible job, a job that involves a rogue AI and the kind of people who kill for sport. It is at it's heart a heist novel.
 
-Gibson essentially invented the vocabulary of the genre still runs on. A vocabulary and prose that, to be honest, I found quite hard to get on with for the first few chapters, it's beautiful, and dense, and elliptical, unlike anything else in science fiction. Describing the physical experience of riding the internet as a virtual reality experience was never going to be an easy task after all. But, once you're tuned in and you grasp what he's doing, you're in. The Matrix wouldn't exist without it. The word "cyberspace" wouldn't exist without it. So, for sc-fi fans it's a must read.
+Gibson essentially invented the vocabulary the genre still runs on. A vocabulary and prose that, to be honest, I found quite hard to get on with for the first few chapters, it's beautiful, and dense, and elliptical, unlike anything else in science fiction. Describing the physical experience of riding the internet as a virtual reality experience was never going to be an easy task after all. But, once you're tuned in and you grasp what he's doing, you're in. The Matrix wouldn't exist without it. The word "cyberspace" wouldn't exist without it. So, for sc-fi fans it's a must read.
 
 <button data-buy-book data-title="Neuromancer" data-author="William Gibson">Buy Neuromancer</button>
 

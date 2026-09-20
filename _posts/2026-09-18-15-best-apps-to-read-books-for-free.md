@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "15 Best Apps to Read Books for Free"
-date: 2023-06-27
+date: 2026-09-18
 category: Reading Tips
 genre: Guides
 excerpt: "15 best apps to read books for free — Libby, Hoopla, Project Gutenberg and more. Read more without spending a penny."
@@ -38,7 +38,7 @@ By enabling the Scrolling View feature, you can vertically scroll through a book
 
 ## 4. Barnes & Noble Nook
 
-[The Nook app](https://www.barnesandnoble.com/h/apps), created for reading books, magazines, and other content from Barnes & Noble, is compatible with Windows, iOS, and Android platforms. Within the app, you can customise various aspects such as font style, font size, margins, line spacing, justification, and brightness settings.
+[The Nook app](https://www.barnesandnoble.com/h/apps) is compatible with iOS and Android, and can also be used through Nook for Web. Worth flagging if you're on a desktop: Barnes & Noble discontinued the standalone Nook app for Windows in late 2023, so it's no longer available to download — existing installs keep working for now, but new PC readers will need to use the web version instead. Within the mobile apps, you can customise various aspects such as font style, font size, margins, line spacing, justification, and brightness settings.
 
 Navigating through the book is made easy with a convenient slider bar located at the bottom, allowing you to smoothly move across pages or quickly jump to a specific page. When you tap and highlight a word, a definition appears. The Nook app offers a user-friendly reading experience with its extensive customisation options and intuitive features.
 
@@ -62,11 +62,11 @@ Libby offers a user-friendly ebook reading experience, empowering you to borrow 
 
 ## 7. FBReader
 
-FBReader offers the convenience of reading books from its own network library or importing books manually from other sources. The app is compatible with various formats, including PDF, ePub, Mobi, RTF, HTML, and plain text. It’s available for iOS, Android, Windows, and Linux platforms.
+FBReader offers the convenience of reading books from its own network library or importing books manually from other sources. The app is compatible with various formats, including PDF, ePub, Mobi, RTF, HTML, and plain text. It's available for iOS, Android, Windows, and Linux platforms.
 
 While reading an ebook, you have the flexibility to switch between light and dark themes, conduct text searches, change the orientation of the screen, and zoom in or out for better readability. You can customise text style, font size, margins, appearance, colour scheme, and page-turning preferences. You can further enhance FBReader by installing and integrating various apps and plugins, such as an offline dictionary and a PDF reader.
 
-The basic version of the app is free, but there is also a premium version available for $4.99. The premium version includes additional features like a text-to-speech reader, a translator, and built-in support for PDF and comic book formats.
+The basic version of the app is still free, but the premium tier — which strips ads and adds features like a built-in dictionary and text-to-speech — has gone up since we first wrote this, now running closer to $15 as a one-off purchase rather than the $5 it used to be. It's still a single payment with no subscription attached, so whatever you pay unlocks the features for good. FBReader has also been rolling out its own independent ebook store, so keep an eye out for that if you'd rather buy books without leaving the app.
 
 FBReader offers a versatile reading experience with its wide format compatibility and customizable settings, allowing you to enjoy your favourite books with ease.
 
@@ -74,7 +74,7 @@ FBReader offers a versatile reading experience with its wide format compatibilit
 
 [KyBook](http://kybook-reader.com), specifically designed for iOS, grants you access to diverse book catalogues, including renowned platforms like Project Gutenberg and Feedbooks. You have the ability to add additional online catalogues and import books from folders stored on your device or cloud-based storage services. The app supports a wide range of formats, such as ePUB, PDF, mobi, text, and RTF.
 
-The basic version of the app is free, and there is also an ad-free version available for a one-time payment of $4.99. The ad-free version unlocks additional features such as a dictionary, themes, auto-scrolling, and various other options. Furthermore, you have the option to subscribe for three months at $4.49 or for a full year at $14.99, granting you access to the KyBook cloud for book storage and syncing capabilities.
+The basic version of the app is free, and there is also an ad-free "Pro" unlock available as a one-time purchase, now priced closer to $6 rather than the $5 it used to be. The ad-free tier unlocks additional features such as a dictionary, themes, auto-scrolling, and various other options. Furthermore, you have the option to subscribe for three months at $4.49 or for a full year at $14.99, granting you access to the KyBook cloud for book storage and syncing capabilities.
 
 KyBook provides a versatile and customizable reading experience, allowing you to enjoy a vast collection of books with convenience and personalization options.
 
@@ -96,23 +96,23 @@ PocketBook Reader offers a comprehensive reading experience with its extensive f
 
 ## 11. Oodles
 
-[Oodles](https://oodlesbooks.com) is a free ebook software that provides access to a vast collection of downloadable books, offering a delightful experience for book enthusiasts. The interface is designed with user-friendliness in mind, ensuring a pleasant journey for readers. Moreover, the app allows you to search for books using various categories such as author, popularity, publisher, and more. Additionally, you have the flexibility to import ebooks in epub, Mobi, or text format from your phone, expanding your reading options.
+[Oodles](https://oodlesbooks.com) is a free ebook and audiobook app, now used by more than 5 million people on iOS and Android, offering a delightful experience for book enthusiasts. The interface is designed with user-friendliness in mind, ensuring a pleasant journey for readers. Moreover, the app allows you to search for books using various categories such as author, popularity, publisher, and more, across more than 100 categories. Additionally, you have the flexibility to import ebooks in epub, Mobi, or text format from your phone, expanding your reading options.
 
-To enhance the reading experience, Oodles enables customisation of font size, style, and background. This allows you to personalise the appearance of the text to suit your preferences and ensure a comfortable reading experience.
+To enhance the reading experience, Oodles enables customisation of font size, style, and background, along with offline reading and offline audiobook listening. This allows you to personalise the appearance of the text to suit your preferences and ensure a comfortable reading experience.
 
 Oodles presents an excellent opportunity for book lovers to explore a vast library of books, while also providing the ability to import ebooks and customise the reading settings according to individual preferences.
 
 ## 12. Wattpad
 
-[Wattpad](https://www.wattpad.com) offers a unique platform for users to write and publish their own works of fiction spanning all genres. This opens up a world of creative possibilities, allowing readers to immerse themselves in a wide range of captivating stories, from fiction and poetry to action and adventure.
+[Wattpad](https://www.wattpad.com) offers a unique platform for users to write and publish their own works of fiction spanning all genres. This opens up a world of creative possibilities, allowing readers to immerse themselves in a wide range of captivating stories, from fiction and poetry to action and adventure. Wattpad is now owned by WEBTOON Entertainment, and its old pay-to-unlock-chapters model, Paid Stories, has since been replaced with a freemium program called Wattpad Originals, which lets authors put select chapters behind a paywall while keeping most of the platform free to browse.
 
 What sets Wattpad apart is its extensive collection of categorised stories and diverse forms of content. Whether you're seeking a specific genre or exploring new literary realms, Wattpad provides a wealth of options to cater to your reading preferences.
 
-Over the years, Wattpad has solidified its reputation and earned its rightful place among the best reading apps available, thanks to its innovative approach and dedication to fostering a vibrant community of readers and writers. However, it doesn’t offer the ability o import additional books.
+Over the years, Wattpad has solidified its reputation and earned its rightful place among the best reading apps available, thanks to its innovative approach and dedication to fostering a vibrant community of readers and writers. However, it doesn't offer the ability to import additional books.
 
 ## 13. Litsy
 
-[Litsy](https://www.litsy.com) is less of a reading app and more of a place where you can [find great book recommendations](https://www.litloop.co). Its a vibrant community of readers, authors, and influencers who can come together to share brief posts, known as "reading moments," that are intricately linked to specific books. These posts encompass engaging blurbs, captivating images, inspiring quotations, and insightful reviews.
+[Litsy](https://www.litsy.com) is less of a reading app and more of a place where you can [find great book recommendations](https://www.litloop.co). It's a vibrant community of readers, authors, and influencers who can come together to share brief posts, known as "reading moments," that are intricately linked to specific books. These posts encompass engaging blurbs, captivating images, inspiring quotations, and insightful reviews.
 
 To foster connections within the community, Litsy employs a unique approach. Users are required to request usernames from their friends and manually locate them using the search feature in order to follow one another. This personal touch adds a sense of exclusivity and allows users to curate their reading circle with individuals they genuinely resonate with.
 
@@ -120,7 +120,7 @@ Litsy offers a distinct platform where users can share their love for books, dis
 
 ## 14. Inkitt
 
-[Inkitt](https://www.inkitt.com) offers access to a vast library of free novels encompassing various genres, predominantly authored by undiscovered writers. With Inkitt, you can delve into a diverse collection of books, ranging from romance and mystery to science fiction and beyond.
+[Inkitt](https://www.inkitt.com) offers access to a vast library of free novels encompassing various genres, predominantly authored by undiscovered writers. With Inkitt, you can delve into a diverse collection of books, ranging from romance and mystery to science fiction and beyond. Stories that perform well on Inkitt can also get picked up by its sister app Galatea, which adapts them into serialised, sound-effect-and-artwork-enhanced episodes for a more mobile-first reading experience, and Inkitt has since added a subscription option that lets writers put select stories behind a paywall for their most dedicated readers.
 
 One of the standout features of this app is its capability to download books, enabling you to enjoy your favourite reads offline at your convenience. This flexibility allows you to immerse yourself in captivating stories anytime, anywhere, even when an internet connection is not available.
 
@@ -130,7 +130,7 @@ Inkitt presents an excellent platform for book enthusiasts to discover new autho
 
 ![15 Best Apps to Read Books for Free cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381458/lore-olympus_ssytrq.webp)
 
-[Webtoon](https://www.webtoons.com/en/) is something a little bit different to the rest of this list offering access to a vast collection of free webcomics. Including break-out successes like [Tower of God by Lee Jong-hui](https://www.webtoons.com/en/fantasy/tower-of-god/list?page=1&title_no=95) and [Lore Olympus by by Rachel Smythe](https://www.litloop.co/blog/best-books-about-greek-mythology/), Webtoon, offers access to a vast collection of incredible stories with stunning artwork. From romance and fantasy to action and comedy, there is something for every reader's taste.
+[Webtoon](https://www.webtoons.com/en/) is something a little bit different to the rest of this list offering access to a vast collection of free webcomics. Including break-out successes like [Tower of God by Lee Jong-hui](https://www.webtoons.com/en/fantasy/tower-of-god/list?page=1&title_no=95) and [Lore Olympus by by Rachel Smythe](https://www.litloop.co/blog/best-books-about-greek-mythology/), Webtoon, offers access to a vast collection of incredible stories with stunning artwork. From romance and fantasy to action and comedy, there is something for every reader's taste. Webtoon's parent company, WEBTOON Entertainment, also owns Wattpad (see #12 above), so the two platforms increasingly cross-promote each other's stories and adaptations.
 
 One of the most remarkable aspects of this app is its seamless online reading experience. You can easily dive into the world of webcomics and enjoy them directly on your device, without the need for additional downloads. The user-friendly interface and intuitive navigation make it a breeze to explore different series, catch up on episodes, and discover new favourites.
 
@@ -146,11 +146,7 @@ So, why wait? Embrace the power of technology and embark on a reading journey li
 
 ### You Might Also Like
 
--
-  [The 25 Best Space Opera Books Ever Written](https://www.litloop.co/blog/best-space-opera-books/)
--
-  [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king/)
--
-  [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love/)
--
-  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter/)
+- [The 25 Best Space Opera Books Ever Written](https://www.litloop.co/blog/best-space-opera-books/)
+- [5 Bone-Chilling Horror Short Story Collections By Stephen King](https://www.litloop.co/blog/bone-chilling-horror-short-story-collections-by-stephen-king/)
+- [6 Books Like The Alchemist You're Sure To Love](https://www.litloop.co/blog/6-books-like-the-alchemist-youre-sure-to-love/)
+- [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter/)
