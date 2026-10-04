@@ -8,6 +8,8 @@ excerpt: "The 10 best Viking historical fiction books, from Bernard Cornwell to 
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1791150787/viking-historical-fiction-header_1_1_imk5b1.jpg"
 ---
 
+![Covers of The Last Kingdom, The Half-Drowned King and Raven: Blood Eye](https://res.cloudinary.com/dnkddcxrt/image/upload/v1791150787/viking-historical-fiction-header_1_1_imk5b1.jpg)
+
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*
 
 ---
