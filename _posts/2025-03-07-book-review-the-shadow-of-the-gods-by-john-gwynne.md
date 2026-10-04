@@ -36,7 +36,7 @@ The connection I felt to the characters in The Shadow of the Gods, reminiscent o
 
 ## The Shadow of the Gods Summary – 5/5
 
-John Gwynne showcases his exceptional prowess as a fantasy writer in The Shadow of the Gods. With its compelling characters, meticulously crafted world, and a gripping narrative that maintains a satisfying pace throughout, this book is sure to captivate readers for hundreds of pages. Whether you are a devoted fantasy enthusiast or not, I wholeheartedly recommend immersing yourself in the brilliance of this standalone novel.
+John Gwynne showcases his exceptional prowess as a fantasy writer in The Shadow of the Gods. With its compelling characters, meticulously crafted world, and a gripping narrative that maintains a satisfying pace throughout, this book is sure to captivate readers for hundreds of pages. Whether you are a devoted fantasy enthusiast or not, I wholeheartedly recommend immersing yourself in the brilliance of this novel (and the rest of the trilogy).
 
 Gwynne's mastery shines through in the seamless pacing and expertly woven plot threads. The narrative unfolds with a perfect balance of action, suspense, and character development, ensuring that every page holds something intriguing and significant. From epic battles to heartfelt moments of introspection, the story never fails to captivate, leaving readers eager to unravel the mysteries and witness the destinies of the characters unfold.
 
