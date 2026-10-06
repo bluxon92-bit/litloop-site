@@ -30,7 +30,7 @@ Characters play a crucial role in the success of a book, and The Shadow of the G
 
 While the main characters generally maintain a serious demeanour, moments of levity emerge, particularly through Varg's wit. Their primary purpose, however, is to drive the plot forward, with occasional opportunities for comedic relief. Nevertheless, this does not undermine their depth or complexity. Gwynne skillfully reveals their backstories and personalities through actions, avoiding information dumps or clichéd dialogue. As readers delve deeper into their journeys, unexpected displays of emotion, tears welling up or anger flaring, reveal hidden depths and unforeseen connections.
 
-Additionally, The Shadow of the Gods introduces well-executed comedy characters who alleviate the weight of the main characters' intense storylines and arduous journeys. Through amusing anecdotes and witty remarks, they inject much-needed lightness when required, skillfully diffusing tension.
+Additionally, The Shadow of the Gods introduces well-executed comedy characters who alleviate the weight of the main characters' intense storylines and arduous journeys. Through amusing anecdotes and witty remarks, they inject much-needed lightness when required, skillfully defusing tension.
 
 The connection I felt to the characters in The Shadow of the Gods, reminiscent of my discovery of fantasy master Brandon Sanderson's works, is profound. Not only does the book capture the imagination through its world-building, but it also introduces a cast of characters who will undoubtedly leave a lasting impression, immersing readers in their captivating stories.
 
