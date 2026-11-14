@@ -13,7 +13,7 @@ permalink: /blog/30-best-books-for-entreprenuers/
 
 ![Zero to One by Peter Thiel book cover](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381464/zero-to-one_jpts70.webp)
 
-Zero to One, by investor and entrepreneur Peter Thiel,  is all about teaching people the importance of thinking for yourself. The next Mark Zuckerberg isn’t going to build a new social media channel. Rather they are going to think outside the box, and instead of building on current ideas, they will develop entirely new way of thinking. Instead of competing in a ruthless marketplace, create and own a new market place.
+Zero to One, by investor and entrepreneur Peter Thiel,  is all about teaching people the importance of thinking for yourself. The next Mark Zuckerberg isn’t going to build a new social media channel. Rather they are going to think outside the box, and instead of building on current ideas, they will develop entirely new way of thinking. Instead of competing in a ruthless marketplace, create and own a new market place. 
 
 <button data-buy-book data-title="Zero to One - Peter Thiel" data-author="">Buy Zero to One - Peter Thiel</button>
 

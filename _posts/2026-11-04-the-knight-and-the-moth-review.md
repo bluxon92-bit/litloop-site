@@ -42,7 +42,7 @@ I wanted to know whether the book lives up to the cover. Short answer: mostly, w
 
 ## What is The Knight and the Moth about?
 
-Sybill Delling, who everyone calls Six, is one of six diviners living at Aisling Cathedral in the kingdom of Traum. She can't remember much of her life before the cathedral. What she does have is almost ten years of drowning and dreaming, which is how the diviners learn the fates of the pilgrims who travel there. Her service is nearly over, and the six of them have started to wonder what comes next.
+Sybill Delling, who [everyone](https://) calls Six, is one of six diviners living at Aisling Cathedral in the kingdom of Traum. She can't remember much of her life before the cathedral. What she does have is almost ten years of drowning and dreaming, which is how the diviners learn the fates of the pilgrims who travel there. Her service is nearly over, and the six of them have started to wonder what comes next.
 
 Then the new young king visits and brings a knight with him. Roderick Myndacious is brash, irreverent and openly unimpressed by the diviners and their dreams. Sybill hopes he leaves quickly. Instead her fellow diviners begin to vanish one by one, and she runs out of people to turn to. That leaves her with the king and his very difficult knight, and a quest to find out who is behind it.
 
