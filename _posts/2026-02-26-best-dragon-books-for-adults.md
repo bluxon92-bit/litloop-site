@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "20 best dragon books for adults — from Pern to Temeraire. Epic fantasy featuring dragons as they were meant to be written."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/best-dragon-books-1-_r8b1jh.png"
 permalink: /blog/best-dragon-books/
+seo:
+  keyword: 20 best dragon books for adults
 ---
 
 ![20 Best Dragon Books For Adults cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/best-dragon-books-1-_r8b1jh.png)

@@ -7,6 +7,8 @@ genre: Horror
 excerpt: "Stephen King's best short story collections ranked — Night Shift, Skeleton Crew, Nightmares & Dreamscapes and more."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/scary-short-story-2-1-_f94dp0.jpg"
 permalink: /blog/bone-chilling-horror-short-story-collections-by-stephen-king/
+seo:
+  keyword: 5 bone-chilling horror short story collections
 ---
 
 ![5 Bone-Chilling Horror Short Story Collections By Stephen King cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/scary-short-story-2-1-_f94dp0.jpg)

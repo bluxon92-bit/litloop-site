@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Fantasy
 excerpt: "Mark Lawrence has written five fantasy series — here's every book in order, where to start, and a personal take on each series."
 image: "https://m.media-amazon.com/images/I/81VA7SoWDEL._SL1500_.jpg"
+seo:
+  keyword: mark lawrence books in order
 ---
 
 ![Mark Lawrence Books in Order](https://m.media-amazon.com/images/I/81VA7SoWDEL._SL1500_.jpg)

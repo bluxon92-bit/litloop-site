@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Blacktongue Thief is the fantasy debut that caught everyone by surprise. Here's our review of Christopher Buehlman's gripping, voice-driven opener."
 image: "https://m.media-amazon.com/images/I/8143vHubDLL._SL1500_.jpg"
+seo:
+  keyword: the blacktongue thief review
 ---
 
 ![The Blacktongue Thief by Christopher Buehlman](https://m.media-amazon.com/images/I/8143vHubDLL._SL1500_.jpg)

@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Fantasy
 excerpt: "If you loved The Blade Itself and want more morally complex, darkly funny, brilliantly written fantasy — here are 10 books that hit the same notes."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/books-like-blade-itself_oeibik.jpg"
+seo:
+  keyword: 10 best fantasy books like the
 ---
 
 ![Books Like The Blade Itself](https://res.cloudinary.com/dnkddcxrt/image/upload/books-like-blade-itself_oeibik.jpg)

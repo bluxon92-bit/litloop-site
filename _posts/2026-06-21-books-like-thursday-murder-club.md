@@ -7,6 +7,8 @@ genre: Crime
 excerpt: "Loved The Thursday Murder Club? Here are 10 books with the same warmth, wit and amateur sleuthing. From Agatha Christie to the Marlow Murder Club."
 image: "https://m.media-amazon.com/images/I/71zrZf-nvTL._SL1500_.jpg"
 permalink: /blog/books-like-thursday-murder-club/
+seo:
+  keyword: books like the thursday murder club
 ---
 
 ![Books Like The Thursday Murder Club](https://m.media-amazon.com/images/I/71zrZf-nvTL._SL1500_.jpg)

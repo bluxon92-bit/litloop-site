@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Fantasy
 excerpt: "Loved Mistborn? Here are 10 fantasy novels that share its magic systems, tight plotting, satisfying endings, and propulsive pace — the best books to read next."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/books-like-mistborn_atokow.jpg"
+seo:
+  keyword: 10 best books like mistborn
 ---
 
 ![Books Like Mistborn](https://res.cloudinary.com/dnkddcxrt/image/upload/books-like-mistborn_atokow.jpg)

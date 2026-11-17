@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Assassin's Apprentice by Robin Hobb reviewed. The Farseer Trilogy's brilliant opening and why it's essential fantasy reading."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-trilogy-1-_gf4uhi.jpg"
+seo:
+  keyword: assassin's apprentice
 ---
 
 ![Book Review: Assassin's Apprentice by Robin Hobb cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-trilogy-1-_gf4uhi.jpg)

@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "Harry Potter and the Cursed Child reviewed — should you read it? An honest verdict on the stage play turned novel."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/cursed-child-cover_ztjxpq.jpg"
 permalink: /blog/cursed-child-review/
+seo:
+  keyword: harry potter and the cursed child review
 ---
 
 ![Harry Potter and the Cursed Child](https://res.cloudinary.com/dnkddcxrt/image/upload/cursed-child-cover_ztjxpq.jpg)

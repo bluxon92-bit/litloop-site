@@ -7,6 +7,8 @@ genre: Fantasy, LitRPG
 excerpt: "A full review of all 8 Dungeon Crawler Carl books by Matt Dinniman. Series overview, every book summarised, ranked, and honestly assessed. Read this first."
 image: "https://m.media-amazon.com/images/I/81ORAuLzfEL._SL1500_.jpg"
 permalink: /blog/dungeon-crawler-carl-series-review/
+seo:
+  keyword: dungeon crawler carl series review
 ---
 
 ![Dungeon Crawler Carl](https://m.media-amazon.com/images/I/81ORAuLzfEL._SL1500_.jpg)

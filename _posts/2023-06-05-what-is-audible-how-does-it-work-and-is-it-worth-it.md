@@ -7,6 +7,8 @@ genre: Guides
 excerpt: "Audible explained — what it is, how it works, how credits work, and whether it's worth the subscription cost in 2025."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381456/audiobook-2-1-_z2sagt.webp"
 permalink: /blog/is-audible-worth-it/
+seo:
+  keyword: audible how does it work
 ---
 
 ![What is Audible, How Does it Work, And Is It Worth it? cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381456/audiobook-2-1-_z2sagt.webp)

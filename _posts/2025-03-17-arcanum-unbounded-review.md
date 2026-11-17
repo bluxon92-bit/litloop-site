@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Arcanum Unbounded collects Sanderson's Cosmere novellas in one volume. Here's our review — and whether you should read it before or after the main series."
 image: "https://m.media-amazon.com/images/I/518BNeXGm2L._SY445_SX342_ML2_.jpg"
+seo:
+  keyword: arcanum unbounded review
 ---
 
 ![Arcanum Unbounded by Brandon Sanderson](https://m.media-amazon.com/images/I/518BNeXGm2L._SY445_SX342_ML2_.jpg)

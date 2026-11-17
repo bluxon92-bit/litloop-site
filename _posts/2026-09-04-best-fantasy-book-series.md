@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "From Tolkien to Abercrombie, Sanderson to Hobb — our opinionated list of the best fantasy book series ever written, with a personal take on each."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/best-fantasy-series_yzp4gm.jpg"
 permalink: /blog/best-fantasy-series/
+seo:
+  keyword: the best fantasy book series of
 ---
 
 ![The Best Fantasy Book Series of All Time](https://res.cloudinary.com/dnkddcxrt/image/upload/best-fantasy-series_yzp4gm.jpg)

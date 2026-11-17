@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Science Fiction
 excerpt: "Empire of Silence is the sci-fi epic that deserves far more attention. Here's our review of Christopher Ruocchio's debut — and why it's essential reading."
 image: "https://m.media-amazon.com/images/I/91+uYGSqNCL._SL1500_.jpg"
+seo:
+  keyword: empire of silence review
 ---
 
 ![Empire of Silence by Christopher Ruocchio](https://res.cloudinary.com/dnkddcxrt/image/upload/empire-of-silence-cover.jpg)

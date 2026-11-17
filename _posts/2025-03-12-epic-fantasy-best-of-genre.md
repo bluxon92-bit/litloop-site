@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Fantasy
 excerpt: "What makes epic fantasy great? And where should you start? Our guide to the genre — from the defining classics to the best of the current generation."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/epic-fantasy-guide_w5rswh.jpg"
+seo:
+  keyword: epic fantasy
 ---
 
 ![Epic Fantasy: A Guide to the Best Books in the Genre](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/epic-fantasy-guide_w5rswh.jpg)

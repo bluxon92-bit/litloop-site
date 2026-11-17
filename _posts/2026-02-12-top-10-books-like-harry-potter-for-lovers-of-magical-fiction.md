@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "Books like Harry Potter for fans of magical fiction — 10 picks that capture the wonder, adventure, and heart of the series."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/harry-potter-1-_rm3zw9.webp"
 permalink: /blog/books-like-harry-potter/
+seo:
+  keyword: top 10 books like harry potter
 ---
 
 ![Top 10 Books Like Harry Potter For Lovers of Magical Fiction cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/harry-potter-1-_rm3zw9.webp)

@@ -8,6 +8,8 @@ excerpt: "Every Conn Iggulden series in order: Julius Caesar, Genghis Khan, anci
 image: "https://m.media-amazon.com/images/I/91j+8AisEZL._SL1500_.jpg"
 permalink: /blog/conn-iggulden-books-in-order/
 author: Ben Luxon
+seo:
+  keyword: conn iggulden books in order
 ---
 
 ![The Gates of Rome by Conn Iggulden book cover](https://m.media-amazon.com/images/I/91j+8AisEZL._SL1500_.jpg)

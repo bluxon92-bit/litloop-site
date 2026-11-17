@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Rhythm of War by Brandon Sanderson reviewed — Stormlight Archive book 4 is his most personal and ambitious entry yet."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/rhythm-of-war-cover_dsgkez.jpg"
+seo:
+  keyword: rhythm of war review
 ---
 
 ![Rhythm of War by Brandon Sanderson](https://res.cloudinary.com/dnkddcxrt/image/upload/rhythm-of-war-cover_dsgkez.jpg)

@@ -6,6 +6,8 @@ category: Recommendations
 genre: Crime
 excerpt: "The best Agatha Christie books ranked. Poirot, Miss Marple, and standalone classics. Where to start, what to read next, and which ones are genuinely worth your time."
 image: "https://m.media-amazon.com/images/I/71E1IV89mYL._SL1500_.jpg"
+seo:
+  keyword: the best agatha christie books ranked
 ---
 
 ![Best Agatha Christie Books](https://m.media-amazon.com/images/I/71E1IV89mYL._SL1500_.jpg)

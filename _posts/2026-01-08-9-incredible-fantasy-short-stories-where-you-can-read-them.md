@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "9 outstanding fantasy short stories with links to read them — perfect for fantasy fans short on time but hungry for great fiction."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381505/content-v1-61dd3a4e102f883537ae2f1d-1650494876460-T6NB6HESWVKQTA7D07Q9-Fantasy_stories_book_ftntef.webp"
 permalink: /blog/fantasy-short-stories/
+seo:
+  keyword: 9 incredible fantasy short stories where
 ---
 
 ![9 Incredible Fantasy Short Stories & Where You Can Read Them cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381505/content-v1-61dd3a4e102f883537ae2f1d-1650494876460-T6NB6HESWVKQTA7D07Q9-Fantasy_stories_book_ftntef.webp)

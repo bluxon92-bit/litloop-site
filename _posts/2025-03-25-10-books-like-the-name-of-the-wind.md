@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "10 books like The Name of the Wind — lyrical fantasy with deep characters and immersive worlds for Rothfuss fans to read next."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/name-of-the-wind-banner-1-_wmglzp.webp"
 permalink: /blog/books-like-name-of-the-wind/
+seo:
+  keyword: 10 books like the name of
 ---
 
 ![10 Books Like The Name of the Wind cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381447/name-of-the-wind-banner-1-_wmglzp.webp)

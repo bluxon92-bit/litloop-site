@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Guides
 excerpt: "32 best short books you can read in a day — novels under 200 pages that punch well above their weight. Start tonight."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381527/dalle-short-books-copy_bwygsu.webp"
+seo:
+  keyword: 32 best short books you can
 ---
 
 ![32 Best Short Books You Can Read in a Day cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381527/dalle-short-books-copy_bwygsu.webp)

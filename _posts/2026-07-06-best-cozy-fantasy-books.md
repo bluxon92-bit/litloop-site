@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "The best cozy fantasy books. From Legends and Lattes to The House in the Cerulean Sea. Low stakes, warm worlds, and magic that feels like a hug."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1781449312/cozy_reading_1_abxewa.jpg"
 permalink: /blog/best-cozy-fantasy-books/
+seo:
+  keyword: the best cozy fantasy books to
 ---
 
 ![Best Cozy Fantasy Books](https://res.cloudinary.com/dnkddcxrt/image/upload/v1781449312/cozy_reading_1_abxewa.jpg)

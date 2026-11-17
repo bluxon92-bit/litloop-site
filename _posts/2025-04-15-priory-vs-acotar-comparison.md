@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Fantasy
 excerpt: "Priory of the Orange Tree vs ACOTAR — which epic fantasy should you read first? A head-to-head comparison for new readers."
 image: "https://m.media-amazon.com/images/I/81MysNM7jAL._SL1500_.jpg"
+seo:
+  keyword: the priory of the orange tree
 ---
 
 ![The Priory of the Orange Tree vs ACOTAR](https://m.media-amazon.com/images/I/81MysNM7jAL._SL1500_.jpg)

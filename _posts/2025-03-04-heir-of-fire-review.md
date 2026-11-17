@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Heir of Fire is the book where the Throne of Glass series becomes something truly epic. Here's our review of book three — and why it's the series best."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/heir-of-fire-cover_kpf1mx.jpg"
+seo:
+  keyword: heir of fire review
 ---
 
 ![Heir of Fire by Sarah J. Maas](https://res.cloudinary.com/dnkddcxrt/image/upload/heir-of-fire-cover_kpf1mx.jpg)

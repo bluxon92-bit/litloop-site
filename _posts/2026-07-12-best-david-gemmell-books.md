@@ -7,6 +7,8 @@ genre: Fantasy, Heroic Fantasy
 excerpt: "Where to start with David Gemmell and which of his thirty-plus novels are truly essential. Ten books ranked and reviewed, plus the complete reading list."
 image: "https://m.media-amazon.com/images/I/81hz7duckZL._SL1500_.jpg"
 permalink: /blog/best-david-gemmell-books/
+seo:
+  keyword: fan guide to the best david
 ---
 
 ![Legend by David Gemmell](https://m.media-amazon.com/images/I/81hz7duckZL._SL1500_.jpg)

@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Song of Achilles by Madeline Miller reviewed — a heartbreaking retelling of Achilles and Patroclus from the Trojan War."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381508/the-song-of-achilles_ssc0ae.webp"
+seo:
+  keyword: the song of achilles
 ---
 
 If you're a fan of [Greek mythology books](https://www.litloop.co/blog/best-books-about-greek-mythology/) you've likely come across [Madeline Miller](http://madelinemiller.com) and her novels, The Song of Achilles, and [Circe](https://amzn.to/431yiXm). [The Song of Achilles](https://amzn.to/42TtG5h) is Miller's debut novel and delves into the story of Achilles and Patroclus, tracing their journey from childhood to adulthood and the divergent paths they take despite their love for each other.

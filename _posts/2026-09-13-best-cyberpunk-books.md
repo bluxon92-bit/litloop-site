@@ -6,6 +6,8 @@ category: Recommendations
 genre: Science Fiction
 excerpt: "The best cyberpunk books ranked. From Neuromancer and Snow Crash to Altered Carbon and The Windup Girl. Essential reading for fans of high-tech, low-life fiction."
 image: "https://m.media-amazon.com/images/I/81pIICZO2PL._SL1500_.jpg"
+seo:
+  keyword: 12 best cyberpunk books you should read
 ---
 
 ![Best Cyberpunk Books](https://m.media-amazon.com/images/I/81pIICZO2PL._SL1500_.jpg)

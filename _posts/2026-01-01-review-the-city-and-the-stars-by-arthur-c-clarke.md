@@ -9,6 +9,8 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/city-and-t
 permalink: /blog/the-city-and-the-stars-arthur-c-clarke/
 redirect_from:
   - /blog/the-city-and-the-stars-art/
+seo:
+  keyword: review
 ---
 
 ![Review: The City and The Stars by Arthur C Clarke cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381526/city-and-the-stars-1-_dld81n.webp)

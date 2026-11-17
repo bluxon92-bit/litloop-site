@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Science Fiction
 excerpt: "The Man in the High Castle by Philip K Dick reviewed — alt-history sci-fi asking what if the Nazis won. A PKD masterclass."
 published: false
+seo:
+  keyword: the man in the high castle
 ---
 
 What if the Nazis had emerged victorious and conquered America? How would life be if the Japanese ruled alongside them, while other races suffered under slavery and discrimination? These are the themes explored in Philip K. Dick's The Man in the High Castle.

@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Fantasy
 excerpt: "Malazan Book of the Fallen reading order explained — all six series by Erikson and Esslemont, with synopses and the complete combined reading list."
 image: "https://m.media-amazon.com/images/I/71zCVE9nh5L._SL1000_.jpg"
+seo:
+  keyword: malazan reading order
 ---
 
 ![Malazan Book of the Fallen](https://m.media-amazon.com/images/I/71zCVE9nh5L._SL1000_.jpg)

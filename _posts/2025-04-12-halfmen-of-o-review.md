@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Halfmen of O is a New Zealand fantasy classic that most of the world has never heard of. Here's our review — and why it deserves a much wider readership."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/halfmen-of-o-cover_ioavtv.jpg"
+seo:
+  keyword: the halfmen of o review
 ---
 
 ![The Halfmen of O by Maurice Gee](https://res.cloudinary.com/dnkddcxrt/image/upload/halfmen-of-o-cover_ioavtv.jpg)

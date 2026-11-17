@@ -7,6 +7,8 @@ genre: Horror
 excerpt: "The Dark Tower is King's most ambitious work — and his most polarising. Here's the honest answer to whether it's worth eight books of your reading life."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/dark-tower-cover_gfb1l9.jpg"
 permalink: /blog/dark-tower-worth-reading/
+seo:
+  keyword: is the dark tower series worth reading
 ---
 
 ![The Dark Tower by Stephen King](https://res.cloudinary.com/dnkddcxrt/image/upload/dark-tower-cover_gfb1l9.jpg)

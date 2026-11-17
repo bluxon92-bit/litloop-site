@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Fantasy
 excerpt: "Not sure where to start with Sarah J. Maas? Here's every series, in order, with a quick take on each — so you can dive in without getting lost."
 image: ""
+seo:
+  keyword: sarah j maas books in order
 ---
 
 ![Sarah J. Maas Books in Order]()

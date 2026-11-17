@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Science Fiction
 excerpt: "17 Isaac Asimov quotes on science, creativity, and the future — from one of sci-fi's most prolific and visionary minds."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381450/robot-sci-fi_zdm8le.webp"
+seo:
+  keyword: 17 influential isaac asimov quotes
 ---
 
 ![17 Influential Isaac Asimov Quotes cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381450/robot-sci-fi_zdm8le.webp)

@@ -7,6 +7,8 @@ genre: Science Fiction
 excerpt: "Isaac Asimov's best books ranked — from Foundation to the Robot series. Where to start and what to read next."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/science-fiction-1-_gethlp.webp"
 permalink: /blog/best-isaac-asimov-books/
+seo:
+  keyword: the 10 best isaac asimov books
 ---
 
 ![The 10 Best Isaac Asimov Books To Read Today cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381501/science-fiction-1-_gethlp.webp)

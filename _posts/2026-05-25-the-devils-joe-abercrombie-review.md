@@ -6,6 +6,8 @@ category: Reviews
 genre: Fantasy, Grimdark
 excerpt: "We review of The Devils by Joe Abercrombie. Brilliant characters, brutal action, and a Suicide Squad premise that mostly works..."
 image: "https://m.media-amazon.com/images/I/81xE5qugy8L._SL1500_.jpg"
+seo:
+  keyword: the devils by joe abercrombie review
 ---
 
 ![The Devils by Joe Abercrombie](https://m.media-amazon.com/images/I/81xE5qugy8L._SL1500_.jpg)

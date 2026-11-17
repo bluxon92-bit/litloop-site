@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Fantasy
 excerpt: "The complete Throne of Glass reading order — all 7 books plus novellas, in the order that makes the most sense, with a quick hook for each."
 image: "https://m.media-amazon.com/images/I/81TQb9xuHoL._SL1500_.jpg"
+seo:
+  keyword: throne of glass series in order
 ---
 
 ![Throne of Glass Series in Order]()

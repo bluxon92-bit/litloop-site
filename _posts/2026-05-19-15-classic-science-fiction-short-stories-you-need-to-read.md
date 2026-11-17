@@ -9,6 +9,8 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381446/space-trav
 permalink: /blog/classic-science-fiction-short-stories-you-need-to-read/
 redirect_from:
   - /blog/12-classic-science-fiction-short-stories-you-need-to-read/
+seo:
+  keyword: 15 classic science fiction short stories
 ---
  
 ![15+ Classic Science Fiction Short Stories You Need To Read cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381446/space-travel-sci-fi-1-_djbebg.webp)

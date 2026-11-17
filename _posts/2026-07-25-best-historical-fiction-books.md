@@ -5,6 +5,8 @@ image: https://m.media-amazon.com/images/I/71GAuaRCtbL._SL1500_.jpg
 date: 2026-07-26
 genre: Historical Fiction
 author: Ben Luxon
+seo:
+  keyword: the best historical fiction books
 ---
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer [here](https://www.litloop.co/cookie-policy/).*

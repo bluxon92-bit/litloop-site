@@ -6,6 +6,8 @@ category: Recommendations
 genre: Fantasy
 excerpt: "The complete Discworld reading order. All 41 novels organised by series and publication date, with the best entry points for new readers and a guide to every sub-series."
 image: "https://m.media-amazon.com/images/I/71DMwZI13dL._SL1000_.jpg"
+seo:
+  keyword: the complete discworld reading order
 ---
 
 ![Discworld Reading Order](https://m.media-amazon.com/images/I/71DMwZI13dL._SL1000_.jpg)

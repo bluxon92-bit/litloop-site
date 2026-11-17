@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Senlin Ascends by Josiah Bancroft reviewed — the best fantasy novel most readers haven't heard of. A word-of-mouth masterpiece."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772382133/senlinascends-cover_s4qb4y.jpg"
+seo:
+  keyword: senlin ascends review
 ---
 
 ![Senlin Ascends by Josiah Bancroft](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772382133/senlinascends-cover_s4qb4y.jpg)

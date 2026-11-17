@@ -7,6 +7,8 @@ genre: Fantasy, Historical Fiction
 excerpt: "Nine historical fantasy novels, grouped by what their magic is actually doing: propping up an empire, holding onto a folklore that's being erased, or making an argument the history books left out."
 image: "https://covers.openlibrary.org/b/isbn/0063021420-L.jpg"
 permalink: /blog/best-historical-fantasy-books/
+seo:
+  keyword: 9 of the best historical fantasy books
 ---
 
 ![Babel by R.F. Kuang](https://covers.openlibrary.org/b/isbn/0063021420-L.jpg)

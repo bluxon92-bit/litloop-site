@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Science Fiction
 excerpt: "11 best science fiction authors everyone should read — Clarke, Le Guin, Asimov, Dick and the writers who shaped the genre."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381466/fantasy-sci-fi-1-_d2vln9.webp"
+seo:
+  keyword: 11 of the best science fiction
 ---
 
 ![11 of the Best Science Fiction Authors That Everyone Should Read cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381466/fantasy-sci-fi-1-_d2vln9.webp)

@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Blade Itself is the grimdark fantasy opener that changed the genre. Here's our review — and why Sand dan Glokta is one of fantasy's greatest characters."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/blade-itself-cover_ottfdf.jpg"
+seo:
+  keyword: the blade itself review
 ---
 
 ![The Blade Itself by Joe Abercrombie](https://res.cloudinary.com/dnkddcxrt/image/upload/blade-itself-cover_ottfdf.jpg)

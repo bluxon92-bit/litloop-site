@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Fantasy
 excerpt: "Terry Brooks books in order — the complete Shannara reading guide, from The Sword of Shannara to The Fall of Shannara."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/terry-brooks-books_ihazlu.jpg"
+seo:
+  keyword: terry brooks books in order
 ---
 
 ![Terry Brooks Books in Order](https://res.cloudinary.com/dnkddcxrt/image/upload/terry-brooks-books_ihazlu.jpg)

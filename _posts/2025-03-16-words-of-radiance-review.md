@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Words of Radiance by Brandon Sanderson reviewed — Stormlight Archive book 2 and why it's the series at its absolute peak."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/words-of-radiance-cover_rijxur.jpg"
+seo:
+  keyword: words of radiance review
 ---
 
 ![Words of Radiance by Brandon Sanderson](https://res.cloudinary.com/dnkddcxrt/image/upload/words-of-radiance-cover_rijxur.jpg)

@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Science Fiction
 excerpt: "Best Star Wars books ranked — a fan's guide to the Expanded Universe, from Thrawn to the New Jedi Order. Start reading here."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/best-star-wars-books-science-fiction.jpg_kyltlb.webp"
+seo:
+  keyword: the best star wars books
 ---
 
 ![The Best Star Wars Books: A Fan’s Guide to the Galaxy’s Greatest Reads cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/best-star-wars-books-science-fiction.jpg_kyltlb.webp)

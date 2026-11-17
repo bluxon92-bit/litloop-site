@@ -6,6 +6,8 @@ category: Reading Life
 genre: 
 excerpt: "How to start a book club — 8 practical steps from choosing members and picking your first book to keeping the conversation going. Plus how Litloop makes it easier."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1781449023/exlectic_mix_of_people_in_library_l8wams.jpg"
+seo:
+  keyword: how to start a book club
 ---
 
 ![How to Start a Book Club](https://res.cloudinary.com/dnkddcxrt/image/upload/v1781449023/exlectic_mix_of_people_in_library_l8wams.jpg)

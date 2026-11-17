@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Shadow of What Was Lost by James Islington reviewed — underrated epic fantasy with some of the genre's best world-building."
 image: "https://m.media-amazon.com/images/I/71MjspkP-8S._SL1500_.jpg"
+seo:
+  keyword: the shadow of what was lost review
 ---
 
 ![The Shadow of What Was Lost by James Islington](https://m.media-amazon.com/images/I/71MjspkP-8S._SL1500_.jpg)

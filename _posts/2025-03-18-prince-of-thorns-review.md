@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Prince of Thorns by Mark Lawrence reviewed — the Broken Empire's brutal, brilliant opening. Grimdark fantasy at its darkest."
 image: "https://m.media-amazon.com/images/I/51v8SS2H0-L.jpg"
+seo:
+  keyword: prince of thorns review
 ---
 
 ![Prince of Thorns by Mark Lawrence](https://m.media-amazon.com/images/I/51v8SS2H0-L.jpg)

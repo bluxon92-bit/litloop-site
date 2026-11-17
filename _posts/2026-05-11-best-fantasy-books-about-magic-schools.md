@@ -6,6 +6,8 @@ category: Recommendations
 genre: Fantasy
 excerpt: "The best fantasy books about magic schools. From the classics to the subversive. For readers who loved Harry Potter and want to know what comes next."
 image: "https://m.media-amazon.com/images/I/91zTAqKlZsL._SL1500_.jpg"
+seo:
+  keyword: 15 best fantasy books about magic schools
 ---
 
 ![Fantasy Books About Magic Schools](https://m.media-amazon.com/images/I/91zTAqKlZsL._SL1500_.jpg)

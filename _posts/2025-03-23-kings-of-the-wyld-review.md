@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Kings of the Wyld is the most fun I've had reading a fantasy novel in years. Here's our review of Nicholas Eames' debut — and why it's impossible not to love."
 image: "https://m.media-amazon.com/images/I/818mHVAPyjL._SL1500_.jpg"
+seo:
+  keyword: kings of the wyld review
 ---
 
 ![Kings of the Wyld by Nicholas Eames](https://m.media-amazon.com/images/I/818mHVAPyjL._SL1500_.jpg)

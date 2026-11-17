@@ -7,6 +7,8 @@ genre: Historical Fiction
 excerpt: "15 best historical fiction authors, from Bernard Cornwell and Diana Gabaldon to Hilary Mantel and Colson Whitehead, with the books to start with."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381464/last-kingdom-1-_sg5u4x.webp"
 permalink: /blog/11-of-the-best-historical-fiction-authors-you-must-read/
+seo:
+  keyword: 15 of the best historical fiction
 ---
 
 ![The Last Kingdom by Bernard Cornwell](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381464/last-kingdom-1-_sg5u4x.webp)

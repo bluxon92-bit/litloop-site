@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Magician by Raymond E Feist reviewed — the 1982 classic that launched the Riftwar Saga and influenced a generation of fantasy."
 image: "https://m.media-amazon.com/images/I/61V+MWUPRwL._SL1200_.jpg"
+seo:
+  keyword: magician by raymond e feist review
 ---
 
 ![Magician by Raymond E. Feist](https://m.media-amazon.com/images/I/61V+MWUPRwL._SL1200_.jpg)

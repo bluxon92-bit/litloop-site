@@ -7,6 +7,8 @@ genre: LitRPG
 excerpt: "LitRPG is one of the fastest-growing genres in fiction. Here's what it is, where it came from, and the best place to start reading."
 image: "https://m.media-amazon.com/images/I/81Yc2IcoR1L._SL1500_.jpg"
 permalink: /blog/what-is-litrpg/
+seo:
+  keyword: litrpg
 ---
 
 ![He Who Fights With Monsters](https://m.media-amazon.com/images/I/81Yc2IcoR1L._SL1500_.jpg)

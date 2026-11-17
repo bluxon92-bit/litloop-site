@@ -6,6 +6,8 @@ category: Recommendations
 genre: Fantasy
 excerpt: "31 of the best Terry Pratchett quotes grouped by theme. Death, humanity, power, stories, and time. With commentary and Discworld reading recommendations."
 image: "https://m.media-amazon.com/images/I/91-Au0H1FPL._SL1500_.jpg"
+seo:
+  keyword: 31 best terry pratchett quotes
 ---
 
 ![Terry Pratchett Quotes](https://m.media-amazon.com/images/I/91-Au0H1FPL._SL1500_.jpg)

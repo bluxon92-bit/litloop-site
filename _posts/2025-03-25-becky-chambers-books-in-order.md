@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Science Fiction
 excerpt: "Becky Chambers books in order — the complete Wayfarers reading guide. Cozy sci-fi at its warmest, starting with Wayfarers 1."
 image: ""
+seo:
+  keyword: becky chambers books in order
 ---
 
 ![Becky Chambers Books in Order]()

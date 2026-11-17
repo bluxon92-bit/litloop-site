@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Elfstones of Shannara is widely considered the best book in Terry Brooks' long-running series. Here's our review — and where it sits in the reading order."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/elfstones-shannara-cover_el9uti.jpg"
+seo:
+  keyword: the elfstones of shannara review
 ---
 
 ![The Elfstones of Shannara by Terry Brooks](https://res.cloudinary.com/dnkddcxrt/image/upload/elfstones-shannara-cover_el9uti.jpg)

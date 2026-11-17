@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Fire and Blood by George R R Martin reviewed — Targaryen history as fictional scholarship. Essential for House of the Dragon fans."
 image: "https://m.media-amazon.com/images/I/91gGPOBL5wL._SL1500_.jpg"
+seo:
+  keyword: fire and blood review
 ---
 
 ![Fire and Blood by George R.R. Martin](https://m.media-amazon.com/images/I/91gGPOBL5wL._SL1500_.jpg)

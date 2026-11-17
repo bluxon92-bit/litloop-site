@@ -7,6 +7,8 @@ genre: Science Fiction
 excerpt: "25 best space opera books ever written — Dune, Hyperion, A Fire Upon the Deep and the novels that define the genre."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381457/space-opera-1-_gwsitk.webp"
 permalink: /blog/best-space-opera-books/
+seo:
+  keyword: the 25 best space opera books
 ---
 
 ![The 25 Best Space Opera Books Ever Written cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381457/space-opera-1-_gwsitk.webp)

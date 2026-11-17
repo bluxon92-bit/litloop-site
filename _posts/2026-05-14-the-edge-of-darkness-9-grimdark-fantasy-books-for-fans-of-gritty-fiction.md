@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "9 grimdark fantasy books for fans of dark, gritty fiction — Abercrombie, Lawrence, Cook and the authors who define the genre."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-trilogy-1-_ztj537.jpg"
 permalink: /blog/grimdark-fantasy-books/
+seo:
+  keyword: the edge of darkness
 ---
 
 ![The Edge of Darkness: 9 Grimdark Fantasy Books for Fans of Gritty Fiction cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/the-broken-empire-trilogy-1-_ztj537.jpg)

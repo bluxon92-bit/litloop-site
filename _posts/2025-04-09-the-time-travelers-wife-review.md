@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Science Fiction
 excerpt: "The Time Traveler's Wife by Audrey Niffenegger reviewed — a love story that uses sci-fi as an emotional sledgehammer."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/time-travelers-wife-cover_udxrox.jpg"
+seo:
+  keyword: the time traveler's wife review
 ---
 
 ![The Time Traveler's Wife by Audrey Niffenegger](https://res.cloudinary.com/dnkddcxrt/image/upload/time-travelers-wife-cover_udxrox.jpg)

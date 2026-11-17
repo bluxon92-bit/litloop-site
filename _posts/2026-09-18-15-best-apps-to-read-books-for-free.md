@@ -6,6 +6,8 @@ category: Reading Tips
 genre: Guides
 excerpt: "15 best apps to read books for free — Libby, Hoopla, Project Gutenberg and more. Read more without spending a penny."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/kindle-reading-app-1-_nomray.jpg"
+seo:
+  keyword: 15 best apps to read books
 ---
 
 If you don't own a dedicated ebook reader, don't worry! There are numerous ebooks available online that you can either purchase at a low cost or acquire for free. In such cases, all you need to do is launch an ebook reader app on your smartphone or tablet.

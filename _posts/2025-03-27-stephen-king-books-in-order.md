@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Horror
 excerpt: "Stephen King books in order — where to start, how to navigate the King-verse, and which novels are essential reading."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/stephen-king-books_kxqyqs.jpg"
+seo:
+  keyword: stephen king books in order
 ---
 
 ![Stephen King Books in Order](https://res.cloudinary.com/dnkddcxrt/image/upload/stephen-king-books_kxqyqs.jpg)

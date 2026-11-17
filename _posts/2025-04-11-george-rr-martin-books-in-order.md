@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Fantasy
 excerpt: "George R.R. Martin's bibliography stretches back to the 1970s. Here's the complete reading guide — including the Winds of Winter situation, honestly addressed."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/george-rr-martin-books_r5tuoy.jpg"
+seo:
+  keyword: george r r martin books in order
 ---
 
 ![George R.R. Martin Books in Order](https://res.cloudinary.com/dnkddcxrt/image/upload/george-rr-martin-books_r5tuoy.jpg)

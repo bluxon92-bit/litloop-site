@@ -7,6 +7,8 @@ genre: Dystopian
 excerpt: "9 dystopian novels that will change how you see the world — from 1984 to The Road. Essential reading for dark fiction fans."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381516/reading-fiction-1-_lrtesd.webp"
 permalink: /blog/9-dystopian-novels-to-read/
+seo:
+  keyword: 9 dystopian novels that will change
 ---
 
 [

@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "Malice is the first book in John Gwynne's Faithful and the Fallen series — a heroic epic in the tradition of Gemmell. Here's our full review."
 image: "https://m.media-amazon.com/images/I/91F7E2HuKIL._SL1500_.jpg"
 permalink: /blog/malice-by-john-gwynne-review/
+seo:
+  keyword: malice by john gwynne review
 ---
 
 ![Malice by John Gwynne]()

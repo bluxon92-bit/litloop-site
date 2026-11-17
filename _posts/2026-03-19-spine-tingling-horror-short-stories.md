@@ -9,6 +9,8 @@ image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381517/horror-sto
 permalink: /blog/horror-short-stories/
 redirect_from:
   - /blog/spine-tingling-horror-short-stories/
+seo:
+  keyword: 40 spine-tingling horror short stories
 ---
 
 ![40+ Spine-Tingling Horror Short Stories cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381517/horror-story-1-_audzv7.webp)

@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "David Gemmell's Drenai Series reading order — how to tackle the heroic fantasy series that defined a genre. Start here."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/drenai-series-banner_h2ybfk.png"
 permalink: /blog/david-gemmells-drenai-series/
+seo:
+  keyword: how to read david gemmell's drenai series
 ---
 
 ![How To Read David Gemmell's Drenai Series cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/drenai-series-banner_h2ybfk.png)

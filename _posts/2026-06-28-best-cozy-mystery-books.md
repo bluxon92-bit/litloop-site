@@ -7,6 +7,8 @@ genre: Crime
 excerpt: "The best cozy mystery books and series — from Agatha Christie to Richard Osman, Louise Penny to Alexander McCall Smith. The definitive guide."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1781449023/2_people_reading_ddeutr.jpg"
 permalink: /blog/best-cozy-mystery-books/
+seo:
+  keyword: the best cozy mystery books
 ---
 
 ![Best Cozy Mystery Books](https://res.cloudinary.com/dnkddcxrt/image/upload/v1781449023/2_people_reading_ddeutr.jpg)

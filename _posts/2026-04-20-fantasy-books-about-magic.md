@@ -6,6 +6,8 @@ category: Recommendations
 genre: Fantasy
 excerpt: "The best fantasy books about magic — from hard magic systems like Sanderson's Mistborn to the subtle, dangerous magic of Le Guin and Susanna Clarke. A guide for every kind of reader."
 image: "https://m.media-amazon.com/images/I/810UJDh+qTL._SL1500_.jpg"
+seo:
+  keyword: 18 fantasy books about magic that
 ---
 
 ![Fantasy Books About Magic](https://m.media-amazon.com/images/I/810UJDh+qTL._SL1500_.jpg)

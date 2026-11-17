@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "Heartless by Marissa Meyer reviewed — the Queen of Hearts origin story done right. Dark fairy-tale YA fantasy at its best."
 image: "https://m.media-amazon.com/images/I/81DU-kSrJgL._SL1500_.jpg"
 permalink: /blog/heartless-review/
+seo:
+  keyword: heartless by marissa meyer review
 ---
 
 ![Heartless by Marissa Meyer]()

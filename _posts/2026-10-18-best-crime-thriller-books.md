@@ -6,6 +6,8 @@ category: Recommendations
 genre: Thriller
 excerpt: "The 12 best crime thriller books, from Raymond Chandler to Michael Connelly and Lee Child, with Goodreads ratings, content notes and a guide to where to start."
 image: "https://m.media-amazon.com/images/I/81YW99XIpJL._SL1500_.jpg"
+seo:
+  keyword: 12 best crime thriller books
 ---
 
 ![Cover of The Girl with the Dragon Tattoo](https://m.media-amazon.com/images/I/81YW99XIpJL._SL1500_.jpg)

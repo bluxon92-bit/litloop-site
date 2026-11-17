@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Horror
 excerpt: "Black House is the long-awaited sequel to The Talisman — and a direct Dark Tower tie-in. Here's our review of King and Straub's second collaboration."
 image: "https://m.media-amazon.com/images/I/51K9mptdKHL.jpg"
+seo:
+  keyword: black house review
 ---
 
 ![Black House by Stephen King and Peter Straub](https://m.media-amazon.com/images/I/51K9mptdKHL.jpg)

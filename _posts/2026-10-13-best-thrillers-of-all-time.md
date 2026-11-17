@@ -6,6 +6,8 @@ category: Recommendations
 genre: Thriller
 excerpt: "The 10 best thrillers of all time, from The Thirty-Nine Steps to Gone Girl, with Goodreads ratings, what makes each one last, and where to start."
 image: "https://m.media-amazon.com/images/I/71HLgqNajZL._SL1499_.jpg"
+seo:
+  keyword: 10 best thrillers of all time
 ---
 
 ![Cover of The Maltese Falcon](https://m.media-amazon.com/images/I/71HLgqNajZL._SL1499_.jpg)

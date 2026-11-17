@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "14 best books about Greek mythology — from Circe to The Song of Achilles. Retellings, histories, and epic originals ranked."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/banner-greek-mythology-1-_hjhles.png"
 permalink: /blog/best-books-about-greek-mythology/
+seo:
+  keyword: the ancient stories
 ---
 
 ![The Ancient Stories: 14 of the Best Books About Greek Mythology cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/banner-greek-mythology-1-_hjhles.png)

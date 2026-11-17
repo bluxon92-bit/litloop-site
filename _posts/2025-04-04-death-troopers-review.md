@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Science Fiction
 excerpt: "Death Troopers by Joe Schreiber reviewed — Star Wars meets zombie horror in the franchise's most daring and divisive novel."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/death-troopers-cover_v2rjdb.jpg"
+seo:
+  keyword: death troopers by joe schreiber review
 ---
 
 ![Death Troopers by Joe Schreiber](https://res.cloudinary.com/dnkddcxrt/image/upload/death-troopers-cover_v2rjdb.jpg)

@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "Robin Hobb books in order — the complete Six Duchies reading guide covering the Farseer, Liveship, and Tawny Man trilogies."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-trilogy-1-_gf4uhi.jpg"
 permalink: /blog/robin-hobb-farseer-and-beyond/
+seo:
+  keyword: the best robin hobb books
 ---
 
 ![The Best Robin Hobb Books: Six Duchies Books Reading Order cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/farseer-trilogy-1-_gf4uhi.jpg)

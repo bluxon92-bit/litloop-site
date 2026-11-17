@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Science Fiction
 excerpt: "The Dog Stars by Peter Heller reviewed — post-apocalyptic fiction written with a poet's precision. Quiet, devastating, essential."
 image: "https://m.media-amazon.com/images/I/A1k-pMs6UPL._SL1500_.jpg"
+seo:
+  keyword: the dog stars by peter heller review
 ---
 
 ![The Dog Stars by Peter Heller](https://m.media-amazon.com/images/I/A1k-pMs6UPL._SL1500_.jpg)

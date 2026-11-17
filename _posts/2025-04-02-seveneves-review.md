@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Science Fiction
 excerpt: "Seveneves is Neal Stephenson at his most ambitious — and most demanding. Here's our honest review of a 900-page hard sci-fi epic that divides readers sharply."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/seveneves-cover_cevldr.jpg"
+seo:
+  keyword: seveneves by neal stephenson review
 ---
 
 ![Seveneves by Neal Stephenson](https://res.cloudinary.com/dnkddcxrt/image/upload/seveneves-cover_cevldr.jpg)

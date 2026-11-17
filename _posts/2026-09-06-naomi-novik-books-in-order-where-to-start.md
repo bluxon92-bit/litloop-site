@@ -7,6 +7,8 @@ genre: Fantasy, Historical Fiction
 excerpt: "Every Naomi Novik book in reading order, from the dragon-filled Napoleonic Wars of Temeraire to the Scholomance trilogy, her standalone fairy tales, and the one graphic novel nobody expects, plus where a first-timer should start and how each book rates on Goodreads."
 image: "https://covers.openlibrary.org/b/isbn/9780345481283-L.jpg"
 permalink: /blog/naomi-novik-books-in-order-where-to-start/
+seo:
+  keyword: naomi novik books in order
 ---
 
 ![His Majesty's Dragon by Naomi Novik](https://covers.openlibrary.org/b/isbn/9780345481283-L.jpg)

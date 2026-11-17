@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Horror
 excerpt: "IT is Stephen King's masterpiece — 1,100 pages of childhood terror, adult grief, and the most frightening clown in literary history. Here's our full review."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/stephen-king-it-cover_kh9riz.jpg"
+seo:
+  keyword: it by stephen king review
 ---
 
 ![IT by Stephen King](https://res.cloudinary.com/dnkddcxrt/image/upload/stephen-king-it-cover_kh9riz.jpg)

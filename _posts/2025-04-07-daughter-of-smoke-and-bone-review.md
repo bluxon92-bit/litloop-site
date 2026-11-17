@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Daughter of Smoke and Bone by Laini Taylor reviewed — lush, inventive fantasy that builds one of YA fiction's best worlds."
 image: "https://m.media-amazon.com/images/I/91fTmis9MVL._SL1500_.jpg"
+seo:
+  keyword: daughter of smoke and bone review
 ---
 
 ![Daughter of Smoke and Bone by Laini Taylor](https://m.media-amazon.com/images/I/91fTmis9MVL._SL1500_.jpg)

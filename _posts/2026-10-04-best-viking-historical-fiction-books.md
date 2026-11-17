@@ -6,6 +6,8 @@ category: Recommendations
 genre: Historical Fiction
 excerpt: "The 10 best Viking historical fiction books, from Bernard Cornwell to Dorothy Dunnett, with Goodreads ratings and a bonus Norse-inspired fantasy pick."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1791150787/viking-historical-fiction-header_1_1_imk5b1.jpg"
+seo:
+  keyword: 10 best viking historical fiction books
 ---
 
 ![Covers of The Last Kingdom, The Half-Drowned King and Raven: Blood Eye](https://res.cloudinary.com/dnkddcxrt/image/upload/v1791150787/viking-historical-fiction-header_1_1_imk5b1.jpg)

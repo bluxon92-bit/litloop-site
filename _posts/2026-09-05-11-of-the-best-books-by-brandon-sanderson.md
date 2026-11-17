@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "Brandon Sanderson's best books ranked — from Mistborn to The Way of Kings. Ten essential reads and where to start."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp"
 permalink: /blog/11-best-books-by-brandon-sanderson/
+seo:
+  keyword: 11 of the best books by
 ---
 
 ![11 of the Best Books by Brandon Sanderson cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)

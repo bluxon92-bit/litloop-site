@@ -8,6 +8,8 @@ excerpt: "The best book tracking apps in 2026, compared honestly. Litloop, Story
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1794157449/litloop-app-screens-full_1_fvb191.png"
 permalink: /blog/best-book-tracking-apps/
 author: Ben Luxon
+seo:
+  keyword: best book tracking apps in
 ---
 
 ![Best book tracking app: Litloop showing a yearly reading goal, a reading list and a friends' review feed](https://res.cloudinary.com/dnkddcxrt/image/upload/v1794157449/litloop-app-screens-full_1_fvb191.png)

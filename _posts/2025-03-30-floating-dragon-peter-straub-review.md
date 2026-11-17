@@ -7,6 +7,8 @@ genre: Horror
 excerpt: "Floating Dragon by Peter Straub reviewed — Straub's most ambitious horror novel and one of the genre's most underrated books."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/floating-dragon-cover_q2d6t5.jpg"
 permalink: /blog/floating-dragon-review/
+seo:
+  keyword: floating dragon by peter straub review
 ---
 
 ![Floating Dragon by Peter Straub](https://res.cloudinary.com/dnkddcxrt/image/upload/floating-dragon-cover_q2d6t5.jpg)

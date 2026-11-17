@@ -6,6 +6,8 @@ category: Recommendations
 genre: Thriller
 excerpt: "The 12 best psychological thriller books, from Sharp Objects and The Silent Patient to The Secret History, with Goodreads ratings and content notes for each."
 image: "https://m.media-amazon.com/images/I/81y9uCHoxrL._SL1500_.jpg"
+seo:
+  keyword: 12 best psychological thriller books
 ---
 
 ![Cover of The Silent Patient](https://m.media-amazon.com/images/I/81y9uCHoxrL._SL1500_.jpg)

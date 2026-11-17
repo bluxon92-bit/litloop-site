@@ -7,6 +7,8 @@ genre: Historical Fiction
 excerpt: "The best WW2 historical fiction books, from resistance spies and Holocaust survival stories to POW camps, home front sagas, and literary prize winners."
 image: "https://m.media-amazon.com/images/I/91JGwQlnu7L._SL1500_.jpg"
 permalink: /blog/best-ww2-historical-fiction-books/
+seo:
+  keyword: the best ww2 historical fiction books
 ---
 
 ![The Best WW2 Historical Fiction Books](https://m.media-amazon.com/images/I/91JGwQlnu7L._SL1500_.jpg)

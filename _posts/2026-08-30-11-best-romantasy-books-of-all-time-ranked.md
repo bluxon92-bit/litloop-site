@@ -7,6 +7,8 @@ genre: Romantasy, Fantasy
 excerpt: "The best romantasy books ranked, from Twilight to A Court of Thorns and Roses. Fae princes, morally grey commanders, and the enemies-to-lovers arcs that started it all."
 image: "https://covers.openlibrary.org/b/isbn/9781635575569-L.jpg"
 permalink: /blog/11-best-romantasy-books-of-all-time-ranked/
+seo:
+  keyword: 11 best romantasy books of all
 ---
 
 ![A Court of Thorns and Roses by Sarah J. Maas](https://covers.openlibrary.org/b/isbn/9781635575569-L.jpg)
@@ -99,7 +101,7 @@ A standalone in a genre that rarely commits to one, Priory follows four characte
 
 ![Fourth Wing by Rebecca Yarros](https://covers.openlibrary.org/b/isbn/9781649374042-L.jpg)
 
-Violet Sorrengail was supposed to join the Scribe Quadrant, quiet, safe, bookish. Instead her mother forces her into the Riders Quadrant, where the dropout rate is fatal and the dragons bond with whoever they don't eat first. Xaden Riorson, the guy most likely to have killed people close to her, becomes her assigned mentor. It's brutal, it's horny, it's got dragons casually snapping cadets in half during training exercises, and it earned every bit of the hype it got. I've gone deeper on this one twice, once in a [Fourth Wing review](https://www.litloop.co/blog/fourth-wing-review/) and again in an [Empyrean series ranking](https://www.litloop.co/blog/empyrean-series-ranked/), because apparently once wasn't enough for me either.
+Violet Sorrengail was supposed to join the Scribe Quadrant, quiet, safe, bookish. Instead her mother forces her into the Riders Quadrant, where the dropout rate is fatal and the dragons bond with whoever they don't eat first. Xaden Riorson, the guy most likely to have killed people close to her, becomes her assigned mentor. It's brutal, it's horny, it's got dragons casually snapping cadets in half during training exercises, and it earned every bit of the hype it got. I've gone deeper on this one twice, once in a Fourth Wing review and again in an Empyrean series ranking, because apparently once wasn't enough for me either.
 
 <button data-buy-book data-title="Fourth Wing" data-author="Rebecca Yarros" data-isbn="9781649374042">Buy Fourth Wing</button>
 
@@ -107,7 +109,7 @@ Violet Sorrengail was supposed to join the Scribe Quadrant, quiet, safe, bookish
 
 ![Throne of Glass by Sarah J. Maas](https://covers.openlibrary.org/b/isbn/9781599906959-L.jpg)
 
-Celaena Sardothien starts this series as an assassin dragged out of a labour camp to compete for the position of the King's Champion, and by the end she's considerably more than that. No spoilers. The series stretches across eight books and grows more ambitious with every one, swapping a fairly straightforward "assassin competition" premise for full-blown mythology, war, and a cast list that eventually needs its own spreadsheet to track. I ranked the whole series, book by book, in [Throne of Glass ranked](https://www.litloop.co/blog/throne-of-glass-ranked/), and yes, I have strong opinions about where it peaks.
+Celaena Sardothien starts this series as an assassin dragged out of a labour camp to compete for the position of the King's Champion, and by the end she's considerably more than that. No spoilers. The series stretches across eight books and grows more ambitious with every one, swapping a fairly straightforward "assassin competition" premise for full-blown mythology, war, and a cast list that eventually needs its own spreadsheet to track. I ranked the whole series, book by book, in [Throne of Glass ranked](https://www.litloop.co/blog/throne-of-glass-series-in-order/), and yes, I have strong opinions about where it peaks.
 
 <button data-buy-book data-title="Throne of Glass" data-author="Sarah J. Maas" data-isbn="9781599906959">Buy Throne of Glass</button>
 
@@ -115,7 +117,7 @@ Celaena Sardothien starts this series as an assassin dragged out of a labour cam
 
 ![A Court of Thorns and Roses by Sarah J. Maas](https://covers.openlibrary.org/b/isbn/9781635575569-L.jpg)
 
-The book that started my entire romantasy shelf, and it's still sitting at the top for a reason. Feyre kills a fae wolf in the woods to feed her family, gets dragged Under the Mountain as payment, and ends up rewriting the entire political structure of a fae court she was never supposed to survive meeting. Tamlin, Rhysand, the Night Court, the Spring Court, the absolute chaos of book three onward, it's messy, it's soapy, it's occasionally ridiculous, and I have never once put a book down faster to go start the sequel. I've written more about it than probably any other series on Litloop, starting with the [ACOTAR series review](https://www.litloop.co/blog/acotar-series-review/) if you want the full case for why it's still number one.
+The book that started my entire romantasy shelf, and it's still sitting at the top for a reason. Feyre kills a fae wolf in the woods to feed her family, gets dragged Under the Mountain as payment, and ends up rewriting the entire political structure of a fae court she was never supposed to survive meeting. Tamlin, Rhysand, the Night Court, the Spring Court, the absolute chaos of book three onward, it's messy, it's soapy, it's occasionally ridiculous, and I have never once put a book down faster to go start the sequel. I've written more about it than probably any other series on Litloop, starting with the ACOTAR series review if you want the full case for why it's still number one.
 
 <button data-buy-book data-title="A Court of Thorns and Roses" data-author="Sarah J. Maas" data-isbn="9781635575569">Buy A Court of Thorns and Roses</button>
 

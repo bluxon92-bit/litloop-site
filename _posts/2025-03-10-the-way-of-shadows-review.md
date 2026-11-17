@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Way of Shadows is a dark, fast, and brutal fantasy debut. Here's our review of Brent Weeks' Night Angel trilogy opener — and whether it holds up."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/way-of-shadows-cover_ivrjbs.jpg"
+seo:
+  keyword: the way of shadows review
 ---
 
 ![The Way of Shadows by Brent Weeks](https://res.cloudinary.com/dnkddcxrt/image/upload/way-of-shadows-cover_ivrjbs.jpg)

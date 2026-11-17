@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "No one writes fantasy quite like Joe Abercrombie. Brutal, brilliant, and laugh-out-loud cruel. His books hit so hard you almost want to cry."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/joe-abercrombie-1-_dxvbhl.webp"
 permalink: /blog/joe-abercrombie-books-in-order/
+seo:
+  keyword: joe abercrombie books in order
 ---
 
 ![Joe Abercrombie Books in Order: A Complete Reading Guide cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381448/joe-abercrombie-1-_dxvbhl.webp)

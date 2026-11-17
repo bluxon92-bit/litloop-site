@@ -8,6 +8,8 @@ excerpt: "Every Kate Quinn series in order: her WWII run, the Empress of Rome se
 image: "https://m.media-amazon.com/images/I/81ULgvfOdcL._CLa%7C2792,2337%7C81BuaOh0VWL.jpg,812T+Q0vXmL.jpg%7C0,0,1269,2337+1523,0,1269,2337+634,0,1523,2337__UY300_FMwebp_.jpg"
 permalink: /blog/kate-quinn-books-in-order/
 author: Ben Luxon
+seo:
+  keyword: kate quinn books in order
 ---
 
 ![The Empress of Rome series by Kate Quinn book covers](https://m.media-amazon.com/images/I/81ULgvfOdcL._CLa%7C2792,2337%7C81BuaOh0VWL.jpg,812T+Q0vXmL.jpg%7C0,0,1269,2337+1523,0,1269,2337+634,0,1523,2337__UY300_FMwebp_.jpg)

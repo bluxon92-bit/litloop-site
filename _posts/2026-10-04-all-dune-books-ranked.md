@@ -7,6 +7,8 @@ category: Recommendations
 genre: Science Fiction
 excerpt: "All 23 Dune novels ranked by Goodreads rating, with notes on Frank Herbert's original six, a reading order, and a guide to Dune Messiah before Dune: Part Three."
 image: "https://m.media-amazon.com/images/I/71oO1E-XPuL._SL1500_.jpg"
+seo:
+  keyword: all 23 dune books ranked by
 ---
 
 ![Dune Books Ranked](https://m.media-amazon.com/images/I/71oO1E-XPuL._SL1500_.jpg)

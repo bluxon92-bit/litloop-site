@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Horror
 excerpt: "10 best fantasy horror books ranked — dark fiction where magic meets genuine terror. The genre's finest, chosen for impact."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/books-skeleting-horror-1-_wnrmvv.jpg"
+seo:
+  keyword: 10 best fantasy horror books
 ---
 
 ![10 Best Fantasy Horror Books (Ranked) cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/books-skeleting-horror-1-_wnrmvv.jpg)
@@ -114,6 +116,6 @@ I found it to be an enchanting tale that bridges the gap between the fantastical
 
 Each of these books offers something distinct—whether it's a clever twist on a childhood myth, a deep dive into occult academia, or a sprawling gothic epic—and they all share that rare blend of fantasy and horror that makes the genre so endlessly fascinating. I highly recommend giving any (or all) of these titles a try if you're ready to embark on a journey that's as intellectually stimulating as it is terrifying.
 
-For more [book recommendations](https://www.litloop.co/blog/category/Book+Recommendations) and literary insights, explore our other guides to [horror fiction](https://www.litloop.co/blog/spine-tingling-horror-short-stories/), [dark fantasy](https://www.litloop.co/blog/grimdark-fantasy-books/), and [contemporary literature](https://www.litloop.co/blog/modern-classic-books-to-add-to-your-tbr-list/).
+For more [book recommendations](https://www.litloop.co/blog/) and literary insights, explore our other guides to [horror fiction](https://www.litloop.co/blog/spine-tingling-horror-short-stories/), [dark fantasy](https://www.litloop.co/blog/grimdark-fantasy-books/), and [contemporary literature](https://www.litloop.co/blog/modern-classic-books-to-add-to-your-tbr-list/).
 
 Happy reading, and prepare to be haunted—in the best possible way!

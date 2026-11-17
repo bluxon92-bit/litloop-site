@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "Every Brandon Sanderson book in order — recommended reading order, full publication order, and where the Stormlight Archive and Mistborn fit into the wider Cosmere."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp"
 permalink: /blog/brandon-sanderson-books-in-order/
+seo:
+  keyword: brandon sanderson books in order
 ---
 
 ![Brandon Sanderson Books in Order cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381449/brandon-sanderson-books-1-_qgkvru.webp)

@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Science Fiction
 excerpt: "The best Ursula K. Le Guin books — from A Wizard of Earthsea to The Left Hand of Darkness and The Dispossessed — plus where to start reading her."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381556/le-guin-sci-fi-1-1-1-_w99q4u.webp"
+seo:
+  keyword: the best ursula k le guin books
 ---
 
 ![The Best Ursula K. Le Guin Books cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381556/le-guin-sci-fi-1-1-1-_w99q4u.webp)

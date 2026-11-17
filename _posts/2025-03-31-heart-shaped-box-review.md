@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Horror
 excerpt: "Heart-Shaped Box by Joe Hill reviewed — a ghost story that genuinely unsettles. Joe Hill announces himself as horror's next king."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/heart-shaped-box-cover_yzsvkd.jpg"
+seo:
+  keyword: heart-shaped box by joe hill review
 ---
 
 ![Heart-Shaped Box by Joe Hill](https://res.cloudinary.com/dnkddcxrt/image/upload/heart-shaped-box-cover_yzsvkd.jpg)

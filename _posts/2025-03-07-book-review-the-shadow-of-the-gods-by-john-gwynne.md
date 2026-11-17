@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Shadow of the Gods by John Gwynne reviewed — brutal Norse-inspired fantasy that earns every comparison to Abercrombie."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/shadowofthegodsbloodsworn-saga-1-1-_d83cmt.jpg"
+seo:
+  keyword: book review
 ---
 
 ![Book Review: The Shadow of The Gods by John Gwynne cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/shadowofthegodsbloodsworn-saga-1-1-_d83cmt.jpg)

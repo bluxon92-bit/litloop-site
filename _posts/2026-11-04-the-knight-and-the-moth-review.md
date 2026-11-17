@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "A spoiler-free review of The Knight and the Moth by Rachel Gillig: a drowning pool, a talking gargoyle, a slow-burn rivalry and a final quarter that changes everything."
 image: "https://m.media-amazon.com/images/I/91o+PBMeilL._SL1500_.jpg"
+seo:
+  keyword: the knight and the moth review
 ---
 
 ![Cover of The Knight and the Moth](https://m.media-amazon.com/images/I/91o+PBMeilL._SL1500_.jpg)

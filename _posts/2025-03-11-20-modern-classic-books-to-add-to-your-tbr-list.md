@@ -7,6 +7,8 @@ genre: Guides
 excerpt: "20 modern classic books for your TBR — the post-2000 novels that will still be read in 50 years. Build your list here."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/unsplash-image-s3nuoqdmuvc_bcr8v8.jpg"
 permalink: /blog/modern-classic-books-to-add-to-your-tbr-list/
+seo:
+  keyword: 20 modern classic books to add
 ---
 
 ![20 Modern Classic Books To Add To Your TBR List cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/unsplash-image-s3nuoqdmuvc_bcr8v8.jpg)

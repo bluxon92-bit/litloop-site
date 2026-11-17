@@ -6,6 +6,8 @@ category: Book Recommendations
 genre: Fantasy
 excerpt: "Not every great fantasy needs to be a trilogy. Here are the best standalone fantasy novels — complete stories, no waiting, no commitment to ten more books."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381479/best-standalone-fantasy_o0qyxd.jpg"
+seo:
+  keyword: the best standalone fantasy novels
 ---
 
 ![The Best Standalone Fantasy Novels](https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381479/best-standalone-fantasy_o0qyxd.jpg)

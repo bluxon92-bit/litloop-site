@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "The Divine Cities Trilogy by Robert Jackson Bennett reviewed — the most underrated fantasy series of the decade, bar none."
 image: "https://m.media-amazon.com/images/I/8133kfQrF8L._SL1500_.jpg"
+seo:
+  keyword: the divine cities trilogy review
 ---
 
 ![The Divine Cities by Robert Jackson Bennett](https://m.media-amazon.com/images/I/8133kfQrF8L._SL1500_.jpg)

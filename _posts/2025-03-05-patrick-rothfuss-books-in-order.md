@@ -6,6 +6,8 @@ category: Author Profiles
 genre: Fantasy
 excerpt: "Everything Patrick Rothfuss has published — including The Slow Regard of Silent Things — in the order you should read it, plus the honest truth about Book 3."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/name-of-the-wind-cover_bfnbm3.jpg"
+seo:
+  keyword: patrick rothfuss books in order
 ---
 
 ![The Name of the Wind by Patrick Rothfuss](https://res.cloudinary.com/dnkddcxrt/image/upload/name-of-the-wind-cover_bfnbm3.jpg)

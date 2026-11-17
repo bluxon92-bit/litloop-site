@@ -7,6 +7,8 @@ genre: Fantasy
 excerpt: "Not all fantasy books are created equal. We take a closer look at 31 of the best fantasy books ever. From the classics to modern marvels."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/fantasy-book-overflowing-1-_oboxw2.jpg"
 permalink: /blog/best-fantasy-books-you-need-to-read-today/
+seo:
+  keyword: 31 best fantasy books you need
 ---
 
 ![31 Best Fantasy Books You Need To Read Today cover image](https://res.cloudinary.com/dnkddcxrt/image/upload/fantasy-book-overflowing-1-_oboxw2.jpg)
@@ -148,7 +150,7 @@ Good Omens is a comedic fantasy novel by Terry Pratchett and Neil Gaiman that fo
 
 ### 16. [American Gods](https://www.amazon.com/American-Gods-Novel-Neil-Gaiman/dp/0063081911/) by Neil Gaiman
 
-American Gods is a novel by Neil Gaiman that tells the story of a war between the old gods, from ancient [mythology](14 Best Books About Greek Mythology) and folklore, and the new gods of technology, money, and media. The main character, Shadow Moon, is a convict who is released from prison early due to his wife's death. After his release, he is recruited by the mysterious Mr. Wednesday to join him on a journey across America to recruit old gods to join the battle against the new gods. He quickly discovers the stakes are much higher than he initially thought, and that his role in the coming war is far greater than he could have imagined.
+American Gods is a novel by Neil Gaiman that tells the story of a war between the old gods, from ancient [mythology](https://www.litloop.co/blog/best-books-about-greek-mythology/) and folklore, and the new gods of technology, money, and media. The main character, Shadow Moon, is a convict who is released from prison early due to his wife's death. After his release, he is recruited by the mysterious Mr. Wednesday to join him on a journey across America to recruit old gods to join the battle against the new gods. He quickly discovers the stakes are much higher than he initially thought, and that his role in the coming war is far greater than he could have imagined.
 
 <button data-buy-book data-title="American Gods" data-author="Neil Gaiman">Buy American Gods</button>
 

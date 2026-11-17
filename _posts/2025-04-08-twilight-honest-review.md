@@ -6,6 +6,8 @@ category: Book Reviews
 genre: Fantasy
 excerpt: "Twilight by Stephenie Meyer — an honest review. What works, what doesn't, and why it became a cultural phenomenon regardless."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/twilight-cover_ghvein.jpg"
+seo:
+  keyword: twilight
 ---
 
 ![Twilight by Stephenie Meyer](https://res.cloudinary.com/dnkddcxrt/image/upload/twilight-cover_ghvein.jpg)

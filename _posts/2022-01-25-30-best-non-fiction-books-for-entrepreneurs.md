@@ -7,6 +7,8 @@ genre: Non-Fiction
 excerpt: "30 essential non-fiction books for entrepreneurs — from Zero to One to The Lean Startup. Build your business reading list here."
 image: "https://res.cloudinary.com/dnkddcxrt/image/upload/v1772381464/zero-to-one_jpts70.webp"
 permalink: /blog/30-best-books-for-entreprenuers/
+seo:
+  keyword: 30 best non-fiction books for entrepreneurs
 ---
 
 ### 1. Zero to One - Peter Thiel

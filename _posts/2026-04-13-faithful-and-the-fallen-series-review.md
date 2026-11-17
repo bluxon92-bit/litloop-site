@@ -6,6 +6,8 @@ category: Reviews
 genre: Fantasy
 excerpt: "We review The Faithful and the Fallen series — John Gwynne's four-book grimdark epic. Here's what you need to know."
 image: "https://m.media-amazon.com/images/I/91mnOi2eavL._SL1500_.jpg"
+seo:
+  keyword: the faithful and the fallen series review
 ---
 
 ![The Faithful and The Fallen](https://m.media-amazon.com/images/I/91mnOi2eavL._SL1500_.jpg)
